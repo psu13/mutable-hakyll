@@ -10,12 +10,8 @@ html {
   font-family:"Georgia", "Times", sans-serif; color:#111;
 }
 
-ul {
-  line-height: 3rem;
-}
-
-.li post-list {
-  line-height:3rem;
+li {
+  margin-bottom: 1em;
 }
 
 /* fix link color to match headers */
