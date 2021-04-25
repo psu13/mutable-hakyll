@@ -62,7 +62,7 @@ I'd probably be happier with something like this:
 
 Here at least you can more easily guess that `element` is a single value and `list` is a list. Most Haskell people probably find this to be redundantly verbose at best. But I think even in this most abstract of settings, giving a small semantic hint to the reader does not hurt. But maybe there is another way. I've read that if you include the type signature as documentation it makes things easier. So here:
 
-    map :: (a -> b) -> [a] -> [b]
+	map :: (a -> b) -> [a] -> [b]
 
 Does this clarify that `x` above is a thing while `xs` is a list? I guess it does once you have learned the precedence and association rules in the signature notation and you've also learned how to uncurry function arguments in your head.
 

@@ -10,6 +10,19 @@ html {
   font-family:"Georgia", "Times", sans-serif; color:#111;
 }
 
+ul {
+  line-height: 3rem;
+}
+
+.li post-list {
+  line-height:3rem;
+}
+
+/* fix link color to match headers */
+a {
+  color: #2B76E3;
+}
+
 p {
   font-family: inherit;
   font-weight: normal;
@@ -113,7 +126,6 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 10px 10px;
   color: #555;
 }
 
@@ -129,7 +141,9 @@ body {
 }
 
 main {
-  padding: 10px 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   margin-left:auto;
   margin-right:auto;
   width: 50rem;
