@@ -152,14 +152,6 @@ main {
 pre {
   margin-left: 1em;
 }
-  
-.katex {
-    font: normal 1.21em KaTeX_Main, Times New Roman, serif;
-    line-height: 1.2;
-    text-indent: 0;
-    text-rendering: auto;
-    border-color:currentColor
-}
 
 code {
     font-weight: normal;
@@ -199,4 +191,8 @@ hr {
   clear: both;
   margin: 3em 0 .5em;
   height:0
+}
+
+span .katex {
+  font-size:  1.1em
 }
