@@ -7,6 +7,9 @@ import qualified Text.Pandoc.Options as Options
 import qualified Text.Pandoc.Extensions as Extensions
 import qualified Data.Set as Set
 
+import           System.FilePath.Posix  (takeBaseName,takeDirectory
+                                         ,(</>),splitFileName)
+
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
@@ -19,13 +22,13 @@ main = hakyll $ do
         compile compressCssCompiler
 
     match (fromList ["about.md", "contact.md"]) $ do
-        route   $ setExtension "html"
+        route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
     match "posts/*" $ do
-        route $ setExtension "html"
+        route   $ flatRoute
         compile $ postCompiler
 
     create ["archive.html"] $ do
@@ -64,6 +67,16 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
+-- remote the parent directory "posts" from the URL path to match
+-- the current convention at the old site. this leaves the site a bit
+-- cluttered but who cares.
+flatRoute :: Routes
+flatRoute = customRoute createIndexRoute
+  where
+    createIndexRoute ident =
+        takeBaseName p ++ ".html"
+        where p=toFilePath ident
 
 -- options for katex math
 -- this generates <span> tags for the math. you need to put the right script into
