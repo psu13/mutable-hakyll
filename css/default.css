@@ -23,13 +23,13 @@ p {
   font-family: inherit;
   font-weight: normal;
   font-size: 1em;
-  line-height: 1.5;
+  line-height: 1.45;
   margin-bottom: 1.25em;
   text-rendering:optimizeLegibility
 }
 
 blockquote, blockquote p {
-  line-height: 1.5;
+  line-height: 1.45;
   color:#636262
 }
 
@@ -45,6 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  margin-top:1em;
   font-size: 2.2rem;
 }
 
@@ -70,12 +71,6 @@ body {
   margin: 0 auto;
   padding: 0; background: #fffffd;
 }
-
-header {
-  width:100%;
-  background: #2B56E3; /* Header color */
-}
-
 
 nav {
   font-family: sans-serif;
@@ -104,6 +99,11 @@ nav a {
   text-decoration: none;
 }
 
+header {
+  width:100%;
+  background: #2B56E3; /* Header color */
+}
+
 header .container {
   width: 50rem;
   margin-left: auto;
@@ -115,13 +115,15 @@ header .container {
   padding: 20px 0; 
 }
 
-footer {
+footer .container {
   width: 50rem;
   margin-left: auto;
   margin-right: auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  padding: 20px 0; 
+}
+
+footer {
+  font-size:.8rem;
   color: #555;
 }
 
@@ -137,13 +139,13 @@ body {
 }
 
 main {
-  padding-top: 10px;
+  padding-top: 20px;
   padding-left: 10px;
   padding-right: 10px;
   margin-left:auto;
   margin-right:auto;
   width: 50rem;
-  line-height: 1.6rem;
+  line-height: 1.45;
 }
 
 /* Syntax Highlighting */
@@ -176,11 +178,25 @@ code {
   main {
     width:90%;
   }
+
   footer {
+    font-size:.8rem;
     width:100%;
+  }
+
+  footer .container {
+    width:90%;
   }
 
   body {
     font-size: 1rem;
   }
+}
+
+hr {
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 3em 0 .5em;
+  height:0
 }

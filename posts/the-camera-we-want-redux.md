@@ -14,12 +14,19 @@ author: psu
 <p>His web site published a few articles about the new <a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CDUQFjAA&amp;url=http%3A%2F%2Fblog.mingthein.com%2F2012%2F06%2F02%2Fomd%2F&amp;ei=z3TxUL3VO_Os0AHFvoD4BA&amp;usg=AFQjCNHD21Q7fRGEXKdRLZzAuCSZ_h1I_g&amp;sig2=sr3C0u2yiWHxWfa8yN1edA&amp;bvm=bv.1357700187,d.dmQ">Olympus mirrorless equipment</a> that seemed to indicate it was worth a try. I had seen other rumblings about this stuff from <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2013/01/top-camera-of-the-year-2012.html">other sources</a> but when I last looked into these bodes they all seemed a bit half baked. </p>
 <p>The upsides of the 4/3rds cameras are easy to list:</p>
 <p>1. Small.</p>
+
 <p>2. Some great small lenses, especially the Olympus primes. Even the beefier zoom lenses are not that big.</p>
+
 <p>3. Small.</p>
+
 <p>The downsides are also easy to list:</p>
+
 <p>1. Annoying handling, including things like no optical viewfinders.</p>
+
 <p>2. The small sensor does not compete with the huge Nikon sensors for sharpness and high ISO noise performance.</p>
+
 <p>So, I waffled.</p>
+
 <p>Returning home from Asia, fate intervened. I had reason to need to shoot video with a telephoto lens, and I had nothing in the house that could do it. To the Intertubes!</p>
 <p>I picked up an Olympus E-PL5 along with the cheap kit lens and a  fairly cheap telephoto zoom from Panasonic (a 45-200). The E-PL5 is a bit cheaper than the flagship E-M5 body, so I wasn't making a huge commitment. And, I reasoned that if I didn't like it I could return it or sell it on Amazon. And if I did like it the thing would serve well as a second body to carry when I get the E-M5 and a whole set of lenses.</p>
 <p>The camera has pretty much met my expectations.</p>

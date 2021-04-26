@@ -15,8 +15,11 @@ author: psu
 </p>
 <p>Peterson combines three phenomenal abilities into a single unmatched package:</p>
 <p>1. He can play fast. He plays faster than should be physically possible. He&#8217;s so fast that even after he had a <em>stroke</em> in the early 90s he&#8217;s still so fast you can&#8217;t believe it.</p>
+
 <p>2. He seems to effortlessly generate and endless stream of interesting ideas.</p>
+
 <p>3. He has an unfailing sense of swing. You cannot listen to this music without your feet wanting to move around in a happy dance.</p>
+
 <p>I don&#8217;t have any specific recommendations. I would say that you should buy everything he ever recorded in whatever order you like.  I will say that the above clip is from <a href="http://www.amazon.com/Oscar-Peterson-Niels-Henning-Orsted-Pedersen/dp/B00000DFI7/">a trio recording</a> featuring Peterson, Joe Pass and the bassist who has recorded with everyone: NHOP. I think the original set was on Pablo. It&#8217;s as good a place as any to start. You&#8217;ll be hooked.</p>
 	
 												

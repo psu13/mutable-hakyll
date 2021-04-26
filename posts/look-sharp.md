@@ -53,10 +53,15 @@ author: psu
 <p>I think the rise of digital cameras have made people overly conscious of resolution and they tend to latch on to it in the hope of finding a single number that means &#8220;good image quality.&#8221; I think history will show that hardly anyone needs more than a few megapixels, and of those people, hardly any really needed more than six.</p>
 <p>Related to resolution, you will also notice that I didn&#8217;t mention anything about lenses. I don&#8217;t have much to say about lenses for two reasons. First, I think the other aspects of image sharpness are more important than the raw performance of the lens. Second, I have never felt that I am &#8220;lens limited&#8221; with respect to how my pictures look. If there is something wrong with them, there is almost always something else to blame, and it&#8217;s usually my technique. If I were a real photographer, I would feel more confident about proclaiming grand truths about lenses. But as it is, the reality is that all the lenses you can buy are probably good enough. And if they are not, you&#8217;ll probably find out before me.</p>
 <p>To sum up, in order to take sharper pictures you should:</p>
+
 <p>1. Find sharper subject matter.</p>
+
 <p>2. Keep the subject still or your camera still or both.</p>
+
 <p>3. Use good light.</p>
+
 <p>4. Learn to focus.</p>
+
 <p>Seems simple enough. Maybe I&#8217;ll figure it out in another 20,000 pictures.</p>
 												
 								

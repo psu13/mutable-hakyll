@@ -69,12 +69,14 @@ With this background, here we go:
 1. On the other hand, almost all of world 5 (the swamp) is terrible. Blighttown, from *Dark Souls*, as awful as it is, is clearly this whole place rethought and polished up to be actually usable.
 
 1. In general the worlds in this game are much more interesting than the boss fights. If you have a good bow there is really only one boss in the whole game that's either hard or interesting. Here is how the fight with the spider that put me off the game before goes now for example:
+
  > <iframe width="560" height="315" src="https://www.youtube.com/embed/hIvFVwoQ3TM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-    Or, if you want the fast version with the bow cheese
+Or, if you want the fast version with the bow cheese
+
  > <iframe width="560" height="315" src="https://www.youtube.com/embed/_MI5Tl0e1io" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-    And that's in NG+. Most of the bosses, especially later in the game are very weak to bow cheese. Which is great for me.
+And that's in NG+. Most of the bosses, especially later in the game are very weak to bow cheese. Which is great for me.
 
 1. Overall I'd say that worlds 1, 2 and 3 are pretty fully realized and have all the hallmarks of the later games. But 4 and 5 seem a bit shorter and more "linear".
 	

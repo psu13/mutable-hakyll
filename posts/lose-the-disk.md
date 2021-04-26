@@ -31,9 +31,13 @@ Long time readers of this site will remember (or not) that I&#8217;ve been slowl
 <p>These two conclusions have a large impact on how I view my little CD ripping project. In the past, I had viewed it as a way to convert &#8220;my collection&#8221; into a more convenient form for listening, while preserving the &#8220;base data&#8221; somewhere else so I would not lose it. Now, I think, I have tipped over and realize that the iTunes database <em>is the entire point</em> and the truth is that I don&#8217;t want the disks at all (except for the liner notes, dammit!).</p>
 <p>This means that increasingly often, my workflow in the project has become:</p>
 <p>1. Find a disk or disks I need to rip.</p>
+
 <p>2. Realize that I will spend 15 minutes per disk getting the data into iTunes, editing meta-data, and filing things.</p>
+
 <p>3. Notice that the album is at the iTunes or Amazon store.</p>
+
 <p>4. Just buy it and download it.</p>
+
 <p>Incredibly, this flow is even possible for a large percentage of the more obscure <em>classical</em> titles that I own.</p>
 <p>My final conclusion is this: forget about the disk. It just doesn&#8217;t matter. In fact, I&#8217;ll go further and say that all of this holds, only doubly so, for disk based <em>movie</em> formats. The only thing allowing Blu-Ray and DVD to tread water against the inevitable is that the movie companies have done a better job at locking the rights down and making it hard to find movies for download. But these days, given the choice between buying/renting a movie on disk or just downloading the thing I will just download the thing 99.99% of the time. </p>
 <p>I&#8217;ll only buy Blu-Rays if they come with the digital file as well. That way I have something to watch when I lose the disk.</p>

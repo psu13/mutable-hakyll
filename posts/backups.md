@@ -23,15 +23,25 @@ author: psu
 <p>As a side note, the one time I had a serious disk crash (knock wood) on my laptop, it was the work backup drive that saved me from losing about a month of photos. I generally bring my laptop to work about once a week to sync it.</p>
 <p>The fourth rule about backups is that if you can make two backups of something, it&#8217;s just as easy to make four. I have a desktop machine at home that is used mostly for iTunes. But I also use it as a third level of backups. Whenever I add pictures to the mirror drive, I also sync them to my home directory on the iMac. Then I let Time Machine on the iMac copy them to yet another external drive.</p>
 <p>So now each new photo is stored seven times:</p>
+
 <p>1. On the laptop.</p>
+
 <p>2. On pocket drives #1 and #2.</p>
+
 <p>3. On desktop drives #1 and #2.</p>
+
 <p>4. On the iMac.</p>
+
 <p>5. On the Time Machine disk for the iMac.</p>
+
 <p>When I run out of space on the laptop and the smaller external disks, I delete older photos. So for the long term, I have the entire photo archive stored four times. As before, every couple of years I upgrade all these disks.</p>
 <p>Most recently, I also decided to sign up for one of these online backup services. I picked <a href="http://www.backblaze.com/">Backblaze</a>. I told it to backup my iMac to some data center somewhere. So if Pittsburgh burns down and takes all of my local drives with it, I can still call them up and get my photos back. It only took a month for the iMac to copy everything over the network.</p>
 <p>To summarize. There are four things you need to know about backups:</p>
+
 <p>1. Backup everything. Even what you don&#8217;t need. Backup the important stuff more.</p>
+
 <p>2. Use disk drives. Other media are too inconvenient, which means you won&#8217;t make backups.</p>
+
 <p>3. You must make new copies of the data every year or two. Conveniently, you need new disk drives once in a while anyway.</p>
+
 <p>4. If you are going to back everything up once, you might as well do it twice. And if you are going to do it twice, you might as well do it four times.</p>

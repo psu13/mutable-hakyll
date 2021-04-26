@@ -15,9 +15,13 @@ author: psu
 <a href="http://www.flickr.com/photos/79904144@N00/4576183819/" title="psu_20100429-01929 by psu13, on Flickr"><img src="http://farm5.static.flickr.com/4072/4576183819_30b63f1d03.jpg" width="500" height="333" alt="psu_20100429-01929" /></a>
 </p>
 <p>The mass transit system is also better than most cities I&#8217;ve been to. It goes to a lot of useful places, and the ticket checking system is surprisingly laid-back. There are no oppressive gates and turnstiles that you must navigate. Instead, every once in a while there is a nice person checking tickets. It&#8217;s a semi-honor system, which surprised me because the transit systems I&#8217;ve used in the USA were all much more paranoid about freeloaders and deadbeats perpetrating fraud. This lack of gates contributes to the excellent wheelchair access in the train system. In fact, access all over the city is great:</p>
+
 <p>1. The buses are great.</p>
+
 <p>2. There are a ton of ramp-van taxis.</p>
+
 <p>3. Most of the buildings in the city have flat ground level access. We even went to a dim sum joint out in Richmond, the suburban Chinatown, and had no problems. It was a second floor place with an elevator *and* a ramp in the parking lot. Excellent!</p>
+
 <p>As a matter of record, access in Seattle (and most other American cities) is by comparison a disaster.</p>
 <p>All of this access made it easy to wander all over the place and eat cool food. Vancouver has to be right in the running for the best food town in North America. </p>
 <p>There is coffee:</p>

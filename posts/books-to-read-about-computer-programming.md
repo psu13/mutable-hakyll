@@ -28,7 +28,7 @@ Eleven books to read if you want to be a computer programmer.
 
 11. Types and Programming Languages - Pierce
 
-**Notes**:
+#### Notes
 
 * I have not actually ever read the last one, but it seems like a decent candidate for the one book you need to read about type theory.
 
