@@ -7,5 +7,11 @@ executable site
   main-is:          site.hs
   build-depends:    base == 4.*
                   , hakyll == 4.14.*
+                  , pandoc
+                  , containers
+                  , time
+                  , filepath
+                  , blaze-html
+                  , blaze-markup
   ghc-options:      -threaded
   default-language: Haskell2010
