@@ -62,7 +62,41 @@ main = hakyll $ do
     match "templates/*" $ compile templateBodyCompiler
 
 
+    create ["atom.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx `mappend` bodyField "description"
+            posts <- fmap (take feedSize) . recentFirst =<<
+                loadAllSnapshots "posts/*" "content"
+            renderAtom myFeedConfiguration feedCtx posts
+
+    create ["feeds/all.atom.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx `mappend` bodyField "description"
+            posts <- fmap (take feedSize) . recentFirst =<<
+                loadAllSnapshots "posts/*" "content"
+            renderAtom myFeedConfiguration feedCtx posts
+
+    create ["feeds/all.rss.xml"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx `mappend` bodyField "description"
+            posts <- fmap (take feedSize) . recentFirst =<<
+                loadAllSnapshots "posts/*" "content"
+            renderRss myFeedConfiguration feedCtx posts
 --------------------------------------------------------------------------------
+
+feedSize = 20
+
+myFeedConfiguration = FeedConfiguration
+    { feedTitle       = "Mutable States"
+    , feedDescription = "Things I Write About the States of Things"
+    , feedAuthorName  = "psu"
+    , feedAuthorEmail = "psu"
+    , feedRoot        = "http://mutable-states.com"
+    }
+
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
@@ -98,7 +132,7 @@ postCompiler =
     let defaultExtensions = Options.writerExtensions defaultHakyllWriterOptions
         writerOptions = withKaTexMathOptions defaultExtensions
     in pandocCompilerWith defaultHakyllReaderOptions writerOptions
-              >>= saveSnapshot "content"
               >>= loadAndApplyTemplate "templates/post.html"    postCtx
+              >>= saveSnapshot "content"
               >>= loadAndApplyTemplate "templates/default.html" postCtx
               >>= relativizeUrls
