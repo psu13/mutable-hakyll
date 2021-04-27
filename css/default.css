@@ -22,7 +22,6 @@ a {
 p {
   font-family: inherit;
   font-weight: normal;
-  font-size: 1em;
   line-height: 1.45;
   margin-bottom: 1.25em;
   text-rendering:optimizeLegibility
@@ -69,7 +68,11 @@ article .header {
 
 body {
   margin: 0 auto;
-  padding: 0; background: #fffffd;
+  padding: 0; 
+  word-wrap:break-word; 
+  color:#111; 
+  background:#fffffd;
+  font-size: 1.25em;
 }
 
 nav {
@@ -127,15 +130,8 @@ footer {
   color: #555;
 }
 
-body { word-wrap:break-word; color:#111; background:#fffffd}
-
 ol li ul, ol li ol { 
   margin-bottom: 1.25em;
-}
-
-body {
-  font-size: 1.3rem;
-  color: #000;
 }
 
 main {

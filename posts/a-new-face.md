@@ -32,14 +32,17 @@ Things I like about the new setup:
 
 1. There is only one small file of CSS that I can now just forget about.
 
+1. I like how the simpler layout eventually turned out. Very much in spirit of the 1998 "Blue on White" Internet look that I've always been after.
+
 1. `hakyll` has a nice mode where it watches the file system and regens the site when you edit things. I'm sure pelican had this too but I never set it up. This made fooling with the site CSS almost tolerable.
 
 1. No python nonsense to worry about.
 
-1. With the various changes the site can actually run completely locally on any computer you want. So if you want your own personal copy you just have to pull it down and build it.
+1. With the various changes the site can actually run completely locally on any computer you want. So if you want your own personal copy you just have to pull it down and build it. This also makes spot testing changes to the site a lot easier since all of the navigation stays local now. I should have set things up like this before, but was too lazy.
 
 1. Now I can explain to people what the difference is between `let` binding and the `<-` operator in haskell.
 
-1. I like that after decades of research and development arguably the most useful thing that `haskell` does is ... convert markdown and $\TeX$ to HTML (or PDF!) for web sites. If nothing else this conversion is a celebration of the idea that `haskell` is truly the `perl` of the 2020s. If you know me you know that this is a compliment of the highest order 🙂.
+1. I like that after decades of research and development arguably the most useful thing that `haskell` does is ... convert markdown and $\TeX$ to HTML (or PDF!) for web sites. If nothing else this new site is a celebration of the idea that `haskell` is truly the `perl` of the 2020s. If you know me you know that this is a compliment of the highest order 🙂.
 
 I will now resist the urge to tinker further. There are still a few inconsistencies in the text and layout of some pages. But it's not serious enough to keep me up at night. If this change broke your feeds, I apologize. But, you can just update them using the new link.
+
