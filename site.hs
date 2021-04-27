@@ -106,9 +106,9 @@ postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
 
--- remote the parent directory "posts" from the URL path to match
--- the current convention at the old site. this leaves the site a bit
--- cluttered but who cares.
+-- remove the parent directory "posts" from the URL path of the
+-- final HTML pages to match the current convention at the old site. 
+-- this leaves the site a bit cluttered but who cares.
 flatRoute :: Routes
 flatRoute = customRoute createIndexRoute
   where
@@ -116,7 +116,7 @@ flatRoute = customRoute createIndexRoute
         takeBaseName p ++ ".html"
         where p=toFilePath ident
 
--- options for katex math
+-- options for KaTeX math
 -- this generates <span> tags for the math. you need to put the right script into
 -- the templates for this to work out.
 withKaTexMathOptions :: Extensions.Extensions -> Options.WriterOptions
@@ -127,10 +127,7 @@ withKaTexMathOptions mathExtensions = Hakyll.defaultHakyllWriterOptions
     }
 
 
--- compiler for posts
--- captures tags from tag field
--- uses the pandocCompilerWith instead of regular pandocCompiler to allow you
--- to add options. writerOptions is defined below, as is the postCtxWithTags
+-- compiler for posts, uses the options above to turn on math and stuff.
 postCompiler :: Compiler (Item String)
 postCompiler = 
     let defaultExtensions = Options.writerExtensions defaultHakyllWriterOptions
