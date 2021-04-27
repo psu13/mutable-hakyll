@@ -26,17 +26,19 @@ Finally, along the way I also made a new improvements:
 
 1. Copied the $\KaTeX$ code to a local spot. This is probably pointless. But we'll see.
 
-1. Simplified to top level page to remove the useless teaser text. Sharp eyed readers will now note that the home page and the archive page are basically the same. So why have both? Maybe some day change the home page to something else.
+1. Simplified the top level page to remove the useless teaser text for eac post. Sharp eyed readers will now note that the home page and the archive page are basically the same. So why have both? Maybe some day change the home page to something else.
 
 Things I like about the new setup:
 
 1. There is only one small file of CSS that I can now just forget about.
 
-1. I like how the simpler layout eventually turned out. Very much in spirit of the 1998 "Blue on White" Internet look that I've always been after.
+1. I like how the simpler layout eventually turned out. It's very much in spirit of the 1998 "Blue on White" Internet look that I've always been after.
 
 1. `hakyll` has a nice mode where it watches the file system and regens the site when you edit things. I'm sure pelican had this too but I never set it up. This made fooling with the site CSS almost tolerable.
 
 1. No python nonsense to worry about.
+
+1. Something is turing all the quote marks into "smart" quote marks.
 
 1. With the various changes the site can actually run completely locally on any computer you want. So if you want your own personal copy you just have to pull it down and build it. This also makes spot testing changes to the site a lot easier since all of the navigation stays local now. I should have set things up like this before, but was too lazy.
 
