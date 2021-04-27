@@ -156,7 +156,7 @@ code {
 
 /* ----------------------  Metrics for the phone  ---------------------- */
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
   header .container {
     width:90%;
   }
@@ -191,4 +191,10 @@ hr {
 
 span .katex {
   font-size:  1.1em
+}
+
+@media (max-width: 400px) {
+  .logo a {
+    font-size: 1.2rem;
+  }
 }
