@@ -98,7 +98,7 @@ It's not clear to me that all of this is needed any more. If you have
 sufficient experience with your camera and are good at reading light, you can
 mostly trust your camera's "multi-segment" meter to get pretty close to the
 exposure that you want. Sure, you might have to [compensate for extreme
-tones](/expose-yourself.html) once in a while, but
+tones](http://mutable-states.com/expose-yourself.html) once in a while, but
 that's easily done. Finally, you can easily find out if you missed badly by
 quickly scanning the histogram of the picture on the back of your camera. Oh
 wait, that would be chimping...
