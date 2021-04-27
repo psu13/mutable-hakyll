@@ -4,7 +4,7 @@ date: 2020-05-27
 author: psu
 ---
 
-Long time readers will remember that while I am a computer geek professionally in recent years I have become the <a href=http://mutable-states.com/reading-physics.html">tiniest bit of an amateur dilettante physics nerd</a>, to make up for having dropped out of the physics major in college. Suffice to say that if in 1986 I had realized that theoretical computer science and theoretical physics (quantum mechanics) were going to get together the way that they have recent years, I might have stuck with it at the time. In particular, I might have figured out more about quantum mechanics.
+Long time readers will remember that while I am a computer geek professionally in recent years I have become the <a href="reading-physics.html">tiniest bit of an amateur dilettante physics nerd</a>, to make up for having dropped out of the physics major in college. Suffice to say that if in 1986 I had realized that theoretical computer science and theoretical physics (quantum mechanics) were going to get together the way that they have recent years, I might have stuck with it at the time. In particular, I might have figured out more about quantum mechanics.
 
 As we all know, the weird thing about quantum mechanics is that while you are allowed to imagine that some quantum system somewhere is in some state, you are not really allowed to know or talk about what that state *is* unless you actually *look* at it and find out. This is called the *measurement problem* although in some sense *measurement dilemma* might be a better way to put it.
 
@@ -24,11 +24,11 @@ The conclusion of the paper was that if you ran the measurements in just the rig
 
 My interest is in what this idea has to do with software.
 
-As we all know, <a href="http://mutable-states.com/the-inscrutable-tubes.html">large software systems are complicated</a>. They are complicated to design. They are complicated to implement. And they are complicated to work on. One daily complication in working on such systems is what we call "building" the code. In this usage "building" does not mean the actual construction of the code itself, but rather organizing it so that it is executable in a way that allows for testing and debugging.
+As we all know, <a href="/the-inscrutable-tubes.html">large software systems are complicated</a>. They are complicated to design. They are complicated to implement. And they are complicated to work on. One daily complication in working on such systems is what we call "building" the code. In this usage "building" does not mean the actual construction of the code itself, but rather organizing it so that it is executable in a way that allows for testing and debugging.
 
 Some background on this.
 
-Hardly any software is written either directly to the hardware or directly to a language that is understandable at the hardware level. This is because machine level instructions are <a href="http://mutable-states.com/what-computers-do.html">very simple and primitive</a> (I'm lying here, they are not) and you have string a lot of them together to get useful work done. So instead we take the various things we need to do a lot and package them into various sorts of tools, <a href="http://mutable-states.com/what-programming-languages-say.html">programming languages and libraries</a> being the most obvious.
+Hardly any software is written either directly to the hardware or directly to a language that is understandable at the hardware level. This is because machine level instructions are <a href="/what-computers-do.html">very simple and primitive</a> (I'm lying here, they are not) and you have string a lot of them together to get useful work done. So instead we take the various things we need to do a lot and package them into various sorts of tools, <a href="/what-programming-languages-say.html">programming languages and libraries</a> being the most obvious.
 
 *Building* an application is the process of doing three main things:
 

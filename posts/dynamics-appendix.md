@@ -4,7 +4,7 @@ date: 2016-07-05
 author: psu
 ---
 
-Just in case you thought that <a href="http://mutable-states.com/general-dynamics.html">almost 3000 words on dynamic runtimes wasn't enough</a>, I had a few more thoughts that did not fit into how the final piece flowed together. In addition I thought of an obscure but relevant piece of Ancient Lisp Lore that I am contractually obligated to share (hi Patrick!). So here we go.
+Just in case you thought that <a href="/general-dynamics.html">almost 3000 words on dynamic runtimes wasn't enough</a>, I had a few more thoughts that did not fit into how the final piece flowed together. In addition I thought of an obscure but relevant piece of Ancient Lisp Lore that I am contractually obligated to share (hi Patrick!). So here we go.
 
 **Part 1: Dynamic Dispatch**
 

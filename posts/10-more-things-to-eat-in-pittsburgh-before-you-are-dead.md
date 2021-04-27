@@ -4,7 +4,7 @@ date: 2015-03-07
 author: psu
 ---
 
-Rather than fill some space with the standard patter, I'll just get to the point. Here is an extension of <a href="http://mutable-states.com/10-things-to-eat-in-pittsburgh-before-you-are-dead.html">this already perfect list</a>.
+Rather than fill some space with the standard patter, I'll just get to the point. Here is an extension of <a href="/10-things-to-eat-in-pittsburgh-before-you-are-dead.html">this already perfect list</a>.
 
 1. **Fire Chicken Pizza**
 
@@ -52,6 +52,6 @@ Rather than fill some space with the standard patter, I'll just get to the point
 	
 **Final Note** 
 
-I left off all the things at Cure that you should eat because I have listed them in <a href="http://mutable-states.com/ten-places-to-eat-in-pittsburgh-2013.html">previous articles</a>. But Cure is still the best place in the city. You should go there and get a large salumi plate and the Gluttony.
+I left off all the things at Cure that you should eat because I have listed them in <a href="/ten-places-to-eat-in-pittsburgh-2013.html">previous articles</a>. But Cure is still the best place in the city. You should go there and get a large salumi plate and the Gluttony.
 
 

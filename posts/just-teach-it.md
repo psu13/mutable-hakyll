@@ -46,7 +46,7 @@ Anyway, in general
 becomes
 > CODE TOO HARD
 
-I mean, let's face it, we're a nation that is convinced that <a href="http://mutable-states.com/math-is-hard-lets-just-quit.html">basic algebra</a> is beyond the cognitive abilities of a large percentage of its children, is there really any hope that they would be able to learn to program computers?
+I mean, let's face it, we're a nation that is convinced that <a href="/math-is-hard-lets-just-quit.html">basic algebra</a> is beyond the cognitive abilities of a large percentage of its children, is there really any hope that they would be able to learn to program computers?
 
 At this point the discussion will shift away from actually teaching anyone to program computers and move on to teaching them other things about computers that are not quite so punishing. This mostly falls into the area of finding and using specialized applications for solving certain kinds of problems: how to create presentations for really boring talks, how to run the payroll, how to lie with statistics, and so on. The idea is to use higher level and friendlier problems to motivate the kids into learning how computers operate. Instead of staring at 
 > Segmentation fault - (core dumped)

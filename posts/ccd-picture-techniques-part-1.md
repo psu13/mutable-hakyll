@@ -50,7 +50,7 @@ There are various problems:
 
 If I had to sum up astronomical image processing in one sentence it would be: "the art of making the signal bright, in a pleasing way, while hiding the noise without being obvious about it." That is, we want to use as many tricks as possible to make the galaxy bright and pretty while avoiding the trap of also showing you all of the problems in the image.
 
-In <a href="http://mutable-states.com/c-c-and-d.html">my previous post</a> I lamented that these and other issues were almost impossible to fix with the video camera. With a CCD still camera it's still hard, but it's much more doable.
+In <a href="/c-c-and-d.html">my previous post</a> I lamented that these and other issues were almost impossible to fix with the video camera. With a CCD still camera it's still hard, but it's much more doable.
 
 There are several tools available to the CCD user to remove background noise from an image while retaining detail. These fall into three general strategies:
 

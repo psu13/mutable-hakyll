@@ -4,9 +4,9 @@ date: 2020-09-04
 author: psu
 ---
 
-In the summer of 2010, through circumstances that I don't quite remember, I came across a web site where <a href="http://mutable-states.com/the-big-lie-solved.html">amateur astronomers were using the Internet to stream images</a> captured in their telescopes using small video cameras that could be programmed to do time exposures. Here, with just "a bit" more work than it took to try and see the same objects with your eyeballs you could actually see an image of the object that, while not approximating even longer time exposures with astronomical cameras taken through space telescopes, was at least more than a faint white patch barely peeking out through the haze and light pollution of my suburban sky. Clearly this required investigation.
+In the summer of 2010, through circumstances that I don't quite remember, I came across a web site where <a href="/the-big-lie-solved.html">amateur astronomers were using the Internet to stream images</a> captured in their telescopes using small video cameras that could be programmed to do time exposures. Here, with just "a bit" more work than it took to try and see the same objects with your eyeballs you could actually see an image of the object that, while not approximating even longer time exposures with astronomical cameras taken through space telescopes, was at least more than a faint white patch barely peeking out through the haze and light pollution of my suburban sky. Clearly this required investigation.
 
-Over the next year or so I <a href="http://mutable-states.com/tinkering-with-the-stars.html">slowly collected the equipment and skills</a> needed to set up a system like this for myself. The trick in all of this is to be patient and slowly move towards the goal one small step at time. Eventually I had put together a pretty powerful equatorially mounted telescope tube, camera system, and a bit of image processing know-how. I could set up and get stuff like this:
+Over the next year or so I <a href="/tinkering-with-the-stars.html">slowly collected the equipment and skills</a> needed to set up a system like this for myself. The trick in all of this is to be patient and slowly move towards the goal one small step at time. Eventually I had put together a pretty powerful equatorially mounted telescope tube, camera system, and a bit of image processing know-how. I could set up and get stuff like this:
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/6271201264/in/album-72157629128096583/" title="M27-2011-10-22-Stacked-10-PS"><img src="https://live.staticflickr.com/6215/6271201264_63ae975e4a_w.jpg" width="400" height="300" alt="M27-2011-10-22-Stacked-10-PS"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -14,9 +14,9 @@ or this:
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/7030740283/in/album-72157629128096583/" title="M51-2012-03-29-stacked-5x"><img src="https://live.staticflickr.com/7278/7030740283_24db276d57_w.jpg" width="400" height="298" alt="M51-2012-03-29-stacked-5x"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-It was pretty easy. All you had to do each night was this "short" checklist of setup items to make the telescope point at the right place and take pictures in focus: <a href="http://mutable-states.com/grab-and-go.html">http://mutable-states.com/grab-and-go.html</a>.
+It was pretty easy. All you had to do each night was this "short" checklist of setup items to make the telescope point at the right place and take pictures in focus: <a href="/grab-and-go.html">http://mutable-states.com/grab-and-go.html</a>.
 
-Later on, of course, I dabbled with "real" astronomical CCD cameras and an even fancier mount and all of the attendant complications. I got <a href="https://www.flickr.com/photos/79904144@N00/albums/72157631169684214">some pretty good pictures</a> and then put it away when it got to be too much like work. I'll pick it up again later. Anyway, to set that system up you did this: <a href="http://mutable-states.com/maxim-dl-setup-and-workflow.html">http://mutable-states.com/maxim-dl-setup-and-workflow.html</a>.
+Later on, of course, I dabbled with "real" astronomical CCD cameras and an even fancier mount and all of the attendant complications. I got <a href="https://www.flickr.com/photos/79904144@N00/albums/72157631169684214">some pretty good pictures</a> and then put it away when it got to be too much like work. I'll pick it up again later. Anyway, to set that system up you did this: <a href="/maxim-dl-setup-and-workflow.html">http://mutable-states.com/maxim-dl-setup-and-workflow.html</a>.
 
 The basic pieces that you need to take pictures of things in the sky are:
 
@@ -44,7 +44,7 @@ What you really want is a system that works like this:
 
 1. Take pictures.
 
-This kind of operation was *possible* in 2011 and 2012 ... but it took a lot of manual integration work, and was much easier if you had a permanent installation. Still, one always wondered how many <a href="http://mutable-states.com/tens-of-dollars.html">tens of dollars</a> someone might make if they could build the whole stack in one box.
+This kind of operation was *possible* in 2011 and 2012 ... but it took a lot of manual integration work, and was much easier if you had a permanent installation. Still, one always wondered how many <a href="/tens-of-dollars.html">tens of dollars</a> someone might make if they could build the whole stack in one box.
 
 Well, 2020 is the year we start to find out. While bits and pieces of this sort of automation have started to show up in the high end and the low end of the telescope equipment market, no one had really tried to make a true one piece solution until now. I am here to report on one attempt at this, the <a href="https://unistellaroptics.com">Unistellar eVscope</a>.
 

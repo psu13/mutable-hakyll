@@ -4,7 +4,7 @@ date: 2010-03-10
 author: psu
 ---
 
-This one is easy. Basically we’re going to do <a href="http://mutable-states.com/dinner-in-half-well-really-about-an-hour.html">this recipe</a> for pork stew except with lamb shoulder instead of pork, a bit of extra potatoes and parsnips, and just a plain set of herbs instead of chili peppers. That’s all you really need to know, but here’s the rest anyway.
+This one is easy. Basically we’re going to do <a href="/dinner-in-half-well-really-about-an-hour.html">this recipe</a> for pork stew except with lamb shoulder instead of pork, a bit of extra potatoes and parsnips, and just a plain set of herbs instead of chili peppers. That’s all you really need to know, but here’s the rest anyway.
 
 Here is what you need. For stage 1:
 

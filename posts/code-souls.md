@@ -8,7 +8,7 @@ It occurred to me, while sitting in my house accompanied mostly by my own though
 
 If you are wondering to yourself: "will I enjoy programming computers as a job over the long term?" and you want to get a shallow, but probably accurate approximate answer there is one simple thing you can do: run out and buy a copy of *Dark Souls* and see if you enjoy playing through it solo (2).
 
-Long time readers of this web site will be familiar with <a href="http://mutable-states.com/dark-souls-ate-my-brain.html">the chronicles of my obsession with the *Souls*-style video games</a>.
+Long time readers of this web site will be familiar with <a href="/dark-souls-ate-my-brain.html">the chronicles of my obsession with the *Souls*-style video games</a>.
 
 To review: *Demon's Souls*, *Dark Souls*, *Dark Souls 2*, *Dark Souls 3*, *Bloodborne* and *Sekiro* are a series of third person action RPG/dungeon crawlers where you take a character through some horrible world which is full of various creatures who are out to kill you. While the games differ somewhat in style and tone and polish they all have a similar structure. Their worlds are usually dead or in the process of dying. So there usually is not a lot of *character*-driven plot going on. All that happens is what you do. They emphasize combat, though not necessarily fast twitch skills (I assume, since I have none). Some say they are "hard", but I tend to say that they are relatively unforgiving of inevitable lapses in focus or judgement. Finally, to play them you better enjoy the mechanics, because you are always in for a lot of repetition.
 

@@ -4,7 +4,7 @@ date: 2018-08-25
 author: psu
 ---
 
-"Gankers" in Dark Souls lingo are groups of three or four players who get together to murder invaders for fun and profit by taking advantage of the strength of their numbers. With my favorite new <a href="http://mutable-states.com/summer-of-dark-souls-remastered.html">PVP build</a> I have been observing the community of gankers in Dark Souls for the last month or so. Now, I am by no means the best at fighting against three and four hostile human players at once, yet I observe that I can win a fairly decent percentage of these encounters. It seemed to me that most of the squads that lose to me are making the same kinds of mistakes, so as a service to the ganking community I will catalog these here.
+"Gankers" in Dark Souls lingo are groups of three or four players who get together to murder invaders for fun and profit by taking advantage of the strength of their numbers. With my favorite new <a href="/summer-of-dark-souls-remastered.html">PVP build</a> I have been observing the community of gankers in Dark Souls for the last month or so. Now, I am by no means the best at fighting against three and four hostile human players at once, yet I observe that I can win a fairly decent percentage of these encounters. It seemed to me that most of the squads that lose to me are making the same kinds of mistakes, so as a service to the ganking community I will catalog these here.
 
 On the face of it the PVP area in Oolacile Township is the perfect spot for engaging in the group killing of invaders. It has several characteristics that make it so:
 

@@ -4,7 +4,7 @@ date: 2014-11-23
 author: psu
 ---
 
-I've <a href="http://mutable-states.com/unreasonable-gripes.html">mentioned before</a> that I bought a lot of LP records when I was in graduate school. At the time the LP->CD switch had just gotten into full swing and you could buy vinyl at a *huge* discount compared to new what new CDs cost. So, I bought a few hundred records (including lot of sets from Mosaic which will never be on CD). 
+I've <a href="/unreasonable-gripes.html">mentioned before</a> that I bought a lot of LP records when I was in graduate school. At the time the LP->CD switch had just gotten into full swing and you could buy vinyl at a *huge* discount compared to new what new CDs cost. So, I bought a few hundred records (including lot of sets from Mosaic which will never be on CD). 
 
 Over the years I would play the records occasionally, and I kept a turntable hooked up to my "stereo" for most of this time. At some point the stereo became just a box to play sounds from video games or the television, so I packed the turntable away. Then during a house renovation I got rid of the stereo completely, shifting over to self-powered speakers. This is because <a href="http://tleaves.com/wp-archive/2007/04/09/dead-to-me-the-av-receiver/index.html">receivers suck</a>.
 
@@ -64,7 +64,7 @@ But, the record I really meant to play first was this one:
 
 > <a href="https://www.flickr.com/photos/79904144@N00/15271548303" title="MHS-Musical-Offering by Pete Su, on Flickr"><img src="https://farm8.staticflickr.com/7547/15271548303_ef9313e0a7.jpg" width="500" height="500" alt="MHS-Musical-Offering"></a>
 
-I first ran into this music in college when I, like many dorks, read *Gödel, Escher, Bach* for the first and only time. The book talks about this music a lot, and I found this recording in my dad's stash. Later on I would find my own copy on LP but for some reason no one has ever transferred this to CD. I remember the album being on modern instruments and without a lot of the nonsense and baggage that the current <a href="http://mutable-states.com/nouvelle-old-music.html">Historically Correct Music movement</a> brings to the table. So after posting this page I can now go and actually see if my memory is right. I bet it isn't.
+I first ran into this music in college when I, like many dorks, read *Gödel, Escher, Bach* for the first and only time. The book talks about this music a lot, and I found this recording in my dad's stash. Later on I would find my own copy on LP but for some reason no one has ever transferred this to CD. I remember the album being on modern instruments and without a lot of the nonsense and baggage that the current <a href="/nouvelle-old-music.html">Historically Correct Music movement</a> brings to the table. So after posting this page I can now go and actually see if my memory is right. I bet it isn't.
 
 *Update*: It is! The main theme in the first three part fugue comes in on a *flute*. No one would do that these days. Also: no damn harpsichords! Except in the background.
 

@@ -4,7 +4,7 @@ date: 2019-10-30
 author: psu
 ---
 
-I wrote a <a href="http://mutable-states.com/fried-rice.html">page about fried rice</a> a long time ago. Since then I've had an *obvious* realization that I will share with you now.
+I wrote a <a href="/fried-rice.html">page about fried rice</a> a long time ago. Since then I've had an *obvious* realization that I will share with you now.
 
 I can't for the life of me understand why fried rice has not been at the center of a larger food truck/fusion cuisine/multi-cultural/mashup food scene. There are ramen sandwich trucks, bbq trucks, fancy mac and cheese trucks, bad lobster roll trucks (they have to be bad, don't @ me), Japanese style hot dog trucks and any number of other cross-cultural experiments and street food remixes and yet the humble plate of fried rice is still relegated to its American Chinese Takeout ghetto. I do not understand why. The menu writes itself:
 

@@ -4,7 +4,7 @@ date: 2015-02-28
 author: psu
 ---
 
-I like to take pictures of things, but I would not say that I'm a *photographer*. Back when I carried a <a href="http://mutable-states.com/too-much-camera.html">camera that was a bit too large</a> people would ask me about the machine and remark that I must be a pretty serious photo person. I would usually claim that I just dabble. This is probably a bit of an understatement. 
+I like to take pictures of things, but I would not say that I'm a *photographer*. Back when I carried a <a href="/too-much-camera.html">camera that was a bit too large</a> people would ask me about the machine and remark that I must be a pretty serious photo person. I would usually claim that I just dabble. This is probably a bit of an understatement. 
 
 If you happen to spot me <a href="https://www.flickr.com/photos/79904144@N00/13547485463">at some event</a>, or in front of <a href="https://www.flickr.com/photos/79904144@N00/10225503805">some famous structure</a>, or just <a href="https://www.flickr.com/photos/79904144@N00/7539994562">hanging around in your city as the sun goes down</a> you might observe that I am behind the camera taking a picture instead of standing off of the side observing the scene, soaking it all in. If the situation is particularly interesting, you might see me take 50, or 100, or 200 pictures in a relatively short period of time. This might seem like a lot to you.
 

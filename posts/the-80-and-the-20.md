@@ -8,7 +8,7 @@ The 80/20 heuristic states that in most computer systems, you spend 80 percent o
 
 Having watched this process a long time, I have noticed one paradoxical difficulty with applying this heuristic. The problem is this: many users (mostly the dorks) are convinced they are in the “special” 20 percent rather than the happy 80 percent, and you can’t do anything about it.
 
-I have a lot of experience with the mindset that self-selects into the special 20 percent because I spend a lot of time in indulging in dork hobbies. In fact, this particular sort of delusion is related to the <a href="http://mutable-states.com/wwddocd-world-wide-distributed-dork-ocd.html">neurosis</a> that also afflicts those who buy technical gadgets.
+I have a lot of experience with the mindset that self-selects into the special 20 percent because I spend a lot of time in indulging in dork hobbies. In fact, this particular sort of delusion is related to the <a href="/wwddocd-world-wide-distributed-dork-ocd.html">neurosis</a> that also afflicts those who buy technical gadgets.
 
 In general, what I will call “the 20 percent delusion” is a syndrome in which the dork dreams up requirements that fall outside those of the 80 percent workflows that are absolutely critical to whatever it is they think they want to get done with the device. You see this all the time.
 

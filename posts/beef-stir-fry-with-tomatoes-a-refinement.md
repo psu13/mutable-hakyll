@@ -4,7 +4,7 @@ date: 2018-08-18
 author: psu
 ---
 
-At the end of <a href="http://mutable-states.com/beef-stir-fry.html">this tutorial on beef stir fry</a> I suggest a variation of the dish involving the beef, tomatoes, scallion and garlic. Since we are at the height of the season for good tomatoes, today I have a refinement of that variation to report on here.
+At the end of <a href="/beef-stir-fry.html">this tutorial on beef stir fry</a> I suggest a variation of the dish involving the beef, tomatoes, scallion and garlic. Since we are at the height of the season for good tomatoes, today I have a refinement of that variation to report on here.
 
 Recall that what you do to stir fry beef is mix the following in a bowl:
 

@@ -4,11 +4,11 @@ date: 2012-03-28
 author: psu
 ---
 
-I&#8217;m about a year into using my <a href="http://mutable-states.com/tinkering-with-stars.html">astronomical video camera</a> to view deep-sky objects from the city and capture <a href="http://www.flickr.com/photos/79904144@N00/6933922817/in/photostream/lightbox/">small and simple pictures</a> of what I see. All things considered the experience has been tremendous, but there was an obvious weak link: the mount that I bought does not track well.
+I&#8217;m about a year into using my <a href="/tinkering-with-stars.html">astronomical video camera</a> to view deep-sky objects from the city and capture <a href="http://www.flickr.com/photos/79904144@N00/6933922817/in/photostream/lightbox/">small and simple pictures</a> of what I see. All things considered the experience has been tremendous, but there was an obvious weak link: the mount that I bought does not track well.
 
 This is not to say that the mount did not perform up to my expectations. In fact, given the relatively small amount of money that I paid the mount has been excellent. Good telescope mounts are hard to build well, and even harder to build cheaply. 
 
-That said, you can do better, and about six months in I decided that I would be doing this enough to consider how to do better. <a href="http://mutable-states.com/telescope-mounts.html">After my first investigations</a>, I wrote this about the relationship between cost and quality in a mount:
+That said, you can do better, and about six months in I decided that I would be doing this enough to consider how to do better. <a href="/telescope-mounts.html">After my first investigations</a>, I wrote this about the relationship between cost and quality in a mount:
 
 >In general you will find that in terms of mechanics you get what you pay for. There is a direct and linear relationship between how much money you spend and how well the mount will hold weight and smoothly track the sky with the least amount of fuss. When you spend more money you get more reliable machinery that is built to a higher standard of precision. Those gears in the motor drive will be asymptotically closer theoretical perfection. More importantly, by building in small numbers the premium manufacturers can maintain a tight hold on testing and quality control.
 

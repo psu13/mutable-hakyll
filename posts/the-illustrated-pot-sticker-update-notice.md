@@ -4,7 +4,7 @@ date: 2020-05-25
 author: psu
 ---
 
-This is just a note to indicate that I updated <a href="http://mutable-states.com/the-illustrated-pot-sticker.html">my long standing recipe for Chinese Dumplings</a>. There were a few small errors related to how to make and manipulate the dough which I have fixed.
+This is just a note to indicate that I updated <a href="/the-illustrated-pot-sticker.html">my long standing recipe for Chinese Dumplings</a>. There were a few small errors related to how to make and manipulate the dough which I have fixed.
 
 Just so you don't have to scan the page on archive.org to figure out what I did, the updates are as follows:
 

@@ -4,7 +4,7 @@ date: 2016-12-26
 author: psu
 ---
 
-Today the site goes “against brand” and covers a few things that were not completely terrible in 2016. Short and sweet. Note: since I already covered <a href="http://mutable-states.com/first-show-back.html">the PSO coming back</a> that obvious item is not in this list.
+Today the site goes “against brand” and covers a few things that were not completely terrible in 2016. Short and sweet. Note: since I already covered <a href="/first-show-back.html">the PSO coming back</a> that obvious item is not in this list.
 
 ####  Bloodborne
 

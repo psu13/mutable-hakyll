@@ -27,7 +27,7 @@ particular, it enables that smug "oh I would never shoot with flash" attitude
 which really means "I don't really care if the light I use is any good".
 
 All of this griping might seem hypocritical from a guy who [bought a
-D700](http://mutable-states.com/too-much-camera.html) at least
+D700](/too-much-camera.html) at least
 partly because of its high ISO performance. But, what can I say. There are
 times I find it useful. There are times it lets me make a picture I would not
 otherwise be able to make. But it doesn't really make the pictures better.
@@ -98,7 +98,7 @@ It's not clear to me that all of this is needed any more. If you have
 sufficient experience with your camera and are good at reading light, you can
 mostly trust your camera's "multi-segment" meter to get pretty close to the
 exposure that you want. Sure, you might have to [compensate for extreme
-tones](http://mutable-states.com/expose-yourself.html) once in a while, but
+tones](/expose-yourself.html) once in a while, but
 that's easily done. Finally, you can easily find out if you missed badly by
 quickly scanning the histogram of the picture on the back of your camera. Oh
 wait, that would be chimping...

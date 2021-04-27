@@ -4,7 +4,7 @@ date: 2011-06-24
 author: psu
 ---
 
-I bought a new bicycle yesterday. “But wait! You just bought a bike last year!“, you might be thinking. You probably are not thinking that since you’d have to be an obsessive reader of this web site to remember. But it might happen. <a href="http://mutable-states.com/bike-shopping.html">Yes, I bought a bike last year</a>. On paper it was the perfect bike for me. Steel frame: check. Nice blend of road bike speed with utilitarian versatility: check. Able to attach bags and fenders and such for longer trips: check. Great brand name for me (Surly): check. Reasonably comfortable yet efficient riding position: check. Well, I hated it.
+I bought a new bicycle yesterday. “But wait! You just bought a bike last year!“, you might be thinking. You probably are not thinking that since you’d have to be an obsessive reader of this web site to remember. But it might happen. <a href="/bike-shopping.html">Yes, I bought a bike last year</a>. On paper it was the perfect bike for me. Steel frame: check. Nice blend of road bike speed with utilitarian versatility: check. Able to attach bags and fenders and such for longer trips: check. Great brand name for me (Surly): check. Reasonably comfortable yet efficient riding position: check. Well, I hated it.
 
 I was confused that I hated it because it should have been perfect. My favorite bike of all time is the steel road bike I bought just after moving back to Pittsburgh. Here is how I bought that bike:
 

@@ -9,7 +9,7 @@ author: psu
 
 <h4>The Simplest Answer</h4>
 <p>
-<a href="http://mutable-states.com/the-golden-age-of-cameras-part-1.html">Use your iPhone</a>.
+<a href="/the-golden-age-of-cameras-part-1.html">Use your iPhone</a>.
 </p>
 <h4>The Next Simplest Answer</h4>
 <p>If you don&#8217;t want to read the rest of this article, then the answer I have for you is simple. What you want is the newest Canon point and shoot (or <a href="../../../01/08/camera-enough/index.html">Panasonic</a> if you can find it). Now you can get on with your life. Carry the camera in your pocket. Take the occasional picture when it comes up. This answer will work for 90% of you, including me. You just don&#8217;t know it.</p>

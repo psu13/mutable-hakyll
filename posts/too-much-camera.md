@@ -7,7 +7,7 @@ author: psu
 
 <p>After a lot of deliberation, I decided to pull the trigger on a D700. After only two days, I haven&#8217;t used it enough for to provide you with a in-depth and comprehensive review, <a href="http://www.youtube.com/watch?v=h_KIqdS1SO0">Top Gear</a> style. But I can say this: <em>Wow</em>.<br />
 <span id="more-2179"></span></p>
-<p>The D700, of course, is Nikon&#8217;s &#8220;smaller&#8221; and &#8220;more affordable&#8221; model of &#8220;full frame&#8221; digital camera. That is, the sensor in the camera is the same size as a piece of <a href="http://mutable-states.com/requiem-for-the-latent-image.html">35mm film used to be</a>. Nikon thinks this is so important they even gave a new name to the full frame cameras, calling them &#8220;FX&#8221; cameras. The older digital SLRs with the smaller sensors are now called &#8220;DX&#8221;.</p>
+<p>The D700, of course, is Nikon&#8217;s &#8220;smaller&#8221; and &#8220;more affordable&#8221; model of &#8220;full frame&#8221; digital camera. That is, the sensor in the camera is the same size as a piece of <a href="/requiem-for-the-latent-image.html">35mm film used to be</a>. Nikon thinks this is so important they even gave a new name to the full frame cameras, calling them &#8220;FX&#8221; cameras. The older digital SLRs with the smaller sensors are now called &#8220;DX&#8221;.</p>
 
 It took me a long time to convince myself that I wanted to pony up the extra money for an FX camera. After all, there is nothing sacred about 35m frame size. It&#8217;s just a historical coincidence. The supposed advantages of the FX cameras are easy to summarize and refute:
 

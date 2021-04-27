@@ -4,11 +4,11 @@ date: 2014-10-29
 author: psu
 ---
 
-I have always liked <a href="http://mutable-states.com/the-camera-i-want.html">small cameras</a>. All things being equal <a href="http://mutable-states.com/the-camera-we-want-redux.html">the smaller camera is always better</a>. Over the years I have done my share of whining about how terrible the smaller digital cameras are. But now I am here to tell you that those times are over. We are in a _golden age_ of small cameras.  
+I have always liked <a href="/the-camera-i-want.html">small cameras</a>. All things being equal <a href="/the-camera-we-want-redux.html">the smaller camera is always better</a>. Over the years I have done my share of whining about how terrible the smaller digital cameras are. But now I am here to tell you that those times are over. We are in a _golden age_ of small cameras.  
 
 There are now smaller cameras that will do almost anything you need. But the most impressive ones are also what ones that I least expected to get any good: the phone cameras. 
 
-I had my phone camera epiphany <a href="http://mutable-states.com/the-walking-dead.html">a few years back</a> after realizing that the phone (I use an iPhone, but what I say applies to most smart phone cameras, I imagine) was doing a credible job of standing in for my "camera that I take when I don't take the camera bag" camera of the time (a <a href="http://tleaves.com/2009/01/08/camera-enough/">Panasonic LX-3</a>). Since then the cameras have only gotten better. But let's review the core strengths:
+I had my phone camera epiphany <a href="/the-walking-dead.html">a few years back</a> after realizing that the phone (I use an iPhone, but what I say applies to most smart phone cameras, I imagine) was doing a credible job of standing in for my "camera that I take when I don't take the camera bag" camera of the time (a <a href="http://tleaves.com/2009/01/08/camera-enough/">Panasonic LX-3</a>). Since then the cameras have only gotten better. But let's review the core strengths:
 
 0. The camera is good enough in terms of image quality, responsiveness and general feature set.
 
@@ -54,7 +54,7 @@ Another aspect of the connectivity of modern cameras is how little we take advan
 
 1. The only cameras with usable wi-fi and cellular networking are the phones (and tablets), but the user interface for image sharing is sort of inside out. Consider that it's almost impossible to wirelessly transfer pictures from your phone to the computer that you probably have in your hotel room while on a trip with with your phone.
 
-	Instead what you have to do is send it to <a href="http://mutable-states.com/to-the-fog.html">the fog</a> and then all the way back down to your laptop, which is a phenomenal waste of time and resources.
+	Instead what you have to do is send it to <a href="/to-the-fog.html">the fog</a> and then all the way back down to your laptop, which is a phenomenal waste of time and resources.
 
 2. None of the more serious cameras make more than a pathetic attempt at utilizing networking in an effective way. We should be able to control and configure every single aspect of the camera from the comfort of a laptop or iPhone remote control. But you can't. You should be able to transfer pictures wireless for processing, but you can't. You should be able to use your phone as a cable release, but you can't. Flash setup and preview? Nope. It's horrible.
 
@@ -64,5 +64,5 @@ Consider that we've had professional and consumer digital cameras for coming up 
 
 To get the pictures where I want them I need to undertake at least 15 different steps (import, edit, rename, adjust, export, copy, backup, backup, backup, sync to devices, upload to Internet albums, etc) and none of the existing final delivery systems (flickr, smugmug, Apple photostream, iPhoto on the iPad, whatever) are actually decent to use. They are all awful in their own ways, but mostly they are awful because they don't connect to the tools you use to capture and process the image in the first place. Sound familiar? There is a *ton* of room for improvement in digital workflow, and most of it has to do with better integration of the various tools mostly on the *local* network, not the Internet. As long as card readers exist, we will have failed.
 
-Maybe some day I'll retire and make literally <a href="http://mutable-states.com/tens-of-dollars.html">tens of dollars</a> developing decent flow for me and other users who think like me. On the other hand maybe not.
+Maybe some day I'll retire and make literally <a href="/tens-of-dollars.html">tens of dollars</a> developing decent flow for me and other users who think like me. On the other hand maybe not.
 

@@ -4,7 +4,7 @@ date: 2011-09-11
 author: psu
 ---
 
-The bike computer that came with the <a href="http://mutable-states.com/consumer-know-thyself.html">new blue bike</a> in July is reading 385 miles. For some perspective, in the last few years, I doubt I’ve ever had a six month season go by where I rode much more than 400 miles. The six months that I had the Surly, according to the computer on that bike, I rode the thing 322 miles. It’s possible that I have an extra (say) 50 or 60 on that bike because the computer could have been broken or not installed. But the blue bike has still gone further in 6 weeks than I usually go in six months. Every time I ride I wonder why it’s so much better.
+The bike computer that came with the <a href="/consumer-know-thyself.html">new blue bike</a> in July is reading 385 miles. For some perspective, in the last few years, I doubt I’ve ever had a six month season go by where I rode much more than 400 miles. The six months that I had the Surly, according to the computer on that bike, I rode the thing 322 miles. It’s possible that I have an extra (say) 50 or 60 on that bike because the computer could have been broken or not installed. But the blue bike has still gone further in 6 weeks than I usually go in six months. Every time I ride I wonder why it’s so much better.
 
 The simplest answer is that the bike is better because my buddy Nathan was right. He’s been telling me for years that steel bikes suck and carbon fiber is the only way to fly. This is of course infuriating. Nathan is always right. But if I left it at that, we wouldn’t have much of a web page here.
 

@@ -36,4 +36,4 @@ In summary, this is awful. Here we have a platform built mostly in the 2000s tha
 
 You will note that I just suggested that something using REST and JSON would be better than ASCOM. This is what the world has come to.
 
-Maybe someone will see the light and fix all of this and build it right. Build it the way you would have in 2007 rather than 1995. They probably won't though, since all the only appreciation that they'll get is <a href="http://mutable-states.com/tens-of-dollars.html">tens of dollars, at most</a>.
+Maybe someone will see the light and fix all of this and build it right. Build it the way you would have in 2007 rather than 1995. They probably won't though, since all the only appreciation that they'll get is <a href="/tens-of-dollars.html">tens of dollars, at most</a>.

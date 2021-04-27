@@ -36,7 +36,7 @@ What you need:
 
 Cook the pasta until it's just past al dente and a bit soft (don't @ me). Drain. Put it back in the pan with the butter. Add the evaporated milk. Add the American cheese in pieces. Add the grated cheese a bit at a time. Stir it all around while the cheese melts. If it's not thick enough, add a bit of corn starch. Season with salt and pepper. Done.
 
-This takes about 20min and makes enough to feed two middle aged adults for a week, or one normal teenager for about a day. Make <a href="http://mutable-states.com/my-chili.html">my chili</a> and put it on top ... with some chili crisp ... and hot dogs.
+This takes about 20min and makes enough to feed two middle aged adults for a week, or one normal teenager for about a day. Make <a href="/my-chili.html">my chili</a> and put it on top ... with some chili crisp ... and hot dogs.
 
 **Fall**
 

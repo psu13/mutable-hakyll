@@ -4,9 +4,9 @@ date: 2009-08-17
 author: psu
 ---
 
-A couple of months ago Kodak announced that they would stop manufacturing <a href="https://en.wikipedia.org/wiki/Kodachrome">Kodachrome slide film</a>. Given that this is a product that has been continually available for longer than most current photographers have been alive, you would think that this was a pretty big deal. But no. The end result of the digital vs. film battle <a href="http://mutable-states.com/requiem-for-the-latent-image.html">was so predetermined</a> that even that bastion of irrational nostalgia: the Leica Users Group mailing list barely made a peep about it. The truth is that Kodachrome died in the 1980s when Fuji introduced Velvia.
+A couple of months ago Kodak announced that they would stop manufacturing <a href="https://en.wikipedia.org/wiki/Kodachrome">Kodachrome slide film</a>. Given that this is a product that has been continually available for longer than most current photographers have been alive, you would think that this was a pretty big deal. But no. The end result of the digital vs. film battle <a href="/requiem-for-the-latent-image.html">was so predetermined</a> that even that bastion of irrational nostalgia: the Leica Users Group mailing list barely made a peep about it. The truth is that Kodachrome died in the 1980s when Fuji introduced Velvia.
 
-So what did I do to mark this historic event? In a fit of <a href="http://mutable-states.com/false-nostalgia.html">irrational nostalgia</a>, I bought five of the last rolls of Kodachrome from B&H and cracked open a couple of my film cameras to get busy.
+So what did I do to mark this historic event? In a fit of <a href="/false-nostalgia.html">irrational nostalgia</a>, I bought five of the last rolls of Kodachrome from B&H and cracked open a couple of my film cameras to get busy.
 
 I shot one roll in my trusty <a href="https://www.cameraquest.com/konhex.htm">Konica Hexar</a>. I shot the another roll in my old Nikon 8008s SLR. Using the Hexar is a lot like using a larger fixed lens digital point and shoot except:
 

@@ -16,7 +16,7 @@ It's particularly horrible because one of the things that Mosaic prides itself o
 
 2. In the future, if you are putting together a set of recordings that are of historical importance, give them to me on a USB stick so that I can back them up.
 
-I guess we can also conclude that buying music on "physical media" as some sort of security blanket is even dumber than we thought. So yeah, go out there and <a href="http://mutable-states.com/lose-the-disk.html">throw away</a> all your disks. They are rotting away by themselves anyway.
+I guess we can also conclude that buying music on "physical media" as some sort of security blanket is even dumber than we thought. So yeah, go out there and <a href="/lose-the-disk.html">throw away</a> all your disks. They are rotting away by themselves anyway.
 
 I wonder if Mosaic has their master tapes backed up anywhere.
 

@@ -4,7 +4,7 @@ date: 2018-08-05
 author: psu
 ---
 
-As long time readers of this web site know, *Dark Souls* started out as a modest cult hit on the PS3, and the Xbox 360 and later spawned a small industry of Youtube uploaders and Twitch streamers once it hit Windows. Over the years I have painstakingly documented my relationship with this video game <a href="http://mutable-states.com/dark-souls-ate-my-brain.html">over</a> and <a href="http://mutable-states.com/summer-of-dark-souls.html">over</a> and <a href="http://mutable-states.com/suck-like-me-a-guide-to-dark-souls-pvp.html">over</a> again. I also played all the games from FromSoft after *Dark Souls* and enjoyed them all, probably to a degree not all that healthy for an old man gamer. But, I never got *Dark Souls* on a modern platform.
+As long time readers of this web site know, *Dark Souls* started out as a modest cult hit on the PS3, and the Xbox 360 and later spawned a small industry of Youtube uploaders and Twitch streamers once it hit Windows. Over the years I have painstakingly documented my relationship with this video game <a href="/dark-souls-ate-my-brain.html">over</a> and <a href="/summer-of-dark-souls.html">over</a> and <a href="/suck-like-me-a-guide-to-dark-souls-pvp.html">over</a> again. I also played all the games from FromSoft after *Dark Souls* and enjoyed them all, probably to a degree not all that healthy for an old man gamer. But, I never got *Dark Souls* on a modern platform.
 
 For the last few years I have occasionally pondered buying a Windows PC just to have an install of the PC version of *Dark Souls* so that I did not have to trot out my decrepit Xbox 360 or PS3 to do the occasional run through the bosses. Laziness always won out though, as almost nothing in life is worse than setting up Windows again, and I never set up the box.
 
@@ -74,7 +74,7 @@ Some day maybe I'll try and do speed or challenge runs... but probably not:
 
 #### Suck Like Me All Over Again
 
-Having written the <a href="http://mutable-states.com/suck-like-me-a-guide-to-dark-souls-pvp.html">definitive treatise on how to suck at *Dark Souls* PVP</a> I of course had to see if all of the techniques that I had worked so hard to learn still worked. 
+Having written the <a href="/suck-like-me-a-guide-to-dark-souls-pvp.html">definitive treatise on how to suck at *Dark Souls* PVP</a> I of course had to see if all of the techniques that I had worked so hard to learn still worked. 
 
 The good news: they still work. I'm still bad. What I've never learned how to do is manipulate *good* players so that I can hit them, especially if they are using fast weapons. Eventually I just get lost and backstabbed or chipped to death or whatever. I have tried to get better at this, but it's really not much use.
 

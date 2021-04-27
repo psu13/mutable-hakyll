@@ -15,7 +15,7 @@ CGP Grey worries about a lot of things. Here is an incomplete list in no particu
 - Needing to talk to people.
 - Spoilers in movie trailers.
 - Tiny errors in his youtube videos.
-- <a href="http://mutable-states.com/the-latent-object.html">Latent objects</a>.
+- <a href="/the-latent-object.html">Latent objects</a>.
 
 I did not know these things about Grey before a few weeks ago. I only found these things out after finding the podcast that he does with Brady Haren called <a href="http://www.hellointernet.fm">Hello Internet</a>. I have known about Haren for a long time because I am a big fan of his excellent <a href="http://www.sixtysymbols.com">science and mathematics videos from The Univeristy of Nottingham</a>. I happened across this character CGP Grey from the related links on one of Brady's videos, only to find that Grey himself has a <a href="https://www.youtube.com/user/CGPGrey?&ab_channel=CGPGrey">hugely popular youtube channel</a> filled with pithy informational animations.
 

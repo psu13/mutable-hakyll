@@ -24,6 +24,6 @@ This one is a cheat because I didn't "finish" it yet. I don't like Tetris. I don
 
 **1. Ico** (Platformy adventure/puzzle game)
 
-Slow pacing, a crappy third person camera, and a seemingly endless puzzle-filled escort quest. I <href ="http://mutable-states.com/my-brain-on-ico.html">suffered a lot with this game</a>. But reaching the end, I was surprised to find out that a video game can actually generate an emotional response more complicated than adrenaline filled euphoria. Since this is a list of 2005 games, I also have to include Shadow of the Colossus which provides a similar experience, though the game is drastically different in construction and execution.
+Slow pacing, a crappy third person camera, and a seemingly endless puzzle-filled escort quest. I <href ="/my-brain-on-ico.html">suffered a lot with this game</a>. But reaching the end, I was surprised to find out that a video game can actually generate an emotional response more complicated than adrenaline filled euphoria. Since this is a list of 2005 games, I also have to include Shadow of the Colossus which provides a similar experience, though the game is drastically different in construction and execution.
 
 An optimist would look at this list and declare that I have grown in my appreciation of the craft and art of the video game, and am now more open to new experiences, rather than being closed up in the narrow genres that I used to enjoy. They might be right. I even bought Indigo Prophecy, although I'm not that far into it yet. Madden and Halo are still more fun though.

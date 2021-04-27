@@ -20,7 +20,7 @@ Computers are stupid machines. This is a fact. At their core they understand a r
 
 And so on.
 
-Programming languages, as <a href="http://mutable-states.com/the-ultimate-goto.html">you might recall</a> allow programmers to solve their problems at a <a href="http://mutable-states.com/the-abstraction-distraction-part-1.html">higher level of abstraction</a>. This achieves at least two things:
+Programming languages, as <a href="/the-ultimate-goto.html">you might recall</a> allow programmers to solve their problems at a <a href="/the-abstraction-distraction-part-1.html">higher level of abstraction</a>. This achieves at least two things:
 
 1. You don't have to break your code down into those stupid tiny bits.
 

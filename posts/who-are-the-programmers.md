@@ -73,7 +73,7 @@ Each hex value here is one instruction plus some arguments. Don't worry too much
 
 **Step 2: Review**
 
-We have written a simple program in a simple language. The program doesn't do much but it illustrates every static fact that you need to know about computer programs. There are constructs to load and store values. There are instructions for simple arithmetic. And most importantly you can use looping and conditionals (CPX, BNE) to express decision making and repetition. With these tools you can now write programs to do anything you want (for why, see <a href="http://mutable-states.com/turing-complete.html">this other article</a>).
+We have written a simple program in a simple language. The program doesn't do much but it illustrates every static fact that you need to know about computer programs. There are constructs to load and store values. There are instructions for simple arithmetic. And most importantly you can use looping and conditionals (CPX, BNE) to express decision making and repetition. With these tools you can now write programs to do anything you want (for why, see <a href="/turing-complete.html">this other article</a>).
 
 What is also notable about this program is that it takes a fairly compact *static* form. It's just a few lines of text, and an even smaller amount of binary data. The whole thing can be represented as a fairly small number of bits. But, when you load it into the right kind of machine, you get a cascade of magic which you can capture and actually *see* the machine do just what you told it to.
 

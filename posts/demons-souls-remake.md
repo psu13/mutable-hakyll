@@ -18,7 +18,7 @@ Ten years and about the length of the current pandemic ago I wrote this about a 
 
 I actually did quit *Demon's Souls* at the second boss I tried. I went into a skinny tunnel with a giant spider at one end. The spider shot a giant fireball at me. I had nowhere to dodge even if I knew how to dodge. I was dead. I took the disk out of the machine and didn't pick up the game again until many years later when I beat it by cheating with an item duplication exploit.
 
-Of course, FromSoft's second major release was *Dark Souls*, and <em><a href="http://mutable-states.com/summer-of-dark-souls-remastered.html">we all know how that went</a></em>.
+Of course, FromSoft's second major release was *Dark Souls*, and <em><a href="/summer-of-dark-souls-remastered.html">we all know how that went</a></em>.
 
 Now a remake of *Demon's Souls*, built by BluePoint Games, is a launch title on the new PS5. Through a unusual set of circumstance I happened to get one of the new machines pretty close to launch and have spent some time playing through this game again. This time without cheating.
 

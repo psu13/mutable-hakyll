@@ -14,7 +14,7 @@ I tried again, and got murdered again. My enchanted Claymore hit for all of 102 
 
 To review. <em>Dark Souls</em> is a third person action RPG/dungeon crawler where you take a character through the world of Lordran, which is full of various creatures who are out to kill you. Your goal is to navigate the world, defeat enemies, beat the bosses, collect "souls", and make it to the end of the game where you will learn something about the final fate of you and the world.
 
-The game is centered around a melee and magic combat engine. There is hand to hand combat, ranged combat with bows and thrown objects, magic spells, faith-based miracles, and a kind of fire-based magic called pyromancy. As I have <a href="http://mutable-states.com/dark-souls-ate-my-brain.html">mentioned before</a>, the combat engine is very satisfying.
+The game is centered around a melee and magic combat engine. There is hand to hand combat, ranged combat with bows and thrown objects, magic spells, faith-based miracles, and a kind of fire-based magic called pyromancy. As I have <a href="/dark-souls-ate-my-brain.html">mentioned before</a>, the combat engine is very satisfying.
 
 Your progression through the game is measured by the number of souls you collect. You can use souls to:
 

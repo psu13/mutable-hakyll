@@ -6,7 +6,7 @@ author: psu
 
 For a lot of years when I made chili about half the time it would end up tasting like tomato sauce with beans in it. There is almost no greater disappointment in the food world than something called chili that tastes like tomato sauce with beans in it. The secret to avoiding this is not so much in the particular mix of peppers and other spices you use, because if you use the spice mix wrong you still get tomato sauce and beans. The secret, I think, is practice and adjusting the seasoning in real time through the entire process of making the dish, instead of just at the end.
 
-I talked about that a bit <a href="http://mutable-states.com/making-the-food-taste-like-the-food.html">here</a>, but I never gave the details of the chili recipe because I think at the time I figured that everyone knows how to make chili. But, over the years people have asked for the recipe so I'm recording it now so I can copy and paste it later.
+I talked about that a bit <a href="/making-the-food-taste-like-the-food.html">here</a>, but I never gave the details of the chili recipe because I think at the time I figured that everyone knows how to make chili. But, over the years people have asked for the recipe so I'm recording it now so I can copy and paste it later.
 
 **Note**: I'm not sure how much good the mechanical steps of this recipe will be to you. The reason is that I don't really understand how this recipe works. I don't really think about it. I just mix things together. So expect to tune this to your particular wants and needs. As with everything it's only a starting point to true enlightenment.
 

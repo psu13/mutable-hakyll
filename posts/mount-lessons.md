@@ -4,7 +4,7 @@ date: 2012-05-02
 author: psu
 ---
 
-I've had my Astro-Physics Mach1GTO equatorial mount for about two months now. The mount has continued to perform better than I could have expected, and I expected a lot. So while it may seem like I have already <a href="http://mutable-states.com/value-for-money.html">gushed uncontrollably about it</a> I have just a few more things to say before I just go back to happily using the thing.
+I've had my Astro-Physics Mach1GTO equatorial mount for about two months now. The mount has continued to perform better than I could have expected, and I expected a lot. So while it may seem like I have already <a href="/value-for-money.html">gushed uncontrollably about it</a> I have just a few more things to say before I just go back to happily using the thing.
 
 <h4>
 Setup and Alignment</h4>
@@ -44,7 +44,7 @@ Here is what I like about this setup routine:
 <h4>
 Stability and Consistency</h4>
 
-In the last six weeks I've continued to make progress on my projects to make rudimentary video images of all the <a href="http://mutable-states.com/deep-sky-projects.html">Messier and Herschel 400 objects</a>. This has gone very well, and I've added images of a few dozen new objects to my little collection. Two nights of this work stand out. They might be the same night, but since I do not keep good notes, I have forgotten. On April 18th I captured what was for me a record number of images in a relatively short amount of time. You can see all 29 of them <a href="http://www.flickr.com/photos/79904144@N00/sets/72157629494796258/">here</a>. Being able to work that fast with the mount and the camera brings up the intriguing possibility of doing an entire Messier Marathon with the camera. But I'm not really interested in that. Anyway, the consistency of the mount allows you do work this way. Once aligned and calibrated the mount just never seems to go "off". Object after object can hit the small chip of the video camera. 
+In the last six weeks I've continued to make progress on my projects to make rudimentary video images of all the <a href="/deep-sky-projects.html">Messier and Herschel 400 objects</a>. This has gone very well, and I've added images of a few dozen new objects to my little collection. Two nights of this work stand out. They might be the same night, but since I do not keep good notes, I have forgotten. On April 18th I captured what was for me a record number of images in a relatively short amount of time. You can see all 29 of them <a href="http://www.flickr.com/photos/79904144@N00/sets/72157629494796258/">here</a>. Being able to work that fast with the mount and the camera brings up the intriguing possibility of doing an entire Messier Marathon with the camera. But I'm not really interested in that. Anyway, the consistency of the mount allows you do work this way. Once aligned and calibrated the mount just never seems to go "off". Object after object can hit the small chip of the video camera. 
 
 In addition, the mount seems impervious to wind. Wind is the enemy of stability and good tracking, yet one of the best nights I had in the last six weeks was on a night where the gusts were up to 20-25mph in my back yard. Remarkable.
 

@@ -8,7 +8,7 @@ If there is one inescapable fact of life in our dynamic technological society, i
 
 If they don't like computer animated films, it is because the people who produced those films did work that they do not appreciate, or worked in a way that resulted in a bad film. It's not the computer that made a bad movie.
 
-Admittedly, I have something of an <a href="http://mutable-states.com/digital-generational-stupidity.html">axe to grind here</a>. I work with computers every day and am overly sensitive to claims that creative work on a computer is somehow of less value than that done "by hand". But, I do think that the effect of the machines on art forms that until now had used more manual methods is somewhat misunderstood.
+Admittedly, I have something of an <a href="/digital-generational-stupidity.html">axe to grind here</a>. I work with computers every day and am overly sensitive to claims that creative work on a computer is somehow of less value than that done "by hand". But, I do think that the effect of the machines on art forms that until now had used more manual methods is somewhat misunderstood.
 
 In the context of animated films, the argument went that the hand-animated films had a depth of character and individual style that was missing from the more modern work because in more modern works there was not one artist dedicated to doing most or all of the animation associated with a given character. Because of this, the argument goes, computer animated films "can never" have the distinct stamp of that individual style. The logic, I guess, is that since the computer allows for mass production and automation of the animation to some degree, it must follow that the only animation that you can make with a computer will look mass produced and automated.
 

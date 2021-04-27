@@ -6,7 +6,7 @@ author: psu
 
 I haven't written anything down lately because I've spent the last couple of months working out various details in my workflow for taking pictures of tiny dim objects trillions of miles away from the Earth. Astrophotography is perhaps the most purely technical of all of the possible photographic disciplines. Everywhere you turn you are up against a lot of problems.
 
-The first thing we learned on this web site is that <a href="http://mutable-states.com/value-for-money.html">a really good equatorial mount</a> solves a huge number of problems. The mount will point your telescope with ease and precision, so you don't have to worry about hunting around in the sky for really small things. It will also track objects in the sky with great accuracy, so you can use a relatively simple camera and still take pictures of reasonable quality even at fairly long exposure times. You can do pretty well with this fairly simple setup, and even get some pictures that look pretty impressive. Like this:
+The first thing we learned on this web site is that <a href="/value-for-money.html">a really good equatorial mount</a> solves a huge number of problems. The mount will point your telescope with ease and precision, so you don't have to worry about hunting around in the sky for really small things. It will also track objects in the sky with great accuracy, so you can use a relatively simple camera and still take pictures of reasonable quality even at fairly long exposure times. You can do pretty well with this fairly simple setup, and even get some pictures that look pretty impressive. Like this:
 
 > <a href="http://www.flickr.com/photos/79904144@N00/7240962760/" title="M90-2012-05-20-10x-PS by psu13, on Flickr"><img src="http://farm8.staticflickr.com/7090/7240962760_15a30a4e9a.jpg" width="500" height="372" alt="M90-2012-05-20-10x-PS"></a>
 
@@ -14,7 +14,7 @@ This picture is hiding a lot of problems though. I've hidden them from you by bu
 
 > <a href="http://1.bp.blogspot.com/-SIAXR2ceHOw/UI8ql010o-I/AAAAAAAAAgI/fLvIU1fKJOs/s1600/M90-2012-05-20-10x.jpg" imageanchor="1" style=""><img border="0" height="238" width="320" src="http://1.bp.blogspot.com/-SIAXR2ceHOw/UI8ql010o-I/AAAAAAAAAgI/fLvIU1fKJOs/s320/M90-2012-05-20-10x.jpg" /></a>
 
-Here we can see some of the same issues that I discussed in <a href="http://mutable-states.com/ccd-picture-techniques-part-1.html">part 1</a>. I've used the healing brush to substitute for flat frames, and it only sort of works. I've hidden a lot of background noise by burying the low values. And you can also see that as good as the mount is, at more than two minutes of exposure the stars are sort of oval shaped instead of nice and sharp.
+Here we can see some of the same issues that I discussed in <a href="/ccd-picture-techniques-part-1.html">part 1</a>. I've used the healing brush to substitute for flat frames, and it only sort of works. I've hidden a lot of background noise by burying the low values. And you can also see that as good as the mount is, at more than two minutes of exposure the stars are sort of oval shaped instead of nice and sharp.
 
 After a few months of learning with the simple camera I decided to upgrade my goals. I wanted to be able to take longer exposures and I wanted to fine-tune my pre-processing. 
 

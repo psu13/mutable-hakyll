@@ -107,7 +107,7 @@ Using this scheme, I have tested the following configurations of focal reducing 
 
 3. The MFR-5 with a 10mm spacer behind the entire assembly. This gives you F3.5 or so. This combination also produced obvious vignetting. 
 
-4. Finally, the <a href="http://www.amazon.com/Celestron-6-3-Reducer-Corrector-Telescopes/dp/B00009XVHZ">Celestron .63x</a> combined with the <em>front lens</em> of the MFR5 the standard 1.25" diagonal. This also gave me around F3.5. I used this odd combination because I fit in my diagonal without bottoming out on the mirror. Since I <a href="http://mutable-states.com/telescope-mounts.html">switched to the GEM</a> I stopped using the diagonal so this is not that critical anymore. Still, it's a nice combination.
+4. Finally, the <a href="http://www.amazon.com/Celestron-6-3-Reducer-Corrector-Telescopes/dp/B00009XVHZ">Celestron .63x</a> combined with the <em>front lens</em> of the MFR5 the standard 1.25" diagonal. This also gave me around F3.5. I used this odd combination because I fit in my diagonal without bottoming out on the mirror. Since I <a href="/telescope-mounts.html">switched to the GEM</a> I stopped using the diagonal so this is not that critical anymore. Still, it's a nice combination.
 
 The next test I plan to run if I ever get a clear night is to combine the .63x reducer with the Antares. I expect to get to around F3.5 or hopefully a bit less. I might also try the <a href="http://www.amazon.com/Meade-Focal-Reducer-Variable-T-Adapter/dp/B00020XDIE/">Meade .33x focal reducer</a>.
 

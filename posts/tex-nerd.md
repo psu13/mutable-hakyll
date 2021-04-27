@@ -59,7 +59,7 @@ This is currently the most fertile ground for nerding out with $\rm\TeX$. Long g
 
 1. Charter. Charter is another great choice IMHO. You use the `XCharter` package. There are a few choices of math macros that fit well with this font set, just google for how to use it.
 
-1. Lucida. I talked about Lucida <a href="http://mutable-states.com/yak-shaving-and-typography.html">in my previous missive on this topic</a>.
+1. Lucida. I talked about Lucida <a href="/yak-shaving-and-typography.html">in my previous missive on this topic</a>.
 
 1. Any of the above with `eulervm` for math. The <a href="https://en.wikipedia.org/wiki/AMS_Euler">Euler math fonts</a> are pretty cool. They were originally designed by Zapf on commission from the AMS and first used by Knuth and Ronald Graham for the book <a href="https://en.wikipedia.org/wiki/Concrete_Mathematics">Concrete Math</a>, which covered various mathematical topics in computer science. I like the upright but swooshy style of it, esp. for papers on category theory for some reason. It fits particularly well with Palatino ... but Charter and Lucida work well too.
 

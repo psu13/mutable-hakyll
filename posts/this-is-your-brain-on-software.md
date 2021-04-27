@@ -8,7 +8,7 @@ In his new book, <a href="https://itun.es/us/I7YDH.l">How Music Works</a>, David
 
 >Though software is promoted as being an unbiased tool that helps us do anything we want, all software has inherent biases that make working one way easier than another.
 
-This sentence made me very happy because it illustrates an understanding of what software does to your brain. The biases that he is talking about here have a very specific origin and unavoidable effects on what software does or does not allow you to do with the "things" that you use it to manipulate. As I have discussed previously, it's all about <a href="http://mutable-states.com/software-models-and-hello-world.html">models</a>.
+This sentence made me very happy because it illustrates an understanding of what software does to your brain. The biases that he is talking about here have a very specific origin and unavoidable effects on what software does or does not allow you to do with the "things" that you use it to manipulate. As I have discussed previously, it's all about <a href="/software-models-and-hello-world.html">models</a>.
 
 Recall that models are the structures that we software engineers use to organize the otherwise formless memory of the computer. The goal is to match the model to the task that the software is intended to perform. Some examples:
 

@@ -4,7 +4,7 @@ date: 2020-05-07
 author: psu
 ---
 
-Almost three years ago I wrote my "last" piece on Bloodborne, having beat <a href="http://mutable-states.com/the-orphan-and-me-final-words-on-bloodborne.html">the Orphan of Kos</a> using a character at base level. If the upload dates on my youtube videos are an accurate reflection of real time, that fight took me about a month to finally win and I was pretty much done with the game after that.
+Almost three years ago I wrote my "last" piece on Bloodborne, having beat <a href="/the-orphan-and-me-final-words-on-bloodborne.html">the Orphan of Kos</a> using a character at base level. If the upload dates on my youtube videos are an accurate reflection of real time, that fight took me about a month to finally win and I was pretty much done with the game after that.
 
 But, in the modern twitch streaming, or classic speed running parlance, I had always planned for this "run" to be "all bosses". Which meant that I actually had three more fights to go:
 

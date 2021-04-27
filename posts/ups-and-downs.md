@@ -24,7 +24,7 @@ This is of course laughable. Get over it. The Internet is the populated by the s
 
 **Up: My LP Collection**
 
-I finally <a href="http://mutable-states.com/the-airplay-turntable-kit.html">set up my turntable</a> this year. Buying LPs at Jerry's has never been more fun. Don't kid yourself though. This whole Vinyl Renaissance meme is moronic. Vinyl has gone from basically zero sales to slightly more than basically zero sales in the last few years. I expect it to top out at basically zero sales around the time the hipster backlash hits and everyone decides to <a href="http://vintagecassettes.com">go back to cassettes</a>.
+I finally <a href="/the-airplay-turntable-kit.html">set up my turntable</a> this year. Buying LPs at Jerry's has never been more fun. Don't kid yourself though. This whole Vinyl Renaissance meme is moronic. Vinyl has gone from basically zero sales to slightly more than basically zero sales in the last few years. I expect it to top out at basically zero sales around the time the hipster backlash hits and everyone decides to <a href="http://vintagecassettes.com">go back to cassettes</a>.
 
 **Up: The Pittsburgh Holiday Restaurant Tour**
 

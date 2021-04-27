@@ -4,7 +4,7 @@ date: 2020-02-21
 author: psu
 ---
 
-Long time readers will know that I am a fan of <a href="http://mutable-states.com/first-show-back.html">the Pittsburgh Symphony Orchestra</a> even if my <a href="http://mutable-states.com/the-sound-of-music.html">relationship</a> with <a href="http://mutable-states.com/classical-music-is-dead-or-at-least-terminal.html">classical music</a> as a whole is a bit more ambivalent. 
+Long time readers will know that I am a fan of <a href="/first-show-back.html">the Pittsburgh Symphony Orchestra</a> even if my <a href="/the-sound-of-music.html">relationship</a> with <a href="/classical-music-is-dead-or-at-least-terminal.html">classical music</a> as a whole is a bit more ambivalent. 
 
 You can't go to as many PSO (and other) concerts as I have without occasionally wondering about how to get more “new” audience into the seats. As such, I have a few thoughts about that here.
 
@@ -12,11 +12,11 @@ As a disclaimer to start: there are a lot of historical, economic, and social re
 
 **The Big Picture**
 
-The Classical Music concert as an institution can be an intimidating, overly ritualistic, and stultifying musical experience seemingly designed to remove all emotional connection and energy from your body and soul. I get it. It can also be the <a href="http://mutable-states.com/the-sound-of-music.html">best thing you have ever heard in your life</a>. Classical music concerts are among the last places on Earth where you can actually hear instruments being played just in empty space and never touched by microphones. As such they are also one of the few places where live performances truly sound better than their recorded counterparts possibly could. You have truly never heard any particular piece of orchestral music until you have heard it live in a good hall from a good seat. I'd like more people in the world to have experienced this first hand.
+The Classical Music concert as an institution can be an intimidating, overly ritualistic, and stultifying musical experience seemingly designed to remove all emotional connection and energy from your body and soul. I get it. It can also be the <a href="/the-sound-of-music.html">best thing you have ever heard in your life</a>. Classical music concerts are among the last places on Earth where you can actually hear instruments being played just in empty space and never touched by microphones. As such they are also one of the few places where live performances truly sound better than their recorded counterparts possibly could. You have truly never heard any particular piece of orchestral music until you have heard it live in a good hall from a good seat. I'd like more people in the world to have experienced this first hand.
 
 **The Details**
 
-We all know the drill. Classical music is old music for old people played by old people in old halls in the pitch dark while you are made to wear uncomfortable clothes where you can't clap at the wrong times and must otherwise sit in absolutely still silence and rapt attention lest you get the evil eye from some 85 year old man yelling at clouds. Why even bother? Well, again, there is <a href="http://mutable-states.com/the-sound-of-music.html">that sound</a>. But anyway...
+We all know the drill. Classical music is old music for old people played by old people in old halls in the pitch dark while you are made to wear uncomfortable clothes where you can't clap at the wrong times and must otherwise sit in absolutely still silence and rapt attention lest you get the evil eye from some 85 year old man yelling at clouds. Why even bother? Well, again, there is <a href="/the-sound-of-music.html">that sound</a>. But anyway...
 
 Don't believe me? Believe <a href="https://www.npr.org/2019/10/07/767903777/the-2010s-classical-musics-decade-of-reckoning">Anne Midgette</a>, who until recently was the long time classical music writer for the Washington Post:
 

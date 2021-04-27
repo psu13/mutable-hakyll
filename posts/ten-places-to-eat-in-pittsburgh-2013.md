@@ -4,7 +4,7 @@ date: 2013-12-25
 author: psu
 ---
 
-It's been a couple of years since <a href="http://mutable-states.com/10-things-to-eat-in-pittsburgh-before-you-are-dead.html">I did one of these lists</a> so here we go again. The food scene has changed a lot in Pittsburgh over the last ten years or so, but it feels like it is growing and changing even faster now than before. So there are a of new things on this list. The new things don't really _replace_ the older things on the old list. But they deserve mention, so that the list isn't always the same old things over and over again.
+It's been a couple of years since <a href="/10-things-to-eat-in-pittsburgh-before-you-are-dead.html">I did one of these lists</a> so here we go again. The food scene has changed a lot in Pittsburgh over the last ten years or so, but it feels like it is growing and changing even faster now than before. So there are a of new things on this list. The new things don't really _replace_ the older things on the old list. But they deserve mention, so that the list isn't always the same old things over and over again.
 
 With that in mind, and in no particular order, here we go.
 

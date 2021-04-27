@@ -17,4 +17,4 @@ The main course was chicken roasted under a cast iron pan with mashed potatoes, 
 
 By this time I was in a good enough mood that it didn’t even bother me that the chocolate truffle “cake” was a bit more like one of those stupid flourless monstrosities than real cake. I would rather have had the caramel pots de créme that we got the first time we went. But, the truffle cake had a light fluffy texture and nice whipped cream, so I could not complain.
 
-So, in conclusion, get your veggie friends here by fooling them with the name, then make them eat meat. This place joins Point Brugge and <a href="http://mutable-states.com/dish.html">DISH</a> as fabulous neighborhood eateries with distinctive style and excellent execution.
+So, in conclusion, get your veggie friends here by fooling them with the name, then make them eat meat. This place joins Point Brugge and <a href="/dish.html">DISH</a> as fabulous neighborhood eateries with distinctive style and excellent execution.

@@ -4,7 +4,7 @@ date: 2009-12-14
 author: psu
 ---
 
-Having <a href="http://mutable-states.com/bored-and-lonely-in-middle-earhhhhhhhhh-ferelden.html">given up on Dragon Age</a> I jumped into arguably the second epic production of the Fall Season: Assasin&#8217;s Creed 2. You might remember that <a href="http://tleaves.com/2007/12/27/the-assassin-prince-of-metal-splinter-cell-gear-in-persia/index.html">Assassin&#8217;s Creed</a> was a fantastic running, jumping, climbing, stabbing engine wrapped up in a overall game  that sucked your very will to live. In a lot of ways, AC2 is better. But in a lot of ways, it&#8217;s just more of the same.
+Having <a href="/bored-and-lonely-in-middle-earhhhhhhhhh-ferelden.html">given up on Dragon Age</a> I jumped into arguably the second epic production of the Fall Season: Assasin&#8217;s Creed 2. You might remember that <a href="http://tleaves.com/2007/12/27/the-assassin-prince-of-metal-splinter-cell-gear-in-persia/index.html">Assassin&#8217;s Creed</a> was a fantastic running, jumping, climbing, stabbing engine wrapped up in a overall game  that sucked your very will to live. In a lot of ways, AC2 is better. But in a lot of ways, it&#8217;s just more of the same.
 
 #### 1. The Tutorial that Never Ends
 

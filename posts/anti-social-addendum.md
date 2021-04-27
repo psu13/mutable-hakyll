@@ -4,7 +4,7 @@ date: 2017-11-20
 author: psu
 ---
 
-After I put up the <a href="http://mutable-states.com/anti-social-social-networking.html">original article</a> I got a private piece of feedback from my old partner in crime, <a href="http://tleaves.com">the other Pete</a> that said:
+After I put up the <a href="/anti-social-social-networking.html">original article</a> I got a private piece of feedback from my old partner in crime, <a href="http://tleaves.com">the other Pete</a> that said:
 
 > You need a rule 5: Only use one.
 

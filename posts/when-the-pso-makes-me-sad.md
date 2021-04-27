@@ -30,7 +30,7 @@ The last part of the show covers Adam and Eve and was mercifully free of video. 
 
 Before going on I do have to say this: it's a testament to how strong the musical foundation of the Haydn is that all of that bullshit could happen on top of it and it *still* almost worked. There were a few stirring moments when you could forget about the shit burrito and just let the music wash over you. But only a few, and that was nowhere near enough.
 
-This whole sad experience just serves to further illustrate the <a href="http://mutable-states.com/classical-music-is-dead-or-at-least-terminal.html">zombie status</a> of classical music in the culture at large. The orchestras are scared to death (perhaps correctly) that they are increasingly irrelevant in the minds of "the youngs" and this causes them to go to desperate lengths to produce content that they think might bring those people, whoever they might be, into the theater. There are of course three problems with this overall scheme:
+This whole sad experience just serves to further illustrate the <a href="/classical-music-is-dead-or-at-least-terminal.html">zombie status</a> of classical music in the culture at large. The orchestras are scared to death (perhaps correctly) that they are increasingly irrelevant in the minds of "the youngs" and this causes them to go to desperate lengths to produce content that they think might bring those people, whoever they might be, into the theater. There are of course three problems with this overall scheme:
 
 1. The people doing these productions *have no idea* how to appeal to the audience that they seek.
 

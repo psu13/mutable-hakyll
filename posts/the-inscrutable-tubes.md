@@ -20,7 +20,7 @@ But here's the thing: it sort of *is* made of tubes. You put data in your tubes 
 
 If you break down the ways we structure large systems to fight their inherent complexity, you also end up with a picture that is not all that different from the one above of the Internet. Every long-time software person that I know of has a similar of way of thinking about or internally visualizing complicated systems, and it would not be entirely inaccurate to say this: it's all made of tubes. Where does this picture come from? Let us review.
 
-Large software systems are put together by <a href="http://mutable-states.com/the-abstraction-distraction-part-1.html">combining small software systems</a>. Programming languages have long given us ways to build the small structures, usually as data types or higher level modules. In most systems that you would work with these days, any given module typically has three components that you need to keep track of:
+Large software systems are put together by <a href="/the-abstraction-distraction-part-1.html">combining small software systems</a>. Programming languages have long given us ways to build the small structures, usually as data types or higher level modules. In most systems that you would work with these days, any given module typically has three components that you need to keep track of:
 
 1. A well-defined public programming interface, or API. 
 
@@ -90,7 +90,7 @@ So here's something that happens a lot. Most large applications have a phased na
 
 5. Let the user see what the new version of the document looks like.
 
-This is the classic <a href="http://mutable-states.com/the-abstraction-distraction-part-1.html">MVC</a> application loop.
+This is the classic <a href="/the-abstraction-distraction-part-1.html">MVC</a> application loop.
 
 What makes this structure work is that it is understood that no part of the system moves to the next phase of the loop until *everyone* is ready. If you have some components in phase (4) and some already running ahead in phase (5), you will be sad because step (4) has not yet correctly computed what you should display. The question that comes up is: how do you enforce this lock step nature on the world?
 

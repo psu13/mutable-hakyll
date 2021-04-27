@@ -10,7 +10,7 @@ There are three parts to the puzzle:
 
 1. Mount setup, especially polar alignment.
 
-2. Picking the right <a href="http://mutable-states.com/a-subject-for-yet-another-cloudy-night.html">effective focal length</a>.
+2. Picking the right <a href="/a-subject-for-yet-another-cloudy-night.html">effective focal length</a>.
 
 3. Setting up the computer for image capture.
 
@@ -84,7 +84,7 @@ Now that the scope is set up, here is the rest of the checklist.
 
 5. Take the mask off and go back inside with the hand controller for the mount.  Now you can sit inside and point the telescope at what you want to see. Adjust the video with AmCap. Do screen captures to record your conquests. 
 
-I use <a href="http://www.skyhound.com/skytools.html">Skytools</a> to make lists of things to see. Skytools is very useful, but I find the UI clunky. I would like someone to take his databases and make a leaner planning program for the iPad. You could make <a href="http://mutable-states.com/tens-of-dollars.html">tens of dollars</a> doing this.
+I use <a href="http://www.skyhound.com/skytools.html">Skytools</a> to make lists of things to see. Skytools is very useful, but I find the UI clunky. I would like someone to take his databases and make a leaner planning program for the iPad. You could make <a href="/tens-of-dollars.html">tens of dollars</a> doing this.
 
 Lately, I've been working in the Virgo Cluster of galaxies because it's almost summer and this is my last chance until next year. A month ago I was happy to get this out of focus and not so detailed shot of M87 and some companions. I was just amazed that there was anything there at all:
 

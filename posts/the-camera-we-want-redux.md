@@ -50,7 +50,7 @@ author: psu
 <p style="margin:10pt">
 <a href="http://www.flickr.com/photos/79904144@N00/8363581165/" title="P1090018 by psu13, on Flickr"><img src="http://farm9.staticflickr.com/8505/8363581165_69d3d554b2.jpg" width="375" height="500" alt="P1090018" /></a></p>
 <p>Yes I could buy faster lenses for the Nikon, but they are all bigger and weigh more. The new Nikon 85/1.8 weighs three times as much as the Olympus 45/1.8 for the same FOV. This means that the lens by itself weighs more than the entire camera+lens combo. Only you can decide if this weight is worth the extra stop of high ISO (and marginally smaller depth of field).</p>
-<p>For me the latest 4/3rds mirrorless cameras finally fulfill the promise of the small, fast, high quality digital camera that <a href="http://mutable-states.com/the-camera-we-want.html">I've been asking for for five years</a>. The only thing that is missing is the optical viewfinder, but that's not a deal breaker for me.</p>
+<p>For me the latest 4/3rds mirrorless cameras finally fulfill the promise of the small, fast, high quality digital camera that <a href="/the-camera-we-want.html">I've been asking for for five years</a>. The only thing that is missing is the optical viewfinder, but that's not a deal breaker for me.</p>
 
 #### Note on the Nikon AF/VR bug ####
 

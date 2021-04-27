@@ -10,7 +10,7 @@ Here is what you do.
 
 1. Boil water to cook a box of noodles. Any noodles you like will do. My parents used to just make spaghetti that they had torn in half as they dropped it in the boiling water. Chinese noodles are a bit shorter than spaghetti, so while this mutilation would be disturbing to some, it makes sense in context.
 
-2. While the water is boiling, make the sauce. The sauce is easy, but I will extract the recipe <a href="http://mutable-states.com/my-moms-peanut-sauce.html">for my mom's peanut/sesame sauce</a> and reproduce it here.
+2. While the water is boiling, make the sauce. The sauce is easy, but I will extract the recipe <a href="/my-moms-peanut-sauce.html">for my mom's peanut/sesame sauce</a> and reproduce it here.
 
 	>Start with a couple of tablespoons of hot water. Add to this a couple of table spoons of peanut butter. The best kind to use is JIF or Peter Pan or something. You can’t use the stuff that is nothing but organic ground nuts because the fake stuff has emulsifiers in it that hold the sauce together. If this bothers you, get the Whole Foods version of JIF. It works about as well.
 
