@@ -28,7 +28,7 @@ Having done some due diligence I went and got the latest Haskell again. I had tw
 
 1. Look at the current state of the tool chain from the point of view of an experienced programmer who doesn't have much experience with it.
 
-1. Look at two interesting tools for transforming text into other text: <a href="https://pandoc.org">pandoc</a> for general processing and <a href="https://jaspervdj.be/hakyll/">hakyll</a> for making web sites.
+1. Look at two interesting tools for transforming text into other text: <a href="https://pandoc.org">pandoc</a> for general processing and <a href="https://jaspervdj.be/hakyll/">Hakyll</a> for making web sites.
 
 So I did these things, and set up a toolchain that would let me read the `pandoc` and `hakyll` code to try and understand some pieces of it. Here is are one or two things that I think.
 

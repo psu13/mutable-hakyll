@@ -80,11 +80,11 @@ I would also love for there to be a tool that is not a text editor extension for
 
 Let me end this on a positive note. 
 
-After fighting through the toolchain wall for a while, I did finally get all the pieces together to be able to download, browse and build the code for <a href=https://pandoc.org">pandoc</a> and <a href="https://jaspervdj.be/hakyll/">hakyll</a>.
+After fighting through the toolchain wall for a while, I did finally get all the pieces together to be able to download, browse and build the code for <a href=https://pandoc.org">pandoc</a> and <a href="https://jaspervdj.be/hakyll/">Hakyll</a>.
 
 I was pretty surprised how well the `vs.code` and `emacs` haskell extensions navigate a relatively large code base. Jumping around to types and functions was pretty easy and always fast. I'm used to working in a giant `xcode` environment where this barely works at all. Even something as primitive as a `TAGS` file in `emacs` worked pretty well.
 
-After all this dickering around I think I know how to make a `hakyll` web site that uses markdown for text and $\KaTeX$ for math. Now I just have to wait five more years to generate the motivation to port all my old articles with the right links and meta-data, and also somehow clone the CSS. The CSS will, of course, kill me.
+After all this dickering around I think I know how to make a Hakyll web site that uses markdown for text and $\KaTeX$ for math. Now I just have to wait five more years to generate the motivation to port all my old articles with the right links and meta-data, and also somehow clone the CSS. The CSS will, of course, kill me.
 
 #### Post Posting Note
 
