@@ -38,7 +38,7 @@ Things I like about the new setup:
 
 1. Something is turing all the quote marks into "smart" quote marks.
 
-1. With the various changes the site can actually run mostly locally on any computer you want. So if you want your own personal copy you just have to pull it down and build it. This also makes spot testing changes to the site a lot easier since all of the navigation stays local now. I should have set things up like this before, but was too lazy.
+1. With the various changes the site can actually run mostly locally on any computer you want. This also makes spot testing changes to the site a lot easier since all of the navigation stays local now. I should have set things up like this before, but was too lazy.
 
 1. Now I can explain to people what the difference is between `let` binding and the `<-` operator in haskell.
 
