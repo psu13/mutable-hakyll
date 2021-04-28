@@ -12,11 +12,11 @@ If there was a single food item *of* the pandemic in my circles it was chili cri
 
 Thanks to my <a href="https://www.youtube.com/watch?v=nkTQTS2RSCU">favorite cooking channel on youtube</a> I had a few months head start on the masses and a decent stock of the stuff at home. I am also lucky to live near an excellent Asian grocery, which keeps a good stock of the stuff:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068282561/in/dateposted-public/" title="IMG_0714"><img src="https://live.staticflickr.com/65535/50068282561_e60e2df6de_w.jpg" width="400" height="300" alt="IMG_0714"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068282561/in/dateposted-public/" title="IMG_0714"><img src="https://live.staticflickr.com/65535/50068282561_e60e2df6de_w.jpg" width="400" height="300" alt="IMG_0714"></a>
 
 Anyway. If you want a life changing chili crisp experience, it's easy. Just make this peanut butter toast:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068272036/in/dateposted-public/" title="IMG_0216"><img src="https://live.staticflickr.com/65535/50068272036_8b49eae293_w.jpg" width="300" height="400" alt="IMG_0216"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068272036/in/dateposted-public/" title="IMG_0216"><img src="https://live.staticflickr.com/65535/50068272036_8b49eae293_w.jpg" width="300" height="400" alt="IMG_0216"></a>
 
 
 **Frozen Hot Dogs**
@@ -25,7 +25,7 @@ It had never occurred to me to store hot dogs frozen and ready to go on any whim
 
 Also, hot dog rice with chili crisp is great:
 
-><a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50067730928/in/dateposted-public/" title="IMG_0933"><img src="https://live.staticflickr.com/65535/50067730928_4ebeb1f440_w.jpg" width="400" height="400" alt="IMG_0933"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+><a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50067730928/in/dateposted-public/" title="IMG_0933"><img src="https://live.staticflickr.com/65535/50067730928_4ebeb1f440_w.jpg" width="400" height="400" alt="IMG_0933"></a>
 
 Sohla is a hero by the way. You should make anything she says to make.
 
@@ -52,7 +52,7 @@ Yes I know I'm mixing unit conventions. This is just how it worked out. Go find 
 
 The real genius though is getting someone else to roll out the crusts and put them in the pan. In this case Karen does it for me, and I still get the credit for mixing everything correctly. Win Win.
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50060326221/in/dateposted-public/" title="IMG_0988"><img src="https://live.staticflickr.com/65535/50060326221_6d7acc0532_w.jpg" width="400" height="400" alt="IMG_0988"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50060326221/in/dateposted-public/" title="IMG_0988"><img src="https://live.staticflickr.com/65535/50060326221_6d7acc0532_w.jpg" width="400" height="400" alt="IMG_0988"></a>
 
 
 **Programming is Bad**
@@ -95,7 +95,7 @@ One of the true blessings in Pittsburgh right now is that <a href="https://lapri
 
 As a bonus, make her mapo tofu recipe as well. Then take that shit and *put it on a hot dog, with chili crisp*.
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068441236/in/dateposted-public/" title="IMG_0668"><img src="https://live.staticflickr.com/65535/50068441236_3a000feab4_w.jpg" width="400" height="300" alt="IMG_0668"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50068441236/in/dateposted-public/" title="IMG_0668"><img src="https://live.staticflickr.com/65535/50068441236_3a000feab4_w.jpg" width="400" height="300" alt="IMG_0668"></a>
 
 You're welcome.
 

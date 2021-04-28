@@ -58,7 +58,7 @@ Cut the sandwich in half and serve with fresh corn on the cob. There is no bette
 
 When you get it right, it looks like this:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/43371977895" title="BLT"><img src="https://live.staticflickr.com/1846/43371977895_2daf57f9da_c.jpg" width="800" height="599" alt="BLT"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/43371977895" title="BLT"><img src="https://live.staticflickr.com/1846/43371977895_2daf57f9da_c.jpg" width="800" height="599" alt="BLT"></a>
 
 Go get it.
 

@@ -19,7 +19,7 @@ Sir Patrick Stewart hit sonnet 142 a week ago ... and has apparently taken a bre
 
 The small telescope continues to please. Here is the _Veil Nebula_, a giant supernova remnant that is still expanding fast enough for the motion to be <a href="https://www.youtube.com/watch?v=C4JihreUQiI">noticeable from Earth</a>:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50370624738/in/dateposted-public/" title="Eastern Veil Nebula"><img src="https://live.staticflickr.com/65535/50370624738_682804a1d1_z.jpg" width="640" height="480" alt="Eastern Veil Nebula"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50370624738/in/dateposted-public/" title="Eastern Veil Nebula"><img src="https://live.staticflickr.com/65535/50370624738_682804a1d1_z.jpg" width="640" height="480" alt="Eastern Veil Nebula"></a>
 
 I've never been in a place dark enough to try and see this with my eyeballs in a traditional telescope. But it looked pretty cool on my TV last night with the little telescope sitting out in the yard under the Pittsburgh Light Dome. Oh about that.
 

@@ -14,13 +14,13 @@ I figured I could get a sandwich, or a hot dog or something to go along with the
 
 It probably looked something like this:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49791334567/in/dateposted-public/" title="psu_20150925-03651"><img src="https://live.staticflickr.com/65535/49791334567_b81f3b83f4_z.jpg" width="480" height="640" alt="psu_20150925-03651"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49791334567/in/dateposted-public/" title="psu_20150925-03651"><img src="https://live.staticflickr.com/65535/49791334567_b81f3b83f4_z.jpg" width="480" height="640" alt="psu_20150925-03651"></a>
 
 When you ordered fries at the O they told you that you could pick between "small", "medium", and "large" but really all they did is cook a whole basket of fries and then upend it on to a tray. The only difference in the orders was the size of the boat that sat under the fries and was not able to actually hold the pile within its bounds. 
 
 While the O was most famous for its stupidly large fries, the actual magic of the place was the hot dogs. The O was always my favorite hot dog place in the world. They pulled off the miracle of having a chili-cheese-onion dog that was better than just a plain dog with mustard. As I got older I stopped getting the cheese, but the dog remained as good as ever:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49790479603/in/dateposted-public/" title="psu_20170224-IMG_0295"><img src="https://live.staticflickr.com/65535/49790479603_0b4ffa3e90_z.jpg" width="480" height="640" alt="psu_20170224-IMG_0295"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49790479603/in/dateposted-public/" title="psu_20170224-IMG_0295"><img src="https://live.staticflickr.com/65535/49790479603_0b4ffa3e90_z.jpg" width="480" height="640" alt="psu_20170224-IMG_0295"></a>
 
 The hot dogs at the O were so good that they even got a special shout out in this <a href="https://www.nytimes.com/2002/07/03/dining/high-spots-in-a-nation-of-hot-dog-heavens.html">NYT survey article about regional hot dog styles</a>: 
 

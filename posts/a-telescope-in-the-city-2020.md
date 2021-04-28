@@ -8,11 +8,11 @@ In the summer of 2010, through circumstances that I don't quite remember, I came
 
 Over the next year or so I <a href="/tinkering-with-the-stars.html">slowly collected the equipment and skills</a> needed to set up a system like this for myself. The trick in all of this is to be patient and slowly move towards the goal one small step at time. Eventually I had put together a pretty powerful equatorially mounted telescope tube, camera system, and a bit of image processing know-how. I could set up and get stuff like this:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/6271201264/in/album-72157629128096583/" title="M27-2011-10-22-Stacked-10-PS"><img src="https://live.staticflickr.com/6215/6271201264_63ae975e4a_w.jpg" width="400" height="300" alt="M27-2011-10-22-Stacked-10-PS"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/6271201264/in/album-72157629128096583/" title="M27-2011-10-22-Stacked-10-PS"><img src="https://live.staticflickr.com/6215/6271201264_63ae975e4a_w.jpg" width="400" height="300" alt="M27-2011-10-22-Stacked-10-PS"></a>
 
 or this:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/7030740283/in/album-72157629128096583/" title="M51-2012-03-29-stacked-5x"><img src="https://live.staticflickr.com/7278/7030740283_24db276d57_w.jpg" width="400" height="298" alt="M51-2012-03-29-stacked-5x"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/7030740283/in/album-72157629128096583/" title="M51-2012-03-29-stacked-5x"><img src="https://live.staticflickr.com/7278/7030740283_24db276d57_w.jpg" width="400" height="298" alt="M51-2012-03-29-stacked-5x"></a>
 
 It was pretty easy. All you had to do each night was this "short" checklist of setup items to make the telescope point at the right place and take pictures in focus: <a href="/grab-and-go.html">http://mutable-states.com/grab-and-go.html</a>.
 
@@ -78,15 +78,15 @@ The telescope puts out a low power wifi network that you use to talk to it from 
 
 It has a "Live" video mode that can show you bright stars and things and another mode called "Enhanced vision" that does automatic image stacking. In the stacking mode it appears to take exposures that top out at about 15 to 30 seconds long depending on how the tracking is going. It then combines the frames together to improve the image quality over time. You can point it at something dim and have it chew for 10 or 20 minutes. The pictures get slowly better as the machine accumulates data and then you get images like this:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50304636386/in/album-72157715841088797/" title="20200903-eVscope-20200904-005620"><img src="https://live.staticflickr.com/65535/50304636386_e7acd03ffa_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-005620"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50304636386/in/album-72157715841088797/" title="20200903-eVscope-20200904-005620"><img src="https://live.staticflickr.com/65535/50304636386_e7acd03ffa_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-005620"></a>
 
 or
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50303952183/in/album-72157715841088797/" title="20200903-eVscope-20200904-011510"><img src="https://live.staticflickr.com/65535/50303952183_1ba75e672c_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-011510"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50303952183/in/album-72157715841088797/" title="20200903-eVscope-20200904-011510"><img src="https://live.staticflickr.com/65535/50303952183_1ba75e672c_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-011510"></a>
 
 or
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50304636371/in/album-72157715841088797/" title="20200903-eVscope-20200904-024455"><img src="https://live.staticflickr.com/65535/50304636371_7aef54eaf5_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-024455"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50304636371/in/album-72157715841088797/" title="20200903-eVscope-20200904-024455"><img src="https://live.staticflickr.com/65535/50304636371_7aef54eaf5_w.jpg" width="400" height="400" alt="20200903-eVscope-20200904-024455"></a>
 
 These are about as good as I got stacking mallincam screen shots back in the day. And, the computer in the telescope is doing all of it. The machine stores the raw frames on an SD card and it might be possible at some point to fetch them off and fuss with them yourself. But that's not what this machine is for. This is for relatively quick and almost "live" views of dim objects that you have no hope of seeing from a suburban back yard, but which look pretty good in 5 to 10 (or up to 30) minutes through this tiny telescope.
 
@@ -98,7 +98,7 @@ That said, this system will also *not* get you pictures that come close to the i
 
 Personally I'm looking forward to using this thing to do more quick and dirty galaxy hunting. I always loved looking at galaxies. The last astrophotograph that I took with my high powered CCD system was also my favorite ... a medium deep shot of the galaxy cluster in Coma Berenices. Here it is, annotated with all the objects that you can see in the frame:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/8748698122/in/album-72157631169684214/" title="NGC4889_2013_05_16_27x300s-annotated"><img src="https://live.staticflickr.com/7292/8748698122_0d500c4abc_w.jpg" width="400" height="300" alt="NGC4889_2013_05_16_27x300s-annotated"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/8748698122/in/album-72157631169684214/" title="NGC4889_2013_05_16_27x300s-annotated"><img src="https://live.staticflickr.com/7292/8748698122_0d500c4abc_w.jpg" width="400" height="300" alt="NGC4889_2013_05_16_27x300s-annotated"></a>
 
 Galaxies are dim, but usually compact. So I think this small telescope will be able to do a decent job with them.
 

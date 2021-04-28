@@ -24,7 +24,7 @@ Don't believe me? Believe <a href="https://www.npr.org/2019/10/07/767903777/the-
 
 I think we are on the right track here, but I personally sort of like a nice concert hall. 
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49569364216/in/dateposted-public/" title="IMG_0005"><img src="https://live.staticflickr.com/65535/49569364216_58974b52ae_z.jpg" width="640" height="480" alt="IMG_0005"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49569364216/in/dateposted-public/" title="IMG_0005"><img src="https://live.staticflickr.com/65535/49569364216_58974b52ae_z.jpg" width="640" height="480" alt="IMG_0005"></a>
 
 Also, I will point out that over the last couple of years I spent a bit of time seeing “pop” music shows (David Byrne, Rhiannon Giddens, Alison Krauss, and jazz at Alphabet City) in the city that played in much the same spaces and/or to audiences in much the same age range as the PSO plays in Heinz hall. I think the problem is not so much the space itself as what happens in it. 
 

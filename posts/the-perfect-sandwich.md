@@ -18,7 +18,7 @@ In other places this would be a problem. I have often joked that in Paris the pr
 
 Happily though, you are in Florence. Being in Florence means that all you have to do is walk a few hundred feet to the South of the Duomo:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43559385284/in/dateposted-public/" title="map2"><img src="https://farm2.staticflickr.com/1852/43559385284_383ef60c0e_m.jpg" width="234" height="240" alt="map2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43559385284/in/dateposted-public/" title="map2"><img src="https://farm2.staticflickr.com/1852/43559385284_383ef60c0e_m.jpg" width="234" height="240" alt="map2"></a>
 
 I know about this place because my <a href="http://tleaves.com">old buddy Pete from tleaves</a> has been telling me to go there for years. Now because of him *you* know about it too.
 
@@ -26,7 +26,7 @@ At that spot, you will find a sandwich stand called *I Fratellini* where for a m
 
 Here is the list to pick from:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/30409854788/in/dateposted-public/" title="psu_20180714-1151-IMG_4674"><img src="https://farm2.staticflickr.com/1853/30409854788_a361935fee_m.jpg" width="180" height="240" alt="psu_20180714-1151-IMG_4674"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/30409854788/in/dateposted-public/" title="psu_20180714-1151-IMG_4674"><img src="https://farm2.staticflickr.com/1853/30409854788_a361935fee_m.jpg" width="180" height="240" alt="psu_20180714-1151-IMG_4674"></a>
 
 Now, reasonable people can disagree about what the best sandwich on this board is as long as they all agree that it's #15: *Finnochiona and cream cheese and arugula* (you can add the greens to any sandwich on the board for an extra euro, I believe). This is especially true if the "cream cheese" that day is actually a thing called *burratina*, which I assume is some sort of smaller younger ball of *burrata*, which is the fresh mozzarella filled with an extra creamy cheese inside.
 
@@ -56,7 +56,7 @@ Anyway, the list of perfect sandwiches I have had in my life:
 
 3. A well constructed BLT, made in August, is the domestic sandwich that is closest to reaching a level of perfection that can compete with the stuff in Florence. There is a page over at Serious Eats <a href="https://www.seriouseats.com/2016/08/blt-manifesto-how-to-make-best-bacon-lettuce-tomato-sandwich.html">that goes over the right way to make a good BLT</a>. I have personally achieved this a few times. Even once this year:
 
-	> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43371977895/in/photostream" title="BLT"><img src="https://farm2.staticflickr.com/1846/43371977895_2daf57f9da_m.jpg" width="240" height="180" alt="BLT"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43371977895/in/photostream" title="BLT"><img src="https://farm2.staticflickr.com/1846/43371977895_2daf57f9da_m.jpg" width="240" height="180" alt="BLT"></a>
 	
 4. Over at You Suck at Cooking, the <a href="https://www.youtube.com/watch?v=iqhJvadqtAc">Sandwich of Justice</a> and the <a href="https://www.youtube.com/watch?v=uyLncniiJ6Q">Turkey Sandwich of Justice</a> are both well put together.
 
@@ -95,7 +95,7 @@ Two closing notes.
 First, if you happen to be standing near *I Fratellini* and for some reason the board is not speaking to you, you can walk another few hundred feet to <a href="https://www.tripadvisor.com/Restaurant_Review-g187895-d14902796-Reviews-Antica_Porchetteria_Granieri_1916-Florence_Tuscany.html">Antica Porchetteria Granieri 1916
 </a>:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43559430524/in/photostream" title="pork"><img src="https://farm2.staticflickr.com/1887/43559430524_0455829240_m.jpg" width="240" height="177" alt="pork"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/43559430524/in/photostream" title="pork"><img src="https://farm2.staticflickr.com/1887/43559430524_0455829240_m.jpg" width="240" height="177" alt="pork"></a>
 
 and get a $6 Porchetta sandwich that will change your life. As far as I can tell they cook one whole pig every day or two and cut it up into sandwiches until they run out. The product here is a little too big to eat while walking, but it's sublime anyway.
 

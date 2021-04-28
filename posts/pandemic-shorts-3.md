@@ -44,13 +44,13 @@ Fall in Pittsburgh has proven to be one of the few good things to hit in 2020.
 
 Go take a look:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50446192001/in/photostream" title="20201010-PA102035"><img src="https://live.staticflickr.com/65535/50446192001_c1dc966ef2_c.jpg" width="800" height="600" alt="20201010-PA102035"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50446192001/in/photostream" title="20201010-PA102035"><img src="https://live.staticflickr.com/65535/50446192001_c1dc966ef2_c.jpg" width="800" height="600" alt="20201010-PA102035"></a>
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50502810183/in/album-72157716607343578/" title="20201011-IMG_2584"><img src="https://live.staticflickr.com/65535/50502810183_7e9a10e7e3_c.jpg" width="800" height="600" alt="20201011-IMG_2584"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50502810183/in/album-72157716607343578/" title="20201011-IMG_2584"><img src="https://live.staticflickr.com/65535/50502810183_7e9a10e7e3_c.jpg" width="800" height="600" alt="20201011-IMG_2584"></a>
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50503529186/in/album-72157716607343578/" title="20201014-IMG_2645"><img src="https://live.staticflickr.com/65535/50503529186_da29573924_c.jpg" width="800" height="600" alt="20201014-IMG_2645"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50503529186/in/album-72157716607343578/" title="20201014-IMG_2645"><img src="https://live.staticflickr.com/65535/50503529186_da29573924_c.jpg" width="800" height="600" alt="20201014-IMG_2645"></a>
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50502811518/in/album-72157716607343578/" title="20201018-IMG_2748"><img src="https://live.staticflickr.com/65535/50502811518_3f375cba90_c.jpg" width="800" height="600" alt="20201018-IMG_2748"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/50502811518/in/album-72157716607343578/" title="20201018-IMG_2748"><img src="https://live.staticflickr.com/65535/50502811518_3f375cba90_c.jpg" width="800" height="600" alt="20201018-IMG_2748"></a>
 
 
 

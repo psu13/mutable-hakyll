@@ -93,7 +93,7 @@ As the program runs you can watch the gates turn on and off. If you know enough 
 
 On the top right is the "debugger", which shows you the contents of the machine's memory and provides controls for running the program step by step or all at once:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/22986185741/in/dateposted-public/" title="memory"><img src="https://farm1.staticflickr.com/573/22986185741_4bc5a2d57c.jpg" width="500" height="225" alt="memory"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/22986185741/in/dateposted-public/" title="memory"><img src="https://farm1.staticflickr.com/573/22986185741_4bc5a2d57c.jpg" width="500" height="225" alt="memory"></a>
 
 For this screen shot I had the machine stopped right after it had stored the value 1 into the memory location $30. You can also see the other 1 right next to it in location $31 from a previous run.
 

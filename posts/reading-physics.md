@@ -12,7 +12,7 @@ Even as an undergraduate I was a lazy bastard and this was too much hard work, s
 
 Fast forward to 2012. In 2012 this graph was all over the nerd Internet. It is the reduction of the data that told the physicists that the Higgs boson exists:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/29656270041/in/photostream" title="higgs-boson-graph"><img src="https://c2.staticflickr.com/9/8124/29656270041_b9dc8ff049_z.jpg" width="640" height="596" alt="higgs-boson-graph"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/29656270041/in/photostream" title="higgs-boson-graph"><img src="https://c2.staticflickr.com/9/8124/29656270041_b9dc8ff049_z.jpg" width="640" height="596" alt="higgs-boson-graph"></a>
 
 The bump tells you that they found the data they wanted. I had read a lot of the popular press accounts of where the Higgs comes from and how the experiments at the LHC were searching for it. One thing that struck me about this search was the heavy use of computing and simulation to both direct the experiments and collect and reduce the data. So I got curious about the nature of this bump and the where our confidence in its meaning comes from. 
 

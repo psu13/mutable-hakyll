@@ -38,6 +38,6 @@ Serve this on white rice, preferably short grain and a little sticky. If you *mu
 
 When you are done it should look like this:
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/30252899408/in/dateposted-public/" title="Image from iOS (1)"><img src="https://farm2.staticflickr.com/1883/30252899408_8f1d53812d_m.jpg" width="240" height="240" alt="Image from iOS (1)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/30252899408/in/dateposted-public/" title="Image from iOS (1)"><img src="https://farm2.staticflickr.com/1883/30252899408_8f1d53812d_m.jpg" width="240" height="240" alt="Image from iOS (1)"></a>
 
 You're welcome.

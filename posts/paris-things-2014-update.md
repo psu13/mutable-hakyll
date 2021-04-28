@@ -130,7 +130,7 @@ This is the one huge famous museum that we go to regularly. At the wrong time of
 
 There is also this great view:
 
-> <a href="https://www.flickr.com/photos/79904144@N00/20607646273/in/photostream" title="DSC_20050524-03783"><img src="https://farm6.staticflickr.com/5683/20607646273_b7386f850f_c.jpg" width="800" height="532" alt="DSC_20050524-03783"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a href="https://www.flickr.com/photos/79904144@N00/20607646273/in/photostream" title="DSC_20050524-03783"><img src="https://farm6.staticflickr.com/5683/20607646273_b7386f850f_c.jpg" width="800" height="532" alt="DSC_20050524-03783"></a>
 <p>
 
 **St. Chapelle (1st)**

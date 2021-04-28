@@ -46,7 +46,7 @@ Now, download the Olympus app for your iPhone and fire it up.
 
 Now the camera will spend about ten seconds saying that it is "starting the Wi-Fi" and then it will who you a QR code that you are supposed to capture with your phone. I shit you not.
 
-> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/34676124481/in/dateposted-public/" title="IMG_2163"><img src="https://c1.staticflickr.com/5/4274/34676124481_c0d86e45cd_z.jpg" width="640" height="480" alt="IMG_2163"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/34676124481/in/dateposted-public/" title="IMG_2163"><img src="https://c1.staticflickr.com/5/4274/34676124481_c0d86e45cd_z.jpg" width="640" height="480" alt="IMG_2163"></a>
 
 At this point you are already sad. This code has been in the oven so long that when they started QR codes were still a thing.
 
