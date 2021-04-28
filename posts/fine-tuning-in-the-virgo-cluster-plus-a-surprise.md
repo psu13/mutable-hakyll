@@ -14,7 +14,7 @@ There are three parts to the puzzle:
 
 3. Setting up the computer for image capture.
 
-**Mount and Alignment**
+#### Mount and Alignment
 
 The first two go hand in hand. So we will cover them in an interleaved fashion. It is axiomatic that the performance of the mount determines the focal length you can use. Since I am cheap, I bought an inexpensive Celestron mount (the CG-5) with relatively crude mechanics. This means that it has rather large tracking errors which would be magnified greatly by a long focal length. In addition, I am lazy so I have not set up an autoguider to correct those tracking errors. This means:  
 
@@ -33,6 +33,7 @@ Second, at F3.5 to F4:
 > <a href="http://www.flickr.com/photos/79904144@N00/5804143138/" title="M51 Screen shot 2011-06-05 at 11.32 PM by psu13, on Flickr"><img src="http://farm3.static.flickr.com/2589/5804143138_52693ddc4e.jpg" width="500" height="375" alt="M51 Screen shot 2011-06-05 at 11.32 PM"></a> 
 
 Finally, at F5 or a bit more:
+
 > <a href="http://www.flickr.com/photos/79904144@N00/5789412377/" title="M51 Screen shot 2011-06-02 at 12.17.39 AM by psu13, on Flickr"><img src="http://farm6.static.flickr.com/5023/5789412377_f5f0c572e9.jpg" width="500" height="370" alt="M51 Screen shot 2011-06-02 at 12.17.39 AM"></a> 
 
 The shot at F3 has way too much vignetting to really be usable. At F3.5 things are a lot better. The tracking is a tiny bit worse, but still tolerable. You can see a lot of detail in the object. Finally, at F5 the object is a nicer size, but we are right on the edge of what the mount can manage without guiding. The stars are a bit fat and the detail in the object can get blurred.
@@ -70,7 +71,7 @@ So, things to watch out for when setting up a Celestron CG-5:
 
 Finally, I like to align with a high power eyepiece and switch to the camera after. This calibrates the pointing system with a smaller field of view, which in my experience means you get better pointing.If all of this seems like a lot of work, it is. Last night I spent about 90 minutes doing trying to make sure that I could repeatably get a good polar alignment in a systematic fashion. I can't really say I succeeded, because I was still confused about a few things. Also, I only got to spend an hour actually <em>looking</em> at anything. But The M51 capture above made it worth it.
 
-**The Rest**
+#### The Rest
 
 Now that the scope is set up, here is the rest of the checklist.
 
@@ -116,7 +117,7 @@ and M88:
 
 > <a href="http://www.flickr.com/photos/79904144@N00/5793351470/" title="M88 Screen shot 2011-06-02 at 11.47.52 PM by psu13, on Flickr"><img src="http://farm4.static.flickr.com/3261/5793351470_488f6c3b24.jpg" width="500" height="372" alt="M88 Screen shot 2011-06-02 at 11.47.52 PM"></a> 
 
-**Finally, a Surprise**
+#### Finally, a Surprise
 
 One thing I've been doing to make myself feel better is to revisit objects I looked at last month and try to do better this month. Along these lines, I've taken a bunch of pictures of that old favorite, the Whirlpool Galaxy M51. Here is my first one from two months ago:
 
