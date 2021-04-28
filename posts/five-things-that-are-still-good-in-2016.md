@@ -30,7 +30,7 @@ You can now make photons in a superposition state where they are <a href="http:/
 
 The Cubs won the World Series by winning one of the craziest Game 7's in the  history of the game. This game seemed over, then was tied, then was *rain delayed* and then was finally over. Sheesh.
 
-##### Bonus item: Antonin Dvorak
+#### Bonus item: Antonin Dvorak
 
 I think Dvorak might be underrated. After coincidentally hearing two live performances of two of his most famous and overplayed works, I have to say that they hold up much better than a lot of other most famous and overplayed works. Dvorak is the master of the <a href="https://www.youtube.com/watch?v=SaDvTWKt_p8">warm midrange chord</a>, usually in the violas and cellos. He will throw one of these out into the room and just melt your brain and heart at the same time. Anyway, go into 2017 with a listen to the American Quartet or the Symphony number 9. They will make you smile.
 
