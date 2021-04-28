@@ -56,7 +56,7 @@ So I ended up downloading the demo to <a href="http://www.cyanogen.com/maxim_mai
 
 1. It has a streamlined engine for image pre-processing and stacking. You set it up once and hit one button and it goes. This is great.
 
-2. It has a super <a href=http://pinpoint.dc3.com">plate solving utility</a> that can figure out where your mount is pointed and automatically center things for you. This is great if you want to take pictures of the same target over multiple nights.
+2. It has a super <a href="http://pinpoint.dc3.com">plate solving utility</a> that can figure out where your mount is pointed and automatically center things for you. This is great if you want to take pictures of the same target over multiple nights.
 
 Maxim also has some nice utilities for taking a long series of pictures with multiple (RGB) filters. This makes it possible to set up a "run" for the night and then go inside and watch more NFL football. There are even people that do completely automatic capture with Maxim and a scripting program. In fact, automatic astrophotography may be the one place where people actually have taken effective advantage of COM scripting for something besides enterprise IT business logic.
 

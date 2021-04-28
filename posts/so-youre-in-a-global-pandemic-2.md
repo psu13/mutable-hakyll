@@ -65,7 +65,7 @@ I concluded that I like the stones the best, but not the first <a href="https://
 
 So, all in all I spent about six to seven times what I like to pay for a new knife on widgets for making knives sharper. Good times.
 
-As I said, there are dozens of youtube videos about hand sharpening at all levels of nerd angst. I think the two best that I've seen are <a href="https://www.youtube.com/watch?v=2Vu6Dq00v7I">this straightforward tutorial by Helen Rennie</a> or the <a href=https://www.youtube.com/watch?v=ixCnCvDUKQ8">head mounted POV video</a> from Kenji if you can watch it without getting sick.
+As I said, there are dozens of youtube videos about hand sharpening at all levels of nerd angst. I think the two best that I've seen are <a href="https://www.youtube.com/watch?v=2Vu6Dq00v7I">this straightforward tutorial by Helen Rennie</a> or the <a href="https://www.youtube.com/watch?v=ixCnCvDUKQ8">head mounted POV video</a> from Kenji if you can watch it without getting sick.
 
 So I took the sharpening stones and mangled one of the cheap chef's knives with it. Then I did the same to the old Chinese cleaver that I never use. Then I tried the "better" sharpening stones. Then a miracle happened! The Chinese cleaver actually got sharp enough to slice tomatoes sideways! Armed with this new found confidence ... I shopped for cheap Chinese cleavers, of course.
 
