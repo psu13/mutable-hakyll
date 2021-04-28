@@ -24,7 +24,7 @@ Finally, along the way I also made a new improvements:
 
 1. Made all the links to other pages on the site relative.
 
-1. Simplified the top level page to remove the useless teaser text for eac post. Sharp eyed readers will now note that the home page and the archive page are basically the same. So why have both? Maybe some day change the home page to something else.
+1. Simplified the top level page to remove the useless teaser text for each post. Sharp eyed readers will now note that the home page and the archive page are basically the same. So why have both? Maybe some day change the home page to something else.
 
 Things I like about the new setup:
 
