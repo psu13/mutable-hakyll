@@ -10,3 +10,5 @@ watch: site
 
 sync:
 	sh ./sync
+
+.PHONY: sync
