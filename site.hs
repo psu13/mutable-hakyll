@@ -20,8 +20,8 @@ main = hakyll $ do
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
-    
-    match "katexjs/*" $ do
+
+    match "katex/**" $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -91,8 +91,20 @@ main = hakyll $ do
             renderRss myFeedConfiguration feedCtx posts
 --------------------------------------------------------------------------------
 
+-- file copy utilities.
+
+single :: Pattern -> Rules ()
+single f = match f $ do
+    route   idRoute
+    compile copyFileCompiler
+
+directory :: (Pattern -> Rules a) -> String -> Rules a
+directory act f = act $ fromGlob $ f ++ "/**"
+    
+feedSize :: Int
 feedSize = 20
 
+myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Mutable States"
     , feedDescription = "Things I Write About the States of Things"
