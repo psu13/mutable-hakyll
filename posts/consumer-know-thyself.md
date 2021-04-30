@@ -1,5 +1,5 @@
 ---
-title: Consumer
+title: "Consumer: Know Thyself"
 date: 2011-06-24
 author: psu
 ---
