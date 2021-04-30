@@ -70,6 +70,16 @@ article .header {
   color: #555;
 }
 
+article .footnotes hr {
+  border-width:0;
+  margin:0em;
+}
+
+article .footnotes {
+  margin:0;
+  padding:0;
+}
+
 body {
   margin: 0 auto;
   padding: 0; 
