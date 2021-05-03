@@ -5,6 +5,7 @@ author: psu
 ---
 
 A wise man once said:
+
 >A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable.
 
 Since you are no doubt an erudite reader, you'll know that the wise man was Leslie Lamport, a computer scientist, who among other things studied the problems inherent in making groups of computers accomplish things cooperatively. It's more complicated than you might imagine. 
@@ -14,6 +15,7 @@ As far as I can tell Lamport said this in 1987, and the systems that he was talk
 Of course, these days everyone uses the Internet to share things. And, from what you read in the tech press, the next frontier for this will be something that no one quite understands, but which everyone calls "The Cloud". What is all that about? The answer is sort of complicated, and we need to first consider how computing resources have been organized over time.
 
 The fundamental rule of organizing computing resources is this:
+
 >You centralize and/or share what is expensive. You distribute what is cheap.
 
 In the early days of computing (say, up until the early 1970s) _everything_ was expensive. Thus you had entire buildings dedicated to one computer that a few dozen people could use at the same time as long as they were in the building and sitting in front of dedicated (and also shared) terminal screens.
@@ -25,9 +27,11 @@ It took a while for commercial computers to reach this state, but by the early 1
 Even with computing distributed to individual users, it still made sense to share things. Local networks usually had ways to share storage and sometimes compute cycles. Thus Carnegie Mellon University built that campus wide shared file system that people would use to share data and applications. If it had had a better user interface we might have called it the WWW. But it didn't, so we didn't.
 
 It was this sort of system that Lamport was talking about in 1987 when he made that quip about distributed systems. At CMU, you could sit down at your personal workstation and command it to do something that it does every day of the week:
+
 >% emacs
 
 only to have it lock up. WTF? You ask yourself. Then in around 45 seconds you get this anonymous message on your screen:
+
 >afs: Lost contact with file server 128.9.209.70
 
 I actually changed the IP address there to protect the innocent. But you get the idea. What machine is this? You have no idea. But it's down and now your machine is toasted.

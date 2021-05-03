@@ -6,7 +6,7 @@ Hello. Mutable States is my web site about my general state of mind. It's also a
 
 There is nothing particularly exciting or novel about this site. When I have things on my mind I'll write them down here. The pages here are either unique to this place, or are collected and revised versions of older content.
 
-The older content comes from things that I wrote at two previous web sites that you will not have heard of. First, the long running mostly dual- but sometimes multi-authored weblog [tleaves](http://tleaves.com/ "tleaves"). Pete and I spent several years ranting and raving about various things there.
+Most of the older content comes from the long running mostly dual- but sometimes multi-authored weblog that you never head of: [tleaves](http://tleaves.com/ "tleaves"). Pete and I spent several years ranting and raving about various things there.
 
 A second set of older content comes from a blogger site that I set up to journal my descent into astrophotography addiction. This was called [A Telescope in the City](http://atelescopeinthecity.blogspot.com "A Telescope in the City"), a title that I still like. Once I get the content here I might make a second site to keep that name around. I'm not sure.
 
