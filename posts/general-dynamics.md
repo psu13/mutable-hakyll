@@ -24,9 +24,9 @@ This behavior will be somewhat confusing to people who have either bought into t
 
 4. Provide shallow documentation for the code in the form of various type-related invariants.
 
-5. Use type information to optimize the code.
+1. Use type information to optimize the code.
 
-	and also in more recent times:
+and also in more recent times:
 
 6. Provide flexible ways to express polymorphism in code.
 
@@ -34,7 +34,7 @@ All of these things are demonstrably valuable, especially in larger systems buil
 
 1. "Oh, I don't need that stuff, it just gets in my way."
 
-	or
+or
 
 2. "Yeah, but then I won't be able to patch the runtime to do what I want."
 
