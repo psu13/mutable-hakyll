@@ -203,6 +203,12 @@ hr {
   height:0
 }
 
+/* this is a hack so that <hr> tags in the article body have better spacing. */
+article hr {
+  margin:0;
+  margin-bottom:2em;
+}
+
 span .katex {
   font-size:  1.1em
 }

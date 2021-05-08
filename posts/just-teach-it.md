@@ -14,7 +14,7 @@ These days the lines have shifted around a bit but the angst is still there. The
 
 <B>Angry Digression Number One</b>: Let's get one thing straight. As far as I'm concerned, in the context of computer programming, the word **code** is a fucking noun, and always singular. You do not "code", you write code. You are not a "coder". You are a programmer. Programmers write code. They do not write "codes". Scientists with a rudimentary understanding of FORTRAN write "codes". But they are made out of code. And that code mostly does things like simulate the weather. Everything that is interpreted, compiled, and otherwise executed in the stored memory of a computer system is **code**. C code, Pascal Code, Haskell Code, assembly language code, machine code, microcode. It's always code. I realize I'm too late to this and that the fight is over, but I just have to say it once.
 
-------------
+<hr>
 
 As before with _computer literacy_ it's not really clear that anyone truly understands what it means to teach people "to code" (note, that's the last time I'm going to write that phrase). Activities that might count in this context include:
 
@@ -27,28 +27,35 @@ As before with _computer literacy_ it's not really clear that anyone truly under
 4. Getting a Bachelors or Masters degree in Computer Science and/or Software Engineering, finding a cushy job at Google or Apple and becoming one of the bus-riding douche-bags in SF (you gotta dream big)
 
 It is this confusion that makes articles about this subject so infuriating. They start with the motivation:
+
 > Some people get rich programming computers!
 
 Or maybe
+
 >If you can program computers, then you can make cool shit like video games, or the special effects for IRON MAN 6!
 
 They move on to the problem statement:
+
 > But there is a terrible shortage of people who know how to program computers!
 
 Finally, the proposed solution is always the same:
+
 > TEACH MOAR CODE
 
 Soon enough though, you run into a problem. The problem is that, as I have written before, computers are really stupid machines, and telling them how to do things is tedious, time consuming, error-prone, and requires a strange state of mind that is somewhere between autism and chronic self-hatred. Most kids who start out with "I will program the next Angry Birds!" end up with "What exactly does 'segmentation fault' mean anyway?", give up, and take up something a bit more rewarding, like repeatedly bashing your forehead into a two-by-four until you can feel your face start to cave in.
 
 Anyway, in general
+
 > TEACH MOAR CODE
 
 becomes
+
 > CODE TOO HARD
 
 I mean, let's face it, we're a nation that is convinced that <a href="/math-is-hard-lets-just-quit.html">basic algebra</a> is beyond the cognitive abilities of a large percentage of its children, is there really any hope that they would be able to learn to program computers?
 
 At this point the discussion will shift away from actually teaching anyone to program computers and move on to teaching them other things about computers that are not quite so punishing. This mostly falls into the area of finding and using specialized applications for solving certain kinds of problems: how to create presentations for really boring talks, how to run the payroll, how to lie with statistics, and so on. The idea is to use higher level and friendlier problems to motivate the kids into learning how computers operate. Instead of staring at 
+
 > Segmentation fault - (core dumped)
 
 Instead you get a friendly dialog box with a bomb in it (say).
@@ -67,21 +74,23 @@ This is the thinking that I cannot abide, and this is exactly the bait-and-switc
 
 Even this phrase "computational thinking" has the air of declaring that "computation" is a second class citizen. Here you go, they are saying, use your wondrous intellectual powers to come up with a grand new idea, and then the slave programmers can do the gut-work of turning it into code (it's a noun!) for you. Nothing pisses me off more than the idea that once the high level specification of a system is done then the rest will just fall out as a "simple matter of programming", as if a robot could do it. I will not have this. Programming computers is one of the most intellectually fulfilling activities that a human being can engage in. While it can be a tedious slog, it can also be filled with unimaginable creativity. So stop it with this "simple matter of programming" bullshit.
 
----------------------
+<hr>
 
 The Mother Jones piece starts with "there aren't enough programmers" and makes the full arc through "but computer science is hard" to "so really we should teach them 'computational thinking'" to finally declaring that they have achieved victory by developing a computer science course for high school students that doesn't even make them touch a computer. Instead of all that terrible computer programming they learn about running restaurants, or city planning, or nutrition. Oh the joy.
 
 On the one hand, I'll say that I think this is the wrong approach. And it is also annoying that the piece never circles back on exactly what this new curriculum does to jump from these warm and fuzzy high level discussions to the actual work for making new programmers. On the other hand, I will say that the proposal is similar to one made by no less a Computer Science Luminary than Edsger W. Dijkstra. In one of this papers, called "<a href="https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html">On the cruelty of really teaching computing science</a>", he proposed teaching the entire Freshman introduction to Computer Science as nothing but an abstract math course: an exercise in formal systems.
 
 **Digression Number Three, Not really Angry This Time**:
+
 I thought this was nuts in 1988 and I still think it's nuts now. But then I'm just a guy, not a noted Computer Science Luminary. So you can decide who to believe. I will note though that he shares my distaste for "all soft sciences for which computing now acts as some sort of interdisciplinary haven". So there.
 
 Here is why Dijkstra is wrong. I actually already wrote down the reason above:
+
 >People need concrete experience on which to hang higher order abstract thinking.
 
 In other words, to understand computer systems as an exercise in formal logic, you need some experience manipulating computer systems. You have to experience the wonder and the pain of figuring out how to tell these infernally stupid machines how to do the simplest things. Only then can you understand why Dijkstra wants to torture you with predicate calculus, type theory, loop invariants and pre- and post- conditions. He is perfectly right that people need to learn these things. But I've never thought that starting there was the right idea, and no one will ever convince me otherwise. That's like teaching algebra before understanding arithmetic and geometry.
 
-------------------
+<hr>
 
 The rest of the Mother Jones piece meanders around in a weird narrative that combines bad cooking analogies with even worse analogies to the traditional kind of literacy. They also toss in ad hominem attacks on the AP CS curriculum (probably justified), Java (maybe justified), and the institutional racism and sexism inherent in the current educational system (also probably justified). I found the juxtaposition of critiquing technical education with angry hippy politics to be a bit strange. But that's a subject for a different rant.
 
