@@ -24,7 +24,7 @@ This behavior will be somewhat confusing to people who have either bought into t
 
 4. Provide shallow documentation for the code in the form of various type-related invariants.
 
-1. Use type information to optimize the code.
+5. Use type information to optimize the code.
 
 and also in more recent times:
 
@@ -68,7 +68,7 @@ At a lower level, developers have always felt a perceived need to be able to pat
 
 In the modern world, we have learned how to move on from such shenanigans, and yet advocates for "dynamic Swift" still bring up their desire to keep the  Objective-C features that allow this ethos to live on. Many will fight to the death to be able to hook to behaviors via subclass overrides, perform runtime introspection, add methods to platform classes at runtime, or even replace platform code with their own stuff at runtime. Objective-C, they argue, has "native" features that allow these things and Swift must as well.
 
-First, I would argue that the meta-programming facilities in Obj-C are actually provided by the standard library, not really the language per se. Second, people who get all high and mighty about not needing to use lookup tables for things don't seem to realize that in Obj-C many "native" language features like -respondsToSelector: or -performSelector: or the target/action things are just lookup tables implemented by the standard library. There is nothing particularly special about them, and you could probably implement the same thing in Swift with a comparable level of convenience in use. So my feeling is that anyone who is super worried about this stuff disappearing if the bridge from Swift to Obj-C goes away are a bit confused. You could bring it all back, and it's a small amount of work compared to what you would need to do to, say, rebuild all of Foundation and AppKit.
+First, I would argue that the meta-programming facilities in Obj-C are actually provided by the standard library, not really the language per se. Second, people who get all high and mighty about not needing to use lookup tables for things don't seem to realize that in Obj-C many "native" language features like `-respondsToSelector:` or `-performSelector:` or the target/action things are just lookup tables implemented by the standard library. There is nothing particularly special about them, and you could probably implement the same thing in Swift with a comparable level of convenience in use. So my feeling is that anyone who is super worried about this stuff disappearing if the bridge from Swift to Obj-C goes away are a bit confused. You could bring it all back, and it's a small amount of work compared to what you would need to do to, say, rebuild all of Foundation and AppKit.
 
 But these are all small points. The larger point is that you don't want to do any of these things at all if you can help it. They are bad. Here is why.
 
