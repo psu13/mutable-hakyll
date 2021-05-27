@@ -24,7 +24,7 @@ main = hakyll $ do
     match (fromList ["about.md", "contact.md"]) $ do
         route $ setExtension "html"
         compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/default.html" mutableCtx
             >>= relativizeUrls
 
     match "posts/*" $ do
@@ -38,7 +38,7 @@ main = hakyll $ do
             let archiveCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Archives"            `mappend`
-                    defaultContext
+                    mutableCtx
 
             makeItem ""
                 >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
@@ -52,7 +52,7 @@ main = hakyll $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtx (return posts) `mappend`
-                    defaultContext
+                    mutableCtx
 
             getResourceBody
                 >>= applyAsTemplate indexCtx
@@ -60,7 +60,6 @@ main = hakyll $ do
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateBodyCompiler
-
 
     create ["atom.xml"] $ do
         route idRoute
@@ -97,10 +96,19 @@ myFeedConfiguration = FeedConfiguration
     , feedRoot        = "http://mutable-states.com"
     }
 
+copyright = "2021"
+
+-- default post context for things here. this is mostly just to hold
+-- the default ending copyright date above for convenience in the templates.
+mutableCtx :: Context String
+mutableCtx = 
+    constField "copyright" copyright `mappend`
+    defaultContext
+
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
+    mutableCtx
 
 -- remove the parent directory "posts" from the URL path of the
 -- final HTML pages to match the current convention at the old site. 
