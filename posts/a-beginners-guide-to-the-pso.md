@@ -12,7 +12,16 @@ As a disclaimer to start: there are a lot of historical, economic, and social re
 
 **The Big Picture**
 
-The Classical Music concert as an institution can be an intimidating, overly ritualistic, and stultifying musical experience seemingly designed to remove all emotional connection and energy from your body and soul. I get it. It can also be the <a href="/the-sound-of-music.html">best thing you have ever heard in your life</a>. Classical music concerts are among the last places on Earth where you can actually hear instruments being played just in empty space and never touched by microphones. As such they are also one of the few places where live performances truly sound better than their recorded counterparts possibly could. You have truly never heard any particular piece of orchestral music until you have heard it live in a good hall from a good seat. I'd like more people in the world to have experienced this first hand.
+The Classical Music concert as an institution can be an intimidating, overly ritualistic,
+and stultifying musical experience seemingly designed to remove all emotional connection
+and energy from your body and soul. I get it. It can also be the <a
+href="/the-sound-of-music.html">best thing you have ever heard in your life</a>. Classical
+music concerts are among the last places on Earth where you can actually hear instruments
+being played in empty space and never touched by microphones or amplifiers. As such they are also one
+of the few places where live performances truly sound better than their recorded
+counterparts possibly could. You have truly never heard any particular piece of orchestral
+music until you have heard it live in a good hall from a good seat. I'd like more people
+in the world to have experienced this first hand.
 
 **The Details**
 
@@ -40,13 +49,18 @@ For reference, I will bucket the sorts of pieces you will hear into classes by *
 
 2. Medium (10-45min) - Longer modern pieces, many earlier works named “symphony” before the 19th century symphony forms got super bloated, occasional pieces involving vocals or a chorus, longer arrangements and suites, some full ballets. But, the bread and butter of this category is the instrumental concerto that usually feature some internationally famous guest artist.
 
-	Generally concerto soloists play either violin or piano. There are exceptions to this (flute, clarinet, viola, cello) but it doesn't happen a lot. I personally find most of the concerto repertoire difficult to connect with. There are balance issues. There are structural issues. There is the fact that so much of the music can too easily sound like empty technical virtuosity. There is the fact that watching some poor woman in a giant dress shaped like a Christmas tree (the guys get to play in relatively comfortable suits. We all know why this is) saw on a violin for half an hour is just tiring. Anyway ... that's how concertos work.
+	Generally concerto soloists play either violin or piano. There are exceptions to this (flute, clarinet, viola, cello) but it doesn't happen a lot. I personally find most of the concerto repertoire difficult to connect with. There are balance issues. There are structural issues. There is the fact that so much of the music can too easily sound like empty technical virtuosity. There is the fact that watching some poor woman in a giant dress shaped like a Christmas tree (the guys get to play in relatively comfortable suits. We all know why this is.) saw on a violin for half an hour is just tiring. Anyway ... that's how concertos work.
 	
 3. Long (30min to an hour) - Full blown large scale 18th and 19th century “romantic” period works, especially the ones named symphonies. Also full ballets, concert performances of opera excerpts (rare), song cycles, church music. The big symphonies from Beethoven, Brahms, and all their buddies form the core of this repertoire and in many ways the cash cow back catalog for all orchestras everywhere for the last hundred or so years. Did you hear that we are in *another* Beethoven birthday year!?!
 
 4. Endurance (> 1 hour) - The biggest Mahler and Bruckner (I love this shit). Also stage performances of operas. Full sizes church works (like the *Messiah*). People who come to these shows generally know what they are getting themselves into.
 
-I should make the obvious note here that the longer pieces are not single works that you play from end to end. They are more like an extended concept album from 1970s prog rock and are generally split into three or four separate parts or movements. Like everything else, these structures have evolved into many standard patterns which you can use to keep track of what is going on if you remember how they go. There are a few that show up the most. Here's how they go:
+I should make the obvious note here that the longer pieces are not single works that you
+play from end to end without stopping. They are more like an extended concept album from 1970s prog rock
+and are generally split into three or four separate parts or movements. Like everything
+else, these structures have evolved into many standard patterns which you can use to keep
+track of what is going on if you remember how they go. There are a few that show up the
+most. Here's how they go:
 
 1. Fast, Slow, Fast.
 
