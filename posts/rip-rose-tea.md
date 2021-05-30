@@ -1,6 +1,6 @@
 ---
 title: RIP Rose Tea Cafe
-date: 2021-05-31
+date: 2021-05-30
 author: psu
 ---
 
@@ -19,7 +19,7 @@ one of the things they do best: the fried rice with Chinese Sausage. And now I w
 able to get it again. Sigh.
 
 Along with [the O](/rip-the-o.html), the loss of Rose Tea will now be something that I
-forever associate with this particular point in history, although it's likely that the
+forever associate with this particular point in history, although it's possible that the
 place would have shut down anyway. As the manager said: they had been planning something
 like this for a while.
 
@@ -66,9 +66,10 @@ I think we have Rose Tea to thank, at least partly, for the existence of the gre
 Food corridor that exists in Squirrel Hill right now. And I think that for some strange
 reason they don't get enough credit for this in the local foodie circles. It's hard for me
 to imagine How Lee, Chengdu Gourmet, Everyday Noodle, Cafe 33, and the rest thriving as
-they have without Rose Tea having been there at the start to [show people how to eat the
+they have without Rose Tea having been there at the start [to show people how to eat the
 food](/the-rose-tea-effect.html).
 
-So anyway. There is not much more to say except goodbye to another old friend. You
-can still get a limited version of a Rose Tea fix that their mini-place in Oakland next to
-CMU. But it's not really the same. And, at least we still have Cafe 33. Which is a great blessing.
+So anyway. There is not much more to say except goodbye to another old friend. You can
+still get a limited version of the Rose Tea experience that their mini-place in Oakland
+next to CMU. But it's not really the same. And, we also have Cafe 33 with its own
+excellent take on Taiwanese food. Which is a great blessing.
