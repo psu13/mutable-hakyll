@@ -8,7 +8,7 @@ author: psu
 epad.com/the_online_photographer/blog_index.html">The Online Photographer</a> got me thinking about the
 role of automation in those machines that take pictures for us. It got me
 thinking about this even though the piece was supposed to be about [what
-lenses you should own and carry]() because sometimes Mike rambles. Anyway,
+lenses you should own and carry](https://theonlinephotographer.typepad.com/the_online_photographer/2010/05/the-twolens-kit-the-mike-version-part-i.html) because sometimes Mike rambles. Anyway,
 here is what I thought: certain people hate automatic cameras because they can
 be harder to control. But we should ignore those people.</p>
 
