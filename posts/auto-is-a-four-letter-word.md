@@ -81,7 +81,7 @@ older manual counterparts. And, while it is true that the someone really needs
 to take Canon and Nikon out in the back and beat them with a user interface
 design stick, I&rsquo;d still much rather be using a modern camera for fast work
 under marginal conditions. When push comes to shove, the modern camera can
-hold focus wide open with a <sup>50</sup>&frasl;<sub>1</sub>.4 lens at ISO 3200 better than I can. And
+hold focus wide open with a 50/1.4 lens at ISO 3200 better than I can. And
 then it can dial the ISO back to 200 when I go back outside in the sunlight
 without me babysitting it. That&rsquo;s just great.</p>
 
