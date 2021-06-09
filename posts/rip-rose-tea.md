@@ -8,7 +8,7 @@ A couple of Sundays ago we stopped at Rose Tea to get takeout to bring to a frie
 house. This is a thing we had done dozens of times since they opened almost 20 years ago,
 but this was the first time since [the great stupid darkness](/so-youre-in-a-global-pandemic.html)
 that we had done it. Just as I finished ordering, the long time manager
-of the Squirrel Hill landmark told me that I had walked on their last day of service. I am
+of the Squirrel Hill landmark told me that I had walked in on their last day of service. I am
 not sure of the details, but it sounds like they sold the location to someone else in
 order to take a well-deserved rest.
 
@@ -56,11 +56,11 @@ executed Taiwanese food, the best bubble tea, and good and reliable service.
 
 But Rose Tea has always been a  more important than just this to me. To me they represent
 a huge part of the beginning of the "Pittsburgh Food Renaissance" in the early 2000s. It
-seems to me that when you describe this period of Pittsburgh food, you have to include
-Rose Tea in with the group of "one word name" restaurants that all opened around that time
-and started making people pay attention to Pittsburgh food: Legume, Cure, Salt, Spoon,
-Dish, BRGR, and so on. The also recently departed Ka Mei also belongs on this list,
-especially in their original incarnation as Tasty in Shadyside. 
+seems to me that you have to include Rose Tea in with the group of "one word name"
+restaurants that all opened around that time and started making people pay attention to
+Pittsburgh food: Legume, Cure, Salt, Spoon, Dish, BRGR, and so on. The also recently
+departed Ka Mei also belongs on this list, especially in their original incarnation as
+Tasty in Shadyside. 
 
 I think we have Rose Tea to thank, at least partly, for the existence of the great Chinese
 Food corridor that exists in Squirrel Hill right now. And I think that for some strange
