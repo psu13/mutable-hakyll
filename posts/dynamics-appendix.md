@@ -80,8 +80,8 @@ In lexically scoped Lisp you will get an error if the name is not bound locally 
 Then you'd be OK. Or if you had stuck it in a let:
 
 	(let ((d 4))
-		(defun foo (a b c) (+ a b c d))
-		(foo 1 2 3))
+	   (defun foo (a b c) (+ a b c d))
+	   (foo 1 2 3))
 		
 You'd also get an OK answer. Here all of the local values get pushed into stack frames at runtime just like you expect, but any given block of code can only look at its local stack frame.
 
@@ -91,8 +91,8 @@ So code like this:
 
 	(defun bar (x) (+ a x))
 	(defun foo ()
-		(let ((a 1)) 
-			(bar 1)))
+	   (let ((a 1)) 
+	      (bar 1)))
 	(foo)
 
 Would return the value "2" rather than an error like you'd expect. The reason is that the let statement inside "foo" binds "a" to a value which is then used in the body of "bar" since it's sitting on the stack.
@@ -100,10 +100,10 @@ Would return the value "2" rather than an error like you'd expect. The reason is
 If for some reason you changed the body of "foo" like this:
 
 	(defun foo ()
-		(let ((a 1)) 
-			(let ((a 2))
-				(bar 1))))
-			
+	   (let ((a 1)) 
+	     (let ((a 2))
+	       (bar 1))))
+
 then the answer would be "3" instead because the inner binding of "a" wins. 
 
 People actually thought this was a good idea! The usual rationale was that it allowed programs to twiddle state that could change the behavior of various bits of code without needing to either reach in and change the code itself or tediously figure out how to build an explicit interface to provide the knob that you wanted to turn. Sound familiar? These arguments are very similar to some of the typical arguments given in favor of the various dispatch and meta-programming mechanisms that we have already discussed at length. They are also wrong.
