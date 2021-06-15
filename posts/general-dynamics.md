@@ -48,13 +48,13 @@ As for the second sort of answer, in the context of this discussion I think that
 
 This is summed up by <a href="http://inessential.com/2016/05/26/a_definition_of_dynamic_programming_in_t">Brent Simmons' list</a> of three things that dynamic languages ought to be able to do:
 
-	When I talk about dynamic programming on iOS and Mac, I mean this:
+> When I talk about dynamic programming on iOS and Mac, I mean this:
 
-	1. An app can learn about its structure at runtime.
+> 1. An app can learn about its structure at runtime.
 
-	2. An app can do things based on what it knows about its structure.
+> 2. An app can do things based on what it knows about its structure.
 
-	3. An app can make changes to its structure.
+> 3. An app can make changes to its structure.
 
 There is a lot of history behind the desire to have these kinds of features in a language runtime.
 
@@ -80,7 +80,7 @@ A great example of a dynamic runtime feature that makes my life miserable, but w
 
 For smaller applications with simple goals, this is a great and flexible system that allows you to write very little code and still dispatch all your stuff to just the right place. For larger applications it can be a nightmare because it makes it impossible for you to figure out what code will service a given request without exercising the entire user interface at runtime. It also makes it really hard to ask the debugger to track down how you ended up servicing a request in the wrong place, because you have to step through all of the changes to the responder chain's state to see why (say) the object you thought should take have taken over was not there. Responder chain problems are really hard to debug because there is no static model of how they should be behaving. You can only try to observe things at runtime, and that's bad. So remember: overusing dynamics makes everything into a responder chain problem. You don't want that.
 
-A lot of people in the Swift dynamics discussion brought up exactly this sort of feature as one that is "hard" to implement in "static" languages. But this is of course not true. Here is a simple implementation in Swift: <a href="https://gist.github.com/anandabits/ec26f67f682093cf18b170c21bcf433e">https://gist.github.com/anandabits/ec26f67f682093cf18b170c21bcf433e</a>. The only difference between this and what's in AppKit is that does not handle all of the real world edge cases that AppKit must and that it is not using "built-in" runtime mechanisms to represent messages and actions. But this is no big deal, it's not like the Obj-C compiler was giving you a lot of help with those types anyway. They were essentially just strings.
+A lot of people in the Swift dynamics discussion brought up exactly this sort of feature as one that is "hard" to implement in "static" languages. But this is of course not true. <a href="https://gist.github.com/anandabits/ec26f67f682093cf18b170c21bcf433e">Here is a simple implementation in Swift</a>. The only difference between this and what's in AppKit is that does not handle all of the real world edge cases that AppKit must and that it is not using "built-in" runtime mechanisms to represent messages and actions. But this is no big deal, it's not like the Obj-C compiler was giving you a lot of help with those types anyway. They were essentially just strings.
 
 In addition to illustrating that implementing dynamic features in Swift is not all that hard the other thing this code shows you is the potential to go beyond what AppKit gave you in 1987. For example, in the target/action mechanism the signature of an action can only be the relatively simple
 
