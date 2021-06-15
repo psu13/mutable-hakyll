@@ -70,7 +70,7 @@ But, in LISP you don't have to declare names. So you could write code like
 
 	(defun foo (a b c) (+ a b c d))
 	
-And the system will happily accept it. So the question then becomes, what happens when the interpreter tries to evaluate the value of "d" above?
+And the system will happily accept it. So the question then becomes, what happens when the interpreter tries to evaluate the value of `d` above?
 
 In lexically scoped Lisp you will get an error if the name is not bound locally or in the global environment. So if had done something like
 
