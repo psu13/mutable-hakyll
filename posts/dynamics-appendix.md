@@ -54,9 +54,11 @@ Now I will tell you about "dynamic scope" or "shallow binding" in a LISP runtime
 
 The idea is simple. Any Lisp interpreter needs to keep around a store that keeps track of the *values* that *names* are bound to. So when you write come code like
 
-	(let ((a 1) (b 2)) (+ a b))
+	(let 
+	  ((a 1) (b 2)) 
+	     (+ a b))
 	
-the Lisp system will have some record of how to look up the value for "a" and "b" in the final body of the statement.
+the Lisp system will have some record of how to look up the value for `a` and `b` in the final body of the statement.
 
 Now in all modern languages use a scheme called "lexical scope" (or in times past "static scope" ... there's that word again) to figure these things out. That is, the values that a variable can take on can only come from two places:
 
@@ -68,19 +70,23 @@ Usually these will be either local variables, instance variables in object langu
 
 But, in LISP you don't have to declare names. So you could write code like
 
-	(defun foo (a b c) (+ a b c d))
+	(defun foo (a b c) 
+	   (+ a b c d))
 	
 And the system will happily accept it. So the question then becomes, what happens when the interpreter tries to evaluate the value of `d` above?
 
 In lexically scoped Lisp you will get an error if the name is not bound locally or in the global environment. So if had done something like
 
 	(define d 4)
-	(defun foo (a b c) (+ a b c d))
+	(defun foo (a b c) 
+	   (+ a b c d))
 	
 Then you'd be OK. Or if you had stuck it in a let:
 
 	(let ((d 4))
-	   (defun foo (a b c) (+ a b c d))
+	   (defun foo (a b c) 
+	      (+ a b c d))
+	   
 	   (foo 1 2 3))
 		
 You'd also get an OK answer. Here all of the local values get pushed into stack frames at runtime just like you expect, but any given block of code can only look at its local stack frame.
@@ -95,7 +101,7 @@ So code like this:
 	      (bar 1)))
 	(foo)
 
-Would return the value "2" rather than an error like you'd expect. The reason is that the let statement inside "foo" binds "a" to a value which is then used in the body of "bar" since it's sitting on the stack.
+Would return the value `2` rather than an error like you'd expect. The reason is that the let statement inside `foo` binds `a` to a value which is then used in the body of `bar` since it's sitting on the stack.
 
 If for some reason you changed the body of "foo" like this:
 
@@ -104,7 +110,7 @@ If for some reason you changed the body of "foo" like this:
 	     (let ((a 2))
 	       (bar 1))))
 
-then the answer would be "3" instead because the inner binding of "a" wins. 
+then the answer would be `3` instead because the inner binding of `a` wins. 
 
 People actually thought this was a good idea! The usual rationale was that it allowed programs to twiddle state that could change the behavior of various bits of code without needing to either reach in and change the code itself or tediously figure out how to build an explicit interface to provide the knob that you wanted to turn. Sound familiar? These arguments are very similar to some of the typical arguments given in favor of the various dispatch and meta-programming mechanisms that we have already discussed at length. They are also wrong.
 
