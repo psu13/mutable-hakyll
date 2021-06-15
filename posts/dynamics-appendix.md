@@ -14,11 +14,11 @@ When you want to call a function *foo* with some set of arguments *(a,b,c,d)* th
 
 Usually the dispatch scheme depends only on the first argument to the function, and usually the syntax for the function call is turned around like this:
 
-* a.foo(b, c, d) 
+* `a.foo(b, c, d)` 
 
-* or a->foo(b,c,d)
+* or `a->foo(b,c,d)`
 
-* or [a foo:b c:c d:d]
+* or `[a foo:b c:c d:d]`
 
 or whatever.
 
@@ -36,13 +36,13 @@ I mentioned some of this in passing in the original piece but didn't discuss it 
 
 In the context of the dynamic Swift discussion there are a couple of dispatch-related mechanisms in Objective-C that people will claim to miss when moving towards a more pure Swift style.
 
-1. Method forwarding via "forwardInvocation:".
+1. Method forwarding via `forwardInvocation:`.
 
 2. Stringy-type dispatch mechanisms like Key-Value coding (and its related evil cousin KVO: Key-Value Observing)
 
 I dislike both of these things because they are different ways of making it impossible to figure out what code is going to run with you call some method in some context. Method forwarding means that the dispatch engine will not necessarily be following the class hierarchy to figure out what to do, so you have to search all over your code to work it out. And I hate that. 
 
-KVC and KVO use arbitrary strings to synthesize method calls, which means that in principle you have no idea what will happen since you have a whole Turing Complete string generator at your disposal. Used poorly these mechanisms are also vectors for the injection of arbitrary code  into your frameworks or for allowing the nefarious among us to access code that the interfaces say should be private. Want to read a private ivar that no one has told you about but which you saw in a trace somewhere? Just do '[object valueForKey:@"_myPrivateParts"]' and poof you are in.
+KVC and KVO use arbitrary strings to synthesize method calls, which means that in principle you have no idea what will happen since you have a whole Turing Complete string generator at your disposal. Used poorly these mechanisms are also vectors for the injection of arbitrary code  into your frameworks or for allowing the nefarious among us to access code that the interfaces say should be private. Want to read a private ivar that no one has told you about but which you saw in a trace somewhere? Just do `[object valueForKey:@"_myPrivateParts"]` and poof you are in.
 
 These things need to die or to be reimplemented in a rational way with some damned type checking. 
 
