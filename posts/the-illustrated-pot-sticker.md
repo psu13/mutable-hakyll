@@ -9,16 +9,27 @@ author: psu
 <p>It&#8217;s best to have a good system for this. So I&#8217;ve broken the recipe up into stages.</p>
 <h4>Dough, Stage 1</h4>
 <p>1. Start with 2-3 cups of flour and one cup of <em>cold</em> water. Or, if you want to be more accurate, in our experience the final ratio of flour to water <em>by weight</em> tends to settle at around 1.9 to 2. So (say) 400 grams of flour to 200 grams of water. These things will vary a lot based on the flour you use, your humidity, etc. So take these as starting points.</p>
+
 <p>2. You <em>must</em> use crappy bleached bad for you Pillsbury all purpose flour. The fancy-ass organic whole wheat stuff will make you crappy dough. Trust me.</p>
+
 <p>3. Put most of the flour in a bowl. Add most of the water but not all and stir it around with chopsticks.</p>
+
 <p>4. If the flour does not soak up all the water, add flour. If it is too dry, add water. Stir some more, check again. Turn the mixture out on to a board and knead it until it holds together. Don&#8217;t worry about making the ball smooth.</p>
+
 <p>5. Because of the variance in our the dough comes out it's a good idea to make an extra dough ball or two for each batch. Then you can pick the ones you like later.</p>
+
 <p>Obviously I can&#8217;t tell you how to tell when the dough is right. That is what you need my mom for. But, what you are after is a dough that is pretty stiff, but soft enough to still be workable. It should take some work to poke it with your finger, but it should eventually bounce back. And, there should be enough moisture in the dough to hold it together. The rest time in the fridge will relax the dough and even out the wet, making the dough softer when you finally work with it.</p>
+
 <p>Having had more experience with this, I think it might work better to measure the flour by weight to try and get a more consistent behavior. But we have not experimented with this yet.</p>
-<p>5. Put the ball into a ziploc bag and stick it in the fridge for a few hours.</p>
-<p>6. Pull the ball out of the fridge. The dough should be stiff but flexible. Knead it around a bit, adding flour if it is sticky. Put it back in the fridge for a few more hours.</p>
+
+<p>6. Put the ball into a ziploc bag and stick it in the fridge for a few hours.</p>
+
+<p>7. Pull the ball out of the fridge. The dough should be stiff but flexible. Knead it around a bit, adding flour if it is sticky. Put it back in the fridge for a few more hours.</p>
+
 <p>Unfortunately, I didn&#8217;t get any photos of making the dough. Make two balls to use up the filling recipe below.</p>
+
 <h4>Filling, Stage 1</h4>
+
 <p>Start with about a pound of ground pork. Now chop up one bunch of scallions, mostly the tops. You do this by first slicing them the long way, then collecting up the pieces and chopping them the short way. You want it to be about this size:</p>
 
 > <a href="http://www.flickr.com/photos/79904144@N00/3609320392/" title="P1010790 by psu13, on Flickr"><img src="http://farm4.static.flickr.com/3152/3609320392_f161280d3c_m.jpg" width="240" height="160" alt="P1010790" /></a>
