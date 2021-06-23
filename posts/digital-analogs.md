@@ -24,15 +24,19 @@ This is, of course, hogwash.
 
 Let us review how film works.
 
-1. Coat a long piece and thin piece of plastic with super thin emulsion made up of layers of gelatin and silver-based chemicals called silver halides. 
+1. Coat a long piece and thin piece of plastic with super thin emulsion made up of layers
+   of gelatin and silver-based chemicals called silver halides. 
 
 2. When light hits the emulsion a chemical change is induced in the grains of silver
    halide. The exact nature of this change is not completely understood, but when exposed
    grains are then dunked in a chemical bath made up of basic salts, they will cause that
    part of the film to become darker. You then need to run the film through a few more
-   chemical baths to produce a permanent negative image of the scene that you saw in the
-   camera. Modern black and white films also incorporate various tricks to make the
-   emulsion sensitive to the full spectrum of light rather than just blue-ish light.
+   chemical baths to produce a permanent negative black and white image of the scene that
+   you saw in the camera. To see a real black and white picture you reverse this negative
+   again by projecting it on to another emulsion coated on paper and developing that.
+   
+   Modern black and white films also incorporate various tricks to make the emulsion
+   sensitive to the full spectrum of light rather than just blue-ish light.
 
 3. To make the picture a positive again, you project an image of it (usually enlarged) on to a second piece of emulsion, this one coated on paper. Usually to get the entire range of tones from the negative to the paper you have to do a non-trivial amount of manipulation because the exposure range for the paper is not as long as that of film. 
 
