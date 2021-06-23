@@ -26,11 +26,29 @@ Let us review how film works.
 
 1. Coat a long piece and thin piece of plastic with super thin emulsion made up of layers of gelatin and silver-based chemicals called silver halides. 
 
-2. When light hits the emulsion a chemical change is induced in the grains of silver halide. The exact nature of this change is not completely understood, but when exposed grains are then dunked in a chemical bath made up of basic salts, they will cause that part of the film to become darker. You then need to run the film through a few more chemical baths to produce a permanent negative image of the scene that you saw in the camera.
+2. When light hits the emulsion a chemical change is induced in the grains of silver
+   halide. The exact nature of this change is not completely understood, but when exposed
+   grains are then dunked in a chemical bath made up of basic salts, they will cause that
+   part of the film to become darker. You then need to run the film through a few more
+   chemical baths to produce a permanent negative image of the scene that you saw in the
+   camera. Modern black and white films also incorporate various tricks to make the
+   emulsion sensitive to the full spectrum of light rather than just blue-ish light.
 
 3. To make the picture a positive again, you project an image of it (usually enlarged) on to a second piece of emulsion, this one coated on paper. Usually to get the entire range of tones from the negative to the paper you have to do a non-trivial amount of manipulation because the exposure range for the paper is not as long as that of film. 
 
-4. If the film is a color film, then the emulsion and development are even more complicated. First, you need multiple layers of emulsion, one for each primary color that you want to capture. Second, color films incorporate dyes either into the film itself or in the chemical baths used to develop them. These dyes react to coupling agents, again either in the film or in the development baths, that make the dye "stick" to the more developed parts of the silver film emulsion. The silver is then washed away and you get either a negative or positive color picture. Again, the exact details of how color films are formulated and how the color works are in general proprietary. They died with Kodak (but still live on at Fuji).
+4. If the film is a color film, then the emulsion and development are even more
+   complicated. First, you need multiple layers of emulsion, one for each primary color
+   that you want to capture. Second, color films incorporate *dye couplers* either into
+   the film itself or in the chemical baths used to develop them. These couplers react
+   with the oxidized developer sitting in each layer of the emulsion to create dyes in the
+   primary colors used to create the final color image. Since denser areas of the negative
+   will have more oxidized developer near them you get a higher density of dyes in those
+   areas. This is how the color "knows" where to go in the picture. The silver is then
+   washed away and you get either a negative or positive color picture. 
+   
+   The details of how color films are formulated and how the color works are in general
+   make up multiple graduate level textbooks in applied chemistry. The *exact* details
+   probably died with Kodak (but still live on at Fuji).
 
 Digital imaging systems work on principles that are both simpler and more complicated. Digital sensors are pretty complicated. But once you have the data getting a picture out is comparatively simple. 
 
@@ -48,4 +66,15 @@ I will end this by pontificating about the hatred I have for the word *analog* i
 
 But this word is a terrible way to describe the difference between traditional and digital photography. It's terrible because *both* processes make an *analog* of the original scene. Each system takes a series of millions of little quantum mechanical interactions between light and a substrate and turns them back into an image. Both processes sample the scene and then both use science and what the laymen would call a bit of magic to reconstruct a "whole" image. Film does this with silver, dyes and magic chemicals that tell the dyes where to go. Digital does this with CCDs and some clever software. While these paths are pretty different, the end result is the same: something that reminds you of an interesting thing you saw at some point in your life that you wanted to be able to see again. So you hit the button, and took the picture.
 
-**Editorial Note:** I was going to include a section about image reconstruction, how humans perceive images, and why the interpolation needed to create color images isn't really that big a deal. But, I think that would take a whole other article that I'm not qualified to write in order to get it right. In the end that would have been too much work just to troll either the idiots who seem to think that their precious images have *so much detail* that no compression could possibly maintain it, or the related idiots who think that their hearing, at 55, is so acute that they can actually hear a huge difference between 256K AAC and a WAV file. The answer in each case is: you are wrong, nerd. So I'll leave it at that.
+**Editorial Note:** I was going to include a section about image reconstruction, how
+humans perceive images, and why the interpolation needed to create color images isn't
+really that big a deal. But, I think that would take a whole other article that I'm not
+qualified to write in order to get it right. In the end that would have been too much work
+just to troll either the idiots who seem to think that their precious images have *so much
+detail* that no compression could possibly maintain it, or the related idiots who think
+that their hearing, at 55, is so acute that they can actually hear a huge difference
+between 256K AAC and a WAV file. The answer in each case is: you are wrong, nerd. So I'll
+leave it at that.
+
+**Second Editorial Note:** In 2021 I updated the short discussion of dye couplers to be
+more acurate after I read more about how they work.
