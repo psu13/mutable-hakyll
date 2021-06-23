@@ -44,7 +44,8 @@ Let us review how film works.
    primary colors used to create the final color image. Since denser areas of the negative
    will have more oxidized developer near them you get a higher density of dyes in those
    areas. This is how the color "knows" where to go in the picture. The silver is then
-   washed away and you get either a negative or positive color picture. 
+   washed away and you get either a negative or positive color picture made up of the
+   multi-layer dye sandwich still trapped in the gelatin. 
    
    The details of how color films are formulated and how the color works are in general
    make up multiple graduate level textbooks in applied chemistry. The *exact* details
