@@ -48,8 +48,8 @@ Let us review how film works.
    multi-layer dye sandwich still trapped in the gelatin. 
    
    The details of how color films are formulated and how the color works are in general
-   make up multiple graduate level textbooks in applied chemistry. The *exact* details
-   probably died with Kodak (but still live on at Fuji).
+   complicated enough to make up multiple graduate level textbooks in applied chemistry.
+   The *exact* details probably died with Kodak (but still live on at Fuji).
 
 Digital imaging systems work on principles that are both simpler and more complicated. Digital sensors are pretty complicated. But once you have the data getting a picture out is comparatively simple. 
 
