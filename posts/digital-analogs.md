@@ -69,7 +69,16 @@ But the digital imaging companies have *exactly* the same interest. Photography 
 
 I will end this by pontificating about the hatred I have for the word *analog* in this context. In modern usage it appears that any time anyone wants to refer to a process which is not digital, that process by default is called "analog". So we have analog photography, analog sound recording, analog sound reproduction, and so forth. If car people were as stupid in the same ways as everyone else, the old mechanical cars would be called analog in contrast to modern vehicles that are mostly driven by computers.
 
-But this word is a terrible way to describe the difference between traditional and digital photography. It's terrible because *both* processes make an *analog* of the original scene. Each system takes a series of millions of little quantum mechanical interactions between light and a substrate and turns them back into an image. Both processes sample the scene and then both use science and what the laymen would call a bit of magic to reconstruct a "whole" image. Film does this with silver, dyes and magic chemicals that tell the dyes where to go. Digital does this with CCDs and some clever software. While these paths are pretty different, the end result is the same: something that reminds you of an interesting thing you saw at some point in your life that you wanted to be able to see again. So you hit the button, and took the picture.
+But this word is a terrible way to describe the difference between traditional and digital
+photography. It's terrible because *both* processes make an *analog* of the original
+scene. Each system takes a series of millions of little quantum mechanical interactions
+between light and a substrate and turns them back into an image. Both processes sample the
+scene and then both use science and what the laymen would call a bit of magic to
+reconstruct a "whole" image. Film does this with magic chemicals that tells the color
+where to go. Digital does this with CCDs and some clever software. While these paths are
+pretty different, the end result is the same: something that reminds you of an interesting
+thing you saw at some point in your life that you wanted to be able to see again. So you
+hit the button, and took the picture.
 
 **Editorial Note:** I was going to include a section about image reconstruction, how
 humans perceive images, and why the interpolation needed to create color images isn't
