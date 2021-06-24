@@ -29,7 +29,7 @@ around 2004 Rose Tea has been the main proof that you could run a Chinese place 
 Pittsburgh without putting any of the standard Chinese American "classics" on the menu.
 
 Here is the [first thing I wrote about them
-then](http://www.tleaves.com/weblog/archives/000260.html):
+then](/ten-things-i-like.html):
 
 > Rose Tea has gone from a purveyor of an odd Asian drink craze to simply the best Chinese food in Pittsburgh period. The home style Taiwanese food that they serve here is actually good enough for me to want to go even if I've recently eaten my mom's food. In fact, it is much like my mom's food, which is why it simply rules.
 
