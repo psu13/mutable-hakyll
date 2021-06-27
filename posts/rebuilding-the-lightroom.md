@@ -4,16 +4,16 @@ date: 2021-06-28
 author: psu
 ---
 
-Back in the late 90s I bought a pair of books called "Darkroom" originally published in
-the late 70s that interviewed a couple of dozen "fine art" photographers about the nature
-of their work in black and white darkrooms. In retrospect the 70s and 80s were probably a
-peak, of sorts, for fine art photographers who worked in black and white darkrooms. This
-peak held on through most of the 90s, with enthusiastic enthusiasts still willing to
-gobble up behind the scenes "how to" information about building a perfect room in your
-house to sit alone in the dark to make pictures. This enthusiasm started to wane by the
-end of the 90s and then was completely destroyed by the [consumer digital
-SLR](http://kvdpsu.org/d70.html) by the early 2000s and now you never hear about people's
-darkrooms anymore except when they are selling the pieces on ebay.
+Back in the late 90s I bought a pair of books called _Darkroom_ and _Darkroom 2_
+originally published in the late 70s that interviewed a couple of dozen "fine art"
+photographers about the nature of their work in black and white darkrooms. In retrospect
+the 70s and 80s were probably a peak, of sorts, for fine art photographers who worked in
+black and white darkrooms. This peak held on through to the 90s, with enthusiastic
+enthusiasts still willing to gobble up behind the scenes "how to" information about
+building a perfect room in your house to sit alone in the dark to make pictures. This
+enthusiasm started to wane by the end of the 90s and then was completely destroyed by the
+[consumer digital SLR](http://kvdpsu.org/d70.html) by the early 2000s and now you never
+hear about people's darkrooms anymore except when they are selling the pieces on ebay.
 
 This timing is an interesting personal coincidence for me because my personal digital
 picture archive stretches back to exactly around 2002 when I started using a shitty
@@ -41,7 +41,8 @@ summarize...
    remember). I think this convention bounced back and forth multiple times.
 
 1. Since that was confusing, later they changed it up again and called the new Lightroom
-   CC just "Lightroom" and the old one just "Lightroom Classic"
+   CC just "Lightroom" and the old one just "Lightroom Classic". So it all ended up in a
+   good place.
 
 I watched all this with detached amusement and ignored it because this new Cloud (Fog)
 tool seemed half baked and using a far away server as the way to get pictures from one
@@ -54,7 +55,7 @@ other possible solution ... sigh. I waited 10 years for something better and it 
 came, so I gave up.
 
 I ran the catalogs for my 2019 pictures in parallel for a while until it was clear this
-new Lightroom did most of the things that the old one did. Digital cameras are so good
+new Lightroom did most of the things that I needed it to do. Digital cameras are so good
 these days that even a photo dork's needs for elaborate post processing are pretty limited
 now. My main gripes about the new tool are that the navigation through the user interface
 is weird, they moved a few key commands around, and there is no clear way to make a
@@ -108,7 +109,7 @@ pictures one by one and rebuild those. It takes a few minutes to suck in the ori
 files, and then a few hours to sync them to the fog.
 
 I *did* have to spend a bit of time reconstructing the oldest albums (2002-2006 or 7) and
-while this is a sort of tedious exercise in principle in practice it turned out to be
+while this is a sort of tedious exercise in principle, in practice it turned out to be
 great fun to reacquaint myself with what I was interested in taking pictures of back them.
 It's mostly kid pictures, and a lot of people who I have not seen as much of lately for
 various reasons. If you ever have time to do a leisurely scan of your old photographs I
@@ -118,15 +119,17 @@ things taking up space. Now space is not really a concern, so I can toss a few e
 for the fun of it. There were also a lot of pictures that I just missed before, so overall
 this whole exercise has been enlightening and fulfilling.
 
-I also have to say that the D100 and the D70 were incredible machines for the time. I have
-been constantly amazed as how well those old image files hold up. The D200 a distinct step
-*down* in many ways. And of course the D700 was a big step up. Having looked through all
-these old pictures I also conclude that I probably could have just shot JPEGs this whole
-time. And yet I still shoot camera RAW files with my new non-iPhone cameras. Stupid brains.
+I also have to say that the old D100 and the D70 cameras were incredible machines for the
+time. I have been constantly amazed as how well those old image files hold up. The D200 a
+distinct step *down* in many ways. And of course the D700 was a big step up. Having looked
+through all these old pictures I also conclude that I probably could have just shot JPEGs
+this whole time. And yet I still shoot camera RAW files with my new non-iPhone cameras.
+Stupid brains.
 
 The only remaining bit of anxiety that I have with this new tool is the lack of a more
-transparent backup solution. This was my major reason for not moving to it before, and at
-some point I just decided to solve the problem later rather than worry about it now.
+transparent local backup solution. This was my major reason for not moving to it before,
+and at some point I just decided to solve the problem later rather than worry about it
+now.
 
 In theory the Adobe Lightroom web service *is* the backup. But we all know better than to
 trust *that* to work out, given [the fog](http://mutable-states.com/to-the-fog.html) and
