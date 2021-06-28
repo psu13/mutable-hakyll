@@ -120,11 +120,11 @@ for the fun of it. There were also a lot of pictures that I just missed before, 
 this whole exercise has been enlightening and fulfilling.
 
 I also have to say that the old D100 and the D70 cameras were incredible machines for the
-time. I have been constantly amazed as how well those old image files hold up. The D200 a
-distinct step *down* in many ways. And of course the D700 was a big step up. Having looked
-through all these old pictures I also conclude that I probably could have just shot JPEGs
-this whole time. And yet I still shoot camera RAW files with my new non-iPhone cameras.
-Stupid brains.
+time. I have been constantly amazed as how well those old image files hold up. The D200 is
+a distinct step *down* in many ways. And of course the D700 was a big step up. Having
+looked through all these old pictures I also conclude that I probably could have just shot
+JPEGs this whole time. And yet I still shoot camera RAW files with my new non-iPhone
+cameras. Stupid brains.
 
 The only remaining bit of anxiety that I have with this new tool is the lack of a more
 transparent local backup solution. This was my major reason for not moving to it before,
