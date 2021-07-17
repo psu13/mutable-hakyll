@@ -24,27 +24,45 @@ As you enter the fight Laurence always does this big overhead slam and fire fist
 
 The bad news for me with the last phase is that it requires *precision* in action and motion so you don't keep running into the lava pools:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/ojTVLoFH7xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/ojTVLoFH7xo"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 or phantom hit boxes:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/_KYtVuiRs6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/_KYtVuiRs6U"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 or just not reading the attacks right:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/HjU40sdovlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/HjU40sdovlc"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 or just getting stuck on a wall:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/T95VLH1Ylkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/T95VLH1Ylkg"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 or just not remembering the patterns the right way:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Tah9qcKWz5U?start=309" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/Tah9qcKWz5U?start=309"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 and so on and so on. Anyway, after about a week of this nonsense I finally did enough right to not die before hitting the boss enough to end the fight.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ_oXNJjRo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/tQ_oXNJjRo0"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 While I think beating Laurence without the cheese might have taken longer than Orphan (hard to say) ... with the cheese he's a lot easier, but not without a lot of frustration with my own incompetence.
 
@@ -54,27 +72,42 @@ This is much the same story. Phase 1: re-learn all the parries. There are two ma
 
 Mostly though I died to this:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/1oG8ZSAUArU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/1oG8ZSAUArU"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Which as you can imagine, made me feel great every time. The hard part of this fight is clearly dealing with the sword and shotgun form in the middle phase. The main rule is: never go in for a swing if he has not shot the gun recently. Otherwise you end up in front of him and he one shots you in the face. Somehow I don't have a video of this happening ... since it happened a few hundred times. 
 
 Here is a good phase 3 where I fuck up:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/euv5d1WOfDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/euv5d1WOfDE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Here is a good phase 3 until it's not good anymore:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/2DRdq0v4-yA?start=138" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/2DRdq0v4-yA?start=138"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Here is a good phase 3 where I win:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/kTVWcVnfqvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/kTVWcVnfqvo"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I expected this fight to be easier, and it was. Only a couple of days.
 
 Finally, the moon slug. Here you just have to learn how to get under the creature and R1 spam.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/i-LCH1AndlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/i-LCH1AndlE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 There is not much more to say about this.
 

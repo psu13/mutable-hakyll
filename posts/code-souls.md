@@ -62,23 +62,35 @@ This then, is why I think *Dark Souls* is a good preparation for a career in com
 
 So we have this guy:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/V2F0plmqo-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/V2F0plmqo-w"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Teaching the importance of trusting your tools.
 
 And this guy
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/hiFQvChlNcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/hiFQvChlNcE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Reminding you that the system APIs will not always behave the way you expect them to, no matter what they might have done in the past.
 
 All of this seems hopeless, but if you stick with it and learn the right lessons, the *Souls* games give you an unprecedented opportunity to go from zero:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/EPzVEnuXCEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/EPzVEnuXCEE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 to at least a decent hero:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/LqYJxvNg5GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/LqYJxvNg5GY"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 All it takes is a small amount of skill, and a large amount of practice and pigheaded stubbornness. 
 
@@ -86,11 +98,17 @@ And so it is with programming as well. I firmly believe that anyone can program 
 
 Which brings me to my latest stupid project. I never managed to figure out how to beat this fire boss from *Bloodborne* in my BL4 (no leveling) run:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/2FA2UMrB8qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/2FA2UMrB8qg"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 So I'm trying again. And it's going really well:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/ARQV0RW--IE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/ARQV0RW--IE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I should have it in no time ... or at least by the time the world opens up again in 2022.
 
@@ -98,19 +116,31 @@ I should have it in no time ... or at least by the time the world opens up again
 
 I managed it:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/tQ_oXNJjRo0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/tQ_oXNJjRo0"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 But not after a lot of humiliation, like this:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Ijgr0QGfojM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/Ijgr0QGfojM"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 and this
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/ojTVLoFH7xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/ojTVLoFH7xo"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 And a whole shit ton of this:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/_KYtVuiRs6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/_KYtVuiRs6U"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 See? Anything is possible.
 
