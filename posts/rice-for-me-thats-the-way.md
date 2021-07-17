@@ -18,13 +18,18 @@ While the heavy emphasis on the combat engine is definitely still evident, I wou
 
 Here is an example from a late temple area. Let the spoilers begin!
 
-> <a href="images/47078793414_2619420cf3_o.png" title="Temple"><img src="images/47078793414_2619420cf3_o.png" width="640" height="360" alt="Temple"></a>
+> <a href="images/47078793414_2619420cf3_o.png" title="Temple"><img
+src="images/47078793414_2619420cf3_o.png" width=90%
+alt="Temple"></a>
 
 Anyway. The summary of the game is as follows: you play as Sekiro (there is no character builder, although on the PC there are mods that change the main character's model around) a ninja/samurai type warrior for hire who, as per usual for these games, dies in the tutorial and then comes back for the rest of the game. You are protecting a small boy, there is a war going on, there are a lot of random enemies and hard bosses to kill. 
 
 The game takes place around some castle grounds in an old Japanese kingdom ("Ashina" ... Land of Ash?). There are four or five other side areas ... mountains, valleys, lakes, poison swamps. The usual stuff. There are also two temple areas, which are my personal favorites. A few of the main areas get recycled as the game goes on. The map stays the same but the enemies change, and things get set on fire. There is a lot of fire in this game. The fire is mostly inconsequential. Although I did accidentally cheese a mini-boss with it:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/2T_GfRZbK5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/2T_GfRZbK5I"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I didn't even know those boxes had explosives in them, or that you could set them on fire, or that the fat guy had done it by accident while I was healing.
 
@@ -34,7 +39,10 @@ I've remarked before that the evolution of combat in FromSoft games, and especia
 
 1. A more extensive stealth system is a new thing. The stealth kills are super fun. For once in a ninja game you get to do real ninja shit like land on someone from 50 feet in the air and stab them in the neck:
 	
-	> <iframe width="560" height="315" src="https://www.youtube.com/embed/VTvgrcrIHmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/VTvgrcrIHmA"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 1. The rest of the stealth system is fine. They have not worked too hard to make it "realistic". You can stealth backstab people from the side, sometimes almost from right in front of their face. It's also easy to manipulate the aggro state of enemies or just reset it to your advantage in various ways. Reseting aggro to get a backstab on a mini-boss is a bread and butter tactic through the early part of the game.
 
@@ -64,12 +72,17 @@ Enemies regenerate posture quickly at high health and more slowly at low health.
 
 Example:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/Ap2FVeNaGqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/Ap2FVeNaGqE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 To beat the harder enemies in *Sekiro* the name of the game is *aggression*. You want to be in their face and either hitting them for damage or posture, or countering them with moves that also hit them for posture damage. For older, slower *Souls* veterans with bad twitch reflexes and timing this is probably the hardest aspect of the combat to get used to. In this fight, note how I spend most of the time running away from the speed the way you would against a *Souls* boss. But doing this does me no good because there aren't any windows to hit him.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/EUXWe5VLNm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/EUXWe5VLNm4"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 At the end I finally get up in his face and get some posture damage mostly with lucky deflects and one super lucky counter.
 
@@ -91,7 +104,10 @@ As you gain enlightenment about how combat works you realize that what the symbo
 
 Here is five minutes of me not gaining enlightenment:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/M13IydQcaLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/M13IydQcaLI"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 The major counter moves in the game are as follows:
 
@@ -113,7 +129,10 @@ Most of the bosses in the game can be mostly countered to death if you know what
 
 Here is LobosJR doing an entire run this way:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/OQ2WPASUaZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/OQ2WPASUaZY"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 #### Levels and R
 
@@ -141,7 +160,10 @@ There are lots of bosses. They are hard. I think my favorite fight is the final 
 
 As is always the case with FromSoft games, the *Sekiro* bosses teach you things about programming:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/V2F0plmqo-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/V2F0plmqo-w"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Note how the boss is also trash talking me at the end there ("looooosserrrrrrrr").
 
@@ -165,19 +187,28 @@ Rice is an important item in this game. Among other things, it's the best healin
 
 But also there is this woman, the best NPC in video game history.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHDug0__Gh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/ZHDug0__Gh4"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 #### Summary
 
 Everything I learned above shows up in this long video of the final fight in the game (assuming you did the long ending).
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/LqYJxvNg5GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/LqYJxvNg5GY"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 This is a really well designed fight that makes you use all the tools that are in the game for you. Plus, some dude turns out to be wearing another dude as a suit (spoiler)! You can't beat that.
 
 I think I could do that fight better. But considering that I started here:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/EPzVEnuXCEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/EPzVEnuXCEE"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I guess it's pretty good progress.
 

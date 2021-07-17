@@ -24,12 +24,21 @@ So, I did what any reasonable *Souls* game idiot would do. Bored of burning heal
 
 Now I just had to hit Flamelurker six times without getting hit ...
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/udKGqqKs7Uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/udKGqqKs7Uk" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I can quit now. I'll never play any of these games better than that. The one fast punch that I somehow rolled through near the end should have killed me and in any other run would have killed me. I have no idea what happened.
 
 **Update to Update:** I did False Idol (duh) and Maneater (tricky) too.
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/J97B_c8ZOSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/J97B_c8ZOSU"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/_Xg7CvwNH9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/_Xg7CvwNH9A"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>

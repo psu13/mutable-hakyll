@@ -70,12 +70,18 @@ With this background, here we go:
 
 1. In general the worlds in this game are much more interesting than the boss fights. If you have a good bow there is really only one boss in the whole game that's either hard or interesting. Here is how the fight with the spider that put me off the game before goes now for example:
 
- > <iframe width="560" height="315" src="https://www.youtube.com/embed/hIvFVwoQ3TM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/hIvFVwoQ3TM"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Or, if you want the fast version with the bow cheese
 
- > <iframe width="560" height="315" src="https://www.youtube.com/embed/_MI5Tl0e1io" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/_MI5Tl0e1io"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
 And that's in NG+. Most of the bosses, especially later in the game are very weak to bow cheese. Which is great for me.
 
 1. Overall I'd say that worlds 1, 2 and 3 are pretty fully realized and have all the hallmarks of the later games. But 4 and 5 seem a bit shorter and more "linear".
@@ -95,16 +101,25 @@ And that's in NG+. Most of the bosses, especially later in the game are very wea
 For the record, the only really hard boss is Flamelurker. He hits kind of hard, gets more and more aggressive as the fight goes on, and picks his moves sort of at random. You can see the proto-origins of a lot of other classic FromSoft bosses in this creature. He's probably easy with a bow though.
 
 Here is me almost dying to Flamelurker in NG when playing melee with no magic or ranged attacks:
-    
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/-_piUfbcJig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/-_piUfbcJig"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Here is how other bosses go in the game, with a bow. The cloud of leeches monster:
-	
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/j1TZYdJ8-H8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/j1TZYdJ8-H8"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Or the giant "Penetrator" Knight guy, in NG+. I guess normally there is an NPC you use to make this fight a joke. But you don't really need him. Just dance and shoot.
 	
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/G-st7LTO3-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <div class="youtube">
+<iframe src="https://www.youtube.com/embed/G-st7LTO3-Q"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 I am assuming these fights would be even easier with super OP magic builds. But even with not quite the best bow you can make this pleasingly straightforward. The final boss falls the same way.
 
