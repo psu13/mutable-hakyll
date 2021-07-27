@@ -66,7 +66,7 @@ The new combat system also gives you a lot more leverage over larger groups than
 
 Finally, although the game is more forgiving about reckless stamina use and R1-spam, in really hard fights you still have to be careful about your use of space and terrain. The game also makes this harder than it might, especially with bosses, because all the dashing you can do plays havoc with the camera. Many bosses are really just fights against the camera wildly swinging around your head and making you essentially fight blind. <a href="https://www.youtube.com/watch?v=0Rd1fXaf2LE&ab_channel=psu13">Here is a spoiler-filled video</a> that provides a good example of all these points.
 
-Overall the combat system in *Bloodborne* is probably my favorite of the four games. More than any of the other games it lets you play with speed and agility, just like the really good Youtube players could in *Dark Souls* and *Dark Souls II*. The difference is that *Bloodborne*'s system is, for lack of a better way to put it, easier to use. The controls are fast the tight, hits are satisfying and the parries and backstabs feel deadly and bad-ass again.
+Overall the combat system in *Bloodborne* is probably my favorite of the four games. More than any of the other games it lets you play with speed and agility, just like the really good Youtube players could in *Dark Souls* and *Dark Souls II*. The difference is that *Bloodborne*'s system is, for lack of a better way to put it, easier to use. The controls are fast and tight, hits are satisfying and the parries and backstabs feel deadly and bad-ass again.
 
 #### Weapons
 
