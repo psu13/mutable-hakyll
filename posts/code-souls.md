@@ -19,10 +19,10 @@ When you write computer programs you will tend to go through a series of steps:
 1. Some group of people have an idea for something they want to do automatically.
 2. They get together and talk about it and figure out that it could be a good computer program.
 3. They then talk to a programmer to translate their desires into some list of things that a programmer can encode as code.
-4. *Programmers writes code*
+4. *Programmers write code*
 5. Now they try the code out, and it's completely wrong.
 6. More talking.
-7. *Programmers writes code*
+7. *Programmers write code*
 8. More failure.
 9. More talking.
 10. ...
