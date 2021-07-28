@@ -4,7 +4,7 @@ site:
 	stack build
 	stack exec site rebuild
 
-watch2: site
+lwatch: site
 	stack exec -- site watch
 
 watch: site
