@@ -70,10 +70,10 @@ oil into the meat.
 Now add your ginger and garlic and the white part of the scallion, chili flake, and black
 beans. Mix it around. Add about half of the ground sichuan peppercorn at this point.
 
-Add a cup or so of water, then the tofu, then add more water until you get a good balance
-of liquid to tofu depending on how saucy you want the final result. Mix this around to
-make sure the balance is right. I like to be able to see the top half of the tofu cubes
-sticking out of the water. You will get a feel for this.
+Add a cup or so of water, then the tofu, then add the soy and the wine and more water
+until you get a good balance of liquid to tofu depending on how saucy you want the final
+result. Mix this around to make sure the balance is right. I like to be able to see the
+top half of the tofu cubes sticking out of the water. You will get a feel for this.
 
 Finally, add a third of the corn starch. Stir it around to how much the sauce thickens. If
 it's still soupy, add a bit more, stir it around. Repeat until you get the consistency you
