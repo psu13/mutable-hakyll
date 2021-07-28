@@ -50,8 +50,8 @@ So here is what I do, which gives me the spice balance I want.
 
 1. Corn starch slurry (2-3 tablespoons of corn starch mixed with twice as much water).
 
-First toast the peppercorns, and then grind them up in a mortar and pestle (or a coffee
-mill that you use only for spices). But the result in a bowl. Put the chili flake in
+First toast the peppercorns lightly on medium heat, and then grind them up in a mortar and pestle (or a coffee
+mill that you use only for spices). Put the result in a bowl. Put the chili flake in
 another bowl.
 
 Next, chop up the black beans, put in a bowl.
