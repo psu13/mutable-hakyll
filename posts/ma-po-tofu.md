@@ -1,0 +1,95 @@
+---
+title: Ma-Po Tofu
+date: 2021-07-27
+author: psu
+---
+
+I started making this a couple of years ago off of the recipe in in [this youtube
+video](https://www.youtube.com/watch?v=AujuLHK3hvs). They also have their recipe written
+out on reddit, [where you can read it
+here](https://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_
+麻婆豆腐/).
+
+The main problem with using someone else's recipe for this dish is tuning the balance of
+the spices. You want just the right amount of heat, chili flavor and Sichuan peppercorn
+tingles in your tongue. Get any of these factors out of balance with the rest and the
+whole thing is ruined.
+
+So here is what I do, which gives me the spice balance I want.
+
+1. 1/4 lb ground meat. Any kind will do, but ground chicken or turkey will be bad.
+
+1. 1lb of soft tofu, cubed. In the recipe above they soak the tofu in hot water for a
+   while. I don't do this.
+
+1. 1 tablespoon Sichuan Chili Bean Paste, i.e. Pixian Doubanjiang (郫县豆瓣酱). Your local
+   Asian store will have this. Look for a package that [looks like
+   this](https://www.amazon.com/Sichuan-Pixian-Boad-Paste-Chili/dp/B01M31VHNZ/ref=sr_1_4?crid=2BYHBAGK31S1A&keywords=pixian+doubanjiang&qid=1581962243&sprefix=pixian%2Caps%2C126&sr=8-4).
+
+1. 1 tablespoon ground chili flake. Your local store should have this too. If you want to
+   splurge on something fancy [this stuff is
+   great](https://themalamarket.com/collections/sichuan-spices-dry-goods/products/sichuan-chili-flakes-xiang-la-jiao-mian).
+
+1. 2-3 teaspoons of Sichuan Peppercorn. You can use red, or you can use a mix of red and
+   green. Again, your local store will have this. Again, [the stuff at the Mala market is
+   great](https://themalamarket.com/collections/sichuan-spices-dry-goods/products/sichuan-flower-pepper-special-grade-da-hong-pao-sichuan-pepper).
+
+1. 1 tablespoon fermented black beans, chopped.
+
+1. 3 or 4 cloves of garlic, minced
+
+1. An inch cube or so of ginger, minced.
+
+1. Stock or water, 2-3 cups. It really does not matter which you use.
+
+1. Chopped green onion.
+
+1. A bit of light soy, a bit of dark soy, Shaoxing wine if you want to get fancy.
+
+1. Corn starch slurry (2-3 tablespoons of corn starch mixed with twice as much water).
+
+First toast the peppercorns, and then grind them up in a mortar and pestle (or a coffee
+mill that you use only for spices). But the result in a bowl. Put the chili flake in
+another bowl.
+
+Next, chop up the black beans, put in a bowl.
+
+Next, chop up the chili bean paste to break up the large pieces of beans, put in a bowl.
+
+Put the rest of your aromatics in a bowl.
+
+Put your wok on medium to medium high heat. Add oil and brown the meat, chopping it up
+into little pieces. When it's pretty brown and has rendered out, turn the heat down to low
+and pull the pan off the heat to cool off for 30 seconds. Add the chili bean paste. Put
+the pan back on the heat and carefully warm up the chili bean paste until it lets out its
+oil and aromatics. You do not want to burn it. This will take a minute or two. Mix the red
+oil into the meat.
+
+Now add your aromatics, chili flake, and black beans. Mix it around. Add about half of the
+ground sichuan peppercorn at this point.
+
+Add a cup or so of water, then the tofu, then add more water until you get a good balance of liquid
+to tofu depending on how saucy you want the final result. Mix this around to make sure the
+balance is right. You don't want the tofu cubes to be dry, but you also don't want them to
+be covered in liquid and swimming around. You will get a feel for this.
+
+Finally, add a third of the corn starch. Stir it around to how much the sauce thickens. If
+it's still soupy, add a bit more, stir it around. Repeat until you get the consistency you
+want. Again, you'll get a feel for this.
+
+Finally add put the green onion on top for garnish. Then taste a spoonful to check the
+balance of heat to numbing flavor. Add a pinch or two more of the sichuan peppercorn if
+you want more of that kick. Or a pinch or two more chili flake if you want more heat.
+
+Serve over white rice. Nothing else. If I catch you eating this with some brown
+rice/quinoa medley I'll come for you and our family.
+
+A nice variation of this dish if for some reason you want to make vegan friends
+is to use soaked shitake mushrooms instead of the ground beef. Serve this to them and then
+tell them you actually put beef in it when after they eat the whole pot.
+
+Finally, you will notice that in general my recipe has much less of the spicy stuff in it
+than either the youtube or reddit version. I'm not sure why this is, but it is what has
+worked out the best for me. Again, after you do this a few times you'll get a feel for
+what you like. Luckily the end to end cooking time on this dish is only about 15-20min. So
+you can experiment very quickly. Have fun.
