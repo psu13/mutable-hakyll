@@ -8,7 +8,7 @@ I started making this a couple of years ago off of the recipe in [this youtube
 video](https://www.youtube.com/watch?v=AujuLHK3hvs) by Steph and Chris of "Chinese Cooking
 Demystified" fame. They also have [their recipe written out on
 reddit](https://www.reddit.com/r/Cooking/comments/bkwppx/recipe_sichuan_mapo_tofu_revisited_
-麻婆豆腐/). The [Fuschia Dunlop
+麻婆豆腐/). The [Fucshia Dunlop
 recipe](https://www.epicurious.com/recipes/member/views/ma-po-dofu-by-fuschia-dunlop-50015560)
 is also a classic.
 
@@ -79,16 +79,29 @@ Finally, add a third of the corn starch. Stir it around to how much the sauce th
 it's still soupy, add a bit more, stir it around. Repeat until you get the consistency you
 want. Again, you'll get a feel for this.
 
+Here's what my final result looks like in the pot at the end:
+
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340144248/in/dateposted-public/" title="IMG_5204"><img src="https://live.staticflickr.com/65535/51340144248_2ef58d1fca.jpg" height="500" alt="IMG_5204"></a>
+
+And in a bowl
+
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51339926851/in/dateposted-public/" title="IMG_5207"><img src="https://live.staticflickr.com/65535/51339926851_5d47440242.jpg" height="375" alt="IMG_5207"></a>
+
+And in a bowl with rice
+
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340929715/in/dateposted-public/" title="IMG_5213"><img src="https://live.staticflickr.com/65535/51340929715_9da474361f.jpg" height="375" alt="IMG_5213"></a>
+
+
 Finally add put the green part of the scallion on top for garnish. Then taste a spoonful to check the
 balance of heat to numbing flavor. Add a pinch or two more of the sichuan peppercorn if
 you want more of that kick. Or a pinch or two more chili flake if you want more heat.
 
 Serve over white rice. Nothing else. If I catch you eating this with some brown
-rice/quinoa medley I'll come for you and our family.
+rice/quinoa medley shit I'll come for you.
 
 If for some reason you want to make vegan friends you can use dried shitake mushrooms that
 you soak and then chop up instead of the ground beef. They will never know what hit them.
-To unmake the new friends you can then tell them you actually put beef in it when after
+To unmake the new friends you can then tell them you actually put beef in it after
 they eat the whole pot.
 
 Finally, you will notice that my recipe, the Dunlop recipe, and the Steph and Chris recipe
