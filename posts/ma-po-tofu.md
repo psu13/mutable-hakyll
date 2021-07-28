@@ -92,9 +92,12 @@ And in a bowl with rice
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340929715/in/dateposted-public/" title="IMG_5213"><img src="https://live.staticflickr.com/65535/51340929715_9da474361f.jpg" height="375" alt="IMG_5213"></a>
 
 
-Finally add put the green part of the scallion on top for garnish. Then taste a spoonful to check the
-balance of heat to numbing flavor. Add a pinch or two more of the sichuan peppercorn if
-you want more of that kick. Or a pinch or two more chili flake if you want more heat.
+To finish up taste a spoonful
+to check the balance of heat to numbing flavor. Add a pinch or two more of the sichuan
+peppercorn if you want more of that kick. Or a pinch or two more chili flake if you want
+more heat.
+
+Finally, put the green part of the scallion on top for garnish.
 
 Serve over white rice. Nothing else. If I catch you eating this with some brown
 rice/quinoa medley shit I'll come for you.
