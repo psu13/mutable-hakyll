@@ -12,7 +12,7 @@ Unlike some of the more popular site generators Hakyll does not come with a larg
 
 Next I had to adjust the HTML generator inside Hakyll (and thus really inside [pandoc](https://pandoc.org)) to generate [$\KaTeX$](https://katex.org) markup for math and also to generate URLs and feeds that match the layout of the old site. Can't be making broken links.
 
-Finally, along the way I also made a new improvements:
+Finally, along the way I also made a few improvements:
 
 1. Got rid of the dumb sidebar that I never liked.
 
