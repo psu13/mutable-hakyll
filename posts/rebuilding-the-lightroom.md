@@ -27,7 +27,7 @@ laptop and work with reduced size pictures on my web site. After 2007 I started 
 Lightroom as a single tool that did all three previous jobs. Since then I have moved from
 Lightroom to Lightroom and never really thought about it. I even stuck with the tool after
 Adobe committed the unforgivable sin of switching to a more sustainable subscription-based
-business model in the 2010s. For better or worse Lightroom has my data in it, and I didn't
+business model in the 2010s. For better or worse Lightroom had my data in it, and I didn't
 want to move it.
 
 Of course, the Lightroom landscape has been a bit confusing in the past few years. Let me

@@ -12,7 +12,18 @@ With some trepidation I will wade into that old warhorse topic: "static" vs. "dy
 
 The first thing to say is that "static" and "dynamic" are bad words. They are too vague and don't necessarily reflect what you really mean to talk about. For me, "compile time" and "runtime" work better. But for conciseness I will use "static" to nominally mean "compile time" and  "dynamic" to mostly mean "runtime."
 
-The shallowest water in which to have this argument is to concentrate on the extent to which a language requires you to annotate your code to declare all the types up front at compile time. Or the extent to which you even have a compile time at all. In the 80s, advocates for Lisp and Smalltalk would rail against "bondage and discipline" languages like Pascal and C for requiring you to make sure all your micro-level type annotations matched up everywhere so the compiler could correctly allocate storage. They sort of had a point. That sucked. In the 2010s, advocates for Javascript and Ruby (say) may try to make similar arguments. However their point is not as sharp now since you can now build languages that do not require you to declare types, but which are still statically checked. There are even versions of Javascript that do this, yet people will still howl at the moon about how you are tying their hands behind their backs if you whisper the phrase "static type checking" on twitter.
+The shallowest water in which to have this argument is to concentrate on the extent to
+which a language requires you to annotate your code to declare all the types up front at
+compile time. Or the extent to which you even have a compile time at all. In the 80s,
+advocates for Lisp and Smalltalk would rail against "bondage and discipline" languages
+like Pascal and C for requiring you to make sure all your micro-level type annotations
+matched up everywhere so the compiler could correctly allocate storage. They sort of had a
+point. That sucked. In the 2010s, advocates for Javascript and Ruby (say) may try to make
+similar arguments. However their point is not as sharp now since you can now build
+languages that do not require you to declare all of the types, but which are still statically
+checked. There are even versions of Javascript that do this, yet people will still howl at
+the moon about how you are tying their hands behind their backs if you whisper the phrase
+"static type checking" on twitter.
 
 This behavior will be somewhat confusing to people who have either bought into the "type theory cult", as I call it, or people who have a lot of experience working on very large systems. These folks will generally trot out a familiar list of things that more advanced static checking can do for you:
 
