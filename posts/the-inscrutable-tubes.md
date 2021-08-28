@@ -102,7 +102,7 @@ So, what is to be done about this? If I had the answer I'd probably be sharing m
 
 1. When possible, avoid state, even hidden state. Since no one has figured out how to make stateless documents, you clearly need *some* state. But most systems have too much. The best example of bad state is the useless cache built to solve a performance problem that doesn't exist. Every cache is an invalidation bug waiting to happen.
 
-2. When possible, avoid object (1) references. Document objects holding pointers to other document objects is a sure way to lose. Every time. Obviously you need *some* way for objects to refer to each other. I'm just saying that a programming language level reference is usually the wrong thing (although the more new fangled languages may fix this).
+2. When possible, avoid object [^1] references. Document objects holding pointers to other document objects is a sure way to lose. Every time. Obviously you need *some* way for objects to refer to each other. I'm just saying that a programming language level reference is usually the wrong thing (although the more new fangled languages may fix this).
 
 3. When possible, avoid hierarchy. The relational database people had this right: hierarchy that you do not need tends to saddle you with a lot of useless invariants that you must maintain for no reason. A lot of hierarchy makes your tube trips longer, because you need to pass through a tube every time to change levels.
 	
@@ -110,20 +110,20 @@ So, what is to be done about this? If I had the answer I'd probably be sharing m
 
 4. Whenever possible, enforce strict phasing. See above.
 
-What I imagine is that over time we'll be able to add a management layer to the standard application architecture (2) that sits somewhere between the model and the controller. Let's call this manager the TubeConnectorManagerTransactionTubeController. What this manager would do is mediate all relationships between objects in the model and objects in the other layers. No model object would ever be explicitly accessible. In addition it would manage and keep track of which operations are allowed to run in which phases of the application execution loop. If requests come in that are out of phase then depending on the situation you could imagine the system just crashing immediately or perhaps queueing the operation until it's safe to run.
+What I imagine is that over time we'll be able to add a management layer to the standard application architecture [^2] that sits somewhere between the model and the controller. Let's call this manager the TubeConnectorManagerTransactionTubeController. What this manager would do is mediate all relationships between objects in the model and objects in the other layers. No model object would ever be explicitly accessible. In addition it would manage and keep track of which operations are allowed to run in which phases of the application execution loop. If requests come in that are out of phase then depending on the situation you could imagine the system just crashing immediately or perhaps queueing the operation until it's safe to run.
 
 Generally I favor crashing immediately, because that forces someone to fix the bug. Trying to be friendly and carry on tends to result in someone being forced to backtrack to the original bug via some other anomaly that is reported as a bug. This is usually hellish and painful. It's always better to crash on the first thing you find that's wrong, if you can get away with it.
 
-The TubeManager replaces at least part of the pile of tubes above with a single black box that is responsible for holding the tubes so you don't have to see them. Even if I knew how to build it, I don't think that it would be a complete solution (3). But I think it would help, assuming that it wasn't a buggy mess like all software is. 
+The TubeManager replaces at least part of the pile of tubes above with a single black box that is responsible for holding the tubes so you don't have to see them. Even if I knew how to build it, I don't think that it would be a complete solution [^3]. But I think it would help, assuming that it wasn't a buggy mess like all software is. 
 
 The complete solution would probably be some giant magic transformational box that takes the existing document and somehow transforms it into the "document plus one edit" along with an updated display for the user while not engaging in any stateful activity in between *and* performing better than all of the stacks of code we have now. I'm not sure how you do this, but I bet it involves  <a href="http://homepages.inf.ed.ac.uk/wadler/topics/monads.html">monads</a>.
 
 **Notes**:
 
-1. When I say object here I mean object in a more generic sense. I will not make you suffer through all of that standard OO-design bullshit. That stuff is dumb.
+[^1]: When I say object here I mean object in a more generic sense. I will not make you suffer through all of that standard OO-design bullshit. That stuff is dumb.
 
-2. My idea of the standard application architecture is the one defined by the AppKit "document oriented application" idea. Not all apps fall under this umbrella. But most of the interesting ones do.
+[^2]: My idea of the standard application architecture is the one defined by the AppKit "document oriented application" idea. Not all apps fall under this umbrella. But most of the interesting ones do.
 
-3. Someone is sure to tell me that the web application people, with their enforced separation between server-side model and client-side view have somehow already implemented this idea. But I'm skeptical. I mean, a lot of those people are still using PHP.
+[^3]: Someone is sure to tell me that the web application people, with their enforced separation between server-side model and client-side view have somehow already implemented this idea. But I'm skeptical. I mean, a lot of those people are still using PHP.
 
 
