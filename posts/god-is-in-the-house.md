@@ -9,10 +9,7 @@ author: psu
 <p>I own a lot of piano records. I have the classic Bill Evans groups. I have the pre-Columbia Monk recordings because I&#8217;m a snob. I have the Monk-like Jessica Williams. I have the post-Coltrane uber-hard-bop Mccoy Tyner. I have the the Sun Ra records from Saturn and the Cecil Taylor records that sound like a hallucinogenic drug on tape. I have the completely original and unlike anything else Herbie Nichols records. And of course, there are the small group Ellington and Count Basie records. There are dozens of others.</p>
 <p>I would recommend any of these records to anyone who will listen, and if you send me email I can give you a list of the best ones. But, for the pure pleasure of <em>performance art</em>, there is one artist that you should investigate first. Stop reading this now and go pick up some Oscar Peterson records. Then just put the CD in the player, or the iPod headphones in your ears and just let the pure unadulterated swing, drive and absolutely unbounded virtuosity wash over you. Consider this humble clip:</p>
 <p><a href="https://www.youtube.com/watch?v=EX6fLQZNMiA">https://www.youtube.com/watch?v=EX6fLQZNMiA</a></p>
-<p>Or listen to the whole thing here: 
-</p><p>
-<a href="http://open.spotify.com/track/61uAmC79cslPTgyFbv2jPC">http://open.spotify.com/track/61uAmC79cslPTgyFbv2jPC</a>
-</p>
+
 <p>Peterson combines three phenomenal abilities into a single unmatched package:</p>
 <p>1. He can play fast. He plays faster than should be physically possible. He&#8217;s so fast that even after he had a <em>stroke</em> in the early 90s he&#8217;s still so fast you can&#8217;t believe it.</p>
 
