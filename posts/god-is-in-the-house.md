@@ -8,7 +8,7 @@ author: psu
 <span id="more-805"></span><a></a></p>
 <p>I own a lot of piano records. I have the classic Bill Evans groups. I have the pre-Columbia Monk recordings because I&#8217;m a snob. I have the Monk-like Jessica Williams. I have the post-Coltrane uber-hard-bop Mccoy Tyner. I have the the Sun Ra records from Saturn and the Cecil Taylor records that sound like a hallucinogenic drug on tape. I have the completely original and unlike anything else Herbie Nichols records. And of course, there are the small group Ellington and Count Basie records. There are dozens of others.</p>
 <p>I would recommend any of these records to anyone who will listen, and if you send me email I can give you a list of the best ones. But, for the pure pleasure of <em>performance art</em>, there is one artist that you should investigate first. Stop reading this now and go pick up some Oscar Peterson records. Then just put the CD in the player, or the iPod headphones in your ears and just let the pure unadulterated swing, drive and absolutely unbounded virtuosity wash over you. Consider this humble clip:</p>
-<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=212191357&amp;s=143441&amp;i=212191382">http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=212191357&#038;s=143441&#038;i=212191382</a></p>
+<p><a href="https://www.youtube.com/watch?v=EX6fLQZNMiA">https://www.youtube.com/watch?v=EX6fLQZNMiA</a></p>
 <p>Or listen to the whole thing here: 
 </p><p>
 <a href="http://open.spotify.com/track/61uAmC79cslPTgyFbv2jPC">http://open.spotify.com/track/61uAmC79cslPTgyFbv2jPC</a>
