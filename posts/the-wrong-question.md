@@ -6,7 +6,7 @@ author: psu
 
 Today's story starts <a href="https://www.youtube.com/watch?v=xyowJZxrtbg&ab_channel=TEDxTalks">with this TED video about teaching math</a>. The video is short, you should go watch it. I happened across the thing accidentally one night and, unsurprisingly, I found myself annoyed and slightly angry. The video concerns itself with answering the following question about mathematics: "What will I use this for?" 
 
-"Here we go again", I thought to myself, "the same old story about math being too hard and too terrible to inflict on our poor students, so we should just give up." Now, I have <a href="<a href="/math-is-hard-lets-just-quit.html">ranted about this before in a more specific context</a>, but this piece called out for some more general thoughts.
+"Here we go again", I thought to myself, "the same old story about math being too hard and too terrible to inflict on our poor students, so we should just give up." Now, I have <a href="/math-is-hard-lets-just-quit.html">ranted about this before in a more specific context</a>, but this piece called out for some more general thoughts.
 
 My immediate and strongest reaction to this talk is that fundamentally that the question is the wrong question. Students will *always* inevitably ask "When am I going to use this?" To me, the right answer to this question is "give it time and you will find out." Of course, no one will actually be satisfied with this answer. So, I'll fall back on Jordan Ellenberg's version, from *How not to be Wrong*, a great book about the nature of mathematics.
 
