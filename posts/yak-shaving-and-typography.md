@@ -12,7 +12,12 @@ If you've used $\rm\TeX$ or done any computer programming in the last 40 years, 
 
 #### Part 1: Prehistory
 
-In 1968, at the tender age of thirty, Donald Knuth published the first volume of a book that was supposed to be about compilers. Volume 1 of <a href="https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming">_The Art of Computer Programming_</a> instead formed the basis for what would become the first systematic and theoretical investigation of techniques for designing and analyzing *algorithms* [^1] in the future field of academic computer science. 
+In 1968, at the tender age of thirty, Donald Knuth published the first volume of a book
+that was supposed to be about compilers. Volume 1 of <a
+href="https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming">_The Art of Computer
+Programming_</a> instead formed the basis for what would become the first systematic
+investigation of techniques for designing and analyzing *algorithms* [^1] in the future
+field of academic computer science. 
 
 Over the next ten years he would publish three volumes (1. _Fundamental Algorithms_, 2. _Seminumerical Algorithms_, and 3. _Sorting and Searching_) and also updated editions of volumes 1 and 3.
 
@@ -22,7 +27,15 @@ Then in 1976 he started to update volume 2. And here is where our story really s
 
 #### Part 2: The Shaving Begins
 
-The original printings of TAOCP were done on semi-automatic mechanical typesetting devices built by a company called *Monotype* beginning in the late 19th century. Someone would actually type all the text on a keyboard where it was recorded on paper tape. Then a second machine would read the tape and *cast metal type in real time from hot metal* [^2] into galleys, one for each page. Then you make paper prints from the galleys and offset plates from the master pages and then you use the plates to print the books. For complicated technical books the typographer would also have to do a lot of hand-setting of type for the mathematical formulas and programs and whatnot. It was exactly as tedious and time consuming as it sounds.
+The original printings of TAOCP were done on semi-automatic mechanical typesetting devices
+built by a company called *Monotype* beginning in the late 19th century. Someone would
+actually type all the text on a keyboard where it was recorded on paper tape. Then a
+second machine would read the tape and *cast type in real time from molten hot metal* [^2]
+into galleys, one for each page. Then you make paper prints from the galleys and offset
+plates from the master pages and then you use the plates to print the books. For
+complicated technical books the typographer would also have to do a lot of hand-setting of
+type for the mathematical formulas and programs and whatnot. It was exactly as tedious and
+time consuming as it sounds.
 
 In the late 70s the mechanical machines were starting to be phased out and replaced with machines that made the offset plates directly using a photographic system to place the text on the plates. In 1976 Knuth made enough changes to his second volume that all the text had to be reset ... but the old mechanical Monotype machines at his publisher had been retired and the new photo-based machines did not generate text that looked the same. Knuth was left with the following choices:
 
