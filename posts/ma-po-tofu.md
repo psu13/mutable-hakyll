@@ -60,12 +60,12 @@ Next, chop up the chili bean paste to break up the large pieces of beans, put in
 
 Put the rest of your aromatics in a bowl.
 
-Put your wok on medium to medium high heat. Add oil and brown the meat, chopping it up
-into little pieces. When it's pretty brown and has rendered out, turn the heat down to low
-and pull the pan off the heat to cool off for 30 seconds. Add the chili bean paste. Put
-the pan back on the heat and carefully warm up the chili bean paste until it lets out its
-oil and aromatics. You do not want to burn it. This will take a minute or two. Mix the red
-oil into the meat.
+Put your pan (any medium sized sauce pan or soup pot will work, or a wok) on medium to
+medium high heat. Add oil and brown the meat, chopping it up into little pieces. When it's
+pretty brown and has rendered out, turn the heat down to low and pull the pan off the heat
+to cool off for 30 seconds. Add the chili bean paste. Put the pan back on the heat and
+carefully warm up the chili bean paste until it lets out its oil and aromatics. You do not
+want to burn it. This will take a minute or two. Mix the red oil into the meat.
 
 Now add your ginger and garlic and the white part of the scallion, chili flake, and black
 beans. Mix it around. Add about half of the ground sichuan peppercorn at this point. At
@@ -94,10 +94,9 @@ And in a bowl with rice
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340929715/in/dateposted-public/" title="IMG_5213"><img src="https://live.staticflickr.com/65535/51340929715_9da474361f.jpg" height="375" alt="IMG_5213"></a>
 
 
-To finish up taste a spoonful
-to check the balance of heat to numbing flavor. Add a pinch or two more of the sichuan
-peppercorn if you want more of that kick. Or a pinch or two more chili flake if you want
-more heat.
+To finish up taste a spoonful to check the balance of heat to numbing flavor. Add a pinch
+or two more of the sichuan peppercorn if you want more of that kick. Or a pinch or two
+more chili flake if you want more heat.
 
 Finally, put the green part of the scallion on top for garnish.
 
