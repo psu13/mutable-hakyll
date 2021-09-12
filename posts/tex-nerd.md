@@ -4,7 +4,7 @@ date: 2020-11-04
 author: psu
 ---
 
-A long time ago when we used to be able to go out to a special building where dozens of people would sit in a dark room together and watch a high quality projection of movies on to large screens, I read an <a href="https://www.nytimes.com/2012/04/29/magazine/how-samuel-l-jackson-became-his-own-genre.html?_r=1&hp&pagewanted=all">NYT profile of one Samuel L. Jackson</a> that had this thrilling paragraph in it:
+A long time ago when we used to be able to go out to a special building where dozens of people would sit in a dark room together and watch high quality projections of movies on to large screens, I read an <a href="https://www.nytimes.com/2012/04/29/magazine/how-samuel-l-jackson-became-his-own-genre.html?_r=1&hp&pagewanted=all">NYT profile of one Samuel L. Jackson</a> that had this thrilling paragraph in it:
 
 > As an only child, he went to movies alone, he said, “to be taken out of my place and transported to another world.” Years later, when people questioned why he appeared in one turkey or another, he would answer, “Because it was a movie I’d seen as a kid.” One such dud, a remake of “Shaft,” was so horrible that Jackson was said to have refused to recite his lines because they were written by a white man. “Not true,” he said, when I asked about the incident. “I changed his lines so they’d sound like a black man,” he said. When the author countered that those were the words he had written, according to Jackson, “I said: ‘Yes, and you got paid for them. Now let me make you sound brilliant.’ ” Jackson had to say “the corniest line I ever heard in my life and make it believable,” he told me, and then laughed before delivering it again: “It’s my duty to please that booty.”
 
