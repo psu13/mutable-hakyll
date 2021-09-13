@@ -97,6 +97,16 @@ As unbelievable as it sounds, there are dozens of other little details on which 
 
 1. Long Equations. Long equations are annoying, but not hard, to fix. Learn how to use the `align` and `multline` macros from the AMS math setup and you will have a fairly easy time of it. The hardest part of this is actually finding the overflows in the source code and then parsing the math to find a good breakpoint.
 
+1. Notational Nits. You will often run into two common foibles in formulas, especially in
+   physics papers. First, people will use $<$ and $>$ for [Dirac
+   brackets](https://en.wikipedia.org/wiki/Bra–ket_notation), when they want to use
+   $\langle$ and $\rangle$. Note: $< x | y >$ vs. $\langle x | y \rangle$. The spacing is
+   all wrong with $<$ and $>$ because they are binary operators.
+   
+   Second, people will forget that math italics is not spaced
+   right for multi-letter names, so you have to remember to box them up so look like text
+   italics.
+
 1. Graphics. Including graphics has always been a headache in $\rm\TeX$ in general and $\rm\LaTeX$ in particular. There are macro packages for drawing pictures if writing what amounts to raw Postscript (or similar) programs for drawing things is what you like to do in your spare time. What most people do is generate the pictures in some other program and then import them into the final output using the special mechanism in the $\rm\TeX$ engine for these things. In the olden days you would do this with EPSF. These days you suck in PDF. Usually this is not too bad and the modern system does the file conversion for you. But dealing with older documents that use external postscript files can be a hassle if the postscript is not marked up with the right meta-data (e.g. bounding boxes).
 
 1. Again, Use `\sloppy` and `\raggedbottom` to avoid stupid line breaking problems and page layouts that have horribly stretched out whitespace in them.
