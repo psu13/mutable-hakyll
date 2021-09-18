@@ -47,9 +47,20 @@ For reference, I will bucket the sorts of pieces you will hear into classes by *
 
 1. Short (5-10min) - Overtures, small "suites" or excerpts from larger pieces, most modern pieces and "new" music. Novelty, crossover, or the odd pop music arrangement generally fall into this category as well. Finally, 19th century dance and background music, like your waltzes and stuff land here. 
 
-2. Medium (10-45min) - Longer modern pieces, many earlier works named “symphony” before the 19th century symphony forms got super bloated, occasional pieces involving vocals or a chorus, longer arrangements and suites, some full ballets. But, the bread and butter of this category is the instrumental concerto that usually feature some internationally famous guest artist.
+2. Medium (10-45min) - Longer modern pieces, many earlier works named “symphony” before
+   the 19th century symphony forms got super bloated, occasional pieces involving vocals
+   or a chorus, longer arrangements and suites, some full ballets. But, the bread and
+   butter of this category is the instrumental concerto. These usually feature some
+   internationally famous guest artist.
 
-	Generally concerto soloists play either violin or piano. There are exceptions to this (flute, clarinet, viola, cello) but it doesn't happen a lot. I personally find most of the concerto repertoire difficult to connect with. There are balance issues. There are structural issues. There is the fact that so much of the music can too easily sound like empty technical virtuosity. There is the fact that watching some poor woman in a giant dress shaped like a Christmas tree (the guys get to play in relatively comfortable suits. We all know why this is.) saw on a violin for half an hour is just tiring. Anyway ... that's how concertos work.
+    Generally concerto soloists play either violin or piano. There are exceptions to this
+    (flute, clarinet, viola, cello) but it doesn't happen a lot. I personally find most of
+    the concerto repertoire difficult to connect with. There are balance issues. There are
+    structural issues. There is the fact that so much of the music can too easily sound
+    like empty technical virtuosity. There is the fact that watching some poor woman in a
+    giant dress shaped like a Christmas tree (the guys get to play in relatively
+    comfortable suits. We all know why this is.) saw on a violin for half an hour is just
+    tiring. Anyway ... that's how concertos work.
 	
 3. Long (30min to an hour) - Full blown large scale 18th and 19th century “romantic” period works, especially the ones named symphonies. Also full ballets, concert performances of opera excerpts (rare), song cycles, church music. The big symphonies from Beethoven, Brahms, and all their buddies form the core of this repertoire and in many ways the cash cow back catalog for all orchestras everywhere for the last hundred or so years. Did you hear that we are in *another* Beethoven birthday year!?!
 
@@ -114,7 +125,12 @@ Besides the movie music my other suggestion is to seek out the Russian and centr
 
 The problem will be that the PSO does not play this music that much. But they do often enough for you to find a show or two like this every year. And in my experience these shows are almost always interesting and good. Along these lines another suggestion that I make to people is to go see the <a href="http://www.chambermusicpittsburgh.org">Chamber Music series</a> at Carnegie Music Hall. These small groups are more intimate, less intimidating,  and they also have more room for more experimental forms.
 
-But again, this is just what I think, and might not be right for you. Maybe what I think of as tired and oversold warhorses will turn out to be more your thing. *That's fine too*. The goal is to find something you want to hear live, because hearing it live will (hopefully) be great. I tend to think it's easier to connect with music that happened more recently, but this is by no means a universal rule. And really, for all my posturing ... the Beethoven 5th (or 3rd or 7th, or 6th) slaps. You really cannot go wrong.
+But again, this is just what I think, and might not be right for you. Maybe what I think
+of as tired and oversold warhorses will turn out to be more your thing. *That's fine too*.
+The goal is to find something you want to hear live, because hearing it live will
+(hopefully) be great. I tend to think it's easier to connect with music that happened more
+recently, but this is by no means a universal rule. And really, for all my posturing ...
+the Beethoven 5th (or 3rd or 7th, or 6th) really slaps. You cannot go wrong.
 
 **Digression: Where to Sit**
 
