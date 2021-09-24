@@ -49,7 +49,7 @@ adherents. The pessimist in me could not help but snark at the optimists from th
 * Web, Web 2.0, Web Mobile: The Internet is the best place to deploy software. Oh except
   it's actually the worst.
 
-* Process cults, esp. Agile: If you just follow this simple state machine of rituals
+* Process cults, most recently Agile: If you just follow this simple state machine of rituals
   software becomes easy. Well ... no.
 
 * The Type Theory Cult: I have talked about this before. Very useful for certain things.
@@ -69,11 +69,11 @@ details. As we all know from reading our Fred Brooks, the complexity of software
 _essential_, not incidental. You can't just abstract them away without losing the ability
 to solve part of the problem.
 
-I never managed to write the full article about all the technology cults that we have seen
-and tried to ignore over the years because in the end I realized that aside from some
-small bits of pithy snark I had nothing else interesting to say about them. All that you
-can say is that they all missed the point about not ignoring essential details, which is
-why they don't really work out, and move on with your life.
+I never managed to write the full article about all the technology cults that I have tried
+to ignore over the years because in the end I realized that aside from some small bits of
+pithy snark I had nothing else interesting to say about them. All that you can say is that
+they all missed the point about not ignoring essential details, which is why they don't
+really work out, and move on with your life.
 
 I think the flip side of this story is more interesting though. It is easy and
 lazy to decry the software industry as ultimately shallow and empty because at a high
@@ -92,7 +92,7 @@ that we have made a lot of progress even if it is "only" linear.
 I have a few recent examples of people working in the details to make things better:
 
 * Pandoc - This is a truly useful tool and arguably the most useful thing to come out of
-  the whole Haskell universe. Among other things this engine [generates the HMTML that you
+  the whole Haskell universe. Among other things this engine [generates the HTML that you
   are reading now](http://mutable-states.com/a-new-face.html) with relatively little fuss.
   And, it's flexible enough to let me put in some of my own bibs and bobs in a way that
   isn't too much more difficult than in, say, Python. While you might say that file format
@@ -100,12 +100,13 @@ I have a few recent examples of people working in the details to make things bet
   applying the particular tricks available in higher order functional languages to this
   application, and doing it this well, is not a great and novel idea.
 
-* https://pernos.co - Debuggers suck. They make you reason about what your giant system is
-  doing by staring at them through a tiny peephole at particular moments in time, and then
-  making a lot of guesses. [Pernosco](https://pernos.co/about/overview) captures
-  everything about an entire execution of your program and lets you look at all of it at
-  once. This is not just a tool that lets you debug forward and backward in time. It's
-  more like a tool that lets you see all of time at once, and query it like a database.
+* [Pernosco](https://pernos.co/about/overview) - Debuggers suck. They make you reason
+  about what your giant system is doing by staring at them through a tiny peephole at
+  particular moments in time, and then making a lot of guesses.
+  [Pernosco](https://pernos.co/about/overview) captures everything about an entire
+  execution of your program and lets you look at all of it at once. This is not just a
+  tool that lets you debug forward and backward in time. It's more like a tool that lets
+  you see all of time at once, and query it like a database.
 
 * Github static analysis - A buddy of mine just deployed a giant system at github that
   lets you do semantic navigation of code in the github browser interface. That's scaling
