@@ -60,7 +60,7 @@ adherents. The pessimist in me could not help but snark at the optimists from th
 And on and on.
 
 I am of course being maximally unfair. All of the cults above actually embody the kernel
-of a good idea. But they are also all infected with the one true nerd idea that ruins
+of a good idea. They are also all infected with the one true nerd idea that ruins
 everything: _If it works well for me, it should generalize and work well for you too_.
 But, this is in fact never true. Or rather it's only true if you decide that you can
 ignore the details of each unique situation when you go in and start bashing your solution
