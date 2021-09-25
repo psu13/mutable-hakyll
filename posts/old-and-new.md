@@ -96,9 +96,9 @@ I have a few recent examples of people working in the details to make things bet
   are reading now](http://mutable-states.com/a-new-face.html) with relatively little fuss.
   And, it's flexible enough to let me put in some of my own bibs and bobs in a way that
   isn't too much more difficult than in, say, Python. While you might say that file format
-  conversion is not exactly _new technology_ it's hard to argue against the fact that
-  applying the particular tricks available in higher order functional languages to this
-  application, and doing it this well, is not a great and novel idea.
+  conversion is not exactly _new technology_ this particular packaging of the idea along
+  with the tricks that you can get from higher order functional nature of Haskell makes
+  the tool much more useful than it otherwise might be.
 
 * [Pernosco](https://pernos.co/about/overview) - Debuggers suck. They make you reason
   about what your giant system is doing by staring at them through a tiny peephole at
