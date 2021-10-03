@@ -28,7 +28,9 @@ Never cook more food than will fit in your pan with enough room left over to tos
 
 #### Heat is nice, but not necessary
 
-My mom made better stir fry than you have ever had in almost any restaurant you ever went to. She used nothing but an anemic electronic burner and a cast iron skillet. A flaming 50,000 BTU gas burner is cool to play with, but you don’t need it.
+My mom made better stir fry than you have ever had in almost any restaurant you ever went
+to. She used nothing but an anemic coiled electric burner and a cast iron skillet. A flaming 150,000
+BTU gas burner is cool to play with, but you don’t need it.
 
 #### Harmony is important
 
