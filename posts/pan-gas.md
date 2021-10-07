@@ -64,7 +64,7 @@ almost stir fried, but it's really a braise. Good hot pan technique is probably 
 critical with the green vegetables ... but to me getting that right is not that different
 from getting the same thing right at a saute station in France.
 
-It's also the case that my annoyance is not being completely fair. Even the book that I
+On the other hand, my annoyance is not completely fair. Even the book that I
 usually credit with starting the whole _wok hei_ obsession, Grace Young's _The Breath of
 the Wok_, covers the many other aspects of Chinese food that I have mentioned, though that
 coverage is later in the book after all of the semi-mystical wok material. So maybe this
