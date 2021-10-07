@@ -74,7 +74,7 @@ newspaper of record is [Kenji's fifteen hundred words about wok hei at
 home](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html), so maybe
 not.
 
-In either case, I am here to say my peace about _wok hei_ and then shut up, and my peace
+In either case, I am here to say my piece about _wok hei_ and then shut up, and my piece
 has two parts:
 
 1. Just stop it. Go learn to make other things. It's just not that important. You can make
