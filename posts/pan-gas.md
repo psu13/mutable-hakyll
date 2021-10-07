@@ -31,9 +31,7 @@ that's a phrase people know. But earlier videos that are more automatically subt
 So what is my problem? My problem is that people (or at least cookbook publishers) seem to
 think that achieving this flavor profile is the be all and end all of cooking Chinese Food
 at home. Find almost any Western, and especially English language writing on Chinese
-cooking and some mention of this technique will show up early and often. [The
-NYT](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html), as always,
-provides an easy to find example of this.
+cooking and some mention of this technique will show up early and often. 
 
 This attitude always confused me, and I have come to realize (from Kenji's
 comments [at the end of in this video](https://www.youtube.com/watch?v=X6JE7W8Z6Hs)) that
