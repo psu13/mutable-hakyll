@@ -31,12 +31,14 @@ that's a phrase people know. But earlier videos that are more automatically subt
 So what is my problem? My problem is that people (or at least cookbook publishers) seem to
 think that achieving this flavor profile is the be all and end all of cooking Chinese Food
 at home. Find almost any Western, and especially English language writing on Chinese
-cooking and some mention of this technique will show up early and often.
+cooking and some mention of this technique will show up early and often and questions of
+high heat burners and hot pans tend to sit front and center in any discussion about Chinese
+cooking.
 
 This attitude always confused me, and I have come to realize (from Kenji's comments [at
 the end of in this video](https://www.youtube.com/watch?v=X6JE7W8Z6Hs)) that this might be
-because I grew up eating Chinese food at home (cooked on an electric stove), rather than
-Chinese food in restaurants (and the stuff at home was always better). But, most of the
+because I grew up eating Chinese food at home. My mom cooked everything on a _coiled
+electric stove_. It was better than the food in the restaurants. But, most of the
 food writing that annoys me is from people chasing _restaurant style_ Chinese food and
 trying to figure out how to do _that_ at home.
 
@@ -62,14 +64,15 @@ almost stir fried, but it's really a braise. Good hot pan technique is probably 
 critical with the green vegetables ... but to me getting that right is not that different
 from getting the same thing right at a saute station in France.
 
-I should also note that even the book that I usually credit with starting the whole _wok
-hei_ obsession, Grace Young's _The Breath of the Wok_, covers the many other aspects of
-Chinese food that I have mentioned, though that coverage is later in the book after all of
-the semi-mystical Wok material. So really this whole thing just circles back to _my_
-irrational obsession with my own probably unfair perceptions. Still, by far the most
-extensive recent piece about Chinese food in the newspaper of record is [Kenji's bit about
-wok hei at home](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html),
-so maybe not.
+It's also the case that my annoyance is not being completely fair. Even the book that I
+usually credit with starting the whole _wok hei_ obsession, Grace Young's _The Breath of
+the Wok_, covers the many other aspects of Chinese food that I have mentioned, though that
+coverage is later in the book after all of the semi-mystical wok material. So maybe this
+whole thing just circles back to _my_ irrational obsession with my own probably unfair
+perceptions. Still, by far the most extensive recent piece about Chinese food in the
+newspaper of record is [Kenji's fifteen hundred words about wok hei at
+home](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html), so maybe
+not.
 
 In either case, I am here to say my peace about _wok hei_ and then shut up, and my peace
 has two parts:
