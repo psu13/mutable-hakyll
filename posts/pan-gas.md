@@ -30,7 +30,12 @@ that's a phrase people know. But earlier videos that are more automatically subt
 
 So what is my problem? My problem is that people (or at least cookbook publishers) seem to
 think that achieving this flavor profile is the be all and end all of cooking Chinese Food
-at home. This attitude always confused me, and I have come to realize (from Kenji's
+at home. Find almost any Western, and especially English language writing on Chinese
+cooking and some mention of this technique will show up early and often. [The
+NYT](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html), as always,
+provides an easy to find example of this.
+
+This attitude always confused me, and I have come to realize (from Kenji's
 comments [at the end of in this video](https://www.youtube.com/watch?v=X6JE7W8Z6Hs)) that
 this might be because I grew up eating Chinese food at home, rather than Chinese food in
 restaurants (and the stuff at home was always better). But, most of the food writing that
@@ -59,23 +64,33 @@ almost stir fried, but it's really a braise. Good hot pan technique is probably 
 critical with the green vegetables ... but to me getting that right is not that different
 from getting the same thing right at a saute station in France.
 
-So, I am here to say my peace about _wok hei_ and then shut up, and my peace has two parts:
+I should also note that even the book that I usually credit with starting the whole _wok
+hei_ obsession, Grace Young's _The Breath of the Wok_, covers the many other aspects of
+Chinese food that I have mentioned, though that material is later in the book after all of
+the semi-mystical Wok material. So really this whole thing just circles back to _my_
+irrational obsession with my own probably unfair perceptions. Still, by far the most
+extensive recent piece about Chinese Food in the newspaper of record is [Kenji's bit about
+wok hei at home](https://www.nytimes.com/2020/09/04/dining/stir-fry-recipe-wok-hei.html),
+so maybe not.
+
+In either case, I am here to say my peace about _wok hei_ and then shut up, and my peace
+has two parts:
 
 1. Just stop it. Go learn to make other things. It's just not that important.
 
-2. I take no credit for thought number 1, except that it lived in my annoyed subconscious
-   for years. All the credit for expressing the thought goes to the heroes at [Chinese
-   Cooking Demystified](https://www.youtube.com/watch?v=X6JE7W8Z6Hs) for making all that
-   [great food on a little hot plate](https://www.youtube.com/watch?v=imiTVVKBWdY). Take
-   [their advice about wok technique](https://www.youtube.com/watch?v=WujehK7kYLM) and
-   listen to [their truth about what you need in a
-   wok](https://www.youtube.com/watch?v=alZ8alIlhAU).
-   
+2. I take no credit for thought number 1, except that it lived in my annoyed brain for
+   years. All the credit for expressing the thought goes to the heroes at [Chinese Cooking
+   Demystified](https://www.youtube.com/watch?v=X6JE7W8Z6Hs) for making all that [great
+   food on a little hot plate](https://www.youtube.com/watch?v=imiTVVKBWdY) and sharing my
+   confusion over the _wok hei_ obsession. Take [their advice about wok
+   technique](https://www.youtube.com/watch?v=WujehK7kYLM) and listen to [their truth
+   about what you need in a wok](https://www.youtube.com/watch?v=alZ8alIlhAU).
+
 Now I'm going to go back to my kitchen, and my favorite [12 inch non-stick aluminum wok
 shaped pan](https://www.amazon.com/gp/product/B00MGFZVII/), and make dinner. This pan, by
 the way, is great for _everything_. It's not too small. It's not too big and heavy. The
 coating can take a beating and it still works fine. And the flat bottom lets it double as
-a small frying pan for things like French omelettes and frying hot dogs. I keep a 14 inch steel
-wok around for deep frying but it's just too big and unwieldy for day to day, and because
-I don't use it enough the surface is never any good. Maybe I'll try to find a nice iron
-one to set on fire over the grill.
+a small frying pan for things like French omelettes and frying hot dogs. I keep a 14 inch
+steel wok around for deep frying but it's just too big and unwieldy for day to day, and
+because I don't use it enough the surface is never any good. Maybe I'll try to find a nice
+iron one to set on fire over the grill.
