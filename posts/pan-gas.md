@@ -1,6 +1,6 @@
 ---
 title: Pan Gas (锅气)
-date: 2021-10-08
+date: 2021-10-07
 author: psu
 ---
 
