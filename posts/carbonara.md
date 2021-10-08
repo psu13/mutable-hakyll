@@ -1,5 +1,5 @@
 ---
-title: Dinner in Half an Hour: Spaghetti Carbonara
+title: Carbonara
 date: 2021-10-09
 author: psu
 ---
@@ -21,8 +21,8 @@ medium sizes saute pan with some oil and cook it until the bacon is crispy and f
 its own fat for a while. When it's done deglaze the pan with white wine and reduce for a
 few minutes.
 
-Meanwhile, cook the spaghetti. You should cook around a half a pound to a pound of pasta,
-give or take.
+Meanwhile, cook the spaghetti. This recipe is calibrated to about a pound of pasta, give
+or take.
 
 While the pasta cooks, crack three eggs into a bowl and beat them. Add salt and pepper to
 taste. This will not take that long, so when you are done grate about a cup or a bit more
