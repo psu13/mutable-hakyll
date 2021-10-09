@@ -26,7 +26,7 @@ At this point your pasta water should be ready for you to cook the spaghetti, so
 While the pasta cooks, crack three eggs into a bowl and beat them. Add salt and pepper to
 taste. This will not take that long, so when you are done grate about a cup or a bit more
 of a mix of Romano and Parmesan cheese. The dark secret here is that Romano is better for
-this dish, and if you want to you can just leave out the Parmesan.   
+this dish, and if you want to you can just not use any Parmesan at all.
 
 When the pasta is almost done, turn the heat on under the bacon for a bit to warm it up.
 
