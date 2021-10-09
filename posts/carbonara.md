@@ -9,10 +9,10 @@ from Marcella Hazan. Buy [her
 book](http://www.amazon.com/Essentials-Classic-Italian-Cooking-Marcella/dp/039458404X/),
 it’s in there. But I’ve adjusted the flow a bit to make it easier to follow. For me.
 
-First get out your pasta cooking pot. Fill it with 3-4 quarts of water and toss a few big
-pinches of salt into the water. You don't want _too_ much water because you want the
-noodles to be able to make the water starchy while they cook, so you can use the starchy
-water later.
+First get out your pasta cooking pot. Fill it with 3-4 quarts of water and bring it to a
+boil. Then toss a few big pinches of salt into the water. You don't want _too_ much water
+because you want the noodles to be able to make the water starchy while they cook, so you
+can use the starchy water later.
 
 Now chop up three or four cloves of garlic and 3 or 4 slices of bacon (or more, go for
 it). Put these into a medium sizes saute pan with some oil and cook it until the bacon is
