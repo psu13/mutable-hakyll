@@ -9,23 +9,24 @@ from Marcella Hazan. Buy [her
 book](http://www.amazon.com/Essentials-Classic-Italian-Cooking-Marcella/dp/039458404X/),
 it’s in there. But I’ve adjusted the flow a bit to make it easier to follow. For me.
 
-First get out your pasta cooking pot. Fill it with 3-4 quarts of water and bring it to a
-boil. Then toss a few big pinches of salt into the water. You don't want _too_ much water
+First get out your pasta cooking pot. Fill it with 3-4 quarts of water and start it
+heating. Toss a few big pinches of salt into the water. You don't want _too_ much water
 because you want the noodles to be able to make the water starchy while they cook, so you
-can use the starchy water later.
+can use the starchy water later. You can do the rest of the recipe while the water gets up
+to boiling and while the pasta cooks. This recipe is calibrated to about a pound of pasta,
+give or take.
 
 Now chop up three or four cloves of garlic and 3 or 4 slices of bacon (or more, go for
 it). Put these into a medium sizes saute pan with some oil and cook it until the bacon is
 crispy and frying in its own fat for a while. When it's done deglaze the pan with white
 wine and reduce for a few minutes, then turn the heat off.
 
-Meanwhile, cook the spaghetti. This recipe is calibrated to about a pound of pasta, give
-or take.
+At this point your pasta water should be ready for you to cook the spaghetti, so drop it in.
 
 While the pasta cooks, crack three eggs into a bowl and beat them. Add salt and pepper to
 taste. This will not take that long, so when you are done grate about a cup or a bit more
 of a mix of Romano and Parmesan cheese. The dark secret here is that Romano is better for
-this dish.
+this dish, and if you want to you can just leave out the Parmesan.   
 
 When the pasta is almost done, turn the heat on under the bacon for a bit to warm it up.
 
