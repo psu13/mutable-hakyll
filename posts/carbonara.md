@@ -17,7 +17,7 @@ can use the starchy water later.
 Now chop up three or four cloves of garlic and 3 or 4 slices of bacon (or more, go for
 it). Put these into a medium sizes saute pan with some oil and cook it until the bacon is
 crispy and frying in its own fat for a while. When it's done deglaze the pan with white
-wine and reduce for a few minutes.
+wine and reduce for a few minutes, then turn the heat off.
 
 Meanwhile, cook the spaghetti. This recipe is calibrated to about a pound of pasta, give
 or take.
@@ -27,7 +27,9 @@ taste. This will not take that long, so when you are done grate about a cup or a
 of a mix of Romano and Parmesan cheese. The dark secret here is that Romano is better for
 this dish.
 
-When the pasta is done take out one scoop of the water. Then drain the rest and dump the
+When the pasta is almost done, turn the heat on under the bacon for a bit to warm it up.
+
+When the pasta is actually done take out one scoop of the water. Then drain the rest and dump the
 noodles back into the pot. Add the bacon and garlic and all the oil in that pan and mix it
 around. Then add the egg and 3/4ths of the cheese and mix it around. If it's too saucy,
 add cheese. If it's too dry, add a bit of pasta water. When that is done, garnish with
