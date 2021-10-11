@@ -37,9 +37,9 @@ I didn't even know those boxes had explosives in them, or that you could set the
 
 I've remarked before that the evolution of combat in FromSoft games, and especially in *Bloodborne* as compared to *Souls*, has been towards encouraging a more aggressive style against enemies that have gotten progressively faster and more deadly. *Sekiro* continues this evolution. On the other hand it's completely different too.
 
-1. A more extensive stealth system is a new thing. The stealth kills are super fun. For once in a ninja game you get to do real ninja shit like land on someone from 50 feet in the air and stab them in the neck:
-	
-> <div class="youtube">
+1. A more extensive stealth system is a new thing. The stealth kills are super fun. For once in a ninja game you get to do real ninja shit like land on someone from 50 feet in the air and stab them in the neck:	
+
+    <div class="youtube">
 <iframe src="https://www.youtube.com/embed/VTvgrcrIHmA"
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
