@@ -1,11 +1,12 @@
 ---
 title: A Yoneda Speedrun
 author: psu
-date: 2021-10-25
+date: 2021-10-24
 ---
 
-I spent the last few months trying to understand the *Yoneda Lemma*. It turned out that
-what I really needed to do was spend a few weeks figuring out every different writer
+In a fit of nerd cliché, I spent the last month or two
+trying to understand the *Yoneda Lemma*. It turned out that
+what I really needed to do was to figure out how every different writer
 comes up with their own strange notation to write the result down. So of course I 
 wrote 
 [a document explaining this to myself](https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf).
@@ -55,7 +56,8 @@ theory "lingo" needed to explain what it means. There are five or six
 layers of abstraction that I will try to explain and move through as
 quickly and clearly as possible.
 
-In the spirit of video game speedruns [[5](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
+In the spirit of video game speedruns 
+[[5](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
 we will skip entire
 interesting areas of material in category theory in the name of getting
 to the end of our "game" as fast as possible. Clearly this will be no
@@ -677,13 +679,7 @@ all that placeholder nonsense. I don't like how the placeholders can
 stand in for anything you want and how their meaning can shift and
 change in different contexts. But, even with those problems it's better
 than hiding the definition behind yet another layer of naming (e.g.
-$H_X$), which is the only other obvious choice. If I did do that, I'd
-use a name besides $H$ anyway. It seems like $R$, or
-$\mathop{\mathit{Rep}}$, or $\mathop{\mathit{Represented}}$ or something
-makes much more sense. But, I'll just take comfort in the fact that no
-one else has done any better. At some point I'll probably make a version
-of this document that uses one of the more standard systems of notation.
-But for now I like my verbosity.
+$H_X$), which is the only other obvious choice. 
 
 Third, you might have found my use of $\mathop{Y\!o}$ for the Yoneda
 embedding to be frivolous, and perhaps childish. And I would have
