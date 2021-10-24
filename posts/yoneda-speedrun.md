@@ -7,13 +7,15 @@ date: 2021-10-25
 I spent the last few months trying to understand the *Yoneda Lemma*. It turned out that
 what I really needed to do was spend a few weeks figuring out every different writer
 comes up with their own strange notation to write the result down. So of course I 
-wrote <a
-href="https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf">
-a document explaining this to myself</a>, and making up my own notation for writing
-this stuff down.
+wrote 
+[a document explaining this to myself](https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf).
+In an equally predictable twist, to do this I made up my own notation for everything. But
+I list most of the others too, since that was the point.
 
-Then I translated the $\LaTeX$ into markdown (mostly with pandoc, I'm not an idiot), so
-you can read it here too.
+Then I translated the $\LaTeX$ into markdown 
+(mostly with [pandoc](https://pandoc.org), I'm not an idiot) and added this blurb. 
+So now you can read it here too. This page was the inevitable result of making a web site
+that can render $\TeX$. So I might as well own it.
 
 But, the pdf looks much better: 
 [so you should read that instead](https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf).
@@ -636,8 +638,8 @@ using duality. All that changes is the order of the arguments in the
 functors.
 
 The Yoneda lemma can now be used to prove that these mappings are
-naturally invertible, so $\mathop{Y\!o}$ completely characterizes, or
-*embeds*, the category $\mathbf{C}$ inside the functor category
+invertible, so $\mathop{Y\!o}$ is what is called an *embedding* of the category
+$\mathbf{C}$ inside the functor category
 $\mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}^\mathrm{op}, {\mathbf {Sets}})$.
 Thus $\mathop{Y\!o}$ is called the *Yoneda embedding*, and you can read
 about the rest of the details in the references.
@@ -746,7 +748,7 @@ Notes*](http://www.julia-goedecke.de/pdf/CategoryTheoryNotes.pdf), 2013.
 Theory*](http://pi.math.cornell.edu/~dmehrle/notes/partiii/cattheory_partiii_notes.pdf),
 notes written by David Mehrle, 2015.
 
-[4] Tom Leinster, [Basic Category Theory](https://arxiv.org/abs/1612.09375),
+[4] Tom Leinster, [*Basic Category Theory*](https://arxiv.org/abs/1612.09375),
 2016.
 
 [5] LobosJr, [*Dark Souls 1 Speedrun, Personal
@@ -768,4 +770,3 @@ matrices*](https://www.youtube.com/watch?v=SsgEvrDFJsM).
 [10] Peter Smith, [ *Category Theory: A Gentle
 Introduction*](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/),
 2019.
-
