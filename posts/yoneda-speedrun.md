@@ -1,8 +1,26 @@
 ---
 title: A Yoneda Speedrun
 author: psu
-date: 2021-10-21
+date: 2021-10-25
 ---
+
+I spent the last few months trying to understand the *Yoneda Lemma*. It turned out that
+what I really needed to do was spend a few weeks figuring out every different writer
+comes up with their own strange notation to write the result down. So of course I 
+wrote <a
+href="https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf">
+a document explaining this to myself</a>, and making up my own notation for writing
+this stuff down.
+
+Then I translated the $\LaTeX$ into markdown (mostly with pandoc, I'm not an idiot), so
+you can read it here too.
+
+But, the pdf looks much better: 
+[so you should read that instead](https://github.com/psu13/arxiv-psu/blob/main/yoneda-speedrun/yoneda-speedrun.pdf).
+
+**Note**: I am not a mathematician or a category theory expert. I just
+wrote this down trying to figure out the language. So everything in this
+document is probably wrong.
 
 ### The Big Picture
 
@@ -43,7 +61,7 @@ substitute for really learning the subject. Any of the references listed
 at the end will be a good place to start to better understand the whole
 game.
 
-**Note**: I am not a mathematician or a category theory expert. I just
+**Note**: Again, I am not a mathematician or a category theory expert. I just
 wrote this down trying to figure out the language. So everything in this
 document is probably wrong.
 
