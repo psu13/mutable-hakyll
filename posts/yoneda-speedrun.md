@@ -697,7 +697,9 @@ Finally, I need to shout out the [excellent tutorial video by Emily
 Riehl](https://www.youtube.com/watch?v=SsgEvrDFJsM) that demonstrates
 how this result works the specific category of matrices 
 [[9](https://www.youtube.com/watch?v=SsgEvrDFJsM)].
-After watching this talk the second time. Her book, [*Category Theory in
+The whole Yoneda picture suddenly
+became more clear while I was watching this talk the second time.
+Her book, [*Category Theory in
 Context*](https://math.jhu.edu/~eriehl/context/), is also excellent
 [[8](https://math.jhu.edu/~eriehl/context/)]. Recommended.
 
