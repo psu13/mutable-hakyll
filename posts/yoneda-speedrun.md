@@ -238,7 +238,13 @@ $\mathbf{D}$, called the *component* of $\alpha$ at $X$.
 In addition, for each arrow $f:X\to Y$ of $\mathbf{C}$, the following
 diagram has to commute: 
 
-> <img src="../images/nat-diagram.png" width=300>
+$$
+\begin{CD}
+   FX @>Ff>> FY \\
+@V\alpha_XVV @VV\alpha_YV \\
+   GX @>Gf>> GY
+\end{CD}
+$$
 
 This is the first commutative diagram that I've tossed up. There is no
 magic here. The idea is that you get the same result no matter which way
@@ -249,7 +255,9 @@ We write natural transformations with double arrows,
 $\alpha: F \Rightarrow G$, to distinguish them in diagrams from functors
 (which are written with single arrows):
 
-> <img src="../images/nat.png" width=300>
+<center>
+<img src="../images/nat.png" width=200>
+</center>
 
 You might wonder to yourself: what makes natural transformations
 "natural"? The answer appears to be related to the fact that you can
@@ -536,7 +544,7 @@ in the functor category $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$
 between $H_X$ and $F$, so it's the same as
 $\mathop{\mathrm{\mathit{Natural}}}(H_X, F)$.
 
-Emily Rhiel's [[8](https://math.jhu.edu/~eriehl/context/)] 
+Emily Riehl's [[8](https://math.jhu.edu/~eriehl/context/)] 
 version is what I used at the top:
 
 **Lemma 3** (Yoneda). Let $\mathbf{C}$ be a locally small category and
@@ -690,7 +698,7 @@ kana for "Yo".
 Given this, how could I resist?
 
 Finally, I need to shout out the [excellent tutorial video by Emily
-Rhiel](https://www.youtube.com/watch?v=SsgEvrDFJsM) that demonstrates
+Riehl](https://www.youtube.com/watch?v=SsgEvrDFJsM) that demonstrates
 how this result works the specific category of matrices 
 [[9](https://www.youtube.com/watch?v=SsgEvrDFJsM)].
 After watching this talk the second time. Her book, [*Category Theory in
@@ -757,10 +765,10 @@ Second Edition, Springer, 1978.
 [7] Paolo Perrone, [*Notes on Category Theory with examples from basic
 mathematics*](https://arxiv.org/abs/1912.10642).
 
-[8] Emily Rhiel, [*Category Theory in
+[8] Emily Riehl, [*Category Theory in
 Context*](https://math.jhu.edu/~eriehl/context/), Dover, 2016.
 
-[9] Emily Rhiel, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
+[9] Emily Riehl, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
 matrices*](https://www.youtube.com/watch?v=SsgEvrDFJsM).
 
 [10] Peter Smith, [ *Category Theory: A Gentle
