@@ -691,7 +691,7 @@ $H_X$), which is the only other obvious choice.
 
 Third, you might have found my use of $\mathop{Y\!o}$ for the Yoneda
 embedding to be frivolous, and perhaps childish. And I would have
-agreed. But then I read in multiple sources tha the Yoneda 
+agreed. But then I read in multiple sources that the Yoneda 
 embedding is sometimes denoted by よ, the hiragana
 kana for "Yo".
 
