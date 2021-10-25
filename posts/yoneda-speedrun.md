@@ -238,13 +238,9 @@ $\mathbf{D}$, called the *component* of $\alpha$ at $X$.
 In addition, for each arrow $f:X\to Y$ of $\mathbf{C}$, the following
 diagram has to commute: 
 
-$$
-\begin{CD}
-   FX @>Ff>> FY \\
-@V\alpha_XVV @VV\alpha_YV \\
-   GX @>Gf>> GY
-\end{CD}
-$$
+<center>
+<img src="../images/nat-diagram.png" width=200>
+</center>
 
 This is the first commutative diagram that I've tossed up. There is no
 magic here. The idea is that you get the same result no matter which way
