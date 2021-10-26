@@ -540,7 +540,7 @@ in the functor category $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$
 between $H_X$ and $F$, so it's the same as
 $\mathop{\mathrm{\mathit{Natural}}}(H_X, F)$.
 
-Emily Riehl's [[8](https://math.jhu.edu/~eriehl/context/)] 
+Emily Riehl's [[8](https://math.jhu.edu/~eriehl/context.pdf)] 
 version is what I used at the top:
 
 **Lemma 3** (Yoneda). Let $\mathbf{C}$ be a locally small category and
@@ -700,7 +700,7 @@ how this result works the specific category of matrices
 The whole Yoneda picture suddenly
 became more clear while I was watching this talk the second time.
 Her book, [*Category Theory in
-Context*](https://math.jhu.edu/~eriehl/context/), is also excellent
+Context*](https://emilyriehl.github.io/files/context.pdf), is also excellent
 [[8](https://math.jhu.edu/~eriehl/context/)]. Recommended.
 
 ### Cheat Sheet
@@ -764,7 +764,7 @@ Second Edition, Springer, 1978.
 mathematics*](https://arxiv.org/abs/1912.10642).
 
 [8] Emily Riehl, [*Category Theory in
-Context*](https://math.jhu.edu/~eriehl/context/), Dover, 2016.
+Context*](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_context.html), Dover, 2016.
 
 [9] Emily Riehl, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
 matrices*](https://www.youtube.com/watch?v=SsgEvrDFJsM).
