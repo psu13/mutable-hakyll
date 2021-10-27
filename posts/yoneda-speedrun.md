@@ -174,7 +174,10 @@ see), so you will see that word sometimes.
 
 As we navigate our way from basic categories up to the statement of the
 lemma we will travel through multiple layers conceptual abstraction.
-Functors are the first step up this ladder.
+At the base of this ladder
+are the categories which themselves are already an abstraction of many ways
+of expressing "mathematical structures". But we have much higher to climb.
+Functors are the first step up.
 
 Functors are the *arrows between categories*. That is, if you were to
 define the category where the objects were all categories of some kind
