@@ -50,11 +50,15 @@ But as Sean Carroll famously wrote about general relativity, "..., these
 statements are incomprehensible unless you sling the lingo" 
 [[1](https://preposterousuniverse.com/wp-content/uploads/2015/08/grtinypdf.pdf)].
 
-I am going to do the following dumb thing: having stated a version of
-the lemma above I'm going to define only the parts of the category
-theory "lingo" needed to explain what it means. There are five or six
-layers of abstraction that I will try to explain and move through as
-quickly and clearly as possible.
+I am going to do the following dumb thing: having stated a version of the lemma above I'm
+going to define only the parts of the category theory needed to explain what the lingo
+means. I am going to do the following dumb thing: having stated a version of the lemma above I'm
+going to define only the parts of the category theory needed to explain what the lingo
+means. There are five or six layers of abstraction that I will 
+try to explain. As for the larger meaning of the result itself, you are on your own. 
+I won't explain that,
+or even really show you how the proof goes.
+
 
 In the spirit of video game speedruns 
 [[5](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
