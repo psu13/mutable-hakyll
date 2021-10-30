@@ -88,7 +88,7 @@ Categories have a deliciously chewy multi-part definition.
 
 -   A collection of *arrows* denoted with lower case letters
     $f, g, h, ...$, and so on. Other names for *arrows* include
-    *mappings* or *functions* or *morphims*. We will call this
+    *mappings* or *functions* or *morphisms*. We will call this
     collection $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$.
 
 The objects and arrows of a category satisfy the following conditions:
