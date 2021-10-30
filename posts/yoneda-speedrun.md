@@ -132,8 +132,8 @@ standard word for mappings that preserve some kind of structure.
 Category theory, and the Yoneda lemma, it it turns out, is mostly about
 the arrows.
 
-I have broken with well established tradition in the mathematical
-literature and mostly spelled out names for clarity rather than engaging
+I have broken with well established tradition mathematical
+writing and mostly spelled out names for clarity rather than engaging
 in the strange and random abbreviations that I see in most category
 theory texts. The general fear of readable names in the mathematical
 literature is fascinating to me, having spent most of my life trying to
