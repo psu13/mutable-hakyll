@@ -6,7 +6,7 @@ date: 2021-10-31
 
 Our old friends from the Thin Man sandwich shop did a popup today in the space that Black
 Radish uses as a catering kitchen. Thin Man closed in 2017, a casualty of skyrocketing rents
-in the Strip District,  but while they were open they were
+in the Strip District.  But while they were open they were
 easily doing some of the best sandwiches in town.
 
 Their signature eponymous sandwich, the *Thin Man*, is a thick schmear of a great chicken
