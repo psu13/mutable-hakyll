@@ -83,16 +83,19 @@ around. Repeat until you get the consistency you want. Again, you'll get a feel 
 
 Here's what my final result looks like in the pot at the end:
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340144248/in/dateposted-public/" title="IMG_5204"><img src="https://live.staticflickr.com/65535/51340144248_2ef58d1fca.jpg" height="500" alt="IMG_5204"></a>
+> <a href="../images/IMG_5204.jpg">
+<img src="../images/IMG_5204.jpg" height=400></a>
+
 
 And in a bowl
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51339926851/in/dateposted-public/" title="IMG_5207"><img src="https://live.staticflickr.com/65535/51339926851_5d47440242.jpg" height="375" alt="IMG_5207"></a>
+> <a href="../images/IMG_5207.jpg">
+<img src="../images/IMG_5207.jpg" width=400></a>
 
 And in a bowl with rice
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/51340929715/in/dateposted-public/" title="IMG_5213"><img src="https://live.staticflickr.com/65535/51340929715_9da474361f.jpg" height="375" alt="IMG_5213"></a>
-
+> <a href="../images/IMG_5213.jpg">
+<img src="../images/IMG_5213.jpg" width=400></a>
 
 To finish up taste a spoonful to check the balance of heat to numbing flavor. Add a pinch
 or two more of the sichuan peppercorn if you want more of that kick. Or a pinch or two
