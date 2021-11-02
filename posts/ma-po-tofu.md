@@ -84,18 +84,18 @@ around. Repeat until you get the consistency you want. Again, you'll get a feel 
 Here's what my final result looks like in the pot at the end:
 
 > <a href="../images/IMG_5204.jpg">
-<img src="../images/IMG_5204.jpg" height=400></a>
+<img src="../images/IMG_5204-small.jpg" height=400></a>
 
 
 And in a bowl
 
 > <a href="../images/IMG_5207.jpg">
-<img src="../images/IMG_5207.jpg" width=400></a>
+<img src="../images/IMG_5207-small.jpg" width=400></a>
 
 And in a bowl with rice
 
 > <a href="../images/IMG_5213.jpg">
-<img src="../images/IMG_5213.jpg" width=400></a>
+<img src="../images/IMG_5213-small.jpg" width=400></a>
 
 To finish up taste a spoonful to check the balance of heat to numbing flavor. Add a pinch
 or two more of the sichuan peppercorn if you want more of that kick. Or a pinch or two

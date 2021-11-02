@@ -14,7 +14,7 @@ liver mousse, endive, and bacon on a crusty roll:
 
 <center>
 <a href="../images/IMG_6045-thinman.jpg">
-<img src="../images/IMG_6045-thinman.jpg" width=400>
+<img src="../images/IMG_6045-thinman-small.jpg" width=400>
 </a>
 </center>
 
@@ -22,7 +22,7 @@ Today they also had a spicy Vietnamese style beef meatball sub, that was great.
 
 <center>
 <a href="../images/IMG_6044-meatball.jpg">
-<img src="../images/IMG_6044-meatball.jpg" height=400></a>
+<img src="../images/IMG_6044-meatball-small.jpg" height=400></a>
 </center>
 
 Anyway. I post this just as an extended shout out that does not fit well into our
