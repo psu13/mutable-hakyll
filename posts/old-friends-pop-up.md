@@ -12,11 +12,18 @@ easily doing some of the best sandwiches in town.
 Their signature eponymous sandwich, the *Thin Man*, is a thick schmear of a great chicken
 liver mousse, endive, and bacon on a crusty roll:
 
-> <a href="https://www.flickr.com/photos/79904144@N00/51646046969/in/photostream" title="IMG_6045"><img src="https://live.staticflickr.com/65535/51646046969_0ce661703b.jpg" width="500" height="375" alt="IMG_6045"></a>
+<center>
+<a href="../images/IMG_6045-thinman.jpg">
+<img src="../images/IMG_6045-thinman.jpg" width=400>
+</a>
+</center>
 
 Today they also had a spicy Vietnamese style beef meatball sub, that was great.
 
-> <a href="https://www.flickr.com/photos/79904144@N00/51645614278/in/photostream/" title="IMG_6044"><img src="https://live.staticflickr.com/65535/51645614278_b2a6773c9c.jpg" width="375" height="500" alt="IMG_6044"></a>
+<center>
+<a href="../images/IMG_6044-meatball.jpg">
+<img src="../images/IMG_6044-meatball.jpg" height=400></a>
+</center>
 
 Anyway. I post this just as an extended shout out that does not fit well into our
 currently shitty social media channels. And also to point out that I realized at this
