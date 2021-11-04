@@ -63,7 +63,7 @@ or even really show you how the proof goes.
 In the spirit of video game speedruns 
 [[5](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
 we will skip entire
-interesting areas of material in category theory in the name of getting
+interesting areas of category theory in the name of getting
 to the end of our "game" as fast as possible. Clearly this will be no
 substitute for really learning the subject. Any of the references listed
 at the end will be a good place to start to better understand the whole
