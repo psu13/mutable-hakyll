@@ -62,7 +62,7 @@ What `stack` and new `cabal` do for you is a mashup of what traditional build to
 
 1. Each tool has its own model for how it determines what version of a particular package to fetch by default if you didn't specify one.
 
-1. Finally, each tool also lets you install things that effect some parts of the global H askell environment.  `cabal` can touch more things than `stack`, and should be used with caution in this mode.
+1. Finally, each tool also lets you install things that effect some parts of the global Haskell environment.  `cabal` can touch more things than `stack`, and should be used with caution in this mode.
 
 Generally speaking using these tools to build systems that were setup to be built by these systems is pretty straightforward. Creating and maintaining the various bits of meta-data is a bit tedious but not too bad. As long as you are inside a `cabal` or `stack` project everything works pretty well. You just do all your builds and testing using the appropriate tool as a prefix on the command line and the tool sandboxes everything as you would expect.
 
