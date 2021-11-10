@@ -103,9 +103,10 @@ As unbelievable as it sounds, there are dozens of other little details on which 
    $\langle$ and $\rangle$. Note: $< x | y >$ vs. $\langle x | y \rangle$. The spacing is
    all wrong with $<$ and $>$ because they are binary operators.
    
-   Second, people will forget that math italics is not spaced
-   right for multi-letter names, so you have to remember to box them up so look like text
-   italics.
+1. Second, people will forget that math italics is not spaced right for multi-letter
+   names. So, remember to use `\mathit{fofo}` for multi-letter names or symbols in math mode.
+   Otherwise you get something like $fofo$ instead of $\mathit{fofo}$. This is *very
+   important* and almost everyone gets it wrong, even in published books.
 
 1. Graphics. Including graphics has always been a headache in $\rm\TeX$ in general and $\rm\LaTeX$ in particular. There are macro packages for drawing pictures if writing what amounts to raw Postscript (or similar) programs for drawing things is what you like to do in your spare time. What most people do is generate the pictures in some other program and then import them into the final output using the special mechanism in the $\rm\TeX$ engine for these things. In the olden days you would do this with EPSF. These days you suck in PDF. Usually this is not too bad and the modern system does the file conversion for you. But dealing with older documents that use external postscript files can be a hassle if the postscript is not marked up with the right meta-data (e.g. bounding boxes).
 
