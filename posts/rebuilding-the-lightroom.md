@@ -12,7 +12,7 @@ black and white darkrooms. This peak held on through to the 90s, with enthusiast
 enthusiasts still willing to gobble up behind the scenes "how to" information about
 building a perfect room in your house to sit alone in the dark to make pictures. This
 enthusiasm started to wane by the end of the 90s and then was completely destroyed by the
-[consumer digital SLR](http://kvdpsu.org/d70.html) by the early 2000s and now you never
+[consumer digital SLR](http://kvdpsu.org/d70.html) in the early 2000s and now you never
 hear about people's darkrooms anymore except when they are selling the pieces on ebay.
 
 This timing is an interesting personal coincidence for me because my personal digital
