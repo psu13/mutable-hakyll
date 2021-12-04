@@ -50,7 +50,7 @@ Finally, if you are really cheap, you can just subscribe to Spotify or Apple Mus
 
 I could only find a few recordings that were not on Spotify. Two of these more novel sets stand out for their back story.
 
-The first is the famous <a href"http://www.amazon.com/Wagner-Ring-Nibelungen-Astrid-Varnay/dp/B000XTCBWS/">1955 live recording from Bayreuth</a> (Wagner's custom theater) with Joseph Keilberth conducting an all-star cast of "silver age" singers. This record was made by Culshaw and Decca just before the Solti Ring got started and conspiracy theorists like to claim that it was explicitly suppressed by Decca so that it would not compete with Solti. You can't stream this on Spotify, but some of it is on Youtube if you are interested.
+The first is the famous <a href="http://www.amazon.com/Wagner-Ring-Nibelungen-Astrid-Varnay/dp/B000XTCBWS/">1955 live recording from Bayreuth</a> (Wagner's custom theater) with Joseph Keilberth conducting an all-star cast of "silver age" singers. This record was made by Culshaw and Decca just before the Solti Ring got started and conspiracy theorists like to claim that it was explicitly suppressed by Decca so that it would not compete with Solti. You can't stream this on Spotify, but some of it is on Youtube if you are interested.
 
 The second is <a href="http://immortalperformances.org/documents.php?d=5">this reconstruction of a "dream" Ring</a> done by an outfit called <a href="http://immortalperformances.org/documents.php?d=5">Immortal Performances</a>. To make these recordings, Immortal Performances spliced together pieces of multiple broadcast tapes from the MET in the 30s and 40s to create a single composite performance. This is a lot of digital trickery and processing and the extent to which the performance is "real" is highly debatable. Still, no work is more deserving of this treatment than the _Ring_. Wagner surely would have loved the meta-circularity of creating a recording of the _Ring_ made out of samples of other recordings.
 
@@ -60,7 +60,7 @@ After spending the last few weeks listening mostly to Solti and Böhm, but also 
 
 - Try to listen to the music rather than paying overly much attention to the text and plot. The _Ring_ has a complicated   narrative that spends a lot of its time in repeated exposition. Trying to follow every micro-detail in real time will rob you of  the real pleasure in the work. So just relax and let the _Hojo-ho_'s wash over you.
 
-- To follow the text, buy an old LP set of the _Ring_ to get the large liner booklet so you can actually read the libretto. The little books that come with the CDs are completely useless. The e-book version of <a href="http://www.amazon.com/Wagners-Ring-Nibelung-Stewart-Spencer/dp/0500281947/"</a>Wagner's Ring of the Nibelung</a> is also pretty good for this.
+- To follow the text, buy an old LP set of the _Ring_ to get the large liner booklet so you can actually read the libretto. The little books that come with the CDs are completely useless. The e-book version of <a href="http://www.amazon.com/Wagners-Ring-Nibelung-Stewart-Spencer/dp/0500281947/">Wagner's Ring of the Nibelung</a> is also pretty good for this.
 
 - For those times when you just want a little fix, get a highlights disk. My buddy Pete likes <a href="http://www.amazon.com/Ring-Without-Words-Richard-Wagner/dp/B000003CUJ/">this one</a> because it gives you all the high points without needing to listen to all that crappy singing in German.
 
