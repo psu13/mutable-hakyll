@@ -38,7 +38,7 @@ fine, but tedious). Put the following things in the pot:
 5. 1 4-6oz piece of frozen white fleshed fish fillet (cod or whatever). This is the one sort of fish I buy from Whole
    Foods.
 
-Turn the pot on. When the pot is gone, stir it around. Add some soy sauce, salt, white pepper, and green onion.
+Turn the pot on. When the pot is done, stir the rice around. Add some soy sauce, salt, white pepper, and green onion.
 Now you have hot breakfast for a week. Throw a soft egg on top for an extra bonus.
 
 ### Boiled Chicken
@@ -77,7 +77,7 @@ For chicken rice, take some rice and put it in the rice cooker with the stock. C
 normal, serve with the poached meat from above and chili sauce.
 
 For chicken soup saute some onion, celery and carrots in a soup pot on medium heat until
-they get soft. Then add stock, water, white wine, some greens, and some of the cut up
+they get soft. Then add stock, water, white wine, your favorite greens, and some of the cut up
 meat. Bring up to a boil and then simmer it for a while. Finish with salt, white pepper, fish
 sauce or soy sauce and a bit of MSG. 
 
@@ -85,9 +85,10 @@ For an extra umami bomb soup try the [mushroom soup](./dinner-in-half-an-hour-mu
 
 Add the cooked meat to your congee for extra protein.
 
-For chicken and biscuits ... start the same way as the chicken soup but then thicken the
-whole thing with a "bechamel" that you make from half a stick of butter, 4 tablespoons of flour
-and a cup of milk. Cook that until it's nice. Serve on top of biscuits.
+For chicken and biscuits ... start the same way as the chicken soup, but only add a cup or
+two of stock and then thicken the whole thing with a "bechamel" that you make from half a
+stick of butter, 4 tablespoons of flour and a cup of milk. Cook that until it's nice.
+Serve on top of biscuits.
 
 The possibilities are endless.
 
