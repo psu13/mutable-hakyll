@@ -18,12 +18,12 @@ My favorite books about quantum mechanics own up to this fact and also spend a l
 trying to explain exactly *why* no one seems to agree about how quantum mechanics works.
 Doing this in detail, of course, takes a whole book. But, like all nerds who think they
 are smarter than they are, I think the highlights can be sketched in a shorter amount of
-time, like two blog posts.
+time, like two blog posts. So, let's try, shall we?
 
 ### The Big Picture
 
 Quantum mechanics is arguably the most successful physical theory in the history of
-science. Strangely, no one really seems to agree about how it works.
+science. Strangely, no one really seems to agree about how it works (see?).
 
 As a physical theory quantum mechanics was constructed in the first couple of decades of
 the 20th century, as physicists came to realize that Newtonian mechanics, relativity, and
@@ -31,10 +31,36 @@ Maxwell's electromagnetism (which most books now bundle together under the umbre
 *classical mechanics* or *classical physics*) could not explain the behaviors that they
 observed in experiments involving what we now know as atoms and their constituent parts.
 
-There is a lot of famous history here that we are going to skip. Instead, I'm going to
-skip to the end first, and then circle back.
+Historically the name "quantum *mechanics*" derives from the fact that what the early
+theories were trying to do is explain the motion of atoms (really electrons and photons)
+and such through space, which is what *mechanics* is about. The surprising thing about the
+development of quantum mechanics is that when the final shape of the theory was finally
+understood, it had more to do with linear algebra and group theory than the standard bread
+and butter calculus and differential equations that classical physics is based on.
 
-### The Most Important Idea in Quantum Mechanics
+I think physicists find the algebraic view to be disconcertingly abstract. In fact, there
+are even many modern books on quantum physics that stick pretty closely to the analytical
+viewpoint, perhaps thinking that it's more steeped in "physics intuition". [Jim Baggot's
+excellent historical
+treatment](https://www.amazon.com/Quantum-Cookbook-Mathematical-Foundations-Mechanics/dp/0198827865/)
+is a good example of this viewpoint.
+
+Personally, I find the view from linear algebra to be a lot easier to understand. When I
+tried to take quantum in college the first month or so was filled with a lot of mysterious
+calculations providing no real insight. It wasn't until I decades later when read the
+algebraic treatment of the harmonic oscillator that I realized what that professor had
+been going on about. Besides, differential equations and various kinds of algebra have a
+deep mathematical friendship, so it should not be that surprising that they turn up
+together in the most important physical theory of our time (there I go again).
+
+Anyway, here is what we'll do from here. First, I'll describe some experiments that
+require quantum mechanics to explain. Then I'll describe the mathematical formalism
+proposed to describe those experiments. Then I'll tell you the most important thing about
+quantum mechanics.
+
+### Experimental Prelude
+
+### Mathematical Prelude
 
 The most important idea in quantum mechanics starts with the fact that the time evolution
 of quantum systems obeys [Schrödinger's
@@ -57,6 +83,8 @@ physics thinks of as being made up of little billiard balls, using math that was
 originally developed to describe *waves*, like waves in the ocean. There is a lot of
 historical angst about this being a really weird quantum contradiction, but I can't get
 all that excited about it.
+
+### The Most Important Idea in Quantum Mechanics
 
 What *is* really important and a bit weird is the statement described in this [youtube
 clip](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s). What is says is this:
