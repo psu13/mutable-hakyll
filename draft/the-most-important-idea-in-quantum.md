@@ -89,8 +89,8 @@ all that excited about it.
 What *is* really important and a bit weird is the statement described in this [youtube
 clip](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s). What is says is this:
 
-Say you have two valid states of a quantum system, $| \psi_1 \rangle$ and $| \psi_2
-\rangle$, each described by a wave function. Then any "linear combination" of the two
+Say you have two valid states of a quantum system, $| \psi_1 \rangle$ and 
+$| \psi_2 \rangle$, each described by a wave function. Then any "linear combination" of the two
 states is also a valid state. That is, you can combine the two wave functions like this:
 $$
 a\, | \psi_1 \rangle + b\, | \phi_2 \rangle
