@@ -14,6 +14,10 @@ signs of macroscopic improvement. Though I would be negligent if I did now show 
 bit of appreciation for the few small tastes of real life we had in the summer and early
 fall. Concerts even. Those were good.
 
-Here's hoping the tastes get bigger over time.
+Here's hoping the pieces get bigger over time.
 
-I'm not optimistic though.
+I'm not optimistic though ... let's let tiktok, of all things, illustrate things.
+
+[2020](https://vm.tiktok.com/TTPdj7sucB/)
+
+[2021](https://vm.tiktok.com/TTPdj7WAqt/)
