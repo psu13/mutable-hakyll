@@ -58,7 +58,7 @@ It turns out that what all of this nonsense was hiding (which they tell you abou
 sophomore year in college if you major in physics) is that every single one of these
 problems can be set up so you put some numbers into a single black box, turn a crank, and
 every answer that you ever needed falls out the other side. This magic box is a set of
-*differential equations* that describe how the system you have described evoles in time. I
+*differential equations* that describe how the system you have described evolves in time. I
 am not going to go into the details of how differential equations work, because honestly I
 don't know them. But, for reference they look something like this:
 
@@ -70,7 +70,7 @@ $$
 Here, $x$ represents position and $p$ represents momentum (momentum is
 the mass of the object times its velocity ... $p = mv$. For some reason this is a more
 convenient way to work than with the velocity directly). $H$ is called the *Hamiltonian*,
-named after the mathematcian who made it up: [William Rowan
+named after the mathematician who made it up: [William Rowan
 Hamilton](https://www.youtube.com/watch?v=SZXHoWwBcDcR). It is a measure of the total
 energy in the system.
 
@@ -101,14 +101,12 @@ peer into it too hard.
 
 The trouble began when people actually peered into it too hard.
 
-### The Double Slit
+### How it All Went Wrong
 
 By the early 20th century there were a few famous experiments, mostly involving what we
 would now call atomic and sub-atomic behavior, that could not be adequately explained by
 the the physics of the time. It would take too long to talk about all of them, so here is
-a list:
-
-1. [Rutherford's atomic model](https://en.wikipedia.org/wiki/Rutherford_model)
+a list of the highlights:
 
 1. [Black Body Radiation](https://en.wikipedia.org/wiki/Black-body_radiation)
 
@@ -116,39 +114,46 @@ a list:
 
 4. [The Photoelectric Effect](https://en.wikipedia.org/wiki/Photoelectric_effect)
 
+1. The famous [double slit
+experiment](https://en.wikipedia.org/wiki/Double-slit_experiment), the puzzling nature of
+which [Feynman describes so well in his
+lectures](https://www.feynmanlectures.caltech.edu/III_01.html).
+
 3. [The Stern-Gerlag Experiment with
    Spin](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment) and similar experiments
    with [photon polarization](https://www.youtube.com/watch?v=zcqZHYo7ONs).
 
-1. And of course, most famously, [the double slit
-experment](https://en.wikipedia.org/wiki/Double-slit_experiment), the puzzling nature of
-which [Feynman descrbes so well in his
-lectures](https://www.feynmanlectures.caltech.edu/III_01.html).
-
 All of this experimental experience holds some strange puzzles:
 
 1. First, there appear to be situations where the "state" of these small objects are
-   aritrarily constrained to only take on specific values. This shows up in spins only
+   arbitrarily constrained to only take on specific values. This shows up in spins only
    being allowed to have two possible values (creatively called "up" and "down"), or the
    energies of atomic particles and light (in the radiation and photoelectric experiments)
    only being allowed to take on a set of discrete values under some circumstances.
 
-2. Electrons and photons also seem to behave differently depending on whether you have
+2. Second, the experiments seem to imply a probabilistic relationship between the "state"
+   of atomic objects and the results of the experiments. The most straightforward
+   explanations for the double-slit and spin experiments, for example, both have this nature.
+
+2. Finally, electrons and photons also seem to behave differently depending on whether you have
    looked at them. This is most obvious when observing how the interference pattern in the
    2-slit experiment disappears if you put detectors at either slit to see where the
    particles "really" went. But, this puzzle also comes up in the spin experiments if you
    chain multiple spin (or polarization) detecting boxes together and do a sequence of
    observations.
 
-
-
+After puzzling over all of this for a couple of decades, by the 1930s folks like Bohr,
+Heisenberg, Schrödinger, Dirac, von Neumann, Born, and so on had come up with a
+mathematical framework that explained the data. I will summarize this below. I recommend
+reading both Feynman's and Aaronson's explanations of the formalism as well. They are both
+pretty readable and they explain similar material from very different viewpoints.
 
 ### Quantum States
 
+### Operators and Linearity
+
 ### Schrödinger's Equation
 
-
-### Operators and Linearity
 
 ### Spin and Such
 
