@@ -101,7 +101,7 @@ peer into it too hard.
 
 The trouble began when people actually peered into it too hard.
 
-### How it All Went Wrong
+### Quantum Position and Momentum
 
 By the early 20th century there were a few famous experiments, mostly involving what we
 would now call atomic and sub-atomic behavior, that could not be adequately explained by

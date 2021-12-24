@@ -47,11 +47,12 @@ is a good example of this viewpoint.
 
 Personally, I find the view from linear algebra to be a lot easier to understand. When I
 tried to take quantum in college the first month or so was filled with a lot of mysterious
-calculations providing no real insight. It wasn't until I decades later when read the
-algebraic treatment of the harmonic oscillator that I realized what that professor had
-been going on about. Besides, differential equations and various kinds of algebra have a
-deep mathematical friendship, so it should not be that surprising that they turn up
-together in the most important physical theory of our time (there I go again).
+calculations involving complicated differential equations but providing no real insight. It
+wasn't until I decades later when read the algebraic treatment of the harmonic oscillator
+that I realized what that professor had been going on about. Besides, differential
+equations and various kinds of algebra have a deep mathematical friendship, so it should
+not be that surprising that they turn up together in the most important physical theory of
+our time (there I go again).
 
 Anyway, here is what we'll do from here. First, I'll describe some experiments that
 require quantum mechanics to explain. Then I'll describe the mathematical formalism
@@ -66,14 +67,14 @@ The most important idea in quantum mechanics starts with the fact that the time 
 of quantum systems obeys [Schrödinger's
 equation](https://www.preposterousuniverse.com/blog/2016/08/15/you-should-love-or-at-least-respect-the-schrodinger-equation/):
 $$
-\hat H \, | \psi \rangle = i \hbar\, \partial_t  \, | \psi \rangle
+{\bf H} \, | \psi \rangle = i \hbar\, \partial_t  \, | \psi \rangle
 $$
 
 For now, we don't really need to know what all these symbols mean except at a high level.
 The notation $| \psi \rangle$ denotes a "state" of a quantum system. Maybe this is the
-position of an electron in an atom. The notation ${\hat H}$ denotes a function called the
+position of an electron in an atom. The notation ${\bf H}$ denotes a function called the
 Hamiltonian that maps states to energy values. What the equation says is that the energy
-of the system, denoted by $\hat H \, | \psi \rangle$, evolves in a way that is
+of the system, denoted by ${\bf H} \, | \psi \rangle$, evolves in a way that is
 proportional to the time derivative of $| \psi \rangle$.
 
 If are taking derivatives, then these state things must also be functions, and in fact
