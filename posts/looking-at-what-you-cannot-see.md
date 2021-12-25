@@ -1,6 +1,6 @@
 ---
 title: Looking at What You Cannot See
-date: 2021-12-26
+date: 2021-12-25
 author: psu
 ---
 
@@ -70,10 +70,11 @@ things that we can't even begin to see or imagine. This is both the basic tool a
 ultimate allure of science.
 
 I of course ended up working with computers, which are nothing if not strange and
-invisible puzzles. But they don't tell you too much about the big questins, like how the
+invisible puzzles. But they don't tell you too much about the big questions, like how the
 universe began. At least not directly. I still like to try and keep up with astrophysics
-though. The ability of humans to look at what they cannot see is ultimately the only
-reason to have any real hope for the future these days. So let's hope it works.
+though. The ability of humans to look at and learn about what they cannot see is
+ultimately the only reason to have any real hope for the future these days. So let's hope
+it works.
 
 
 
