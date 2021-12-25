@@ -4,7 +4,9 @@ date: 2021-12-26
 author: psu
 ---
 
-### What is Mechanics Anyway?
+foo
+
+### Classical Physics
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -44,7 +46,10 @@ forward. All I need is a computer and the formula.
 
 This basic set of mathematics is how we send probes millions of miles into space and have
 them hit a particular position over (say) Jupiter 5 years from now exactly when we think
-they will.
+they will. When combined with Maxwell's electromagnetism the whole framework does a pretty
+good job explaining most of the physical phenomena that we encounter in our every day
+macroscopic lives. But of course, there were exceptions, which is why quantum mechanics was
+born.
 
 ### The Quantum Formalism
 
@@ -52,7 +57,13 @@ The mathematical formalism of quantum mechanics, on the face of it, is nothing l
 we just presented above. It sounds scary and abstract, but it is actually fairly simple.
 It is in some sense much simpler than [category theory](yoneda-speedrun.html) for example.
 I'm going to write it all down here, and then discuss how it connects with the classical
-way of doing things later.
+way of doing things later. 
+
+The usual formalism is set up as two kinds of things: _states_ and _observables_. So we'll
+cover these one at a time.
+
+#### Quantum States
+
 
 As in classical mechanics, we think of the systems that we study as being represented by a
 mathematical object called a _state_. In quantum mechanics states live in a thing called a
@@ -86,10 +97,13 @@ product_ between two vectors. Both ${\mathbb R}^n$ and ${\mathbb C}^n$ have the 
 euclidean inner product, which we use to define length and distance. Hilbert space inner
 products are sort of the same idea.
 
-But before we get to that, we need to talk about the Dirac notation. In his famous book
-about quantum mechanics Dirac created called the "bra ket" notation. It works like this:
+But before we get to that, we need to talk about the [Dirac "bra ket"
+notation](https://en.wikipedia.org/wiki/Bra–ket_notation), which [Dirac created originally
+published in
+1939](images/dirac.pdf), and
+which was then immortalized in the third edition of his famous book. It works like this:
 
-1. Instead of writing vectors with a simple letter like we did above, we write them like
+1. Instead of writing states with a simple letter like we did above, we write them like
    this: $| v \rangle$. Quantum states are usually denoted using greek letters, so we'd
    write something like $| \psi \rangle$. This object is called a _ket_.
 
@@ -98,24 +112,25 @@ about quantum mechanics Dirac created called the "bra ket" notation. It works li
    $\langle \phi |$. Mathematically these are actually functions that map vectors to
    $\mathbb C$. But this is a detail that most physicists don't worry too much about.
 
-3. Finally, if we have two vectors $| \psi \rangle$ and $| \phi \rangle$, we write their
-   write their product by docking them together like this: $\langle \psi | \phi \rangle$.
-   This is called a "braket" ... a punny name that, no doubt, is the entire justification
-   for all of this nonsense. Note also how we have tacitly flipped $| \psi \rangle$ around
-   when moving it to the writing down this product thus tacitly assuming that $| \psi
-   \rangle$ and $\langle \psi |$ are the same sort of object, when really they are not.
-   This kind of moral flexibility with respect to mathematical rigor has endeared
-   physicists to mathematicians for the last century or so.
-   
 4. By convention we also put linear combinations of vectors on either side of the $|$
    symbol in this notation. So something we might write $a | \psi \rangle + b | \phi
    \rangle$ as $| a \psi + b \phi \rangle$ and something like $a\langle  \psi | + b
    \langle \phi |$ as $\langle a \psi +  b \phi |$ and so on.
 
-With this background we can write down the details of how the inner product works.
-The inner product is defined as a complex valued function of two
-vectors $| \psi \rangle$ and $| \phi \rangle$, written $\langle \psi | \phi \rangle$ that
-obeys the following rules:
+3. Finally, if we have two vectors $| \psi \rangle$ and $| \phi \rangle$, we write their
+   write their inner product by docking them together like this: $\langle \psi | \phi
+   \rangle$. This is called a "braket" ... a punny name that, no doubt, is the entire
+   justification for all of this nonsense. Note also how we have casually flipped $| \psi
+   \rangle$ around when moving it to the writing down this product thus assuming that $|
+   \psi \rangle$ and $\langle \psi |$ are the same sort of object, when really they are
+   not. This kind of moral flexibility with respect to [mathematical
+   rigor](https://plato.stanford.edu/entries/qt-nvd/#DiraFounQuanTheo) has endeared
+   physicists to mathematicians for the last century or so.
+   
+With this background we can write down the rules for how the inner product works. Given
+two vectors $| \psi \rangle$ and $| \phi \rangle$, the inner product is a function that
+computes a complex number, written $\langle \psi | \phi \rangle$ that obeys the following
+rules:
 
 1. $\langle \psi|\psi \rangle \geq 0$, and this equals zero only if $|\psi\rangle$ is 0.
 
@@ -129,6 +144,15 @@ obeys the following rules:
    This condition amounts to a symmetry condition, and won't come up much in the rest of
    our discussions. The mathematicians in the audience will be wondering why we are not
    using the more standard notation $\bar{z}$ for this. The answer is, we just are not.
+
+Again, the standard Euclidean dot product is a good example of an inner product. So,
+Hilbert spaces can be seen as a natural generalization of the Euclidean spaces ($\mathbb
+R^3$ or $\mathbb R^4$) in which we are used to doing physics. But, as we will see there is
+more to it than that.
+
+#### Quantum Observables
+
+
 
 ### Notes
 
