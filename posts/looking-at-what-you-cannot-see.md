@@ -4,7 +4,7 @@ date: 2021-12-25
 author: psu
 ---
 
-The James Webb Space Telescope finally took off into space today. In the lead up to the
+The James Webb Space Telescope finally took off into orbit today. In the lead up to the
 launch I had read up some of the background for this device, and let me just say that what
 they are trying to do with this telescope is [super ultra
 bonkers](https://www.quantamagazine.org/why-nasas-james-webb-space-telescope-matters-so-much-20211203/).
@@ -32,14 +32,14 @@ early 20th century, and was one of the founding problems of quantum mechanics. B
 a story for a future article.
 
 The spectral lines of hydrogen and other atoms have taught us more than you might be able
-to imagine about how the universe works. But, as I also mentioned in [my older
-article](the-wrong-question.html), one of the most important things they tell us is that
-the universe is expanding. Let us review.
+to imagine about how the universe works and what it is made out of. As I also mentioned in
+[my older article](the-wrong-question.html), one of the most important things they tell us
+is that the universe is expanding. Let us review.
 
 Since light, in some ways, acts like a wave, it is subject to an effect called the Doppler
-shift. This is the (essentially) same physics that makes the pitch of a sound seem to
-shift up if the sound (shorter frequencies) is moving towards you and down (longer
-frequencies) if the sound is moving away from you.
+shift. This is (sort of) the same physics that makes the pitch of a sound seem to shift up
+if the sound (shorter frequencies) is moving towards you and down (longer frequencies) if
+the sound is moving away from you.
 
 When you take the spectrum of an object that is emitting light, and that object is moving
 away from you very quickly, you will notice that all of the spectral lines shift towards
@@ -50,24 +50,23 @@ evidence like the existence of the [cosmic microwave
 background](https://en.wikipedia.org/wiki/Cosmic_microwave_background) radiation has led
 to all of our current cosmological models for the overall evolution of the universe.
 
-In this context, the motivation for building a giant IR telescope is more clear. If you
+With this context, the motivation for building a giant IR telescope is more clear. If you
 make the mirror big enough to see things even further away than the Hubble can see, then
-you will be looking even further back in time (that finite speed of light, man), so the
-red shifts will be even stronger and will eventually shift the light completely out of the
-visible and into the infrared. So, what the telescope dorks are hoping to be able to do is
-fly a giant mirror a million miles away, so far away that there is almost no evidence of
-its existence back here on Earth. From there, they want to collect light from things so
-far away you can't really imagine it. This light, they think will give us a picture of
-objects from so long ago that the I can't even give you a meaningful explanation of the
-time scale. 
+the red shifts will be even stronger and will eventually shift the light completely out of
+the visible and into the infrared. So, what the JWST will do is fly in an orbit a million
+miles from the Earth and sit behind a giant piece of tin foil blocking all the light and
+residual IR warmth coming from the Earth, the Moon and the Sun. Then it will point its
+giant mirror into the great void hoping to collect light that is more than 10 billion
+years old. This will give us a view of the oldest stuff in the universe. These things are
+so far away and so old that you can't really imagine it.
 
-Here: the stuff is five or ten times as old as the current age of the solar
+Here: the stuff is three or four times as old as the current age of the solar
 system, which is already older than you can possibly imagine. See?
 
 Anyway, if all goes well over the next few months there will be a new robot telescope
 sitting in space continuing the grand tradition in modern science of being able to look at
-things that we can't even begin to see or imagine. This is both the basic tool and the
-ultimate allure of science.
+things that we can't even begin to see or imagine in our every day existence. This is both
+the basic tool and the ultimate allure of science.
 
 I of course ended up working with computers, which are nothing if not strange and
 invisible puzzles. But they don't tell you too much about the big questions, like how the
