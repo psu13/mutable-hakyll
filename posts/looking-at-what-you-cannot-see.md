@@ -56,9 +56,10 @@ the red shifts will be even stronger and will eventually shift the light complet
 the visible and into the infrared. So, what the JWST will do is fly in an orbit a million
 miles from the Earth and sit behind a giant piece of tin foil blocking all the light and
 residual IR warmth coming from the Earth, the Moon and the Sun. Then it will point its
-giant mirror into the great void hoping to collect light that is more than 10 billion
-years old. This will give us a view of the oldest stuff in the universe. These things are
-so far away and so old that you can't really imagine it.
+giant mirror into the great void hoping to collect light that is more than 13 billion
+years old. This will give us a view of the oldest and most distant stuff that we can
+currently observe in the universe. These things are so far away and so old that you can't
+really imagine it.
 
 Here: the stuff is three or four times as old as the current age of the solar
 system, which is already older than you can possibly imagine. See?
@@ -66,14 +67,13 @@ system, which is already older than you can possibly imagine. See?
 Anyway, if all goes well over the next few months there will be a new robot telescope
 sitting in space continuing the grand tradition in modern science of being able to look at
 things that we can't even begin to see or imagine in our every day existence. This is both
-the basic tool and the ultimate allure of science.
-
-I of course ended up working with computers, which are nothing if not strange and
-invisible puzzles. But they don't tell you too much about the big questions, like how the
-universe began. At least not directly. I still like to try and keep up with astrophysics
-though. The ability of humans to look at and learn about what they cannot see is
-ultimately the only reason to have any real hope for the future these days. So let's hope
-it works.
+the basic tool and the ultimate allure of science. I of course ended up working with
+computers, which are nothing if not strange and invisible puzzles. But they don't tell you
+too much about the big questions, like how the universe began. At least not directly. I
+still like to try and keep up with astrophysics though. The ability of humans to look at
+and learn about things that are so far beyond what we can see around us in our immediate
+"real" world is the only reason to have any real hope for the future these days. So let's
+hope it works.
 
 
 
