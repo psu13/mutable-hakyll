@@ -18,8 +18,8 @@ infrared light that its mirror is optimized for.
 At this point my brain twitched a bit. Infrared? Why optimize a telescope for infrared?
 
 Well. You may recall the story I told once about [telescopes and spectral
-lines](the-wrong-question.html). See, it turns out that when you shine light through gas
-and look at it with an instrument called a
+lines](the-wrong-question.html). See, it turns out that when you shine light through a
+cloud of glowing gas (say) and look at it with an instrument called a
 [_spectrograph_](https://en.wikipedia.org/wiki/Optical_spectrometer) that breaks the light
 up into a spectrum, the spectrum will be dotted with either dark or bright lines at very
 specific frequencies. Like this:
