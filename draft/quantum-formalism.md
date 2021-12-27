@@ -16,15 +16,18 @@ $$
 F = ma,
 $$
 
-all those stupid force diagrams with boxes and ramps and ropes and stuff.
+all those stupid force diagrams with boxes and ramps and ropes and stuff. This formula is
+the basis for what we now call _classical mechanics_. The word _mechanics_ tells you that
+the formula describes _motion_, and it turns out that this formula, and more abstract
+generalizations of it do a pretty good job of describing the motion of macroscopic objects
+in most situations that you can put macroscopic objects into.
 
-It turns out that what all of this nonsense was hiding (which they tell you about
-sophomore year in college if you major in physics) is that every single one of these
-problems can be set up so you put some numbers into a single black box, turn a crank, and
-every answer that you ever needed falls out the other side. This magic box is a set of
-*differential equations* that describe how the system you have described evolves in time. I
-am not going to go into the details of how differential equations work, because honestly I
-don't know them. But, for reference they look something like this:
+The generalization of Newtons formula above can be set up so you put some numbers into a
+single black box, turn a crank, and every answer that you ever needed falls out the other
+side. This magic box is a set of *differential equations* that describe how the system you
+have described evolves in time. I am not going to go into the details of how differential
+equations work, because honestly I don't know them. But, for reference they look something
+like this:
 
 $$
 \frac {d {x}}{dt} = \frac{\partial H}{\partial p}, \quad 
@@ -51,104 +54,129 @@ good job explaining most of the physical phenomena that we encounter in our ever
 macroscopic lives. But of course, there were exceptions, which is why quantum mechanics was
 born.
 
-### The Quantum Formalism
+### Quantum Mechanics
 
-The mathematical formalism of quantum mechanics, on the face of it, is nothing like what
-we just presented above. It sounds scary and abstract, but it is actually fairly simple.
-It is in some sense much simpler than [category theory](yoneda-speedrun.html) for example.
-I'm going to write it all down here, and then discuss how it connects with the classical
-way of doing things later. 
+Quantum mechanics was originally born to describe the motion of atoms and things related
+to atoms. The language from this original formulation is still used to in both popular and
+academic treatments of the subject. So you will read a lot about how atomic particles are
+described by a _wave function_ called $\psi(x,t)$ that depends on the position of the
+particle and time. In addition, we are told that these functions obey a differential
+equation similar to, but not the same as, the Hamiltonian setup above named after
+Schrödinger that looks like this:
 
-The usual formalism is set up as two kinds of things: _states_ and _observables_. So we'll
-cover these one at a time.
+$$
+H \psi(x,t) = \frac{\partial}{\partial t}\psi(x,t)
+$$
 
-#### Quantum States
+Finally, you might have heard that the wave function does not encode the attributes of the
+particle _directly_ but rather the _probability_ that one will observe those attributes in
+an experiment. So for example, a wave function like $\psi(x)$ encodes what physicists call
+a _probability amplitude_ that a particle will be observed at some position $x$. It's not
+the actual probability. The actual probability is given by an expression that looks like
+this
 
+$$
+P(x) =  |\psi(x)|^2
+$$
 
-As in classical mechanics, we think of the systems that we study as being represented by a
-mathematical object called a _state_. In quantum mechanics states live in a thing called a
+and computing $\psi(x)^2$ usually involves computing some sort of difficult integral.
+This is called the _Born Rule_, and I'm not doing to go into the particular details of how
+one computes these things here.
+
+Suffice to say that it turns out that by carefully picking $H$ and $\psi$ you can
+construct a computational framework to explain things like:
+
+1. The appearance of spectral lines that discrete frequencies in the spectrum of an atom.
+
+2. The interference patterns in the two slit experiment.
+
+3. The results of various other weird scattering experiments.
+
+But, for those of us less practiced in the mysteries of solving differential equations,
+these feats don't provide a lot of insight into the conceptual problems at the core of
+quantum mechanics.
+
+Luckily, you don't need to know too much about those mysteries to get at these questions.
+Instead if, somewhat paradoxically, we examine quantum mechanics from a more abstract and
+_algebraic_ point of view, it's actually easier to see where things go weird. So let's see
+if we can figure out how this works. 
+
+Our discussion will cover three kinds of objects: states, observables, and measurements.
+
+### Quantum States
+
+Quantum states generalize wave functions and are supposed to be a mathematical
+representation of the state of some quantum system the same way $x$ and $p$ above
+represented the state of the classical particle in mechanics. But, as with wave functions,
+the nature of this object is somewhat more complicated.
+
+Quantum mechanics states live in a thing called a
 [_Hilbert space_](https://en.wikipedia.org/wiki/Hilbert_space) named after the
 mathematician [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert), who did a lot
-of stuff. Hilbert spaces are like vector spaces, but with a few extra rules. 
+of stuff. Hilbert spaces are like vector spaces, but with a few extra rules. So quantum
+states are really an abstract sort of vector, which might seem weird since I also just
+called them wave functions. But we'll get to that.
 
-Recall that to make a vector space first you need a set $V$ of vectors and another set of
-scalar values which is usually either the real numbers ($\mathbb R$) or the complex
-numbers ($\mathbb C$). Then for elements of the vector space $v \in V$ we postulate the
-following rules:
+A Hilbert space is generally defined to be "over" the the real numbers ($\mathbb R$) or
+the complex numbers ($\mathbb C$). For quantum mechanics our spaces will always start with
+the complex numbers. This just means that when I say "scalar" below, I mean values in
+$\mathbb C$. We'll write the Hilbert space itself using a script letter, like this: ${\cal
+H}$. And we'll use greek letters for the vectors in ${\cal H}$. 
+
+So, given two vectors $\psi$ and $\phi \in {\cal H}$ we have the following rules:
 	
-1. A scalar multiplied by a vector is a vector, so if $v \in V$ then $av \in V$ for every scalar $a$.
+1. A scalar multiplied by a vector is a vector, then $a \psi$ and $a \phi$ are still vectors.
 
-2. If $w \in V$ is another vector, then $v + w \in V$.
+2. You can add vectors together to get new vectors: $\psi + \phi \in {\cal H}$.
 
-3. If $w \in V$ is another vector, then $v + w = w + v$.
+3. Addition is commutative, so $\psi + \phi = \phi + \psi$.
 
-4. There is a special vector $0 \in V$ such that $v + 0 = v$.
+4. There is a special vector $0 \in {\cal H}$ such that $\psi + 0 = \psi$ for all $\psi$.
 
 5. Scalar multiplication and vector addition interact the way you could expect, so like
-   $a(v + w) = av + aw$ and so on.
+   $a(\psi + w\phi) = a \psi + a \phi$ and so on.
 
-And some other stuff. The vector space you are all familiar with is the set of real or
-complex numbers, and the spaces you get when you make finite lists of real or complex
-numbers, which we call ${\mathbb R}^n$ or ${\mathbb C}^n$.
+The vector space we are most familiar with are the spaces over real or complex numbers.
+Here vectors take the familiar form of finite lists of real or complex numbers, and all
+the rules above apply.
 
-The Hilbert spaces used in quantum mechanics are vector spaces over the complex numbers
-(${\mathbb C}$). In addition to the above rules they also define a notion of an _inner
-product_ between two vectors. Both ${\mathbb R}^n$ and ${\mathbb C}^n$ have the familiar
-euclidean inner product, which we use to define length and distance. Hilbert space inner
-products are sort of the same idea.
+In addition, the standard Euclidean dot product is a good example of something called an
+_inner product_ or _scalar product_. This is used to define notions of length, distance
+and angle in an algebraic way. Hilbert spaces can be seen as a natural generalization of
+the Euclidean spaces ($\mathbb R^3$ or $\mathbb R^4$), so they are vector spaces with an
+inner product.
 
-But before we get to that, we need to talk about the [Dirac "bra ket"
-notation](https://en.wikipedia.org/wiki/Bra–ket_notation), which [Dirac created originally
-published in
-1939](images/dirac.pdf), and
-which was then immortalized in the third edition of his famous book. It works like this:
+For quantum states we'll write the scalar product like this: $(\psi, \phi)$. This will be
+a function that takes two vectors and computes a single complex number, and also follows
+the following rules:
 
-1. Instead of writing states with a simple letter like we did above, we write them like
-   this: $| v \rangle$. Quantum states are usually denoted using greek letters, so we'd
-   write something like $| \psi \rangle$. This object is called a _ket_.
-
-2. In addition, there is another kind of object called a _bra_ (possibly the worst name
-   for a mathematical object in all of math and physics) which we write like this:
-   $\langle \phi |$. Mathematically these are actually functions that map vectors to
-   $\mathbb C$. But this is a detail that most physicists don't worry too much about.
-
-4. By convention we also put linear combinations of vectors on either side of the $|$
-   symbol in this notation. So something we might write $a | \psi \rangle + b | \phi
-   \rangle$ as $| a \psi + b \phi \rangle$ and something like $a\langle  \psi | + b
-   \langle \phi |$ as $\langle a \psi +  b \phi |$ and so on.
-
-3. Finally, if we have two vectors $| \psi \rangle$ and $| \phi \rangle$, we write their
-   write their inner product by docking them together like this: $\langle \psi | \phi
-   \rangle$. This is called a "braket" ... a punny name that, no doubt, is the entire
-   justification for all of this nonsense. Note also how we have casually flipped $| \psi
-   \rangle$ around when moving it to the writing down this product thus assuming that $|
-   \psi \rangle$ and $\langle \psi |$ are the same sort of object, when really they are
-   not. This kind of moral flexibility with respect to [mathematical
-   rigor](https://plato.stanford.edu/entries/qt-nvd/#DiraFounQuanTheo) has endeared
-   physicists to mathematicians for the last century or so.
-   
-With this background we can write down the rules for how the inner product works. Given
-two vectors $| \psi \rangle$ and $| \phi \rangle$, the inner product is a function that
-computes a complex number, written $\langle \psi | \phi \rangle$ that obeys the following
-rules:
-
-1. $\langle \psi|\psi \rangle \geq 0$, and this equals zero only if $|\psi\rangle$ is 0.
+1. $(\psi, \psi) \geq 0$, and this equals zero only if $\psi$ is 0.
 
 2. The inner product is linear in the following way: if $a, b \in {\mathbb C}$, and we
-   have three vectors $| \psi \rangle$, $| \phi_1 \rangle$, and $| \phi_2 \rangle$, then
-   $\langle \psi| a \phi_1 + b \phi_2 \rangle = a \langle \psi| \phi_1 \rangle + b
-   \langle \psi| \phi_2 \rangle$.
+   have three vectors $\psi$, $\phi_1$, and $\phi_2$, then
+   $(\psi, a \phi_1 + b \phi_2)  = a ( \psi , \phi_1)   + b( \psi, \phi_2)$.
 
-3. $\langle \psi | \phi \rangle ^* = \langle \psi | \phi \rangle$. Here the star notation ($^*$)
+3. $(\psi , \phi)  ^* =  (\psi , \phi)$. Here the star notation ($^*$)
    denotes the "conjugate" of a complex number. So if $z = x + iy$ and $z^* = x - iy$.
    This condition amounts to a symmetry condition, and won't come up much in the rest of
    our discussions. The mathematicians in the audience will be wondering why we are not
    using the more standard notation $\bar{z}$ for this. The answer is, we just are not.
 
-Again, the standard Euclidean dot product is a good example of an inner product. So,
-Hilbert spaces can be seen as a natural generalization of the Euclidean spaces ($\mathbb
-R^3$ or $\mathbb R^4$) in which we are used to doing physics. But, as we will see there is
-more to it than that.
+Again, the main reason we care about the inner product is that it lets us define a notion
+of length, or a _norm_. By convention we write $|\psi|$ for the length of a vector, and we
+have
+$$
+(\psi, \psi) = |\psi|^2 .
+$$
+which is the expression that appears in the Born rule above. Thus, Hilbert spaces let us
+define the abstract rules we need for quantum mechanics.
+
+*Note:* I'm blowing off describing the [Dirac "bra ket"
+notation](https://en.wikipedia.org/wiki/Bra–ket_notation) here because I don't feel like
+dealing with it. I figure if
+[Weinberg](https://www.amazon.com/Lectures-Quantum-Mechanics-Steven-Weinberg/dp/1107111668/)
+can do this so can I.
+
 
 #### Quantum Observables
 
