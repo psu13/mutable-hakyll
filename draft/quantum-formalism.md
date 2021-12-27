@@ -125,13 +125,17 @@ H}$. And we'll use greek letters for the vectors in ${\cal H}$.
 
 So, given two vectors $\psi$ and $\phi \in {\cal H}$ we have the following rules:
 	
-1. A scalar multiplied by a vector is a vector, then $a \psi$ and $a \phi$ are still vectors.
+1. A scalar multiplied by a vector is a vector, so if $a$ is a scalar then $a \psi$ and $a
+   \phi$ are still vectors.
 
 2. You can add vectors together to get new vectors: $\psi + \phi \in {\cal H}$.
 
 3. Addition is commutative, so $\psi + \phi = \phi + \psi$.
 
 4. There is a special vector $0 \in {\cal H}$ such that $\psi + 0 = \psi$ for all $\psi$.
+
+1. Every vector has an additive inverse which we call $-\psi$ such that $\psi + (-\psi) =
+   \psi - \psi = 0$.
 
 5. Scalar multiplication and vector addition interact the way you could expect, so like
    $a(\psi + w\phi) = a \psi + a \phi$ and so on.
