@@ -175,7 +175,7 @@ $$
 which is the expression that appears in the Born rule above. Thus, Hilbert spaces let us
 define the abstract rules we need for quantum mechanics.
 
-*Note:* I'm blowing off describing the [Dirac "bra ket"
+**Note:** I'm blowing off describing the [Dirac "bra ket"
 notation](https://en.wikipedia.org/wiki/Bra–ket_notation) here because I don't feel like
 dealing with it. I figure if
 [Weinberg](https://www.amazon.com/Lectures-Quantum-Mechanics-Steven-Weinberg/dp/1107111668/)

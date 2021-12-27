@@ -89,10 +89,11 @@ has two parts:
    about what you need in a wok](https://www.youtube.com/watch?v=alZ8alIlhAU).
 
 Now I'm going to go back to my kitchen, and my favorite [12 inch non-stick aluminum wok
-shaped pan](https://www.amazon.com/gp/product/B00MGFZVII/), and make dinner. This pan, by
-the way, is great for _everything_. It's not too small. It's not too big and heavy. The
-coating can take a beating and it still works fine. And the flat bottom lets it double as
-a small frying pan for things like French omelettes and frying hot dogs. I keep a 14 inch
-steel wok around for deep frying but it's just too big and unwieldy for day to day, and
-because I don't use it enough the surface is never any good. Maybe I'll try to find a nice
-iron one to set on fire over the grill.
+shaped
+pan](https://www.amazon.com/Anolon-82031-Ultimate-Anodized-Everything/dp/B000I2MWN8/), and
+make dinner. This pan, by the way, is great for _everything_. It's not too small. It's not
+too big and heavy. The coating can take a beating and it still works fine. And the flat
+bottom lets it double as a small frying pan for things like French omelettes and frying
+hot dogs. I keep a 14 inch steel wok around for deep frying but it's just too big and
+unwieldy for day to day, and because I don't use it enough the surface is never any good.
+Maybe I'll try to find a nice iron one to set on fire over the grill.
