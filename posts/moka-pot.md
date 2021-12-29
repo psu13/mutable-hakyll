@@ -30,10 +30,10 @@ I have had only two problems with moka pots.
 
 My solution was to get [a gadget that heats the water
 electrically](https://www.amazon.com/IMUSA-B120-60006-Electric-Coffee-3-6-Cup/dp/B00GY21QJW/)
-on a dedicated stand, and is made of stainless steel and plastic which are both easier to
-clean than the aluminum. Yes it’s overpriced, but in the long run it’s cheaper than buying
+on a dedicated stand. Yes it’s overpriced, but in the long run it’s cheaper than buying
 four regular pots a year.
 
 So, if you want a decent simulation of espresso, and don’t feel like putting out $400 on a
-stainless steel pump action double barreled nightmare machine, give up $20 on a Moka Pot.
-It’ll get you close, and is much less fuss and worry.
+stainless steel pump action double barreled nightmare machine, give up $30 on a [Moka
+Pot](https://www.bialetti.com/us_en/coffee-makers/moka.html). It’ll get you close, and is
+much less fuss and worry.
