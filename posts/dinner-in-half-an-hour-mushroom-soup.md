@@ -11,7 +11,7 @@ author: psu
 First, buy a two or three pound package of chicken wings. Then cut up 2 onions, 2 or 3 carrots, and 2 or 3 stalks of celery. Put all this in a pot, cover with water, add salt, pepper, and bay leaves. Turn the heat on until you get a simmer. Now play Halo for 3 or 4 hours. If you are industrious, you can saute the vegetables before adding the wings and the water. You can also hack the wings in half. But these are both extra work and not really needed.
 </p></blockquote>
 <p>If you want the broth to be more Chinese style, leave out the carrots and some of the celery. Add green onions and ginger.  So there you go. When the broth is done, let it sit in the fridge for a day or two and skim the fat off if you can. </p>
-<p>Now go to your favorite Chinese food store and find some dried mushrooms. I don&#8217;t know what kind I bought but the package looks like this:</p>
+<p>Now go to your favorite Chinese food store and find some dried mushrooms. I don&#8217;t know what kind I bought but the package looks like this (editor's note later: they are dried shitake mushrooms):</p>
 <p align="center">
 <a href="http://www.flickr.com/photos/79904144@N00/4365969271/" title="P1000190 by psu13, on Flickr"><img src="http://farm5.static.flickr.com/4015/4365969271_ee267c4483.jpg" width="375" height="500" alt="P1000190" /></a>
 </p>

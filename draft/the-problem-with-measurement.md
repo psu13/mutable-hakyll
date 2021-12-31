@@ -88,8 +88,6 @@ Maxwell's laws could not explain, like:
 
 2. The interference patterns in the two slit experiment.
 
-3. The stability of atoms.
-
 4. Radioactivity.
 
 And so on.
@@ -115,13 +113,19 @@ $$
 
 here $H$ is again the Hamiltonian, and as before is related to the total energy of the
 system you are studying. The fact that this formula looks at least superficially similar
-to what we had before is sort of encouraging. It _feels_ sort of like this equation
-describes a wave-like motion just like we might see in classical mechanics. But, we must
-be careful. The waves in classical mechanics are an aggregate phenomena created by the
-motion of lots of things (air molecules, water molecules, etc) at once. Even more abstract
-entities like electromagnetic waves still have a sometimes visible macroscopic
-manifestation (let there be light!). The quantum wave function is nothing like this. Those
-complex numbers that are waving around are, as we said above, just (sort of) probabilities.
+to what we had before is sort of encouraging. What ends up happening is that functions
+that are solutions to this equation provide us with the apparently discrete energy levels,
+or _spectra_ that are required to explain many of the strange ways that atoms behave. In
+particular it can provide you with the model of the atom that you need to explain the
+spectral lines.
+
+It _feels_ sort of like this equation describes a wave-like motion just like we might see
+in classical mechanics. But, we must be careful. The waves in classical mechanics are an
+aggregate phenomena created by the motion of lots of things (air molecules, water
+molecules, etc) at once. Even more abstract entities like electromagnetic waves still have
+a sometimes visible macroscopic manifestation (let there be light!). The quantum wave
+function is nothing like this. Those complex numbers that are waving around are, as we
+said above, just (sort of) probabilities.
 
 But they don't represent probability directly. Instead, to get probabilities you have to
 compute something called the _norm_ of the wave function, which is a measure of its
@@ -135,16 +139,97 @@ $$
 
 Computing this norm usually involves some kind of fancy integral. This interpretation of
 the wave function is called the _Born Rule_, and I'm not doing to go into the particular
-details of how one computes these things here. It seems a little bit too convenient that
-this particular computation would be the way to find the probability of quantum events,
-but this fact, so far,  is undefeated in terms of experimental confirmation. Every
-experiment that has been done in quantum mechanics has amounted to thinking about a wave
-function, defining the right Hamiltonian, and then computing probabilities with the Born
-Rule, and the numbers are always right. Sometimes they are right to a ludicrous level of
-precision too.
+details of how one computes these things here. I will say though that this formula
+explains the interference patterns that you get in the two slit experiment. This
+computation turns up in a lot of "beginner" books on quantum mechanics, including the [one
+that Feynman wrote](https://www.feynmanlectures.caltech.edu/III_01.html). So look there
+for more details.
 
+It seems a little bit too convenient that this particular computation would be the way to
+find the probability of quantum events. However, this fact, so far,  is undefeated in
+terms of experimental confirmation. Every experiment that has been done in quantum
+mechanics has amounted to thinking about a wave function, defining the right Hamiltonian,
+and then computing probabilities with the Born Rule, and the numbers are always right.
+Sometimes they are right to a ludicrous level of precision too.
 
-### Appendix: General Quantum States
+### Linearity and Operators
+
+To get from wave functions to the weird measurement formula above we have to observe a
+strange fact about the nature of the solutions to the Schrödinger equation. The
+Schrödinger equation is what is called a _linear_ differential equation. Linear functions
+obey a simple and very convenient rule. If you have some function $f$ that maps (say) real
+numbers (${\mathbb R}$) to real numbers, then given two real numbers $x$ and $y \in
+{\mathbb R}$ the following will be true:
+
+$$
+f(x + y) = f(x) + f(y)
+$$
+
+and also
+
+$$
+f(ay) = a f (xy)
+$$
+
+for any constant $a \in {\mathbb R}$.
+
+So the general rule for linear functions will be:
+
+$$
+f(ax + by) = a f(x) + b f(y).
+$$
+
+Let's call this rule "(L)".
+
+You might remember linear functions from high school algebra because when you graph them
+you get a straight line, and in general you can express all linear functions from
+${\mathbb R}$ to ${\mathbb R}$ with this formula, which haunts the dreams of high
+schoolers everywhere:
+
+$$
+f(x) = mx + b
+$$
+
+Linear algebra generalizes the study of linear things to higher dimensions, so instead of
+real numbers and simple linear functions you play with _vectors_ and linear
+_transformations_ or _operators_ which usually take concrete form as matrices. I outlined
+the rules for simple vector spaces in an [earlier post about
+physics](reading-physics.html), and these rules haunt the dreams of college sophomores and
+juniors, and programmers who write graphics code.
+
+To return the the Schrödinger equation. Recall that it is written
+
+$$
+H \psi(x,t) = \frac{\partial}{\partial t}\psi(x,t) .
+$$
+
+Now let's rearrange this a little bit and make it easier to read by just remembering the
+space and time dependence in our head:
+
+$$
+H (\psi) = \frac{\partial}{\partial t} (\psi) .
+$$
+
+What this formula says is that whatever this function $H$ is, it must behave the same as
+this other function "$\partial / \partial t$" which is the "taking the first derivative"
+function. But taking first derivatives is a _linear_ function (of functions). In
+particular it obeys the general rule (L) that I wrote down above. So $H$ must also be
+linear in the wave function.
+
+So, if you have _two_ wave functions $\psi$ and $\phi$ and they both are solutions to the
+Schrödinger equation, it must be the case that any linear combination of the two is also
+the solution. That is, I can make a new function like this:
+
+$$
+\varphi = \alpha \psi + \beta \phi 
+$$
+
+where $\alpha$ and $\beta$ are complex numbers, and $\varphi$ must also be a solution.
+
+This, it turns out, [*is the most important rule in all of quantum
+mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
+
+### The Algebra of Quantum States
 
 Quantum states generalize wave functions and are supposed to be a mathematical
 representation of the state of some quantum system the same way $x$ and $p$ above
