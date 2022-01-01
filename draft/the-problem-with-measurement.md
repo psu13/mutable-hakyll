@@ -145,9 +145,8 @@ computation turns up in a lot of "beginner" books on quantum mechanics, includin
 that Feynman wrote](https://www.feynmanlectures.caltech.edu/III_01.html). So look there
 for more details.
 
-It seems a little bit too convenient that this particular computation would be the way to
-find the probability of quantum events. However, this fact, so far,  is undefeated in
-terms of experimental confirmation. Every experiment that has been done in quantum
+This rule feels like the luckiest in a series of lucky guesses. But it is undefeated
+in terms of experimental confirmation. Every experiment that has been done in quantum
 mechanics has amounted to thinking about a wave function, defining the right Hamiltonian,
 and then computing probabilities with the Born Rule, and the numbers are always right.
 Sometimes they are right to a ludicrous level of precision too.
@@ -168,7 +167,7 @@ $$
 and also
 
 $$
-f(ay) = a f (xy)
+f(ax) = a f (x)
 $$
 
 for any constant $a \in {\mathbb R}$.
@@ -229,98 +228,81 @@ where $\alpha$ and $\beta$ are complex numbers, and $\varphi$ must also be a sol
 This, it turns out, [*is the most important rule in all of quantum
 mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
 
-### The Algebra of Quantum States
+The state $\varphi$ above is what is called a "superposition", and half of all the strange
+things about quantum mechanics come from superpositions. For example, if the wave function
+$\psi(x)$ represents a probability amplitude for a particle being at
+position $x$, and $\phi(y)$ is the same, but for some other position $y$, then the
+superposition of the two:
 
-Quantum states generalize wave functions and are supposed to be a mathematical
-representation of the state of some quantum system the same way $x$ and $p$ above
-represented the state of the classical particle in mechanics. But, as with wave functions,
-the nature of this object is somewhat more complicated.
-
-Quantum mechanics states live in a thing called a
-[_Hilbert space_](https://en.wikipedia.org/wiki/Hilbert_space) named after the
-mathematician [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert), who did a lot
-of stuff. Hilbert spaces are like vector spaces, but with a few extra rules. So quantum
-states are really an abstract sort of vector, which might seem weird since I also just
-called them wave functions. But we'll get to that.
-
-A Hilbert space is generally defined to be "over" the the real numbers ($\mathbb R$) or
-the complex numbers ($\mathbb C$). For quantum mechanics our spaces will always start with
-the complex numbers. This just means that when I say "scalar" below, I mean values in
-$\mathbb C$. We'll write the Hilbert space itself using a script letter, like this: ${\cal
-H}$. And we'll use greek letters for the vectors in ${\cal H}$. 
-
-So, given two vectors $\psi$ and $\phi \in {\cal H}$ we have the following rules:
-	
-1. A scalar multiplied by a vector is a vector, so if $a$ is a scalar then $a \psi$ and $a
-   \phi$ are still vectors.
-
-2. You can add vectors together to get new vectors: $\psi + \phi \in {\cal H}$.
-
-3. Addition is commutative, so $\psi + \phi = \phi + \psi$.
-
-4. There is a special vector $0 \in {\cal H}$ such that $\psi + 0 = \psi$ for all $\psi$.
-
-1. Every vector has an additive inverse which we call $-\psi$ such that $\psi + (-\psi) =
-   \psi - \psi = 0$.
-
-5. Scalar multiplication and vector addition interact the way you could expect, so like
-   $a(\psi + w\phi) = a \psi + a \phi$ and so on.
-
-The vector space we are most familiar with are the spaces over real or complex numbers.
-Here vectors take the familiar form of finite lists of real or complex numbers, and all
-the rules above apply.
-
-In addition, the standard Euclidean dot product is a good example of something called an
-_inner product_ or _scalar product_. This is used to define notions of length, distance
-and angle in an algebraic way. Hilbert spaces can be seen as a natural generalization of
-the Euclidean spaces ($\mathbb R^3$ or $\mathbb R^4$), so they are vector spaces with an
-inner product.
-
-For quantum states we'll write the scalar product like this: $(\psi, \phi)$. This will be
-a function that takes two vectors and computes a single complex number, and also follows
-the following rules:
-
-1. $(\psi, \psi) \geq 0$, and this equals zero only if $\psi$ is 0.
-
-2. The inner product is linear in the following way: if $a, b \in {\mathbb C}$, and we
-   have three vectors $\psi$, $\phi_1$, and $\phi_2$, then
-   $(\psi, a \phi_1 + b \phi_2)  = a ( \psi , \phi_1)   + b( \psi, \phi_2)$.
-
-3. $(\psi , \phi)  ^* =  (\psi , \phi)$. Here the star notation ($^*$)
-   denotes the "conjugate" of a complex number. So if $z = x + iy$ and $z^* = x - iy$.
-   This condition amounts to a symmetry condition, and won't come up much in the rest of
-   our discussions. The mathematicians in the audience will be wondering why we are not
-   using the more standard notation $\bar{z}$ for this. The answer is, we just are not.
-
-Again, the main reason we care about the inner product is that it lets us define a notion
-of length, or a _norm_. By convention we write $|\psi|$ for the length of a vector, and we
-have
 $$
-(\psi, \psi) = |\psi|^2 .
+\varphi(w) = \alpha \psi(w) + \beta \phi(w)
 $$
-which is the expression that appears in the Born rule above. Thus, Hilbert spaces let us
-define the abstract rules we need for quantum mechanics.
 
-**Note:** I'm blowing off describing the [Dirac "bra ket"
-notation](https://en.wikipedia.org/wiki/Bra–ket_notation) here because I don't feel like
-dealing with it. I figure if
-[Weinberg](https://www.amazon.com/Lectures-Quantum-Mechanics-Steven-Weinberg/dp/1107111668/)
-can do this so can I.
+is also a possible wave function for the particle. But what does this function mean? It
+means, in some sense, that the system might be at $x$ but at the same time it might be at
+$y$. But, you can never actually observe this indeterminate state. The only states we ever
+_see_ are the ones where the thing appears to be in exactly one place. But, the act of
+looking is an interesting puzzle all its own, which we will get to next.
 
+### What Happens When You Look
 
-#### Quantum Observables
+The two slit experiment, and experiments like it that measure things like photon
+polarization, are stark illustrations of the weird behavior that quantum systems exhibit
+when observed. I have stolen most of the interesting explanations below from Feynman, so
+you should just [go read his text
+instead](https://www.feynmanlectures.caltech.edu/III_01.html).
 
+Here is a diagram of the classic two-slit interference experiment:
 
+> <a href="../images/Two-Slit_Experiment_Light.svg">
+<img src="../images/Two-Slit_Experiment_Light.svg" width=400></a>
 
-### Notes
+When you do this with water waves, or light waves, the interference pattern appears
+because the waves coming out of each hole are not completely in phase with one another.
+So, in some places the higher parts of the waves will add together, and you get a bright
+spot. In other places, the high and low parts cancel, and you get a dark spot. And so on.
 
-We will not really concern ourselves with the mathematical details of all of this, but
-there are three important facts to keep in mind here:
+In the quantum version of this experiment what you do is set up (say) an electron gun and
+turn down the intensity of the source so that only one electron is actually "in" the
+experiment at once. Amazingly, the interference pattern still emerges!
 
-1. In the above model, states all carry simple definite values.
+> <a href="../images/Two-Slit_Experiment_Electrons.svg">
+<img src="../images/Two-Slit_Experiment_Electrons.svg" width=400></a>
 
-2. In addition, things move along well defined smooth paths. There do not appear to be
-   any constraints on the values that $x$ and $p$ can take.
+You can even [watch a video of the screen in an experiment like
+this](https://www.youtube.com/watch?v=j3Vk4Tu_uMo) and see the interference pattern
+emerge. You can also [read about one version of this experiment
+here](https://www.hitachi.com/rd/research/materials/quantum/doubleslit/index.html) and
+[here](https://www.famaf.unc.edu.ar/~gcas/cuantica1/tonomura89-young_e-.pdf). Finally, the
+above experiment does not actually use slits, but rather a different sort of
+interferometer. But, people have done this experiment with [actual nano-sized slits as
+well](https://aapt.scitation.org/doi/10.1119/1.2757621). The last paper is behind a
+paywall ... but you should be able to find the PDF on the Internet if you try hard.
 
-3. And, if you look at the thing, it's right where you think it will be and as long as you
-   are careful the act of looking will not change the behavior of the thing all that much.
+This behavior is a bit odd in many ways, but for my purposes here I am only going to point
+out two of them:
+
+1. When we look at where any single electron _is_, it always shows up as a dot.
+
+1. But, when we push enough electrons through the experiment over some period of time, we
+   get this interference pattern that is reminiscent of what we expect from wave-like
+   objects.
+
+Finally, to make the world seem even stranger, the last thing to note is that if you
+change the experiment by putting any kind of a detector between the two slits an the
+screen that allows you to figure out which way the electron went, then the interference
+pattern disappears. In other words, just as looking for the electron at the screen seems
+to localize it to a single position, looking at which way the electron went at the slits
+also seems to localize it and thus destroy the "wave-like" interference behavior that you
+get when you leave it alone.
+
+As a side note, you can also see this strange behavior when doing this experiment with
+beams of light. Light comes in waves, but also in photons. This is the origin of the
+popular catch phrase in quantum physics: "wave-particle duality" ... but you have to be
+careful about taking this phrase too literally. As we mentioned above, wave functions do
+not live in any sort of _physical_ space. Instead they are things that we are interpreting
+as telling us about the probability of things happening in particular areas in space,
+which is a rather different thing.
+
+In any case, this dual behavior puts quantum mechanics in a difficult spot. It seems like
+the experiment tells us that there are two sorts of evolution for quantum systems.
