@@ -215,41 +215,30 @@ function. But taking first derivatives is a _linear_ function (of functions). In
 particular it obeys the general rule (L) that I wrote down above. So $H$ must also be
 linear in the wave function.
 
-So, if you have _two_ wave functions $\psi$ and $\phi$ and they both are solutions to the
-Schrödinger equation, it must be the case that any linear combination of the two is also
-the solution. That is, I can make a new function like this:
+So, if you have _two_ wave functions $\psi_1$ and $\psi_2$ and they both are solutions to
+the Schrödinger equation, it must be the case that any linear combination of the two is
+also the solution. That is, if $\alpha$ and $\beta$ are complex numbers then I can make a
+new function like this:
 
 $$
-\varphi = \alpha \psi + \beta \phi 
+\psi = \alpha \psi_1 + \beta \psi_2 
 $$
 
-where $\alpha$ and $\beta$ are complex numbers, and $\varphi$ must also be a solution.
+and $\psi$ must also be a valid solution. In other words, any linear combination of two
+valid wave functions ("quantum states") is also a valid state.
 
 This, it turns out, [*is the most important rule in all of quantum
 mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
 
-The state $\varphi$ above is what is called a "superposition", and half of all the strange
-things about quantum mechanics come from superpositions. For example, if the wave function
-$\psi(x)$ represents a probability amplitude for a particle being at
-position $x$, and $\phi(y)$ is the same, but for some other position $y$, then the
-superposition of the two:
+The state $\psi$ above is what is called a "superposition", and half of all the strange
+things about quantum mechanics come from the behavior superposition states.
 
-$$
-\varphi(w) = \alpha \psi(w) + \beta \phi(w)
-$$
-
-is also a possible wave function for the particle. But what does this function mean? It
-means, in some sense, that the system might be at $x$ but at the same time it might be at
-$y$. But, you can never actually observe this indeterminate state. The only states we ever
-_see_ are the ones where the thing appears to be in exactly one place. But, the act of
-looking is an interesting puzzle all its own, which we will get to next.
-
-### What Happens When You Look
+### What Happens When You Don't Look
 
 The two slit experiment, and experiments like it that measure things like photon
-polarization, are stark illustrations of the weird behavior that quantum systems exhibit
-when observed. I have stolen most of the interesting explanations below from Feynman, so
-you should just [go read his text
+polarization are an easy example to provide insight into the nature of superposition
+states. I have stolen most of the interesting explanations below from Feynman, so you
+should just [go read his text
 instead](https://www.feynmanlectures.caltech.edu/III_01.html).
 
 Here is a diagram of the classic two-slit interference experiment:
@@ -279,14 +268,59 @@ interferometer. But, people have done this experiment with [actual nano-sized sl
 well](https://aapt.scitation.org/doi/10.1119/1.2757621). The last paper is behind a
 paywall ... but you should be able to find the PDF on the Internet if you try hard.
 
+As a side note, you can also see this behavior when doing this experiment with beams of
+light. Light comes in waves, but also in photons. This is the origin of the popular catch
+phrase in quantum physics: "wave-particle duality" ... but you have to be careful about
+taking this phrase too literally. As we mentioned above, wave functions do not live in any
+sort of _physical_ space. Instead they are things that we are interpreting as telling us
+about the probability of other things happening in particular areas in space, which is a
+rather different thing.
+
+Using the wave function formalism above, we can come up with a simple-minded explanation
+for this interference behavior without a lot of math. Let's say that the wave function
+$\psi_1(x)$ represents "the electron hit the screen at $x$ after going through slit 1" and
+$\psi_2(x)$ represents "the electron hit the screen at $x$ after going through slit 2".
+Then the total wave function for electrons in the experiment is just the sum (or
+superposition) of $\psi_1$ and $\psi_2$. We know from linearity that this is a valid wave
+function.
+
+To compute the probability of seeing the electron
+at any particular vertical position $x$ on the screen, we can reason that
+
+$$
+P(x) = |\psi_1(x) + \psi_2(x)| ^2
+$$
+
+If you expand this out here you get
+
+$$
+P(x) = |\psi_1(x)|^2 + |\psi_2(x)|^2 + 2|\psi_1(x)||\psi_2(x)| \times {\rm Phase}(\psi_1,\psi_2)
+$$
+
+Here the term ${\rm Phase}(\psi_1,\psi_2)$ is just a number between -1 and 1 that
+represents the relative phase of the two wave functions. When the wave functions are
+exactly out of phase, the interference term will cancel the other two probability terms.
+When they are exactly in phase the total probability will be higher by a factor of 2.
+
+This math turns out to be exactly the same math that you would use to explain [the
+interference of water waves, or sound waves, or light
+waves](https://en.wikipedia.org/wiki/Wave_interference). But again, I would caution
+against thinking of wave functions as actual physical waves in space. These are strange
+probability-generating waves that you can't really observe in isolation. Which is what we
+will get to next.
+
+### What Happens When You Look
+
 This behavior is a bit odd in many ways, but for my purposes here I am only going to point
 out two of them:
 
 1. When we look at where any single electron _is_, it always shows up as a dot.
 
 1. But, when we push enough electrons through the experiment over some period of time, we
-   get this interference pattern that is reminiscent of what we expect from wave-like
-   objects.
+   get this interference pattern that is reminiscent of what we expect to see from an
+   interference experiment that we run with water waves, or light waves. We even use the
+   same math to compute the intensity pattern, except in the quantum experiment we
+   interpret the intensity as probability.
 
 Finally, to make the world seem even stranger, the last thing to note is that if you
 change the experiment by putting any kind of a detector between the two slits an the
@@ -296,13 +330,7 @@ to localize it to a single position, looking at which way the electron went at t
 also seems to localize it and thus destroy the "wave-like" interference behavior that you
 get when you leave it alone.
 
-As a side note, you can also see this strange behavior when doing this experiment with
-beams of light. Light comes in waves, but also in photons. This is the origin of the
-popular catch phrase in quantum physics: "wave-particle duality" ... but you have to be
-careful about taking this phrase too literally. As we mentioned above, wave functions do
-not live in any sort of _physical_ space. Instead they are things that we are interpreting
-as telling us about the probability of things happening in particular areas in space,
-which is a rather different thing.
+
 
 In any case, this dual behavior puts quantum mechanics in a difficult spot. It seems like
 the experiment tells us that there are two sorts of evolution for quantum systems.
