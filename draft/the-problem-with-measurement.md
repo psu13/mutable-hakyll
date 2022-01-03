@@ -22,8 +22,9 @@ it, this time from physics. After thinking about for a while I decided it should
 something like this:
 
 $$
-\psi M_0 = (\psi_1 + \psi_2) M_0  \rightarrow   \psi_1
-M_{1} + \psi_2 M_{2}
+| \psi \rangle \otimes | M_0 \rangle = | \psi_1 + \psi_2 \rangle \otimes | M_0 \rangle \rightarrow   | \psi_1
+\rangle
+\otimes | M_{1}\rangle + | \psi_2 \rangle \otimes | M_{2} \rangle
 $$
 
 This is the formula that is at the center of the question of the _measurement problem_ in
@@ -119,13 +120,13 @@ or _spectra_ that are required to explain many of the strange ways that atoms be
 particular it can provide you with the model of the atom that you need to explain the
 spectral lines.
 
-It _feels_ sort of like this equation describes a wave-like motion just like we might see
-in classical mechanics. But, we must be careful. The waves in classical mechanics are an
-aggregate phenomena created by the motion of lots of things (air molecules, water
-molecules, etc) at once. Even more abstract entities like electromagnetic waves still have
-a sometimes visible macroscopic manifestation (let there be light!). The quantum wave
-function is nothing like this. Those complex numbers that are waving around are, as we
-said above, just (sort of) probabilities.
+It _feels_ sort of like this equation describes a wave-like motion in space similar to
+various kinds of waves in classical mechanics. But, we must be careful. The waves in
+classical mechanics are an aggregate phenomena created by the motion of lots of things
+(air molecules, water molecules, etc) at once. Even more abstract entities like
+electromagnetic waves still have a sometimes visible macroscopic manifestation (let there
+be light!). The quantum wave function is nothing like this. Those complex numbers that are
+waving around are, as we said above, just (sort of) probabilities.
 
 But they don't represent probability directly. Instead, to get probabilities you have to
 compute something called the _norm_ of the wave function, which is a measure of its
@@ -267,14 +268,6 @@ above experiment does not actually use slits, but rather a different sort of
 interferometer. But, people have done this experiment with [actual nano-sized slits as
 well](https://aapt.scitation.org/doi/10.1119/1.2757621). The last paper is behind a
 paywall ... but you should be able to find the PDF on the Internet if you try hard.
-
-As a side note, you can also see this behavior when doing this experiment with beams of
-light. Light comes in waves, but also in photons. This is the origin of the popular catch
-phrase in quantum physics: "wave-particle duality" ... but you have to be careful about
-taking this phrase too literally. As we mentioned above, wave functions do not live in any
-sort of _physical_ space. Instead they are things that we are interpreting as telling us
-about the probability of other things happening in particular areas in space, which is a
-rather different thing.
 
 Using the wave function formalism above, we can come up with a simple-minded explanation
 for this interference behavior without a lot of math. Let's say that the wave function
