@@ -47,9 +47,13 @@ the formula describes _motion_, and it turns out that this formula, and more abs
 generalizations of it do a pretty good job of describing the motion of macroscopic objects
 in most situations that you can put macroscopic objects into.
 
-The generalization of Newtons formula above can be set up so you put some numbers into a
-single black box, turn a crank, and every answer that you ever needed falls out the other
-side. This magic box is a set of *differential equations* that describe how the system you
+When I was in college I took the sophomore mechanics class while dabbling with the idea of
+a double major. In this class I experienced one of the great betrayals of  my life. It
+turns out that if you know just a little bit more math you can put every single one of
+those tedious first year $F = ma$ mechanics problems into a single black box and get the
+right answer by turning a crank.
+
+This magic box is a set of *differential equations* that describe how the system you
 have described evolves in time. I am not going to go into the details of how differential
 equations work, because honestly I don't know them. But, for reference they look something
 like this:
@@ -60,17 +64,18 @@ $$
 $$
 
 Here, $x$ represents position and $p$ represents momentum (momentum is
-the mass of the object times its velocity ... $p = mv$. For some reason this is a more
-convenient way to work than with the velocity directly). $H$ is called the *Hamiltonian*,
+the mass of the object times its velocity ... $p = mv$. $H$ is called the *Hamiltonian*,
 named after the mathematician who made it up: [William Rowan
 Hamilton](https://www.youtube.com/watch?v=SZXHoWwBcDcR). It is a measure of the total
 energy in the system.
 
 Here we think of the combination of position and momentum as the current _state_ of the
-system. What the formula says is that we can capture the behavior of the system in a way
-that is rigorous enough to write down the Hamiltonian, then given any initial state of the
-system I can tell you what the future state of the system will be by playing the math
-forward. All I need is a computer and the formula.
+system. The formula relates small changes in $x$ to small changes in $p$ and $H$ and vice
+versa (that's what all the $d$s mean). So, if we can capture the behavior of the system in
+a way that is rigorous enough to write down the Hamiltonian, then given any initial state
+$(x, p)$ of the system I can tell you what the future state of the system will be by
+playing the math forward. All I need is a computer and the formula. No tedious diagrams.
+You just fill out a matrix for the Hamiltonian and turn a crank.
 
 This basic set of mathematics is how we send probes millions of miles into space and have
 them hit a particular position over (say) Jupiter 5 years from now exactly when we think
@@ -135,7 +140,7 @@ the wave function like this: $|\psi|$ or $|\psi(x,t)|$. If you know how to compu
 the probability of finding an electron (say) at point point $x$ in space would be
 
 $$
-P(x) =  |\psi(x,t)|^2 .
+P(x,t) =  |\psi(x,t)|^2 .
 $$
 
 Computing this norm usually involves some kind of fancy integral. This interpretation of
