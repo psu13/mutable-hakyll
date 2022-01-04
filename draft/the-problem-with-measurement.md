@@ -159,12 +159,13 @@ Sometimes they are right to a ludicrous level of precision too.
 
 ### Linearity and Operators
 
-To get from wave functions to the weird measurement formula above we have to observe a
-strange fact about the nature of the solutions to the Schrödinger equation. The
-Schrödinger equation is what is called a _linear_ differential equation. Linear functions
-obey a simple and very convenient rule. If you have some function $f$ that maps (say) real
-numbers (${\mathbb R}$) to real numbers, then given two real numbers $x$ and $y \in
-{\mathbb R}$ the following will be true:
+Most of what is weird about quantum mechanics stems from a curious property of the
+Schrödinger equation. The Schrödinger equation is what is called a _linear_ differential
+equation. Let me elaborate.
+
+Linear things obey a simple and very convenient rule. If you have some function $f$ that
+maps (say) real numbers (${\mathbb R}$) to real numbers, then given two real numbers $x$
+and $y \in {\mathbb R}$ the following will be true:
 
 $$
 f(x + y) = f(x) + f(y)
@@ -222,22 +223,26 @@ particular it obeys the general rule (L) that I wrote down above. So $H$ must al
 linear in the wave function.
 
 So, if you have _two_ wave functions $\psi_1$ and $\psi_2$ and they both are solutions to
-the Schrödinger equation, it must be the case that any linear combination of the two is
+the Schrödinger equation, it must be the case that, for example, this is also a solution:
+
+$$
+\psi = \psi_1 + \psi_2 
+$$
+
+In fact, _any_ linear combination of the two is
 also the solution. That is, if $\alpha$ and $\beta$ are complex numbers then I can make a
-new function like this:
+new function like this which is also a solution:
 
 $$
 \psi = \alpha \psi_1 + \beta \psi_2 
 $$
 
-and $\psi$ must also be a valid solution. In other words, any linear combination of two
-valid wave functions ("quantum states") is also a valid state.
+This state $\psi$ is what is called a "superposition" state, which is just a fancy word
+that means linear combination, which in turn is just a fancy phrase for "adding the two
+things together with arbitrary scalar coefficients".
 
 This, it turns out, [*is the most important rule in all of quantum
 mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
-
-The state $\psi$ above is what is called a "superposition", and half of all the strange
-things about quantum mechanics come from the behavior superposition states.
 
 ### What Happens When You Don't Look
 
