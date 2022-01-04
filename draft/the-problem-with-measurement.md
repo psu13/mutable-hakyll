@@ -246,9 +246,10 @@ mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
 
 ### What Happens When You Don't Look
 
-The two slit experiment, and experiments like it that measure things like photon
-polarization are an easy example to provide insight into the nature of superposition
-states. I have stolen most of the interesting explanations below from Feynman, so you
+The superposition rule and the probability rule explains the interference pattern in the
+two slit experiment.
+
+I have stolen most of the interesting notes below from Feynman, so you
 should just [go read his text
 instead](https://www.feynmanlectures.caltech.edu/III_01.html).
 
