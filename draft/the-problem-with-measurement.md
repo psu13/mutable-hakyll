@@ -22,9 +22,9 @@ it, this time from physics. After thinking about for a while I decided it should
 something like this:
 
 $$
-| \psi \rangle \otimes | M_0 \rangle = | \psi_1 + \psi_2 \rangle \otimes | M_0 \rangle \rightarrow   | \psi_1
+| \psi \rangle \otimes | A_I \rangle = | \psi_1 + \psi_2 \rangle \otimes | A_I \rangle \rightarrow   | \psi_1
 \rangle
-\otimes | M_{1}\rangle + | \psi_2 \rangle \otimes | M_{2} \rangle
+\otimes | A_{1}\rangle + | \psi_2 \rangle \otimes | A_{2} \rangle
 $$
 
 This is the formula that is at the center of the question of the _measurement problem_ in
