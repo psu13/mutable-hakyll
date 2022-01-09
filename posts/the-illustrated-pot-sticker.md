@@ -64,7 +64,7 @@ I usually use the smell and look of the meat mixture to figure out how to adjust
 
 <p>Each round should be around about an 1.5 or 2 inches across. Do one &#8220;rope&#8221; at a time. About the time the first rope is done, finish the last stage of making the filling.</p>
 <h4>Filling, Stage 2</h4>
-<p>Now finish the filling by adding the cabbage. You want to add the cabbage last and then assemble immediately. The reason you want to do this is if you add the cabbage too soon and then let the meat sit, it will fall apart later. So, for one pound of pork add about 2 to 3 cups of the chopped cabbage from before depending on how much you like. Mix it into the meat. Then add a few tablespoons of cabbage juice. You want to get the filling to be a moist paste, but <em>not</em> too wet. So add the juice slowly until you get a feel for when the filling is right. It should look like this:</p>
+<p>Now finish the filling by adding the cabbage. You want to add the cabbage last and then assemble immediately. The reason you want to do this is if you add the cabbage too soon and then let the meat sit, it will fall apart later. So, for one pound of pork add about 2 to 3 cups of the chopped cabbage from before depending on how much you like. Mix it into the meat. Then add a few teaspoons of cabbage juice. You want to get the filling to be a moist paste, but <em>not</em> too wet. So add the juice slowly until you get a feel for when the filling is right. It should look like this:</p>
 
 > <a href="http://www.flickr.com/photos/79904144@N00/3608505569/" title="P1010805 by psu13, on Flickr"><img src="http://farm4.static.flickr.com/3363/3608505569_d6ebd90d80_m.jpg" width="240" height="160" alt="P1010805" /></a>
 
