@@ -27,13 +27,20 @@ systems that could not be explained by the physics of the time. These include:
 
 Then you are presented with an analytic framework and algorithm for converting one set of
 differential equations (from Newton and Maxwell) into a different set of differential
-equations (from Schrödinger) along with some strange rules about probability. Then you
-solve the Schrödinger equation a bunch of times for different examples that model various
-odd behaviors that you can observe in atomic particles. Sprinkled into all of this
-computation might be some strange semi-mystical rumbling about "wave/particle duality" or
-whatever, but there is not a lot of emphasis on the conceptual core of what's going on. By
-the end of the class you might conclude that what is hard and mysterious about quantum
-mechanics is the solving of differential equations.
+equations (from Schrödinger) along with some strange rules about probability. The
+_mechanics_ in quantum mechanics refers to the fact that these analytical models are
+supposed to describe the _motion_ of atomic systems through space. But if you dig into
+this it's not really clear that they do this at all. Instead there is a strange mish-mash
+of apparently ad hoc rules involving differential equations, "observables" and
+probability.
+
+Anyway, after this setup what you then do is solve the Schrödinger equation a bunch of
+times for different examples that model various odd behaviors that you can observe in
+atomic particles. Sprinkled into all of this computation might be some strange
+semi-mystical rumbling about "wave/particle duality" or whatever, but there is not a lot
+of emphasis on the conceptual core of what's going on. By the end of the class you might
+conclude that what is hard and mysterious about quantum mechanics is the solving of
+differential equations.
 
 When I took quantum mechanics in college, this is the course I got and I dropped out in a
 month and took operating systems instead. We had spent a month talking about particles in
@@ -48,9 +55,15 @@ of rules that read something like:
 1. Quantum states are written $| \psi \rangle$ and come from a complex vector space called
    a _Hilbert_ space.
 
-1. Something about observables being represented by linear operators on the Hilbert space.
+1. Observables are represented by a special class of linear operators on the Hilbert space.
 
-1. A bunch of algebraic rules.
+1. Time evolution is determined by something called unitary operator.
+
+1. Maybe some ad hoc rules about probability and measurement.
+
+The interesting thing about this path is that there is a very simple class of systems that
+present all of the strange quantum puzzles, but without all the differential equations.
+You only need to start with two states: $ | 0 \rangle $ and $ | 1 \rangle $.
 
 Eventually these two paths meet at the Schrödinger equation:
 
@@ -69,9 +82,3 @@ says doesn't even seem to be about _mechanics_ at all:
 > generalization based on the 2-norm rather than the 1-norm, and on complex numbers rather
 > than nonnegative real numbers.
 
-Historically the name "quantum *mechanics*" derives from the fact that what the early
-theories were trying to do is explain the motion of atoms (really electrons and photons)
-and such through space, which is what *mechanics* is about. The surprising thing about the
-development of quantum mechanics is that when the final shape of the theory was finally
-understood, it had more to do with linear algebra and group theory than the standard bread
-and butter calculus and differential equations that classical physics is based on.
