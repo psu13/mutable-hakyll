@@ -27,7 +27,7 @@ want is not in the _song_, and in particular the _song title_ or the _main artis
 will not find it.
 
 But, the classical music albums (and to some extent jazz, as well) defeat this assumption
-by not putting enough metadata in the songs. The titles do not contain the composer. The
+by not putting enough useful metadata in the songs. The titles do not contain the composer. The
 main artist is usually the performer, and not the composer. The composer is shuttled off
 to its own field of the song record, which I assume is either not indexed at all, or not
 weighted heavily when evaluating the relevance of the search results. Here is a modest
@@ -77,9 +77,10 @@ soundtrack.
 Two more notes: 
 
 1. Spotify seems to be better at this, as it appears to realize that the name "Martinů" is
-   important in this context and does not try to autocorrect it. This is why I sometimes
-   keep Spotify around for random explorations of different areas of music. But for the
-   most part I find the app annoying to use.
+   important in this context so it does not weight name corrected hits as highly. If you
+   dig a deeper into their search hits you can still see some silliness, but it's not as
+   bad. This is why I sometimes keep Spotify around for random explorations of
+   different areas of music. But for the most part I find their app annoying to use.
 
 2. The best way to do these kinds of searches is to type, for example, `Martinů
    site:music.apple.com` into your favorite search engine, because just matching the
