@@ -77,9 +77,9 @@ soundtrack.
 Two more notes: 
 
 1. Spotify seems to be better at this, as it appears to realize that the name "Martinů" is
-   important in this context and does not try to autocorrect it. Of course, Spotify has
-   its own set of annoying issues, like being an elaborate copyright laundering scheme
-   that allows the record companies to avoid paying artists for their work.
+   important in this context and does not try to autocorrect it. This is why I sometimes
+   keep Spotify around for random explorations of different areas of music. But for the
+   most part I find the app annoying to use.
 
 2. The best way to do these kinds of searches is to type, for example, `Martinů
    site:music.apple.com` into your favorite search engine, because just matching the
