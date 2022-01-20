@@ -82,7 +82,7 @@ level it seems like the tools we are using now are the same as we were using in 
 Machine papers, or the Xerox (again!) Cedar papers [^1], and wonder about what grand new
 tools could have evolved from _that_ basis instead of where we ended up. If you do this
 with enough gusto, and ignore enough of the details, you can only conclude that we must
-have missed some huge boat if we are still reading cored dumps, or splunk logs, or single
+have missed some huge boat if we are still reading core dumps, or splunk logs, or single
 stepping through code in the terminal, or whatever we do these days.
 
 But, I think if you dig into the details of the tools that are available these days,
