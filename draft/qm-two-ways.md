@@ -1,6 +1,6 @@
 ---
 title: Quantum Mechanics Two Ways
-date: 2022-01-10
+date: 2022-01-21
 author: psu
 ---
 
@@ -13,7 +13,7 @@ science but strangely, no one really seems to agree about how it works.
 Then, depending on the point of view of the author, you will get a couple of different
 explanations about the core puzzles of the theory. 
 
-The classic path through the subject is historical and analytic. You are told that that at
+The classic path through the subject is historical and analytical. You are told that that at
 the end of the 19th century various observations were made about the behavior of atomic
 systems that could not be explained by the physics of the time. These include:
 
@@ -25,7 +25,7 @@ systems that could not be explained by the physics of the time. These include:
 
 3. Spin, and all that.
 
-Then you are presented with an analytic framework and algorithm for converting one set of
+Then you are presented with a framework and an ad-hoc algorithm for converting one set of
 differential equations (from Newton and Maxwell) into a different set of differential
 equations (from Schrödinger) along with some strange rules about probability. The
 _mechanics_ in quantum mechanics refers to the fact that these analytical models are
@@ -36,10 +36,11 @@ probability.
 
 Anyway, after this setup what you then do is solve the Schrödinger equation a bunch of
 times for different examples that model various odd behaviors that you can observe in
-atomic particles. Sprinkled into all of this computation might be some strange
-semi-mystical rumbling about "wave/particle duality" or whatever, but there is not a lot
-of emphasis on the conceptual core of what's going on. By the end of the class you might
-conclude that what is hard and mysterious about quantum mechanics is the solving of
+atomic particles. There are particles in boxes, particles tunneling through walls, the
+ubiquitous harmonic oscillator, and so on. Sprinkled into all of this computation might be
+some strange semi-mystical rumbling about "wave/particle duality" or whatever, but there
+it's hard to get at the conceptual core of what's going on. By the end of the class you
+might conclude that what is hard and mysterious about quantum mechanics is the solving of
 differential equations.
 
 When I took quantum mechanics in college, this is the course I got and I dropped out in a
@@ -59,11 +60,11 @@ of rules that read something like:
 
 1. Time evolution is determined by something called unitary operator.
 
-1. Maybe some ad hoc rules about probability and measurement.
+1. Maybe some ad hoc rules about probability and "measurement".
 
 The interesting thing about this path is that there is a very simple class of systems that
 present all of the strange quantum puzzles, but without all the differential equations.
-You only need to start with two states: $ | 0 \rangle $ and $ | 1 \rangle $.
+You only need to start with two states: $|0 \rangle$ and $| 1 \rangle$.
 
 Eventually these two paths meet at the Schrödinger equation:
 
@@ -82,3 +83,18 @@ says doesn't even seem to be about _mechanics_ at all:
 > generalization based on the 2-norm rather than the 1-norm, and on complex numbers rather
 > than nonnegative real numbers.
 
+Needless to say, my programmer brain finds this idea much easier to get a hold on than all
+those differential equations that I never learned how to solve. In fact, this algebraic
+viewpoint is also the quickest path to understanding the two puzzles about quantum
+mechanics that no one can seem to get a handle on, even after almost 100 years:
+measurement and entanglement.
+
+### The Rules
+
+### Entanglement
+
+### Measurement
+
+### The Problem
+
+### Appendix
