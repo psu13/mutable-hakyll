@@ -17,7 +17,9 @@ The classic path through the subject is historical and analytical. You are told 
 the end of the 19th century various observations were made about the behavior of atomic
 systems that could not be explained by the physics of the time. These include:
 
-1. The appearance of spectral lines that discrete frequencies in the spectrum of an atom.
+1. The black body radiation problem and $\hbar$.
+
+1. The appearance of spectral lines at discrete frequencies in the spectrum of an atom.
 
 2. The interference patterns in the two slit experiment.
 
@@ -38,10 +40,11 @@ Anyway, after this setup what you then do is solve the Schrödinger equation a b
 times for different examples that model various odd behaviors that you can observe in
 atomic particles. There are particles in boxes, particles tunneling through walls, the
 ubiquitous harmonic oscillator, and so on. Sprinkled into all of this computation might be
-some strange semi-mystical rumbling about "wave/particle duality" or whatever, but there
-it's hard to get at the conceptual core of what's going on. By the end of the class you
-might conclude that what is hard and mysterious about quantum mechanics is the solving of
-differential equations.
+some strange semi-mystical rumbling about "wave/particle duality" and random observations
+about how microscopic particles combine discrete and continuous behaviors in strange ways.
+But there is never much of a systematic discussion of the conceptual core of what's going
+on. By the end of the class you might conclude that what is hard and mysterious about
+quantum mechanics is the solving of differential equations.
 
 When I took quantum mechanics in college, this is the course I got and I dropped out in a
 month and took operating systems instead. We had spent a month talking about particles in
@@ -49,8 +52,7 @@ boxes, and I just did not understand what that had to do with anything. This is 
 now a programmer and not a physicist (maybe).
 
 Later on, as I [took up physics as a hobby](reading-physics.html), I found a second path
-to quantum mechanics that was very different. I'm going to call this the non-historical
-and algebraic path. Books that take this path will often start out with just a few pages
+to quantum mechanics that was very different.  This path starts out with just a few pages
 of rules that read something like:
 
 1. Quantum states are written $| \psi \rangle$ and come from a complex vector space called
@@ -62,34 +64,45 @@ of rules that read something like:
 
 1. Maybe some ad hoc rules about probability and "measurement".
 
-The interesting thing about this path is that there is a very simple class of systems that
-present all of the strange quantum puzzles, but without all the differential equations.
-You only need to start with two states: $|0 \rangle$ and $| 1 \rangle$.
-
-Eventually these two paths meet at the Schrödinger equation:
+These rules seem very abstract and far removed from our original puzzle of decoding the
+_motion_ of particles. But, it turns out that you can start with this formalism in your
+right hand, and the differential equations framework above in your left hand and
+eventually find out that they run into each other somewhere around when you figure out
+what is going on with the Schrödinger equation:
 
 $$
 H | \psi(x,t) \rangle = \frac{\partial}{\partial t} | \psi(x,t) \rangle
 $$
 
-But, you can cover a lot of the most interesting quantum puzzles without ever looking at a
-differential equation like this.
+I will have a bit more to say about this below as well, but a full accounting of the
+subject requires more expertise in functional analysis than I have to offer.
 
-In fact, if you ask noted computer scientist and quantum computing guy [Scott
-Aaronson](https://www.scottaaronson.com/democritus/) to explain quantum mechanics what he
-says doesn't even seem to be about _mechanics_ at all:
+Still, you can cover a lot of the most interesting quantum puzzles without ever looking at
+a differential equation like this. In fact, all you need is a system with two states: $|0
+\rangle$ and $| 1 \rangle$ ("quantum bits", or qubits, if you will). As we will see below,
+using these two states and a couple of straightforward rules about how to combine them,
+you can derive all of the apparently strange conceptual problems in quantum mechanics for
+yourself.
+
+In any case, I'm going to call this second path the non-historical and algebraic path, or
+maybe the computer nerd path, since the quantum information theory and quantum computing
+types to take this point of view. If you ask noted computer scientist and quantum
+computing guy [Scott Aaronson](https://www.scottaaronson.com/democritus/) to explain
+quantum mechanics what he says doesn't even seem to be about _mechanics_ at all:
 
 > Quantum mechanics is a beautiful generalization of the laws of probability: a
 > generalization based on the 2-norm rather than the 1-norm, and on complex numbers rather
 > than nonnegative real numbers.
 
 Needless to say, my programmer brain finds this idea much easier to get a hold on than all
-those differential equations that I never learned how to solve. In fact, this algebraic
-viewpoint is also the quickest path to understanding the two puzzles about quantum
-mechanics that no one can seem to get a handle on, even after almost 100 years:
+the combination of differential equations and metaphysics that we started with. In fact,
+this algebraic viewpoint is also the quickest path to understanding the two puzzles about
+quantum mechanics that no one can seem to get a handle on, even after almost 100 years:
 measurement and entanglement.
 
 ### The Rules
+
+### Superposition
 
 ### Entanglement
 
