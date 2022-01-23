@@ -71,7 +71,7 @@ eventually find out that they run into each other somewhere around when you figu
 what is going on with the Schrödinger equation:
 
 $$
-H | \psi(x,t) \rangle = \frac{\partial}{\partial t} | \psi(x,t) \rangle
+H | \psi(x,t) \rangle = -i \hbar \frac{\partial}{\partial t} | \psi(x,t) \rangle
 $$
 
 I will have a bit more to say about this below as well, but a full accounting of the
