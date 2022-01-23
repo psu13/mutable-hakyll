@@ -78,13 +78,13 @@ I will have a bit more to say about this below as well, but a full accounting of
 subject requires more expertise in functional analysis than I have to offer.
 
 Still, you can cover a lot of the most interesting quantum puzzles without ever looking at
-a differential equation like this. In fact, all you need is a system with two states: $|0
-\rangle$ and $| 1 \rangle$ ("quantum bits", or qubits, if you will). As we will see below,
-using these two states and a couple of straightforward rules about how to combine them,
-you can derive all of the apparently strange conceptual problems in quantum mechanics for
-yourself.
+a differential equation like this. In fact, all you need is a system with two states which
+we will write in the following curious way: $|0 \rangle$ and $| 1 \rangle$. As we will see
+below, using these two states and a couple of straightforward rules about how to combine
+them, you can derive all of the apparently strange conceptual problems in quantum
+mechanics for yourself.
 
-In any case, I'm going to call this second path the non-historical and algebraic path, or
+I'm going to call this second path the non-historical and algebraic path, or
 maybe the computer nerd path, since the quantum information theory and quantum computing
 types to take this point of view. If you ask noted computer scientist and quantum
 computing guy [Scott Aaronson](https://www.scottaaronson.com/democritus/) to explain
