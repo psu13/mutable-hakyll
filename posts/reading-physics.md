@@ -154,7 +154,7 @@ To me blackboards are the bane of the youtube physics lecture. On the one hand, 
 
 On the other hand, the *mechanics* of the blackboards are horrible. How many hours of youtube, I wonder, are taken up with professors erasing the boards, or writing the wrong thing on the board, erasing it, and then writing another wrong thing? What is the aggregate time that professors have spent on youtube raising and lowering the blackboards? I've seen the most brilliant minds in modern physics utterly defeated by the automatic blackboard movement systems in their lecture halls.
 
-Watching a poor professor staring at his mu's and nu's, wondering where the sign went wrong, I fantasize about software that could take his notes and automatically transcribe them to the board, Keynote-animation-like, while he talks over the robot writing. Maybe some enthusiastic graduate student could make a TeX display system that does this.
+Watching a poor professor staring at his mu's and nu's, wondering where the sign went wrong, I fantasize about software that could take his notes and automatically transcribe them to the board, Keynote-animation-like, while he talks over the robot writing. Maybe some enthusiastic graduate student could make a $\TeX$ display system that does this.
 
 I do have two favorite youtube blackboards.
 
