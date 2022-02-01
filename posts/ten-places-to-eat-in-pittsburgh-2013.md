@@ -36,7 +36,11 @@ With that in mind, and in no particular order, here we go.
 
 4. **Dish**
 
-	Dish is another perennial favorite. If you weren't paying attention you might think that the place was standing still and never really changing. After all, <a href="http://tleaves.com/wp-archive/2005/04/28/dish/index.html">what I wrote almost ten years ago</a> still just about everything I'd ever need to say about the place. But I think such a conclusion would be misleading. 
+    Dish is another perennial favorite. If you weren't paying attention you might think
+    that the place was standing still and never really changing. After all, <a
+    href="dish.html">what I wrote almost
+    ten years ago</a> is still just about everything I'd ever need to say about the place.
+    But I think such a conclusion would be misleading. 
 
 	While Dish has kept its overall direction and vibe the same, it has also quietly kept up with the newer aspects of the Pittsburgh food scene. You can still get the transcendent grilled seafood and the always excellent steak and risotto. But we always go for the ever changing list of small dishes and salads. Cod fritters, the blood orange salad, the marinated olives, the grilled squid with spinach, and of course, the grilled sardines and caramelized onions. And don't forget about the mango cake in the summer.
 
