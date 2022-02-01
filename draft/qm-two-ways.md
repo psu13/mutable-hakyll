@@ -29,12 +29,12 @@ systems that could not be explained by the physics of the time. These include:
 
 Then you are presented with a framework and an ad-hoc algorithm for converting one set of
 differential equations (from Newton and Maxwell) into a different set of differential
-equations (from Schrödinger) along with some strange rules about probability. The
-_mechanics_ in quantum mechanics refers to the fact that these analytical models are
-supposed to describe the _motion_ of atomic systems through space. But if you dig into
-this it's not really clear that they do this at all. Instead there is a strange mish-mash
-of apparently ad hoc rules involving differential equations, "observables" and
-probability.
+equations (from Heisenberg, Schrödinger, von Neumann, and Dirac) along with some strange
+rules about probability. The _mechanics_ in quantum mechanics refers to the fact that
+these analytical models are supposed to describe the _motion_ of atomic systems through
+space. But if you dig into this it's not really clear that they do this at all. Instead
+there is a strange mish-mash of apparently ad hoc rules involving differential equations,
+"observables" and probability.
 
 Anyway, after this setup what you then do is solve the Schrödinger equation a bunch of
 times for different examples that model various odd behaviors that you can observe in
@@ -42,11 +42,10 @@ atomic particles. There are particles in boxes, particles tunneling through wall
 ubiquitous harmonic oscillator, and so on. Sprinkled into all of this computation might be
 some strange semi-mystical rumbling about "wave/particle duality" and random observations
 about how microscopic particles combine discrete and continuous behaviors in strange ways.
-But there is never much of a systematic discussion of the conceptual core of what's going
-on. By the end of the class you might conclude that what is hard and mysterious about
+By the end of the class you might conclude that what is hard and mysterious about
 quantum mechanics is the solving of differential equations.
 
-When I took quantum mechanics in college, this is the course I got and I dropped out in a
+When I took quantum mechanics in college, this is the course I got and I dropped out after a
 month and took operating systems instead. We had spent a month talking about particles in
 boxes, and I just did not understand what that had to do with anything. This is why I'm
 now a programmer and not a physicist (maybe).
@@ -65,28 +64,27 @@ of rules that read something like:
 1. Maybe some ad hoc rules about probability and "measurement".
 
 These rules seem very abstract and far removed from our original puzzle of decoding the
-_motion_ of particles. But, it turns out that you can start with this formalism in your
-right hand, and the differential equations framework above in your left hand and
-eventually find out that they run into each other somewhere around when you figure out
-what is going on with the Schrödinger equation:
+_motion_ of particles. But it turns out that you can cover a lot of the most interesting
+quantum puzzles without ever looking at a differential equation like this. In fact, all
+you need is a system with two states which we will write in the following curious way: $|0
+\rangle$ and $| 1 \rangle$. As we will see below, using these two states and a couple of
+straightforward rules about how to combine them, you can derive all of the apparently
+strange conceptual problems in quantum mechanics for yourself.
+
+In addition, you can start with this formalism in your right hand, and the differential
+equations framework above in your left hand and eventually find out that they run into
+each other when you work out the implications of the Schrödinger equation:
 
 $$
 H | \psi(x,t) \rangle = -i \hbar \frac{\partial}{\partial t} | \psi(x,t) \rangle
 $$
 
-I will have a bit more to say about this below as well, but a full accounting of the
-subject requires more expertise in functional analysis than I have to offer.
-
-Still, you can cover a lot of the most interesting quantum puzzles without ever looking at
-a differential equation like this. In fact, all you need is a system with two states which
-we will write in the following curious way: $|0 \rangle$ and $| 1 \rangle$. As we will see
-below, using these two states and a couple of straightforward rules about how to combine
-them, you can derive all of the apparently strange conceptual problems in quantum
-mechanics for yourself.
+A full accounting of why this is so requires more expertise in functional analysis than I
+have to offer, but I will hint at the deeper facts below.
 
 I'm going to call this second path the non-historical and algebraic path, or
 maybe the computer nerd path, since the quantum information theory and quantum computing
-types to take this point of view. If you ask noted computer scientist and quantum
+types tend to take this point of view. If you ask noted computer scientist and quantum
 computing guy [Scott Aaronson](https://www.scottaaronson.com/democritus/) to explain
 quantum mechanics what he says doesn't even seem to be about _mechanics_ at all:
 
@@ -95,16 +93,22 @@ quantum mechanics what he says doesn't even seem to be about _mechanics_ at all:
 > than nonnegative real numbers.
 
 Needless to say, my programmer brain finds this idea much easier to get a hold on than all
-the combination of differential equations and metaphysics that we started with. In fact,
-this algebraic viewpoint is also the quickest path to understanding the two puzzles about
-quantum mechanics that no one can seem to get a handle on, even after almost 100 years:
-measurement and entanglement.
+the combination of differential equations and metaphysics that we started with. In fact, I
+think that this algebraic viewpoint is also the quickest path to understanding the two
+puzzles about quantum mechanics that no one can seem to get a handle on, even after almost
+100 years: measurement and entanglement. 
+
+What it seems to boil down to for me is that the fact that quantum states make up a
+_linear_ vector space (as implied by the fact that the Schrödinger equation is what is
+called a _linear_ differential equation) means that it's easy to construct states that
+are valid in the formalism but never observed in experiments. So let's try to see what
+this means.
 
 ### The Rules
 
-### Superposition
+On the way to the shiny quantum weirdness we first have do some boring review of linear algebra.
 
-### Entanglement
+### Superposition and Entanglement
 
 ### Measurement
 
