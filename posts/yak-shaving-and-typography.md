@@ -90,7 +90,7 @@ In a fit of nostalgia over Christmas (and because my boss told me to do "somethi
 
 _The Art of Computer Programming_ is as good as ever. In addition, even though I've never been a fan of the Computer Modern typefaces for whatever reason in those specific books they look good. They look especially good printed, but are also *excellent* in PDF form. Which is a rare thing. There is something about the entire page design of the books that holds them together and makes you forget about how the type still looks a bit off compared to what is in the classic books that Knuth so admired.
 
-_Digital Typography_ also looks fine. It has that more generic "I was formatted with $\rm\TeX$ look to it. But it's fine.
+_Digital Typography_ also looks fine. It has that more generic "I was formatted with $\rm\TeX$" look to it. But it's fine.
 
 In contrast the new editions of the $\TeX book$ and its companions look awful. They are clearly not printed by the same machines and on the same paper used for TAOCP. The result looks like something I could pull off my inkjet fax machine if I wanted to. A disappointment.
 
