@@ -37,10 +37,10 @@ cooking.
 
 This attitude always confused me, and I have come to realize (from Kenji's comments [at
 the end of in this video](https://www.youtube.com/watch?v=X6JE7W8Z6Hs)) that this might be
-because I grew up eating Chinese food at home. My mom cooked everything on a _coiled
-electric stove_. It was better than the food in the restaurants. But, most of the
-food writing that annoys me is from people chasing _restaurant style_ Chinese food and
-trying to figure out how to do _that_ at home.
+because I grew up eating Chinese food at home. My mom cooked everything in a cast iron
+skillet on a _coiled electric stove_. It was better than the food in the restaurants. But,
+most of the food writing that annoys me is from people chasing _restaurant style_ Chinese
+food and trying to figure out how to do _that_ at home.
 
 Now, I don't want to begrudge people their irrational obsessions. God knows this web site
 is nothing if not a catalog of mine. But there is _so much more_ to Chinese food than just
