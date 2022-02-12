@@ -4,13 +4,11 @@ date: 2007-09-13
 author: psu
 ---
 
-I don’t recall when I watched _The Fifth Element_ for the first time. However, I distinctly
-recall that I didn’t think it was that great. Over the years, however, my wife and I
-happened to catch the movie from time to time on HBO or whatever, and a funny thing
+I don’t recall when I watched _The Fifth Element_ for the first time. However, I
+distinctly recall that I didn’t think it was that great. Over the years, however, my wife
+and I happened to catch the movie from time to time on HBO or whatever, and a funny thing
 happened. After watching the film the equivalent of five or six times, suddenly it became
-the one of the [best
-films](http://www.doubleviking.com/real-men-love-the-fifth-element-6198-p.html) ever made.
-Repetition made it better.
+the one of the best films ever made. Repetition made it better.
 
 I pondered this phenomenon after buying the Blu-Ray edition of the movie for the PS3 and
 enjoying it all over again. We sat through all of our favorite moments again, and they
@@ -37,11 +35,11 @@ with just the right beats. How many movies have a shot of a guy riding up an esc
 that you can’t take your eyes off of?
 
 Coincidentally, right after watching these two films again, I picked up a game that I have
-played repeatedly, and played it again. I refer to Resident Evil 4 on the Wii. Yet again,
+played repeatedly, and played it again. I refer to _Resident Evil 4_ on the Wii. Yet again,
 this game sucked me in and made me run from one end of that damn island to the other and
 not rest until the zombies were dead. Also coincidentally, I found that what I enjoy in
-RE4 is that the game sets up and maintains a rhythm that is comforting and enjoyable to
-return to. When you get good at RE4, you realize that the way to survive the mob is
+_RE4_ is that the game sets up and maintains a rhythm that is comforting and enjoyable to
+return to. When you get good at _RE4_, you realize that the way to survive the mob is
 alternate your shooting with your moving so that you can keep everything visible and far
 enough away that you have the time and visual range you need to target the next few
 zombies. The best fights have a sort of _blam!_, shuffle shuffle, _blam!_ meter to them that
