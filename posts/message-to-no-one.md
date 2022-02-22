@@ -58,8 +58,11 @@ documented by 1995](https://twitter.com/mbessey/status/1495853524407701514)
 
 Then later we got [back to 1993](https://twitter.com/vasprintf/status/1495854893898289160)
 
-Then there was some [funny snarking by long time runtime
-dorks](https://twitter.com/jckarter/status/1495853328420552708). This tweet, by the way,
+There was [runtime nerding](https://twitter.com/mbessey/status/1495856800369102849) by
+runtime nerds.
+
+There was also [funny runtime snarking by the same runtime
+nerds](https://twitter.com/jckarter/status/1495853328420552708). This tweet, by the way,
 is true. I have seen such code and will leave it at that.
 
 Then, we got [this message which won the
@@ -78,8 +81,11 @@ Hooray!
 
 Finally, a few hours later I got this reference to more [NeXT documentation from
 1990](https://twitter.com/EricShapiro/status/1495915397069090816), which is of course on
-Bitsavers, like I figured it would be. I guess in the end I could have found it myself,
-but the great nerd convergence around this question was kinda fun.
+[bitsavers](http://www.bitsavers.org/pdf/next/Release_1_Dec90/NEXTstep_Concepts_Dec90.pdf),
+like I figured it would be.
+
+I guess in the end I could have found it myself, but the great nerd convergence around
+this question was kinda fun.
 
 But, don't let this apparently heartwarming story change your mind about twitter. It's
 still a cesspool that [should mostly be
