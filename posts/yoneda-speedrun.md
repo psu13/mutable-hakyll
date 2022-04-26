@@ -41,7 +41,7 @@ $\mathbf{C}$, and let $F: \mathbf{C}\to
 {\mathbf {Sets}}$ be a functor from $\mathbf{C}$ to the category
 ${\mathbf {Sets}}$. Then there is an invertible mapping
 $$
-\mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X, -)) \cong FX
+\mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X, -),F) \cong FX
 $$
 and this
 mapping is natural in both $F$ and $X$.
