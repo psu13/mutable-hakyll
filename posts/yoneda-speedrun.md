@@ -43,8 +43,11 @@ ${\mathbf {Sets}}$. Then there is an invertible mapping
 $$
 \mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X, -),F) \cong FX
 $$
-and this
-mapping is natural in both $F$ and $X$.
+that
+associates each natural transformation
+$\alpha:\mathbf{C}(X,-) \Rightarrow F$ with the element
+$\alpha_X(1_X) \in FX$. Moreover, this correspondence is natural in both
+$X$ and $F$.
 
 But as Sean Carroll famously wrote about general relativity, "..., these
 statements are incomprehensible unless you sling the lingo" 
