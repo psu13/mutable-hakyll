@@ -69,7 +69,7 @@ made in the early 2000s before disk space was infinite. This is where you really
 how different the new and old tools are.
 
 My old catalogs are split into three groups: one catalog covers all the old pictures that
-I did not originally deal with in Lightroom between 2001 and 2004. Then there is one LR
+I did not split into single years between around 2001 and 2004. Then there is one LR
 catalog per year until 2015. And then 2015 to 2018 are all in one catalog.
 
 Old Lightroom to new Lightroom migration is mostly straightforward except for the

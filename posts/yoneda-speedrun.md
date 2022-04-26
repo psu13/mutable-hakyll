@@ -212,11 +212,10 @@ Thus, the mappings that make up a functor preserve all of the structure
 of the source category in its target, namely domains and codomains,
 composition, and the identities.
 
-If $F: \mathbf{C}\to \mathbf{D}$ is a functor from a category
-$\mathbf{C}$ to another category $\mathbf{D}$ and an object
-$X \in \mathbf{C}$, and $f: X \to Y$ and arrow in $\mathbf{C}$ we may
-write $F X$ to mean $F(X)$ and $Ff$ to mean $F(f)$. This is analogous to
-the more compact notation for composition of arrows above.
+If $F: \mathbf{C}\to \mathbf{D}$ is a functor from a category $\mathbf{C}$ to another
+category $\mathbf{D}$, $X \in \mathbf{C}$ is an object in $\mathbf{C}$, and $f: X \to Y$
+is an arrow in $\mathbf{C}$ we may write $F X$ to mean $F(X)$ and $Ff$ to mean $F(f)$.
+This is analogous to the more compact notation for composition of arrows above.
 
 Functors can be notationally confusing because we are using one name to
 denote two mappings. So if $F: \mathbf{C}\to \mathbf{D}$ and
