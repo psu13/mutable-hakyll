@@ -4,7 +4,7 @@ date: 2012-03-28
 author: psu
 ---
 
-I&#8217;m about a year into using my <a href="/tinkering-with-stars.html">astronomical video camera</a> to view deep-sky objects from the city and capture <a href="http://www.flickr.com/photos/79904144@N00/6933922817/in/photostream/lightbox/">small and simple pictures</a> of what I see. All things considered the experience has been tremendous, but there was an obvious weak link: the mount that I bought does not track well.
+I&#8217;m about a year into using my <a href="/tinkering-with-the-stars.html">astronomical video camera</a> to view deep-sky objects from the city and capture <a href="http://www.flickr.com/photos/79904144@N00/6933922817/in/photostream/lightbox/">small and simple pictures</a> of what I see. All things considered the experience has been tremendous, but there was an obvious weak link: the mount that I bought does not track well.
 
 This is not to say that the mount did not perform up to my expectations. In fact, given the relatively small amount of money that I paid the mount has been excellent. Good telescope mounts are hard to build well, and even harder to build cheaply. 
 

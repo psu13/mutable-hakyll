@@ -93,7 +93,7 @@ myFeedConfiguration = FeedConfiguration
     , feedDescription = "Things I Write About the States of Things"
     , feedAuthorName  = "psu"
     , feedAuthorEmail = "psu"
-    , feedRoot        = "http://mutable-states.com"
+    , feedRoot        = "https://mutable-states.com"
     }
 
 copyright = "2022"

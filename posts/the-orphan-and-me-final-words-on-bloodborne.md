@@ -44,7 +44,12 @@ Sometimes you swing and he's not there:
 
 You get the idea. 
 
-I eventually got to the point where I was getting to phase two consistently. I'd do a few runs, fail, copy the old save back (for the pellets... need the pellets). Rinse and repeat for an hour. Then I'd quit do something less frustrating, like debug multi-threaded code that has no locking. Or something less depressing, like a nice Mahler symphony. This went on for a long time. At times I get good RNG and get his health very low before phase 2, and then die anyway. Like this:
+I eventually got to the point where I was getting to phase two consistently. I'd do a few
+runs, fail, copy the old save back (for the pellets... need the pellets). Rinse and repeat
+for an hour. Then I'd quit do something less frustrating, like debug multi-threaded code
+that has no locking. Or something less depressing, like a nice Mahler symphony. This went
+on for a long time. At times I might get good RNG and get his health very low before phase
+2, and then die anyway. Like this:
 
 > <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/FcL-bi43Td4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
