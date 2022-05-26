@@ -20,8 +20,6 @@ author: psu
 
 <p>Obviously I can&#8217;t tell you how to tell when the dough is right. That is what you need my mom for. But, what you are after is a dough that is pretty stiff, but soft enough to still be workable. It should take some work to poke it with your finger, but it should eventually bounce back. And, there should be enough moisture in the dough to hold it together. The rest time in the fridge will relax the dough and even out the wet, making the dough softer when you finally work with it.</p>
 
-<p>Having had more experience with this, I think it might work better to measure the flour by weight to try and get a more consistent behavior. But we have not experimented with this yet.</p>
-
 <p>6. Put the ball into a ziploc bag and stick it in the fridge for a few hours.</p>
 
 <p>7. Pull the ball out of the fridge. The dough should be stiff but flexible. Knead it around a bit, adding flour if it is sticky. Put it back in the fridge for a few more hours.</p>
