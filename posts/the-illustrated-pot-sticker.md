@@ -16,7 +16,7 @@ author: psu
 
 <p>4. If the flour does not soak up all the water, add flour. If it is too dry, add water. Stir some more, check again. Turn the mixture out on to a board and knead it until it holds together. Don&#8217;t worry about making the ball smooth.</p>
 
-<p>5. Because of the variance in our the dough comes out it's a good idea to make an extra dough ball or two for each batch. Then you can pick the ones you like later.</p>
+<p>5. Because of the inevitable variance in how the dough comes out it's a good idea to make an extra dough ball or two for each batch. Then you can pick the ones you like later.</p>
 
 <p>Obviously I can&#8217;t tell you how to tell when the dough is right. That is what you need my mom for. But, what you are after is a dough that is pretty stiff, but soft enough to still be workable. It should take some work to poke it with your finger, but it should eventually bounce back. And, there should be enough moisture in the dough to hold it together. The rest time in the fridge will relax the dough and even out the wet, making the dough softer when you finally work with it.</p>
 
