@@ -8,7 +8,7 @@ author: psu
 
 <p>It&#8217;s best to have a good system for this. So I&#8217;ve broken the recipe up into stages.</p>
 <h4>Dough, Stage 1</h4>
-<p>1. Start with 2-3 cups of flour and one cup of <em>cold</em> water. Or, if you want to be more accurate, in our experience the final ratio of flour to water <em>by weight</em> tends to settle at around 1.9 to 2. So (say) 400 grams of flour to 200 grams of water. These things will vary a lot based on the flour you use, your humidity, etc. So take these as starting points.</p>
+<p>1. Start with 2-3 cups of flour and one cup of <em>cold</em> water. Or, if you want to be more accurate, in our experience the final ratio of flour to water <em>by weight</em> tends to settle at between 1.9 to 2 (really around 1.95). So (say) 400 grams of flour to 200 grams of water. These things will vary a lot based on the flour you use, your humidity, etc. So take these as starting points.</p>
 
 <p>2. You <em>must</em> use crappy bleached bad for you Pillsbury all purpose flour. The fancy-ass organic whole wheat stuff will make you crappy dough. Trust me.</p>
 

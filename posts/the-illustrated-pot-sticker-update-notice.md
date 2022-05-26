@@ -8,7 +8,7 @@ This is just a note to indicate that I updated <a href="/the-illustrated-pot-sti
 
 Just so you don't have to scan the page on archive.org to figure out what I did, the updates are as follows:
 
-1. I noted that the ratio or flour to water, *by weight*, tends to be close to 2 parts flour to 1 part water (the actual ratio, as measured in a series of experiments, was about 1.96/1, but these things vary a lot on a case by case basis).
+1. I noted that the ratio or flour to water, *by weight*, tends to be close to 2 parts flour to 1 part water (the actual ratio, as measured in a series of experiments, was about 1.95/1, but these things vary a lot on a case by case basis).
 
 2. I added a note that making more dough balls than you need, to hedge the variance, is a good idea.
 
