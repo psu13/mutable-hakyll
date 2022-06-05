@@ -36,7 +36,7 @@ Of course, it would not be a *Souls* game without a few standard tropes.
 
 2. A village of the undead? Check.
 
-3. NPCs and vendors who disappear for no reason, thus locking out from seeing entire storylines or buying supplies later in the game? Check.
+3. NPCs and vendors who disappear for no reason, thus locking you out from seeing entire storylines or buying supplies later in the game? Check.
 
 4. Andre the Blacksmith! Check.
 
