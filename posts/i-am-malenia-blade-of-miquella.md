@@ -433,5 +433,5 @@ is already too long. So maybe next time.
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/MU74OwDqZeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In my opinion this is the fight that makes the game. I really like it. Playing the game
-without doing this fight is almost to have not played the game at all.The weapon you get
+without doing this fight is almost to have not played the game at all. The weapon you get
 from winning is also great. 
