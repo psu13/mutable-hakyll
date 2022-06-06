@@ -250,7 +250,7 @@ straightforward than in the other From titles to run around the map picking up u
 items and upgrade materials before getting on with the business of "progressing" the game.
 Of course, the main places to do this seem to also be the most hostile to low level
 characters (poisoned swamps, towns built on lava, that sort of thing) and as always some
-of these schemes involve dying on purpose. But as always, as long as you are good at
+of these schemes involve dying on purpose. But, as long as you are good at
 running away, you can get yourself a pretty powerful setup fairly quickly.
 
 The best things to go after, in order of easiness are:
@@ -279,12 +279,12 @@ To get an idea of how to approach this watch some of the speed runs on youtube. 
 runners are the best at building powerful characters fairly quickly. Although sometimes
 the stuff they do to make this happen is impossible for mere humans to duplicate. 
 
-As always, your main concern is leveling weapons. Weapon leveling is the key to getting
-powerful in FromSoft games, and _Elden Ring_ is no different. Character leveling is mostly
-for health, and thus latitude for making mistakes. In general before the late game you can
-plan on getting enough stones to upgrade one or two somber and one or two regular weapons
-to close to max level. You can't really do more than this, so keep this in mind before
-when budgeting upgrade materials.
+The one stat buff item aside, your main concern is leveling weapons. Weapon leveling is
+the key to getting powerful in FromSoft games, and _Elden Ring_ is no different. Character
+leveling is mostly for health, and thus latitude for making mistakes. In general before
+the late game you can plan on getting enough stones to upgrade one or two somber and one
+or two regular weapons to close to max level. You can't really do more than this, so keep
+this in mind before when budgeting upgrade materials.
 
 #### Magic Runs
 
