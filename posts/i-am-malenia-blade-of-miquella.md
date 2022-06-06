@@ -150,7 +150,7 @@ But Ashes of War _also_ allow you to adjust how the damage on the weapon scales.
 instead of having to choose between 15 different upgrade paths each with their own special
 upgrade stones you can move a weapon instantly from strength, to dex, to int (magic and
 cold), to faith (fire and lightning), to bleed and then back again whenever you want by
-resting at a checkpoint. This way if there are no (say) faith or magic weapon with a move
+resting at a checkpoint. This way if there are no (say) faith or magic weapons with a move
 set that you like, no problem! Just take a (say) Claymore and then put it on whatever
 track you want.
 
