@@ -266,12 +266,12 @@ The best things to go after, in order of easiness are:
 
 3. Various early golden seeds and sacred tears. For healing potions.
 
-4. Regular smithing stones. You can get the stones up to 5s (and a few 6s) in various mines and
-   tunnels. Just don't fight the bosses until you really need to. Getting more 6s, and the
-   7s and 8s is harder. You get three normal weapon levels from each class of regular
-   smithing stone, so +15/+18 normal is sort of like +5/+6 somber. But you need more
-   regular stones to get there (12 per bracket) ... and in general it's much more of a
-   pain to get a regular weapon to high level than the somber weapons.
+4. Regular smithing stones. You can get the stones up to 5s (and a few 6s) in various
+   mines and tunnels. Just don't fight the bosses until you really need to. Getting more
+   6s, and the 7s and 8s is harder. You get three normal weapon levels from each class of
+   regular smithing stone, so +15/+18 normal is sort of like +5/+6 somber. But you need
+   more regular stones to get there (12 for each set of 3 levels) ... and in general it's
+   much more of a pain to get a regular weapon to high level than the somber weapons.
 
 5. Lots of other buff items, mostly talismans, but also weapon skills and spells and such.
 
