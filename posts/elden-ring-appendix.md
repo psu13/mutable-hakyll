@@ -22,12 +22,12 @@ Ten things I forgot to mention in my previous page on _Elden Ring_.
 3. Caelid and Volcano Manor are where all the early power items are. Of course, Caelid and
    Volcano Manor are both horrible places.
 
-4. The single worst navigational puzzle in the game is how you get to the other part of
+4. The single worst navigational path in the game is how you get to the other part of
    the Altus Plateau (where Volcano Manor is) from the part you see first. It's like
    driving from Pittsburgh to Cleveland via Toronto.
 
 5. I tried dual wielding the biggest swords in the game and <a
-   href+"https://www.youtube.com/watch?v=XEhs6ZcG8Rc">it was kind of comical</a>.
+   href="https://www.youtube.com/watch?v=XEhs6ZcG8Rc">it was kind of comical</a>.
 
 6. The jumping attack talisman is sort of over-powered. But of course you have to be good
    at landing jumping attacks.
@@ -41,12 +41,14 @@ Ten things I forgot to mention in my previous page on _Elden Ring_.
    started at about 500-600 damage in a vanilla setup. After the buffs (and a few more
    levels for a different staff) I got it to do 1300-1500 or more. Fun stuff. 
    
-   Here is the setup: 65-ish INT, Starscourge Heirloom for +5 INT, Marik's Soreseal for +5
-   INT and +5 Mind, Godfrey's Icon for +15% damage on charged attacks, Staff of the Lost
-   in the off hand for +30% damage on Night Sorceries (you only have to hold the staff to
-   get the buff, handy!), Magic Shrouding Cracked Tear in the Physick potion for +20% magic
-   damage (this lasts 3min, so at the end of the fight it was done). All the damage buffs
-   multiply together to get to 2-3x of my original base damage. Super fun.
+   Here is the setup: 65-ish INT, Starscourge Heirloom for +5 INT, Marika's Soreseal for
+   +5 INT and +5 Mind, Godfrey's Icon for +15% damage on charged attacks, Staff of the
+   Lost in the off hand for +30% damage on Night Sorceries (you only have to hold the
+   staff to get the buff, handy!), Magic Shrouding Cracked Tear in the Physick potion for
+   +20% magic damage (this lasts 3min, so at the end of the fight it was done). I also
+   used _Rennala's Full Moon_ to for the 10% magic resist debuff, but this only lasts for
+   the first minute of the fight. All the buffs multiply together to get to 2-3x of my
+   original base damage. Super fun.
 
 8. The <a href="https://www.youtube.com/watch?v=OwPEYdKxhJk">crazy NPC quest with the
    talking pot</a> is funny.
@@ -60,7 +62,3 @@ Ten things I forgot to mention in my previous page on _Elden Ring_.
 
 Bonus #11: Have to try the bubble horns on a faith build. They look stupidly powerful.
 Yes, a giant horn that shoots magic bubbles.
-
-
-
-
