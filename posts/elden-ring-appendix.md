@@ -17,7 +17,7 @@ Ten things I forgot to mention in my previous page on _Elden Ring_.
    running the Uchi and some bleed stuff through the early and mid game, and then melting
    the late game with the mimic, _Rivers of Blood_, _Swarm of Flies_, and _Rotten Breath_
    is a pretty happy way to get through without too much fuss. Even Malenia is not _too_
-   hard with this combo.
+   hard with this combo. Of course, get the _Pulley Bow_ for the bow cheese!
 
 3. Caelid and Volcano Manor are where all the early power items are. Of course, Caelid and
    Volcano Manor are both horrible places.
