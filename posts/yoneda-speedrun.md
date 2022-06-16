@@ -460,11 +460,11 @@ Duality also applies to functors.
 *contravariant* functor from $\mathbf{C}$ to $\mathbf{D}$ is a functor
 $F: \mathbf{C}^{\mathrm op}\to \mathbf{D}$ where:
 
--   $F(X) \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{D})$ for each
+-   We have an object $F(X) \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{D})$ for each
     $X \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$.
 
--   For each arrow $f \in \mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$
-    an arrow $F(f): FY \to FX$ in
+-   For each arrow $f : X \to Y \in \mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$
+    we have an arrow $F(f): FY \to FX$ in
     $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{D})$.
 
 In addition
