@@ -95,7 +95,7 @@ difficulty engine:
    wall again. This ability to change the pace of the game is nice.
 
 5. I had played the game for maybe 50 or 60 hours before realizing you can warp from
-   anywhere you might be standing, and not just from checkpoint locations. The stockholm
+   anywhere you might be standing, and not just from checkpoint locations. The Stockholm
    syndrome is real.
 
 As a whole I think this video game takes everything that the fans loved about the first
