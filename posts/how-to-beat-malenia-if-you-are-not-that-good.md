@@ -129,9 +129,9 @@ worked.
 
 #### Something Else
 
-So the main other thing I tried was to use longer weapons with moderate bleed to get my
-pokes or longer jump attacks. Obviously Rivers of Blood would also have worked here, but
-I'd already done that.
+So the main other thing I tried was to use longer weapons with moderate bleed and/or frost
+to get my pokes or longer jump attacks. Obviously Rivers of Blood would also have worked
+here, but I'd already done that.
 
 The real problem with this idea was that this character was a Faith/Strength build and all
 the moderate bleed weapons are Dex weapons. I tried to do some moderate respecs to get
