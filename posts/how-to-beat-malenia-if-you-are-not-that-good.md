@@ -18,8 +18,9 @@ Let's see how that went. Yeah, it was going well.
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/trzMjDyQID4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Actually, this video makes it seem worse than it was. I spent a long time trying to work
-out what my approach was going to be. Once I picked something it took about a week to
-build up enough muscle memory to get through both phases.
+out what my approach was going to be, and died a ton while doing this "research" since I
+did not really practice any one approach very well. Once I picked something it took about
+a week to build up enough muscle memory to get through both phases.
 
 I saw three possibilities:
 
