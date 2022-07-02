@@ -10,8 +10,7 @@ noodling around and getting used to the rhythm of things, especially the big cha
 phase 2. She becomes much more aggressive in phase 2 and your attack windows become much
 smaller.
 
-My next goal was to try and get past the fight solo, but this time with minimal casting,
-at least for damage.
+My next goal was to try and get past the fight with minimal casting.
 
 Let's see how that went. Yeah, it was going well.
 
