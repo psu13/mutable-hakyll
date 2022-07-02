@@ -10,7 +10,9 @@ noodling around and getting used to the rhythm of things, especially the big cha
 phase 2. She becomes much more aggressive in phase 2 and your attack windows become much
 smaller.
 
-My next goal was to try and get past the fight with minimal casting.
+My next goal was to try and get past the fight with minimal casting. To do this I had been
+running a strength/faith build, mostly using fire damage swords and such since I could not find a
+faith spell that really worked for general purpose combat.
 
 Let's see how that went. Yeah, it was going well.
 
