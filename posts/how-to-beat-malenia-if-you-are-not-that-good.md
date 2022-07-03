@@ -102,7 +102,7 @@ worked pretty well too, but I found it hard to keep the right spacing. So let's 
 spacing in this fight.
 
 Spacing for this fight is not an issue for the first quarter of her health bar. But, once
-she is down to 60% or 70% health, she bring out Waterfowl Dance seemingly at any time,
+she is down to 60% or 70% health, she will bring out Waterfowl Dance seemingly at any time,
 even in windows when you used to think you were safe doing a big attack. Like at the end
 of this video:
 
@@ -163,7 +163,7 @@ it finally worked.
 #### Success, and Why it Worked
 
 The reason it worked is that the poke attack with the Greatsword (and all the other
-colossal swords), is super overpowered. It's as fast as the katanas, faster than the
+colossal swords) is super overpowered. It's as fast as the katanas, faster than the
 medium sized swords, has fast recovery, and hits harder and from a longer distance than
 almost anything else. Finally, you can get the poke out of a roll _or_ a crouch, so it's
 easy to get into as well.
