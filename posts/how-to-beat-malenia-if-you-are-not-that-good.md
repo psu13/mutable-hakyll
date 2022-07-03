@@ -216,10 +216,10 @@ likely coming anyway. This works remarkably well at least once or twice per run.
 
 Once you are pretty good at phase 1 you just have to see phase 2 enough to learn how to
 parse the visual cues with all the wings and shit on the screen and get used to the much
-more constant level of aggression frm the boss. Where in Phase 1 she does a lot of slow
-walking followed by long combos, in Phase 2 she really doesn't let up at all and you have
-to get a tactical poke in here and there to interrupt the flow of attacks. Otherwise you
-just lose control and die. Like here:
+higher level of aggression. Where in Phase 1 she does a lot of slow walking followed by
+long combos, in Phase 2 she really doesn't let up at all and you have to get a tactical
+poke in here and there to interrupt the flow of attacks. Otherwise you just lose control
+and die. Like here:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/of8kZFw3w50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
