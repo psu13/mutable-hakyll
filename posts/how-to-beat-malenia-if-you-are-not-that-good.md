@@ -186,8 +186,8 @@ So here is the setup:
 
 If you are better than me you can also chain a bunch of pokes and maybe a jump attack or
 two to get a stagger for even more burst damage. But I'm not aggressive enough to get this
-to happen that much. When I try to hard I mostly end up out of position and get
-Waterfowled to death.
+to happen that much. When I try too hard for the stagger I mostly end up out of position
+and get Waterfowled to death.
 
 Speaking of Waterfowl. If you watch the Emarrel video you will notice that you can dodge
 this attack if you have almost any distance between you and Malenia when she does the
@@ -195,7 +195,7 @@ first hop up in the air. So the things to avoid are:
 
 1. Ending up directly under her when she starts the thing.
 
-1. Not reacting too slowly at the start so you can get away from the first flurry.
+1. Running away too slowly at the start and getting murdered by the first flurry.
 
 Still, I have recently managed to survive this attack even being as badly out of position
 as in this video:
@@ -205,12 +205,14 @@ as in this video:
 So maybe some day I'll be able to avoid it even point blank. But I would not get my hopes
 up.
 
-What I do instead is try to keep medium distance and mostly get the pokes in when I am
-rolling to avoid things that she is doing. I do a bit of crouch poking too, but not enough
-to get into trouble.
+What I do instead is try to keep enough distance to be able to run away from the attack
+and use the long range of the sword pokes to get damage in. This is actually the hardest
+thing about phase 1 of the fight. She is so passive in phase 1 that to make any progress
+in the fight you have to walk about and try to hit her in the face. But if you do that you
+risk being right next to her when the WFD starts.
 
-I also use Lightning Spear from range to try and bait out the Waterfowl when I know it's
-likely coming anyway. This works remarkably well in phase 1 but not 2.
+I ended up using Lightning Spear from range to try and bait out the Waterfowl when I know it's
+likely coming anyway. This works remarkably well at least once or twice per run.
 
 Once you are pretty good at phase 1 you just have to see phase 2 enough to learn how to
 parse the visual cues with all the wings and shit on the screen and get used to the much
