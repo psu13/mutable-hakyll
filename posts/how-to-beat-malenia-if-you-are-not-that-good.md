@@ -178,7 +178,7 @@ So here is the setup:
 
 1. Put Cold on the sword, for the occasional frostbite burst damage.
 
-1. Various other body buffs, the strength and stamina Physick for phase 2, and the Godfrey
+1. Various other body buffs, the strength and stamina Physick for phase 2, and the Godrick
    rune. You can save scum to not run out of rune arcs and buff items if you want.
 
 1. Now just keep your spacing, do an R1 poke for fast attacks, and L2 poke for bigger
