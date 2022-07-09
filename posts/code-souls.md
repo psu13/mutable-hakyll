@@ -4,9 +4,9 @@ date: 2020-04-25
 author: psu
 ---
 
-It occurred to me, while sitting in my house accompanied mostly by my own thoughts (1), that I have been programming computers for money in one way or another for almost forty years. When presented with a fact like this, one is lead to wonder: what kind of brain damage does one have to have to end up in a situation like this? I don't really know *all* the answers. But I will suggest one simple test here.
+It occurred to me, while sitting in my house accompanied mostly by my own thoughts [^1], that I have been programming computers for money in one way or another for almost forty years. When presented with a fact like this, one is lead to wonder: what kind of brain damage does one have to have to end up in a situation like this? I don't really know *all* the answers. But I will suggest one simple test here.
 
-If you are wondering to yourself: "will I enjoy programming computers as a job over the long term?" and you want to get a shallow, but probably accurate approximate answer there is one simple thing you can do: run out and buy a copy of *Dark Souls* and see if you enjoy playing through it solo (2).
+If you are wondering to yourself: "will I enjoy programming computers as a job over the long term?" and you want to get a shallow, but probably accurate approximate answer there is one simple thing you can do: run out and buy a copy of *Dark Souls* and see if you enjoy playing through it solo [^2].
 
 Long time readers of this web site will be familiar with <a href="/dark-souls-ate-my-brain.html">the chronicles of my obsession with the *Souls*-style video games</a>.
 
@@ -146,6 +146,6 @@ See? Anything is possible.
 
 #### Foonotes
 
-1. For readers from the distant future, this page was written during the COVID-19 lockdown, where a lot of people had a lot of time to sit in their homes with mostly their thoughts to keep them company. Was an interesting time. Would not recommend.
+[^1]: For readers from the distant future, this page was written during the COVID-19 lockdown, where a lot of people had a lot of time to sit in their homes with mostly their thoughts to keep them company. Was an interesting time. Would not recommend.
 
-1. Of course this is an approximate test. I know plenty of programmers who don't like *Dark Souls*. 
+[^2]: Of course this is an approximate test. I know plenty of programmers who don't like *Dark Souls*. 
