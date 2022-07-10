@@ -232,7 +232,8 @@ I'm amazed that I only took one hit in that run. I wonder if I can duplicate the
 level 1. Check back here in six months to see how I do.
 
 After all this time with this fight I still mostly like it. The main obvious bullshit is
-the blatent input reading (dash attacks after every heal, Waterfowl whenever you
-over-commit and get too close) that the boss is doing. Phase 1 is also too slow, while
-phase 2 is too fast. But for me these are minor issues. It's still the most interesting
-fight in the game, and I would not really mind going right back to it again right now.
+the blatant input reading (<a href="https://www.youtube.com/watch?v=zbmAS_zichM">dash
+attacks after every heal</a>, Waterfowl whenever you over-commit and get too close) that
+the boss is doing. Phase 1 is also too slow, while phase 2 is too fast. But for me these
+are minor issues. It's still the most interesting fight in the game, and I would not
+really mind going right back to it again right now.
