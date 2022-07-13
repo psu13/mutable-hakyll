@@ -54,9 +54,17 @@ I also have some more concrete observations.
 
 **Physics Math: Vectors and Tensors**
 
-Physicists are well known to be sloppy about the math, and this makes physics books hard to understand. There is an extent to which modern theoretical physics is *mostly* about the math (although most physicists would disagree with me and hate me for saying it). Mathematical exposition in the physics literature can be really hard to deal with because you are hardly ever told what kind of mathematical object you are reading about at any given time. Instead the physicists generally deal with a relatively small number of abstractions at once, and just assume you will realize which ones belong where by context.
+Physicists are well known to be sloppy about the math, and this makes physics books hard
+to understand. There is an extent to which modern theoretical physics is *mostly* about
+the math (although most physicists would disagree with me and hate me for saying it).
+Mathematical exposition in the physics literature can be really hard to deal with because
+you are hardly ever told what kind of mathematical object you are reading about at any
+given time. Instead the physicists generally deal with a relatively small number of
+abstractions at once, and just assume you will realize which ones belong where by context.
 
-For example, in mathematics vectors are simple objects. They are members of what is called *vector space* or *linear space*. This is a set whose objects obey certain rules of computation. 
+For example, in mathematics vectors are simple objects. They are members of what is called
+a *vector space* or *linear space*. This is a set whose objects obey certain rules of
+computation. 
 
 To make a vector space first you need a set $V$ of vectors and another set of scalar values which is usually either the real numbers ($\mathbb R$) or the complex numbers ($\mathbb C$). Then for elements of the vector space $v \in V$ we postulate the following rules:
 	
