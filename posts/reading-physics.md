@@ -189,5 +189,4 @@ The questions that still stand out for me are: what is the nature of these simul
 
 [^1]: Tensors are really something called a *multilinear function*. They take $p$ arguments of one type and $q$ arguments of another type and compute a number. But, the result you get is <a href="https://en.wikipedia.org/wiki/Linear_map">linear</a> in every argument. This is what generates the transformation rule. Vectors are just tensors that only take one argument.
 
-[^2]: Answer (I think): just a few hundred out of billions and trillions and trillions.
-    (Update in 2022: It was around a dozen or two).
+[^2]: Answer (I think): just a couple of hundred out of billions and trillions and trillions.
