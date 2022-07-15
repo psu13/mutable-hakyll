@@ -28,7 +28,7 @@ I finally <a href="/the-airplay-turntable-kit.html">set up my turntable</a> this
 
 **Up: The Pittsburgh Holiday Restaurant Tour**
 
-During our break this year we hit the following places: Legume, Cure, Everyday Noodle, Kaya, the new Chengdu Garden Sichuan place, Thin Man, Penn Avenue Fish and the S&D Polish Deli in the strip. Missed out on Dish and Grit and Grace and many others. It's never been a better time to eat things in Pittsburgh.
+During our break this year we hit the following places: Legume, Cure, Everyday Noodle, Kaya, the new Chengdu Gourmet  place, Thin Man, Penn Avenue Fish and the S&D Polish Deli in the strip. Missed out on Dish and Grit and Grace and many others. It's never been a better time to eat things in Pittsburgh.
 
 **Down: The Value of Recorded Music**
 
