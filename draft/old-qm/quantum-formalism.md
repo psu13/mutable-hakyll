@@ -22,7 +22,7 @@ the formula describes _motion_, and it turns out that this formula, and more abs
 generalizations of it do a pretty good job of describing the motion of macroscopic objects
 in most situations that you can put macroscopic objects into.
 
-The generalization of Newtons formula above can be set up so you put some numbers into a
+The generalization of Newton's formula above can be set up so you put some numbers into a
 single black box, turn a crank, and every answer that you ever needed falls out the other
 side. This magic box is a set of *differential equations* that describe how the system you
 have described evolves in time. I am not going to go into the details of how differential
@@ -57,7 +57,7 @@ born.
 ### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
-to atoms. The language from this original formulation is still used to in both popular and
+to atoms. The language from this original formulation is still used in both popular and
 academic treatments of the subject. So you will read a lot about how atomic particles are
 described by a _wave function_ called $\psi(x,t)$ that depends on the position of the
 particle and time. In addition, we are told that these functions obey a differential
