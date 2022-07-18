@@ -38,8 +38,10 @@ fine, but tedious). Put the following things in the pot:
 5. 1 4-6oz piece of frozen white fleshed fish fillet (cod or whatever). This is the one sort of fish I buy from Whole
    Foods.
 
-Turn the pot on. When the pot is done, stir the rice around. Add some soy sauce, salt, white pepper, and green onion.
-Now you have hot breakfast for a week. Throw a soft egg on top for an extra bonus.
+Turn the pot on. For the Instant pot I run a "porridge" cycle which is 10-15min at high
+pressure. You should run whatever cycle is appropriate for your device. When the pot is
+done, stir the rice around. Add some soy sauce, salt, white pepper, and green onion. Now
+you have hot breakfast for a week. Throw a soft egg on top for an extra bonus.
 
 ### Boiled Chicken
 

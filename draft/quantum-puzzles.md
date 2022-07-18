@@ -202,10 +202,22 @@ particles between the slits and the detector wall. The theory says nothing about
 
 Worse, as is well known, if you try and figure out what happens for yourself by (say)
 _looking_ at each one of the slits to see which way the photon goes ... the whole
-experiment falls apart and you get no quantum interference.
+experiment falls apart and you get no quantum interference. Instead the act of measuring
+the position of the photon in some way seems to lock you into a history where all the photons
+suddenly take a single well defined path to the detector array, rather than creating the
+wavy interference that we got before.
 
-This is, as you can image, a very unsatisfactory situation. Physics is supposed to tell
+This is, as you can imagine, a very unsatisfactory situation. Physics is supposed to tell
 you _what happened_ and _where things go_. And we get none of that here.
+
+Instead quantum mechanics appears to make you accept a world where systems evolve one way
+(the smooth Schrödinger equation) when you leave them alone and another way (no
+interference) when you look at them. Not only that, it also appears that you don't really
+have any access to any of the possible intermediate states of the smooth evolution. All
+you ever see is what happens at the end of the measurement when you look. This is the
+_measurement_ problem and a lot of people smarter than me have thought about it and still
+find themselves confused. I am also mostly confused about this, but it will take a few
+more details to get at the core of why.
 
 ### But Wait, There is More
 
