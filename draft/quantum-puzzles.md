@@ -119,9 +119,9 @@ Maxwell's laws could not explain, like:
 
 And so on.
 
-It turns out that the way to explain these things was to model subatomic particles as
-functions that determine probabilities. These are the famous _wave functions_ of quantum
-mechanics.
+It turns out that the way to explain these things was to model the behavior of subatomic
+particles as elements of a space of functions that determine probabilities. These are the
+famous _wave functions_ of quantum mechanics.
 
 For example, in the two slit experiment the relevant wave function maps points in space to
 a "probability amplitude" that a photon or electron will occupy that point in space. We
@@ -187,8 +187,10 @@ Sometimes they are right to a ludicrous level of precision too.
 
 This, I think, is the first great mystery of quantum mechanics. It's not so much that you
 can only compute and predict probabilities, there are many physical processes for which
-that is true. The real puzzle is the apparent disconnect between the mathematical model of
-how things work and what is "really going on" in the real world.
+that is true. The real puzzle is that while the mathematical model that I've outlined
+above gets all the right answers, it does not appear to provide any insight into any
+actual physical process from which those answers can be derived. That is, your experiments
+always work, but it's never really clear what is "really going on" in the "real" world.
 
 In the famous double-slit experiment, for example, you send a beam of photons
 through one screen that has two very thin slits cut into it. Then you put a set of
@@ -219,7 +221,12 @@ _measurement_ problem and a lot of people smarter than me have thought about it 
 find themselves confused. I am also mostly confused about this, but it will take a few
 more details to get at the core of why.
 
-### But Wait, There is More
+At this point I've taken a few cracks at trying to illustrate where this difficulty comes
+from without just writing down the math, but I'm not that smart. So I'm just going to
+write down the math. We'll see how far we get, maybe I'll start here and continue in a
+second post.
+
+### Linear Spaces and Operators
 
 There is a whole other universe of strange quantum behavior that stems from a curious
 property of the Schrödinger equation. The Schrödinger equation is what is called a
