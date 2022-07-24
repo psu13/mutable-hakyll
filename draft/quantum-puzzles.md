@@ -108,26 +108,33 @@ figure out we come to this conclusion, we need a bit of background.
 ### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
-to atoms. There is a whole catalog of interesting behaviors that the Newton and
-Maxwell's laws could not explain, like:
+to atoms. The development of the theory was driven by the experimental discovery of a host
+of behaviors that "classical" physics could not explain:
+
+1. The behavior of the so called "black body" radiation.
 
 1. The appearance of spectral lines that discrete frequencies in the spectrum of an atom.
 
-2. The interference patterns in the two slit experiment.
+2. The photoelectric effect
 
 4. Radioactivity.
 
-And so on.
+1. The famous two-slit thought experiment.
 
-It turns out that the way to explain these things was to model the behavior of subatomic
-particles as elements of a space of functions that determine probabilities. These are the
-famous _wave functions_ of quantum mechanics.
+And so on. All of these experiments are related to the "motion" of atomic particles and
+radiation. And, the observations of the time seemed to indicate that many atomic behaviors
+were discrete, or "quantized" in various ways (spectral lines, the discrete energy levels of
+black body radiators, etc). Thus quantum mechanics was born to try and explain the motion
+of quantum things, which meant things at the atomic (or smaller) scale.
 
-For example, in the two slit experiment the relevant wave function maps points in space to
-a "probability amplitude" that a photon or electron will occupy that point in space. We
-write such a thing as $\psi(x)$ or $\psi(x,t)$ depending on whether we are keeping track
-of time. These amplitudes take the form of complex numbers. We'll get to what these
-amplitudes might mean in a few paragraphs.
+Over the first quarter of the 20th century various ad-hoc models and ideas were proposed
+to explain these things: Einstein's idea of "light quanta" or photons, de Broglie's wave
+model of matter, and the Bohr atom, with its discrete planetary orbits. But it wasn't
+until the late 20s and early 30s that all of these ideas were codified into a more or less
+unified theory that we call quantum mechanics. I will now jump to the end and explain the
+mathematical characteristics of the theory that make it weird. I will not really try to
+provide any more motivation or intuition about this because that would take a whole text
+book.
 
 The next piece that you need to make quantum mechanics is a rule that defines how wave
 functions evolve in time. This would be similar to the classical rules for position and
