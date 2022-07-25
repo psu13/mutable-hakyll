@@ -115,7 +115,9 @@ of behaviors that "classical" physics could not explain:
 
 1. The appearance of spectral lines that discrete frequencies in the spectrum of an atom.
 
-2. The photoelectric effect
+2. The photoelectric effect.
+
+1. "Spin" and all that.
 
 4. Radioactivity.
 
