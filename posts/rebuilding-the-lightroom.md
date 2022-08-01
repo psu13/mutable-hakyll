@@ -22,13 +22,17 @@ digital point and shoot for kid pictures while still shooting black and white fi
 look at the film ones at all.
 
 My working method with these pictures was never really that interesting. Until about 2007
-I used an ad-hoc and cobbled together set of tools to store full sized pictures on my
-laptop and work with reduced size pictures on my web site. After 2007 I started using
-Lightroom as a single tool that did all three previous jobs. Since then I have moved from
-Lightroom to Lightroom and never really thought about it. I even stuck with the tool after
-Adobe committed the unforgivable sin of switching to a more sustainable subscription-based
-business model in the 2010s. For better or worse Lightroom had my data in it, and I didn't
-want to move it.
+I used an ad-hoc and cobbled together set of tools to store a year or two of full sized
+pictures on my laptop and work with reduced size pictures on my web site. Older pictures
+were offloaded to an iMac with a larger disk and various other backup media. I stuck with
+this year at a time kind of scheme until the late 2010s when laptop disks started to get
+big enough to store more of the catalog on the laptop.
+
+After 2007 I started using Lightroom as a single tool that did all three previous jobs.
+Since then I have moved from Lightroom to Lightroom and never really thought about it. I
+even stuck with the tool after Adobe committed the unforgivable sin of switching to a more
+sustainable subscription-based business model in the 2010s. For better or worse Lightroom
+had my data in it, and I didn't want to move it.
 
 Of course, the Lightroom landscape has been a bit confusing in the past few years. Let me
 summarize...
@@ -62,8 +66,8 @@ is weird, they moved a few key commands around, and there is no clear way to mak
 *local* backup of a catalog (more on this later), although backing up the photos so you
 can remake a catalog (except for albums) later is easy enough.
 
-After a couple of years with the new tool, and a new computer where I could store all of
-the picture files in one place, I also finally got started on a project that I had been
+After a couple of years with the new tool, and a new laptop where I could store all of the
+picture files in one place, I also finally got started on a project that I had been
 putting off for ten years or so: rebuilding the old reduced sized picture albums I had
 made in the early 2000s before disk space was infinite. This is where you really find out
 how different the new and old tools are.
