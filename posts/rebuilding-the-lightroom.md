@@ -25,8 +25,8 @@ My working method with these pictures was never really that interesting. Until a
 I used an ad-hoc and cobbled together set of tools to store a year or two of full sized
 pictures on my laptop and work with reduced size pictures on my web site. Older pictures
 were offloaded to an iMac with a larger disk and various other backup media. I stuck with
-this year at a time kind of scheme until the late 2010s when laptop disks started to get
-big enough to store more of the catalog on the laptop.
+this year at a time kind of scheme until around 2015 when laptop disks started to get big
+enough to store more pictures at once on the laptop.
 
 After 2007 I started using Lightroom as a single tool that did all three previous jobs.
 Since then I have moved from Lightroom to Lightroom and never really thought about it. I
