@@ -80,13 +80,6 @@ These rules seem very abstract and far removed from our original physical puzzle
 particular, as we will see below, the rules don't really seem to tell you _where_ things
 are and _how_ they move at all. 
 
-What is interesting is that we can talk about these puzzles without actually ever solving
-any differential equations or figuring out how atoms work. All you need is a system with
-two states which we will write in the following curious way: $|0 \rangle$ and $| 1
-\rangle$. As we will see below, using these two states and a couple of straightforward
-rules about how to combine them, you can derive all of the apparently strange conceptual
-problems in quantum mechanics for yourself.
-
 I'm going to call this second path to quantum mechanics the non-historical and algebraic
 path, or maybe the computer nerd path, since the quantum information theory and quantum
 computing types tend to take this point of view. If you ask noted computer scientist and
@@ -98,14 +91,24 @@ motion of bodies through space and time) at all:
 > generalization based on the 2-norm rather than the 1-norm, and on complex numbers rather
 > than nonnegative real numbers.
 
-Needless to say, my programmer brain finds this idea much easier to get a hold on than all
-the combination of differential equations and metaphysics that we started with. In fact, I
-think that this algebraic viewpoint is also the quickest path to understanding the two
-puzzles about quantum mechanics that no one can seem to get a handle on, even after almost
-100 years: measurement and entanglement.
+There is nothing here about positions, velocities, momentum, or really anything to do with
+motion at all.
+
+Following on the heels of [my category theory tutorial](/yoneda-speedrun.html)
+what I'll try to do in the next few sections is to lay out the mathematical definitions
+behind the formalism above and hopefully a bit about how you get from the physical
+questions that we started with to "probability based on the 2-norm". Along the way we will
+also meet up with the two questions that have vexed everyone who has thought about quantum
+mechanics in the last hundred years or so: measurement and entanglement. So here we go.
 
 ### The Rules
 
+What is interesting is that we can talk about these puzzles without actually ever solving
+any differential equations or figuring out how atoms work. All you need is a system with
+two states which we will write in the following curious way: $|0 \rangle$ and $| 1
+\rangle$. As we will see below, using these two states and a couple of straightforward
+rules about how to combine them, you can derive all of the apparently strange conceptual
+problems in quantum mechanics for yourself.
 This is, in some sense, all Schrödinger's fault. His equation, which looks like this:
 
 $$
