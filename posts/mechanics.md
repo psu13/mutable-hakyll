@@ -211,7 +211,7 @@ will tell you that you should see an interference pattern on your detector array
 even tell you the exact shape and configuration of the pattern. If you work hard enough
 you can probably compute this configuration with a stunning level of precision.
 
-But quantum mechanics can't really tell you anything about "what happens" to the any
+But quantum mechanics can't really tell you anything about "what happens" to any
 single particle while it travels between the slits and the detector wall. The theory says
 nothing about it.
 
