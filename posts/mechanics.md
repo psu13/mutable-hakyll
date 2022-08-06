@@ -45,7 +45,7 @@ don't know them. But, for reference they look something like this:
 
 $$
 \frac {d {x}}{dt} = \frac{\partial H}{\partial p}, \quad 
-\frac {d {p}}{dt} = \frac{\partial H}{\partial x}
+\frac {d {p}}{dt} = - \frac{\partial H}{\partial x}
 $$
 
 Here, $x$ represents position and $p$ represents momentum (momentum is
