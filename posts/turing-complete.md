@@ -62,7 +62,13 @@ Even though it is in a simplified and abstract form, you can't help but think yo
 
 Turing takes his abstraction and uses it to prove the main theoretical results in the paper:
 
-1. First, that the halting problem is undecidable. That is, you cannot build a general program that can decide whether any other program will halt or not. He does this using the same sort of <a href="http://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument">diagonalization argument</a> that Gödel used. The proof as presented is a bit different in style than the standard proof you see in modern texts. It's interesting to wrap your head around it.
+1. First, that something equivalent to the halting problem is undecidable. That is, you
+   cannot build a general program that can decide whether any other program will reach a
+   particular predefined state or behavior, or not. He does this using the same sort of <a
+   href="http://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument">diagonalization
+   argument</a> that Gödel used. The proof as presented is a bit different in style than
+   the standard proof you see in modern texts. It's interesting to wrap your head around
+   it.
 
 2. Second, he showed that you cannot use one of his machines to solve Hilbert's decidability problem. He does this by reducing the issue to a version of the halting problem.
 

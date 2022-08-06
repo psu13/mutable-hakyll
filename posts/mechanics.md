@@ -6,19 +6,22 @@ author: psu
 
 I got it into my head that I should try to explain the problem with quantum mechanics on
 this web site. I am, of course, no expert on this subject at all. But I wanted to do a
-relative simple shallow (but mostly correct) thing, like my [category theory
+relatively simple and shallow (but mostly correct) treatment, like my [category theory
 tutorial](yoneda-speedrun.html). So, over the last few months I've taken a few different
 shots at it but never found a way to wind it up into a single coherent train of thought. I
 wanted to thread my way through the physical puzzles to the mathematical formalism and
 then end up at the particular formula that, in my mind, sums up all of the problems.
 
-But, that ended up just being too much. So I think I'll break it up into two or three
-parts, the first talking about the world view of so called "classical" physics and how it
-broke down, the second talking about the quantum formalism, and the last talking about the
-uber-puzzle.
+I finally realized that trying to fit the whole thing into a single stream of words is
+beyond my talents as a writer, or at least not a structure that fits well into a single
+page on this web site. So I decided to split it up. So this first part is just about the
+move from "classical" mechanics to quantum problems ... and then one or more future pages
+will be about the rest.
 
-I was always taught in school that it's bad form to write an introduction that is just an
-outline of the piece, but there you go.
+As with my other technical expositions on subjects that are not about computers, I am the
+furthest thing from an expert on this subject, I'm just organizing what I think are the
+most interesting ideas about what is going on here, and hoping that I'm not too wrong.
+I'll provide a list of more better sources at the end.
 
 ### Mechanics
 
@@ -230,9 +233,9 @@ This is, as you can imagine, a very unsatisfactory situation. Physics is suppose
 you _what happened_ and _where things go_. Classical mechanics seems to do this perfectly,
 right down to having an exact and satisfying connection between the mathematical model and
 what you observe in the real world. We get none of that in quantum mechanics. It is more
-like an anonymous computer program that always spits out the right answer for which you do
-not have the source code, so you can never reason about the exact mechanism by which the
-answer was generated.
+like a computer program that always spits out the right answer but for which you do not
+have the source code, so you can't reason about the exact mechanism by which the answer
+was generated.
 
 In addition quantum mechanics appears to make you accept a world where the equations that
 tell you how systems evolve appear to be completely evolve one way (the smooth Schrödinger
@@ -242,3 +245,47 @@ smarter than me have thought about it and still find themselves confused. I am a
 confused about this, but it will take a few more details to get at the core of why.
 
 See you later, in part 2.
+
+### References
+
+If what I have written makes no sense or you want to figure it out for yourself, here are
+some better sources than this humble web page.
+
+1. Travis Norsen's [Foundations of Quantum
+   Mechanics](https://link.springer.com/book/10.1007/978-3-319-65867-4) is a great
+   introduction to this material. A good combination of nuts and bolts physics and
+   discussions of the conceptual issues.
+
+2. Baggot's [Quantum
+   Cookbook](https://www.amazon.com/Quantum-Cookbook-Mathematical-Foundations-Mechanics/dp/0198827857/)
+   is a good semi-historical treatment of early QM.
+
+3. Stephanie
+Singer's [much more algebraic
+treatment](https://link.springer.com/book/10.1007/b136359https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)
+is also enjoyable, but much more technical from a mathematical point of view.
+
+3. <a
+   href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">This
+   series of lectures from Allan Adams at MIT</a> is very good.
+
+4. There are some OK "general audience" treatments of the conceptual puzzles in quantum
+   mechanics, but it's hard to do well because you really need the math to do it right.
+   Still, [Sean Carroll's
+   book](https://www.amazon.com/gp/product/B07NTYJJDX/ref=kinw_myk_ro_title) is OK, as is
+   [Philip Ball's
+   book](https://www.amazon.com/gp/product/B07H9HNDYL/ref=kinw_myk_ro_title). They are
+   both good non-technical explanations of the conceptual problems in the theory, to the
+   extent that this is possible. [Sabine Hossenfelder's Youtube
+   channel](https://www.youtube.com/c/SabineHossenfelder) is also a good source for
+   material at this level.
+
+1. On a more technical level, [this paper about "Quantum
+   Myths"](https://arxiv.org/abs/quant-ph/0609163) is a nice antidote to the sort of woo
+   woo mysticism that too much of the writing on this subject indulges in.
+
+5. Finally, Scott Aaronson's [Quantum Computing since
+   Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
+   is a nice computer nerd's view of the world.
+
+You should also read all the John Bell stuff, and various things by David Mermin.
