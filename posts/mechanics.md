@@ -204,13 +204,6 @@ mechanics has amounted to thinking about a wave function, defining the right Ham
 and then computing probabilities with the Born Rule, and the numbers are always right.
 Sometimes they are right to a ludicrous level of precision too.
 
-This, I think, is the first great mystery of quantum mechanics. It's not so much that you
-can only compute and predict probabilities, there are many physical processes for which
-that is true. The real puzzle is that while the mathematical model that I've outlined
-above gets all the right answers, it does not appear to provide any insight into any
-actual physical process from which those answers can be derived. That is, your experiments
-always work, but it's never really clear what is "really going on" in the "real" world.
-
 In the famous double-slit experiment, for example, you send a beam of photons
 through one screen that has two very thin slits cut into it. Then you put a set of
 detectors a some distance away behind this screen. The mathematics of quantum mechanics
@@ -221,6 +214,13 @@ you can probably compute this configuration with a stunning level of precision.
 But, quantum mechanics, in some sense, can't tell you anything about "what happens" to the
 any single particle while it travels between the slits and the detector wall. The theory
 says nothing about it.
+
+This, I think, is the first great mystery of the theory. It's not so much that you can
+only compute and predict probabilities, there are many physical processes for which that
+is true. The real puzzle is that while the mathematics that I have hinted at above gets
+all the right answers, it does not appear to provide any insight into any actual physical
+process from which those answers can be derived. That is, your experiments always work,
+but it's never really clear what is "really going on" in the "real" world.
 
 Worse, as is well known, if you try and figure out what happens for yourself by (say)
 _looking_ at each one of the slits to see which way the photon goes ... the whole
@@ -269,9 +269,7 @@ is also enjoyable, but much more technical from a mathematical point of view.
    href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">This
    series of lectures from Allan Adams at MIT</a> is very good.
 
-4. There are some OK "general audience" treatments of the conceptual puzzles in quantum
-   mechanics, but it's hard to do well because you really need the math to do it right.
-   Still, [Sean Carroll's
+4. [Sean Carroll's
    book](https://www.amazon.com/gp/product/B07NTYJJDX/ref=kinw_myk_ro_title) is OK, as is
    [Philip Ball's
    book](https://www.amazon.com/gp/product/B07H9HNDYL/ref=kinw_myk_ro_title). They are
