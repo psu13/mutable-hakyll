@@ -54,9 +54,8 @@ The ingredients that make up a Hilbert space are:
 
 1. A set of _vectors_. Here the vectors are the wave functions.
 
-1. A long list of rules about how we can combine vectors and scalars together that reads
-   like the world's most tedious algebra text book. For reference, you can [find the rules
-   here](https://en.wikipedia.org/wiki/Vector_space).
+1. A long list of rules about how we can combine vectors and scalars together. For
+   reference, you can [find the rules here](https://en.wikipedia.org/wiki/Vector_space).
 
 We denote Hilbert spaces with a script "H", like this: $\cal H$, and we use greek letters,
 most popularly $\psi$ to denote vectors in $\cal H$. For a reason named [Paul
@@ -108,21 +107,19 @@ define the distance between two vectors in a Hilbert space as $\lVert \psi - \ph
 The inner product and the norm will form the basis for how we compute probabilities using
 the Born rule, which we saw in part 1.
 
-So, the short summary of this section is that quantum states are complex number valued
-functions that live in a linear space called a Hilbert space, and that space also defines
-an inner product which is how we will compute various probabilities later.
+#### Short Mathematical and Biographical Digression
 
-#### Short Mathematical Digression
-
-In the original formulation of quantum mechanics the big conceptual shift in the theory
-was moving from properties that had values which were real numbers to properties described
-by complex valued _functions_ or _wave functions_. The issue was that we know how to do
-calculus over the reals, but calculus with function valued objects is a stranger thing.
-[_Functional analysis_](https://en.wikipedia.org/wiki/Functional_analysis) is the area of
-mathematics that studies this, and Hilbert spaces come from functional analysis. In the
-30s [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) realized that functional
-analysis was the right framework to use to formalize Schrödinger's wave functions. And
-that's what he did in his [famous book about quantum
+All of this nonsense with Hilbert spaces and inner products is motivated by wanting to do
+calculus and mathematical analysis on objects that are _functions_ rather than plain
+numbers. This comes up because the big conceptual shift in quantum mechanics was moving
+from properties that had values which were real numbers to properties described by complex
+valued _functions_ or _wave functions_. The issue was that we know how to do calculus over
+the reals, but calculus with function valued objects is a stranger thing. [_Functional
+analysis_](https://en.wikipedia.org/wiki/Functional_analysis) is the area of mathematics
+that studies this, and Hilbert spaces come from functional analysis. In the 30s [von
+Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) realized that functional analysis
+was the right framework to use to formalize Schrödinger's wave functions. And that's what
+he did in his [famous book about quantum
 mechanics](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics).
 
 After working out the mathematical basis for quantum theory Von Neumann went on to invent
