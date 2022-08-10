@@ -4,52 +4,49 @@ date: 2022-08-12
 author: psu
 ---
 
-The classic physics path to explaining quantum mechanics is historical and analytical. I
-did this to you in [part 1](mechanics.html) of this series.
+Almost every book or article about quantum mechanics seems to start with a passage like
+this:
 
-First you are taught an elaborate framework of differential equations and geometry that
-seemed to solve all of physics, until it didn't. You are then presented with a strange and
- ad-hoc algorithm for converting one set of differential equations (from Newton and
-Maxwell) into a different set of differential equations (from Heisenberg, Schrödinger, von
-Neumann, and Dirac) along with some strange rules about probability. Somehow following
-these rules and solving the Schrödinger equation leads you to explanations of mysteries
-like the energy levels of the hydrogen atom.
+> Quantum mechanics is arguably the most successful physical theory in the history of
+science but strangely, no one really seems to agree about how it works.
 
-Then you are told to solve the Schrödinger equation over and over again.
+And now I've done it to you too. One of the main reasons people write this sentence over
+and over again is because of what is called _the measurement problem_. Here is a way to
+state the measurement problem, which I will then try to explain to you in the rest of the
+article.
 
-By the end of the class you might conclude that the two difficult things in quantum
-mechanics are:
+The measurement problem refers to the following facts, which seem to contradict each
+other:
 
-1. Solving differential equations.
+1. On the one hand, when we measure quantum systems we always get one answer.
 
-2. Figuring out where exactly the electron is inside the atom ... because the equations
-   don't tell you this anymore.
+1. On the other hand, if we believe in the basic postulates of quantum theory, and we
+   believe that the measurement process is governed by those postulates, there quantum
+   states which, when measured, should not give you one answer.
 
-When I took quantum mechanics in college, this is the course I got and I dropped out after a
-month and took operating systems instead.
+In [part 1](mechanics.html) of this series I gave you a bit of the history and motivation
+behind the development of quantum mechanics. It followed the development of the theory the
+way a lot of physics text books do, with lots of differential equations and other scary
+math. We will now leave all that behind us.
 
-Later on, as I [took up physics as a hobby](reading-physics.html), I found a second path
-to quantum mechanics that was very different. This path starts out with just a few pages
-of rules involving something called _Hilbert space_, some simple linear algebra, and some
-rules about probability and "measurement". You might also say that this path just skips to
-telling you the final answer immediately, rather than working through all of the
-historical steps. This is good.
-
-What is nice about this non-historical and "algebraic" approach is that you don't (really)
-have to understand how to solve differential equations to figure out what is weird about
-quantum mechanics. It ends up that the weirdness just sort of falls out of a few
-simple[^1] facts about linear algebra.
+My plan for this article is to get to the point where we can write down a mathematical
+formulation of the measurement problem which is relatively rigorous. To do this we have to
+describe the formalism of quantum mechanics. Surprisingly, this mostly boils down to some
+basic[^1] facts about linear algebra, instead of all the scary differential equations from
+part 1.
 
 ### Quantum States and Hilbert Space
 
-The rules of quantum mechanics are about _states_ and _observables_. To try and keep this
-section a bit shorter and less tedious I link out to Wikipedia for the details of many of
-the rules.
+The rules of quantum mechanics are about _states_ and _observables_. These are both
+described by objects from a fancy sort of linear algebra, which involves a lot of axioms
+that are interesting (not really) but not needed for our purposes. To try and keep this
+section a bit shorter and less tedious I link out to Wikipedia for many of the
+mathematical details, and just provide the highlights that we need here.
 
 Quantum states live in a thing called a [_Hilbert
 space_](https://en.wikipedia.org/wiki/Hilbert_space), which is a generalization of a
 vector space. Observables are a particular kind of linear function, or _operator_ on a
-Hilbert space.
+Hilbert space. 
 
 The ingredients that make up a Hilbert space are:
 
@@ -81,8 +78,11 @@ This rule, it turns out, is the [most important rule in Quantum
 Mechanics](https://youtu.be/Ei8CFin00PY?t=37m58s) and is famously called the
 _superposition principle_. The fact that this works is also a straightforward consequence
 of the form of the Schrödinger equation (it is what we call a first order, or _linear_
-differential equation). That such a basic fact should cause so much trouble in physics is,
-as we will see, what makes it interesting.
+differential equation). [_Linear_ spaces and linear
+functions](https://en.wikipedia.org/wiki/Vector_space) play a large role in the eventual
+measurement puzzle, so keep that catalog of properties in your head for later.
+
+### Inner Products
 
 The second most important thing about Hilbert spaces is that they define an _inner
 product_ operation that allows us to define things like length and angle. We write this
@@ -134,7 +134,6 @@ having written some clever piece of code.
 
 ### Measurement and Probability
 
-### The Problem with Quantum Mechanics
 
 ### Notes
 
