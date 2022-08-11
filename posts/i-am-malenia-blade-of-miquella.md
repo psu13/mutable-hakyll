@@ -418,7 +418,7 @@ Souls_ or the Orphan in _Bloodborne_. It has a lot of different layers to it, wh
 it fun. And, it really rides an almost perfect satisfaction curve as it progresses from
 looking completely impossible (Waterfowl Dance!?!?!?), to randomly deadly, to sort of
 controllable as you understand it better and better. You will never be happier and sadder
-at the same time to finally beat a fight in a video game than when you beat first this
+at the same time to finally win a fight in a video game than when you first beat this
 one. I wonder whether they built this fight first, and then put the rest of the game
 around it. None of the other late bosses in _Elden Ring_ are even half as interesting, so
 I like to think that this was the case. So of course in true FromSoft fashion they trolled
