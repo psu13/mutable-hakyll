@@ -16,7 +16,12 @@ Lately though, through no conscious effort on my part, my fried rice has gotten 
 
 Dice the onion and brown it in a pan in olive oil. Add salt and pepper, cook for a minute or two. Add the meat, mixing it up with the onions. Stir this around, add more salt and pepper. Now put in a teaspoon or two of soy sauce. Mix this around until the pork is mostly done.
 
-Heat the rice in the microwave (1 or 2 min on high), then dump it into the pan and break it up so there are no big lumps. Stir it around in the meat. Add a bit more soy sauce to season the rice. Then mix and cook on medium heat for 5 or 10 minutes, until the rice gets starchy. Add more salt and pepper to taste.
+Heat the rice in the microwave (1 or 2 min on high), then dump it into the pan and break
+it up so there are no big lumps. Stir it around in the meat. Add a bit more soy sauce to
+season the rice. Then mix and cook on medium heat for 5 or 10 minutes, until the rice gets
+starchy. Finish with another splash of soy sauce,  dark soy if you want to get fancy, and
+some white pepper. White pepper has a different sort of kick than black pepper and is
+particularly nice in fried rice.
 
 Add an egg if you feel like it. Or hot sauce, or whatever. Another classic addition is frozen peas and/or carrots. Just toss them in and mix them up so they heat up with the rice.
 
