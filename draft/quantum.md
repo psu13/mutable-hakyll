@@ -153,10 +153,10 @@ meaning that with the standard dot product all of the unit vectors are orthogona
 other.
 
 In the rest of this piece we will assume that all of our Hilbert spaces have an
-_orthonormal_ basis and mostly that they are finite dimensional. Of course, the more
-famous state spaces in quantum mechanics (for position and momentum) are infinite
-dimensional, which is the other reason Hilbert spaces became a thing. But we will not deal
-with any of that complication here.
+_orthonormal_ basis and that they are finite dimensional. Of course, the more famous state
+spaces in quantum mechanics (for position and momentum) are infinite dimensional, which is
+the other reason Hilbert spaces became a thing. But we will not deal with any of that
+complication here.
 
 ### Operators and Observables
 
@@ -169,7 +169,7 @@ But, in quantum mechanics observables, like the states before them, become a mor
 thing, and that thing is what we call a _self-adjoint linear operator_ on the Hilbert
 space $\cal H$. All this means is that for everything we want to observe we have to find a
 function from $\cal H$ to $\cal H$ that is _linear_ and also obeys some more technical
-rules that I will mention but really define.
+rules that I will mention but not really define.
 
 Linearity we have seen before. This just means that if you have a operator $O$ that takes
 a vector $\psi$ and maps it to another vector, then you can move $O$ in and out of linear
@@ -184,7 +184,6 @@ and
 $$
 O(\psi + \phi) = O(\psi) + O(\phi)
 $$
-
 
 The "self-adjoint" part of the definition of observables is more technical to explain.
 
@@ -238,19 +237,60 @@ $$
 for any two vectors $\psi$ and $\phi$ in $\cal H$.
 
 In finite dimensional complex vector spaces (e.g. $\mathbb C^n$) you get the adjoint by
-transposing the matrix representation and taking some complex conjugates. I'll leave it at
-that.
+transposing the matrix representation and taking some complex conjugates. In more
+complicated situations finding the adjoint is more complicated. I'll leave it at that.
 
-Self-adjoint operators have some nice properties for physics.
+Self-adjoint operators have some nice properties for physics. The reason why has to do
+with eigen-things.
 
 ### Eigen-things
 
+Linear operators map vectors to vectors in a fairly constrained way. You have some freedom
+in how you transform the vector, but you don't have _total_ freedom since whatever you do
+has to preserve linear combinations.
+
+But, for every operator there might be a special set of vectors that map to some scalar
+multiplied by themselves. That is, for some operator $A$ and vector $\psi$ you will have
+
+$$
+A \psi = \alpha \psi
+$$
+
+where $\alpha$ is (say) a complex number. What this means, in some sense, is that the
+operator transforms the original vector to itself, only its length, or magnitude changes.
+
+Vectors with this property are called _eigenvectors_, and the constants are called
+_eigenvalues_. Both words are derived from the German word "eigen" meaning "proper" or
+"characteristic", but that doesn't really matter. This is the terminology that stuck.
+
+Eigenvectors and values come up in all kinds of contexts. They are important because they
+provide a way to characterize complicated transformations in a simpler way, since if you
+have all the eigenvectors you could in principle switch to working in a basis where the
+transformation is a diagonal matrix, which is a usually simpler representation. The
+applications of this idea come up all over, from image processing to Google PageRank, to
+quantum mechanics.
+
+Anyway, the reason we wanted to have the operators that represent observables be
+self-adjoint above is that self-adjoint operators have two nice properties related to
+eigen-things.
+
+1. All the eigenvalues of a self-adjoint operator are real-valued (even though our state
+space is over the complex numbers).
+
+1. There is a famous theorem that says that every self-adjoint operator has a set of
+eigenvectors that form a _basis_ of the underlying Hilbert space. This theorem is called
+the _spectral_ theorem and the eigenvectors/values of the operator are called its
+_spectrum_.
+
+We now have all the pieces we need to complete our picture of the quantum formalism and
+discuss the problem with "measurement".
 
 ### Measurement and Probability
 
 ### References
 
-Here are some books I like about this subject:
+Here are some books I like that take the "linear algebra" viewpoint of quantum mechanics
+and run with it.
 
 1. Hughes' [The Structure and Interpretation of Quantum
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929), is more
