@@ -137,20 +137,57 @@ with your fingers, then we say that the vector space is "finite dimensional".
 The most familiar example of a finite dimensional Hilbert space is $\mathbb R^n$ (and also
 $\mathbb C^n$ if you like complex numbers). Here the basis that we all know about is the
 one made up of the unit vectors for each possible axis direction in the space. So, for
-$n=3$ the unit vectors are the unit vectors are $(1, 0, 0)$, $(0, 1, 0) and $(0,0,1)$. To
-write down any vector $v$ in the space all we need is three numbers, one to multiply each
-unit vector:
+$n=3$ the unit vectors are 
 
 $$
-v = (a,b,c) = a(1,0,0) + b(0,1,0) + c(0,0,1)
+\begin{pmatrix}
+1 \\
+0 \\
+0 \\
+\end{pmatrix}, \quad 
+\begin{pmatrix}
+0 \\
+1 \\
+0 \\
+\end{pmatrix} \quad {\rm and} \quad
+\begin{pmatrix}
+0 \\
+0 \\
+1 \\
+\end{pmatrix}
 $$
+
+To write down any vector $v$ in the space all we need is three numbers, one to multiply
+each unit vector:
+
+$$
+v = \begin{pmatrix}
+a \\
+b \\
+c \\
+\end{pmatrix} = a\begin{pmatrix}
+1 \\
+0 \\
+0 \\
+\end{pmatrix} + b\begin{pmatrix}
+0 \\
+1 \\
+0 \\
+\end{pmatrix} + c \begin{pmatrix}
+0 \\
+0 \\
+1 \\
+\end{pmatrix}
+$$
+
+By convention we write vectors in columns, which will make more sense in the next section.
 
 And thus we have built the standard sort of coordinate system that we all know and love
 from 10th grade math.
 
 This sort of basis for $\mathbb R^n$ also has the property that it is _orthonormal_,
-meaning that with the standard dot product all of the unit vectors are orthogonal to each
-other.
+meaning that with the standard inner product all of the unit vectors are orthogonal to each
+other (their mutual inner products are always zero).
 
 In the rest of this piece we will assume that all of our Hilbert spaces have an
 _orthonormal_ basis and that they are finite dimensional. Of course, the more famous state
@@ -165,11 +202,11 @@ in classical physics we did not think about observables too much. They were just
 numbers or list of numbers that in principe you can just read off of the mathematical model
 that you are working with.
 
-But, in quantum mechanics observables, like the states before them, become a more abstract
+But, in quantum mechanics, observables, like the states before them, become a more abstract
 thing, and that thing is what we call a _self-adjoint linear operator_ on the Hilbert
 space $\cal H$. All this means is that for everything we want to observe we have to find a
 function from $\cal H$ to $\cal H$ that is _linear_ and also obeys some more technical
-rules that I will mention but not really define.
+rules that I will sort of define below.
 
 Linearity we have seen before. This just means that if you have a operator $O$ that takes
 a vector $\psi$ and maps it to another vector, then you can move $O$ in and out of linear
@@ -193,7 +230,7 @@ of the operator on any given vector is a new vector where each component of the 
 is the dot product of the original vector with the appropriate row of the matrix.
 
 So the easiest operator to write down is the identity ($\bf 1$)... which just looks like
-the unit vector basis vectors written on top of one another
+the unit vector basis vectors written next to one another
 
 $$ {\bf 1} = 
 \begin{pmatrix}
@@ -221,7 +258,19 @@ a \\
 b \\
 c \\
 \end{pmatrix}
-= a(1,0,0) + b(0,1,0) + c(0,0,1)
+= a\begin{pmatrix}
+1 \\
+0 \\
+0 \\
+\end{pmatrix} + b\begin{pmatrix}
+0 \\
+1 \\
+0 \\
+\end{pmatrix} + c \begin{pmatrix}
+0 \\
+0 \\
+1 \\
+\end{pmatrix}
 $$
 
 So it works!
@@ -240,8 +289,17 @@ In finite dimensional complex vector spaces (e.g. $\mathbb C^n$) you get the adj
 transposing the matrix representation and taking some complex conjugates. In more
 complicated situations finding the adjoint is more complicated. I'll leave it at that.
 
-Self-adjoint operators have some nice properties for physics. The reason why has to do
-with eigen-things.
+A self-adjoint operator is just one whose adjoint is equal to itself. So it obeys the
+rule:
+
+$$
+\langle A\, \psi | \phi \rangle = \langle \psi | A\, \phi \rangle .
+$$
+
+We can remove the $^*$ because $A = A^*$.
+
+Self-adjoint operator have some nice properties for physics. The reason why has to do with
+eigen-things.
 
 ### Eigen-things
 
@@ -256,23 +314,24 @@ $$
 A \psi = \alpha \psi
 $$
 
-where $\alpha$ is (say) a complex number. What this means, in some sense, is that the
-operator transforms the original vector to itself, only its length, or magnitude changes.
+where $\alpha$ is just a scalar. What this means, in some sense, is that the operator
+transforms the original vector to itself. The only thing that changes is its length, or
+magnitude.
 
 Vectors with this property are called _eigenvectors_, and the constants are called
 _eigenvalues_. Both words are derived from the German word "eigen" meaning "proper" or
-"characteristic", but that doesn't really matter. This is the terminology that stuck.
+"characteristic", but that doesn't really matter. This just one of those weird words that
+stuck around by habit.
 
-Eigenvectors and values come up in all kinds of contexts. They are important because they
-provide a way to characterize complicated transformations in a simpler way, since if you
-have all the eigenvectors you could in principle switch to working in a basis where the
-transformation is a diagonal matrix, which is a usually simpler representation. The
+Eigenvectors and eigenvalues come up in all kinds of contexts. They are important because
+they provide a way to characterize complicated transformations in a simpler way. If
+you have all the eigenvectors you can in principle switch to working in a basis where
+the transformation is a diagonal matrix, which is a usually simpler representation. The
 applications of this idea come up all over, from image processing to Google PageRank, to
 quantum mechanics.
 
-Anyway, the reason we wanted to have the operators that represent observables be
-self-adjoint above is that self-adjoint operators have two nice properties related to
-eigen-things.
+The reason we wanted to have the operators that represent observables be self-adjoint
+above is that self-adjoint operators have two nice properties related to eigen-things.
 
 1. All the eigenvalues of a self-adjoint operator are real-valued (even though our state
 space is over the complex numbers).
@@ -282,10 +341,65 @@ eigenvectors that form a _basis_ of the underlying Hilbert space. This theorem i
 the _spectral_ theorem and the eigenvectors/values of the operator are called its
 _spectrum_.
 
-We now have all the pieces we need to complete our picture of the quantum formalism and
-discuss the problem with "measurement".
+### Circling Back on the Atom
+
+At this point you might be thinking to yourself, "I have seen this word 'spectrum'
+before". And you have. One of the earliest problems in quantum mechanics was to explain
+the spectral lines of the hydrogen atom. You will recall that the famous Schödinger
+equation, in fact, is an expression for _energy_, and the spectral lines are an
+arrangement of energy "levels" that we think of as different orbits in the atom (even
+though they are not).
+
+Let's remember what the Schödinger equation looks like:
+
+$$
+i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
+$$
+
+The Schödinger equation is what we call a  linear differential equation, since there are
+no second derivatives or other squared terms. So, it turns out that it defines one of our
+coveted self-adjoint linear operators on the Hilbert space of wave functions. This means
+that there will be some set of states that obey this rule:
+
+$$
+E | \psi \rangle  = H | \psi \rangle .
+$$
+
+Where $E$ here is just a real number, rather than an operator (I can't write down $e$ for
+this, because $e$ already means something else ... sigh).
+
+So here is why we were going on about eigen-things before (and linear operators before
+that, and vector spaces before that). What have here is that $H$ is a self-adjoint
+operator whose the eigenvalues are the energies in the spectrum of the atom. The
+eigenvectors are the electron wave functions that define the fixed energy levels at which
+we see spectral lines. And an amazing fact about the world is that you can actually set up
+a model of the hydrogen atom so that things work out in exactly this way. The setup is
+somewhat technical and complicated, so we'll use an easier example below.
+
+The next rule in the quantum formalism generalizes this connection between eigen-things
+and observables: States that have well-defined values for an observable are eigenvectors
+of the the corresponding self-adjoint operator. The value of the observable when the
+system is in such a state is the corresponding eigenvalue of the operator.
+
+### Summary So Far
+
+Let's take a bit of a breather to look at what we have learned.
+
+1. States are vectors in a Hilbert space.
+1. Observables are self-adjoint linear operators on that space.
+1. The possible values of observables are the eigenvalues of the corresponding operator,
+and the eigenvectors are the states that achieve those values.
+1. Finally, there is a special observable for the energy of the system whose operator we
+call $H$, for the Hamiltonian. Time evolution of states is then given by the Schödinger
+equation.
+
+Seems like we are missing a critical piece about probabilities or something.
 
 ### Measurement and Probability
+
+### The Problem
+
+### Things I Left Out, Lies I Told
 
 ### References
 
