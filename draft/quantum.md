@@ -29,10 +29,16 @@ behind the development of quantum mechanics. It followed the development of the 
 way a lot of physics text books do, with lots of differential equations and other scary
 math. We will now leave all that behind us.
 
-My plan here is to get to the point where we can write down a mathematical expression of
-the measurement problem which is relatively rigorous. To do this we have to describe the
-formalism of quantum mechanics. Surprisingly, this mostly boils down to some basic[^1]
-facts about linear algebra, instead of all the scary differential equations from part 1.
+My plan here is to get to describe enough of the mathematical formalism of quantum
+mechanics in enough detail to be able to express the measurement problem in a way that is
+relatively rigorous. This mostly boils down to a lot of tedious and basic facts about
+linear algebra, instead of all the scary differential equations from part 1[^1]. It will
+be an abstract slog, but I'll try to leave out enough of the really boring details to keep
+it light, and also provide one simple example at the end that holds the whole thing
+together.
+ 
+If you want to skip to the end, here is the essence of the answer in twelve words: the
+measurement problem occurs because of the inherent linearity of quantum mechanics.
 
 ### Quantum States and Hilbert Space
 
@@ -356,13 +362,13 @@ $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
 $$
 
-The Schödinger equation is what we call a  linear differential equation, since there are
+The Schrödinger equation is what we call a  linear differential equation, since there are
 no second derivatives or other squared terms. So, it turns out that it defines one of our
 coveted self-adjoint linear operators on the Hilbert space of wave functions. This means
 that there will be some set of states that obey this rule:
 
 $$
-E | \psi \rangle  = H | \psi \rangle .
+H | \psi \rangle  = E | \psi \rangle .
 $$
 
 Where $E$ here is just a real number, rather than an operator (I can't write down $e$ for
@@ -376,26 +382,65 @@ we see spectral lines. And an amazing fact about the world is that you can actua
 a model of the hydrogen atom so that things work out in exactly this way. The setup is
 somewhat technical and complicated, so we'll use an easier example below.
 
-The next rule in the quantum formalism generalizes this connection between eigen-things
-and observables: States that have well-defined values for an observable are eigenvectors
-of the the corresponding self-adjoint operator. The value of the observable when the
-system is in such a state is the corresponding eigenvalue of the operator.
-
-### Summary So Far
-
-Let's take a bit of a breather to look at what we have learned.
-
-1. States are vectors in a Hilbert space.
-1. Observables are self-adjoint linear operators on that space.
-1. The possible values of observables are the eigenvalues of the corresponding operator,
-and the eigenvectors are the states that achieve those values.
-1. Finally, there is a special observable for the energy of the system whose operator we
-call $H$, for the Hamiltonian. Time evolution of states is then given by the Schödinger
-equation.
-
-Seems like we are missing a critical piece about probabilities or something.
-
 ### Measurement and Probability
+
+The next rule in the quantum formalism expresses the connection between eigen-things and
+observables. We interpret the eigenvalues of the operator representing an observable as
+the actual values that we can see from that observable in experiments (say). In addition,
+if the system is in a state which is an eigenvector of the operator, then the value you
+get from the observable will be the corresponding eigenvalue. You will see the term
+"eigenstate" used for such vectors.
+
+The simplest model of _measurement_ in quantum systems is to just say that a measurement
+is represented by acting with the operator of the observable on a vector representing the
+state of the system. In addition we'll assume that states are always simple vectors (so
+called "pure" states) and that measurements are always simple operators. There are
+generalizations of both of these ideas that you can pursue if you are interested. See the
+further reading.
+
+So, for simple measurements on systems that happen to be in the right kind of state (a
+state that is an eigenvector of the operator), we always get absolutely determined and
+well defined answers.
+
+But, quantum states come in Hilbert spaces, which are linear. This means that we also have
+to figure out what to do if our state vector is any linear combination of the
+eigenvectors. For simplicity let's say we are in a system where the Hilbert space is 2
+dimensional. So, we have one vector, called $| 0 \rangle$ and another one called $| 1
+\rangle$, and some operator $S$ such that $| 0 \rangle$ and $| 1 \rangle$ are its
+eigenvectors. Then we know that if we measure either $| 0 \rangle$ or $| 1 \rangle$ with
+$S$ we'll get some number:
+
+That is:
+
+$$
+S | 0 \rangle = x | 0 \rangle
+$$
+
+and
+
+$$
+S | 1 \rangle = y | 1 \rangle
+$$
+
+But what happens when I give you another perfectly fine state like
+
+$$
+\alpha | 0 \rangle + \beta  | 1 \rangle 
+$$
+
+where $\alpha$ and $\beta$ are arbitrary constants? Here is where we invoke the Born rule
+which I mentioned in part 1. This rule states that the result of a measurement on a state
+like the one above will be _either_ $| 0 \rangle$, with probability $|\alpha|^2$, or $| 1 \rangle$
+with probability $|\beta|^2$. Actually the probabilities have to add up to 1, so the real
+values will be subject to some normalization rule that I am ignoring here.
+
+One last puzzle that should be bothering you is the question of whether we can represent
+_any_ state as a linear combination of eigenvectors of the operator. It turns out we can,
+because we specified that observables are self-adjoint, so we can invoke the spectral
+theorem above to know that given an arbitrary state $\psi in \cal H$ we can always write
+the state as a linear combination of the eigenstates.
+
+### An Example
 
 ### The Problem
 
