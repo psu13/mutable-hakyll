@@ -491,9 +491,17 @@ reflect two different possible sets of basis vectors in $\mathbb C^2$.
 
 So the box looks like this:
 
-$$
-{\rm Box}
-$$
+> <a href="../images/z-spin.pdf">
+<img src="../images/z-spin.pdf"></a>
+
+> <a href="../images/z-spin.pdf">
+<img src="../images/z-z-spin.pdf"></a>
+
+> <a href="../images/z-spin.pdf">
+<img src="../images/z-x-spin.pdf"></a>
+
+> <a href="../images/z-spin.pdf">
+<img src="../images/z-x-z-spin.pdf"></a>
 
 It turns out if you line these boxes up in various ways and shoot imaginary electrons
 through them you get some strange behaviors. 
