@@ -481,18 +481,31 @@ end up in some continuous distribution of possible points, but it turns out they
 only one of two points, which we will call "up" and "down". We're just going to take this
 result for granted rather than trying to explain it right now
 
-We can imagine spin like a little arrow over the top of the electron pointing either "up"
-or "down" along a certain axis. Typically we imagine that we have some box with one hold
-on the left, and two holes on the right. We send an electron in the left hole and it comes
-out the top hole if the spin is up, and the bottom hole if the spin is down. We also
-imagine that we have two such boxes, one of which measures spin in the "Z" direction, and
-one of which measures spin in the "X" direction. Here the "Z" and "X" directions just
-reflect two different possible sets of basis vectors in $\mathbb C^2$.
+We can imagine spin as being like a little arrow over the top of the electron pointing
+either "up" or "down" along a certain spatial axis (e.g. $x$, $y$, or $z$). The state
+space for this system is just $\mathbb C^2$. Each one of the spin states is some linear
+combination of $| 0 \rangle$ and $| 1\rangle$ above.
 
-So the box looks like this:
+It also turns out that there are exactly four operators that we can use as observables:
+the identity, and a spin operator for each spatial axis which we will call $S_x$, $S_y$
+and $S_z$. For all the details of where these come
+from, you can do read about the [Pauli
+matrices](https://en.wikipedia.org/wiki/Pauli_matrices).[^3]
+
+We measure spin using a box with a magnetic field in it. So, imagine that we have some box
+with one hole on the left, and two holes on the right. We send an electron in the left
+hole and it comes out the top hole if the spin is up, and the bottom hole if the spin is
+down. We have three kinds of boxes that each measure the spin in a different direction
+(again: $x$, $y$ or $z$).
+
+So the $S_z$ box looks like this:
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-spin.pdf"></a>
+
+Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
+down stuff comes out the bottom. For a particle in an unknown state, we spin up half the
+time and spin down half the time.
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
@@ -555,3 +568,9 @@ $\langle \psi |$ is a "bra". So you put them together and you get a "bra ket" or
 ["braket"](https://en.wikipedia.org/wiki/Bra–ket_notation). Those wacky physicists thought
 this joke was so funny that we've been stuck with this notation for a hundred years now.
 
+[^3]: The Pauli matrices are usually called $\sigma_1$, $\sigma_2$ and $\sigma_3$. You
+could also write them as $\sigma_x$, $\sigma_y$ and $\sigma_z$. But I stayed with $S$ for
+"Spin" in my text. I can't decide if it's a deep mathematical fact or just a strange
+coincidence of nature that $\mathbb C^2$ should have exactly three operators for spin
+measurements, one in each direction that we need. It seems a bit spooky that it worked out
+that way.
