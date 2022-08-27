@@ -413,13 +413,13 @@ $S$ we'll get some number:
 That is:
 
 $$
-S | 0 \rangle = x | 0 \rangle
+S | 0 \rangle = \lambda_1 | 0 \rangle
 $$
 
 and
 
 $$
-S | 1 \rangle = y | 1 \rangle
+S | 1 \rangle = \lambda_2 | 1 \rangle
 $$
 
 But what happens when I give you another perfectly fine state like
@@ -437,10 +437,67 @@ values will be subject to some normalization rule that I am ignoring here.
 One last puzzle that should be bothering you is the question of whether we can represent
 _any_ state as a linear combination of eigenvectors of the operator. It turns out we can,
 because we specified that observables are self-adjoint, so we can invoke the spectral
-theorem above to know that given an arbitrary state $\psi in \cal H$ we can always write
+theorem above to know that given an arbitrary state $\psi \in \cal H$ we can always write
 the state as a linear combination of the eigenstates.
 
+So, the summary of this section is, given an arbitrary state $\psi \in \cal H$ and an
+observable $S$ you can calculate the behavior of the observable by first expressing $\psi$
+as a linear combination of the eigenvectors of $S$ (because you can find eigenvectors that
+form a basis). In 2 dimensions the expression for $\psi$ will then be something like
+
+$$
+\psi = c_1 | 0 \rangle + c_2  | 1 \rangle 
+$$
+
+The result of doing a measurement will then be the eigenvalue $\lambda_1$ or $\lambda_2$
+corresponding to one of the eigenvectors, and the probability of getting any given value will be
+a probability of getting $\lambda_1$ is
+
+$$
+p_1 = { |c_1|^2 \over |c_1|^2 + |c_2|^2 }
+$$
+
+and the probability of getting $\lambda_2$ is
+
+$$
+p_2 = { |c_2|^2 \over |c_1|^2 + |c_2|^2 } .
+$$
+
+Here I've normalized the probabilities like a good boy.
+
+Now we have everything we need to discuss the problem with all of this. But first we
+should take a break from all this abstract nonsense and talk about an example which will
+hopefully make it more concrete.
+
 ### An Example
+
+The most famous two-state system in the quantum mechanics literature is the so-called
+"spin $1\over 2$" system. The behavior of these systems was first explored in the famous
+[Stern-Gerlach](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment) experiment. Spin
+is described with a two-dimensional Hilbert space, just like above. In this experiment you
+shoot electrons (really atoms with a single free electron) through a non-uniform magnetic
+field, and see where they end up on a screen on the other side. You would expect them to
+end up in some continuous distribution of possible points, but it turns out they end up in
+only one of two points, which we will call "up" and "down". We're just going to take this
+result for granted rather than trying to explain it right now
+
+We can imagine spin like a little arrow over the top of the electron pointing either "up"
+or "down" along a certain axis. Typically we imagine that we have some box with one hold
+on the left, and two holes on the right. We send an electron in the left hole and it comes
+out the top hole if the spin is up, and the bottom hole if the spin is down. We also
+imagine that we have two such boxes, one of which measures spin in the "Z" direction, and
+one of which measures spin in the "X" direction. Here the "Z" and "X" directions just
+reflect two different possible sets of basis vectors in $\mathbb C^2$.
+
+So the box looks like this:
+
+$$
+{\rm Box}
+$$
+
+It turns out if you line these boxes up in various ways and shoot imaginary electrons
+through them you get some strange behaviors. 
+
 
 ### The Problem
 
