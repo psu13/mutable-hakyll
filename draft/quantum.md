@@ -400,17 +400,19 @@ Speaking of which.
 
 ### Break Time
 
-At this point we have put together almost all of the mathematical infrastructure we need
-to talk about measurement. But this post has gone on too long, so I am going to make you
-wait for one more part before we finally get to the main answer. Meanwhile, here is a
-quick summary of what I've written down
+At this point we have put together almost all of the formalism that we need to talk about
+measurement. But this post has gone on too long, so I am going to make you read yet
+another part to get to the real point of this entire exercise. Meanwhile, here is a quick
+summary of what we have so far:
 
-1. States are vectors in a Hilbert space.
+1. States are vectors in a [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space).
 
-1. Observables are self-adjoint linear operators on that space.
+1. Observables are [self-adjoint linear
+   operators](https://en.wikipedia.org/wiki/Self-adjoint_operator) on that space.
 
 1. There is a special observable for the energy of the system whose operator we call $H$,
-for the Hamiltonian. Time evolution of states is then given by the Schrödinger equation.
+for the Hamiltonian. Time evolution of states is then given by the 
+[Schrödinger equation](https://en.wikipedia.org/wiki/Schrödinger_equation).
 
 1. The possible values of observables are the eigenvalues of the corresponding operator,
 and the eigenvectors are the states that achieve those values. In addition, for the

@@ -4,7 +4,7 @@ date: 2022-08-31
 author: psu
 ---
 
-In [part 1](mechanics.html) and [part 2](quantum.html) I tried to set up enough of the
+In [part 1](mechanics.html) and [part 2](quantum.html) we tried to set up enough of the
 mathematical formalism of quantum mechanics to be able to talk about the measurement
 paradox in a reasonably precise way. If you were smart and skipped ahead to here you can
 now get the whole answer without reading through all that other tedious nonsense.
@@ -34,12 +34,12 @@ Well now we'll finally talk about measurement.
 
 ### Measurement and Probability
 
-The next rule in the quantum formalism expresses the connection between eigen-things and
-observables. We interpret the eigenvalues of the operator representing an observable as
-the actual values that we can see from that observable in experiments (say). In addition,
-if the system is in a state which is an eigenvector of the operator, then the value you
-get from the observable will be the corresponding eigenvalue. You will see the term
-"eigenstate" used for such vectors.
+In quantum mechanics measurements are the connection between eigen-things and observables.
+We interpret the eigenvalues of the operator representing an observable as the actual
+values that we can see from that observable in experiments (say). In addition, if the
+system is in a state which is an eigenvector of the operator, then the value you get from
+the observable will be the corresponding eigenvalue. You will see the term "eigenstate"
+used for such vectors.
 
 The simplest model of _measurement_ in quantum systems is to just say that a measurement
 is represented by acting with the operator of the observable on a vector representing the
