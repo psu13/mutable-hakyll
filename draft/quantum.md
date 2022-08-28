@@ -465,21 +465,19 @@ $$
 
 Here I've normalized the probabilities like a good boy.
 
-Now we have everything we need to discuss the problem with all of this. But first we
-should take a break from all this abstract nonsense and talk about an example which will
-hopefully make it more concrete.
+Now we have everything we need to discuss the problem with all of this. We can do this
+using a popular illustration of what happens when we measure two-state systems.
 
 ### An Example
 
 The most famous two-state system in the quantum mechanics literature is the so-called
 "spin $1\over 2$" system. The behavior of these systems was first explored in the famous
-[Stern-Gerlach](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment) experiment. Spin
-is described with a two-dimensional Hilbert space, just like above. In this experiment you
-shoot electrons (really atoms with a single free electron) through a non-uniform magnetic
-field, and see where they end up on a screen on the other side. You would expect them to
-end up in some continuous distribution of possible points, but it turns out they end up in
-only one of two points, which we will call "up" and "down". We're just going to take this
-result for granted rather than trying to explain it right now
+[Stern-Gerlach](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment) experiment. In
+this experiment you shoot electrons (really atoms with a single free electron) through a
+non-uniform magnetic field, and see where they end up on a screen on the other side. You
+would expect them to end up in some continuous distribution of possible points, but it
+turns out they end up in only one of two points, which we will call "up" and "down". We're
+just going to take this result for granted rather than trying to explain it right now
 
 We can imagine spin as being like a little arrow over the top of the electron pointing
 either "up" or "down" along a certain spatial axis (e.g. $x$, $y$, or $z$). The state
@@ -489,7 +487,7 @@ combination of $| 0 \rangle$ and $| 1\rangle$ above.
 It also turns out that there are exactly four operators that we can use as observables:
 the identity, and a spin operator for each spatial axis which we will call $S_x$, $S_y$
 and $S_z$. For all the details of where these come
-from, you can do read about the [Pauli
+from, you can read about the [Pauli
 matrices](https://en.wikipedia.org/wiki/Pauli_matrices).[^3]
 
 We measure spin using a box with a magnetic field in it. So, imagine that we have some box
@@ -504,21 +502,38 @@ So the $S_z$ box looks like this:
 <img src="../images/z-spin.pdf"></a>
 
 Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
-down stuff comes out the bottom. For a particle in an unknown state, we spin up half the
+down stuff comes out the bottom. For a particle in an unknown state, we get spin up half the
 time and spin down half the time.
+
+Now we can arrange these boxes in various ways and learn more about how quantum systems
+behave when we measure them. Not surprisingly, if you put another $S_z$ box right after
+the first one and capture the stream of spin up particles, you get nothing but spin up
+particles. 
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
 
+This behavior might make you think that $z$ spin is a property that we an attach to the
+electron, perhaps for all time, like classical properties. Keep this thought in your brain.
+
+Next, we can see that the relationship of $S_z$ to $S_x$ is also straightforward. A
+particle that has a definite $z$ spin still has an undefined $x$ spin:
+
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-x-spin.pdf"></a>
 
-> <a href="../images/z-spin.pdf">
+So here when we put a $S_x$ box right after the $S_z$ box we will get $x$ spin up and $x$
+spin down half the time.
+
+Interestingly though, measuring the $x$ spin also seems to wipe away whatever $z$ spin we
+saw before. So here if we start with $S_z$, then follow it with $S_x$, then follow it
+again with $S_z$ the particle somehow loses its $z$ spin after going through the $S_x$ box:
+
+<a href="../images/z-spin.pdf">
 <img src="../images/z-x-z-spin.pdf"></a>
 
-It turns out if you line these boxes up in various ways and shoot imaginary electrons
-through them you get some strange behaviors. 
-
+This is a bit surprising. Somehow going through the $S_x$ box has made the $z$ spin
+undefined again, and we go back to 50/50 instead of 100% spin up.
 
 ### The Problem
 
