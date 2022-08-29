@@ -31,13 +31,13 @@ behind the development of quantum mechanics. It followed the development of the 
 way a lot of physics text books do, with lots of differential equations and other scary
 math. We will now leave all that behind us.
 
-My plan here is to get to describe enough of the mathematical formalism of quantum
-mechanics in enough detail to be able to express the measurement problem in a way that is
-relatively rigorous. This mostly boils down to a lot of tedious and basic facts about
-linear algebra, instead of all the scary differential equations from part 1. It will
-be an abstract slog, but I'll try to leave out enough of the really boring details to keep
-it light. Personally I find the algebraic material a lot easier to understand than the
-more difficult differential equation solving.
+My plan here is to describe enough of the mathematical formalism of quantum mechanics in
+enough detail to express the measurement problem in a way that is relatively rigorous.
+This mostly boils down to a lot of tedious and basic facts about linear algebra, instead
+of all the scary differential equations from part 1. Personally I find the algebraic
+material a lot easier to understand than the more difficult differential equation solving.
+But, it will still be an abstract slog, but I'll try to leave out enough of the really
+boring details to keep it light. 
  
 ### Quantum States and Hilbert Space
 
@@ -58,8 +58,11 @@ The ingredients that make up a Hilbert space are:
 
 1. A set of _vectors_. Here the vectors are the wave functions.
 
-1. A long list of rules about how we can combine vectors and scalars together. For
-   reference, you can [find the rules here](https://en.wikipedia.org/wiki/Vector_space).
+1. A long list of rules about how we can combine vectors and scalars together. In
+   particular vector spaces define a notion of addition ($+$) for vectors that obeys some
+   nice rules (commutativity, associativity, blah blah blah), and a notion of multiplying
+   vectors by scalars that also obeys some nice rules. For reference, you can [find the
+   rules here](https://en.wikipedia.org/wiki/Vector_space).
 
 We denote Hilbert spaces with a script "H", like this: $\cal H$, and we use greek letters,
 most popularly $\psi$ to denote vectors in $\cal H$. For a reason named [Paul
@@ -79,10 +82,13 @@ is also a vector in $\cal H$.
 
 This rule, it turns out, is the [most important rule in Quantum
 Mechanics](https://youtu.be/Ei8CFin00PY?t=37m58s) and is famously called the
-_superposition principle_. The fact that this works is also a straightforward consequence
-of the form of the Schrödinger equation (it is what we call a first order, or _linear_
-differential equation). Linearity plays a big role in the eventual measurement puzzle, so
-store that away in our memory for later.
+_superposition principle_. You will also see states that are written down this way called
+_superposition states_. But, this terminology is more magic sounding than it needs to be.
+This is is just a linear combination of two states, and the fact that you always get
+another state is also a straightforward consequence of the form of the Schrödinger
+equation (it is what we call a first order, or _linear_ differential equation). Linearity
+plays a big role in the eventual measurement puzzle, so store that away in our memory for
+later.
 
 ### Inner Products
 
