@@ -1,6 +1,6 @@
 ---
 title: Quantum Mechanics, Part 2 - Quantum
-date: 2022-08-12
+date: 2022-08-30
 author: psu
 ---
 
@@ -19,9 +19,12 @@ other:
 
 1. On the one hand, when we measure quantum systems we always see one answer.
 
-1. On the other hand, if we believe in quantum theory, and we believe that the measurement
-   process is governed by the rules of quantum theory, then there are quantum states
-   which, when measured, should not give you one answer.
+1. On the other hand, if you want to use the regular rules of time evolution in quantum
+mechanics to describe measurements, then there are states for which measurements should
+not give you one answer.
+
+In particular, measuring states that describe a _superposition_ (see below) causes a lot
+of trouble.
 
 In [part 1](mechanics.html) of this series I gave you a bit of the history and motivation
 behind the development of quantum mechanics. It followed the development of the theory the
@@ -78,9 +81,8 @@ This rule, it turns out, is the [most important rule in Quantum
 Mechanics](https://youtu.be/Ei8CFin00PY?t=37m58s) and is famously called the
 _superposition principle_. The fact that this works is also a straightforward consequence
 of the form of the Schrödinger equation (it is what we call a first order, or _linear_
-differential equation). [_Linear_ spaces and linear
-functions](https://en.wikipedia.org/wiki/Vector_space) play a large role in the eventual
-measurement puzzle, so keep that catalog of properties in your head for later.
+differential equation). Linearity plays a big role in the eventual measurement puzzle, so
+store that away in our memory for later.
 
 ### Inner Products
 
@@ -130,14 +132,15 @@ how to do calculus over the reals, but calculus with function valued objects is 
 thing. [_Functional analysis_](https://en.wikipedia.org/wiki/Functional_analysis) is the
 area of mathematics that studies this, and Hilbert spaces come from functional analysis.
 In the 30s [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) realized that
-functional analysis was the right framework to use to formalize Schrödinger's wave
-functions. And that's what he did in his [famous book about quantum
-mechanics](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics).
+functional analysis, Hilbert spaces, and operators were the right tools to use to build a
+unified basis for quantum mechanics. And that's what he did in his [famous book
+](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics).
 
-If we wanted to actually prove some of the things I claim later about Hilbert spaces and
-operators we would need some of the more technical results from functional analysis. Doing
-such proofs is way above my pay grade so I'm mostly ignoring such things for now. But at
-the end of this whole story I'll make a list of things that I left out.
+If we wanted to actually prove some of the things that I will later claim to be true about
+Hilbert spaces and operators we would need some of the more technical results from
+functional analysis. Doing such proofs is way above my pay grade so I'm mostly ignoring
+such things for now. But at the end of this whole story I'll make a list of things that I
+left out.
 
 After working out the mathematical basis for quantum theory Von Neumann went on to invent
 the [dominant model](https://en.wikipedia.org/wiki/Von_Neumann_architecture) that we still
@@ -146,11 +149,11 @@ having written some clever piece of code.
 
 ### Basis Vectors
 
-There is a third important fact about Hilbert spaces that we need to cover so that the
-language we use later will make sense. In a vector space a _basis_ is a set of vectors
-that one can use to represent any other vector in the space using linear combinations. If
-this set is _finite_, meaning that you can count up the number of basis vectors you need
-with your fingers, then we say that the vector space is "finite dimensional".
+The third important fact about Hilbert spaces that we will need is the idea of a _basis_.
+In a Hilbert space (really any vector space) a _basis_ is a set of vectors that one can
+use to represent any other vector in the space using linear combinations. If this set is
+_finite_, meaning that you can count up the number of basis vectors you need with your
+fingers, then we say that the vector space is "finite dimensional".
 
 The most familiar example of a finite dimensional Hilbert space is $\mathbb R^n$ (and also
 $\mathbb C^n$ if you like complex numbers). Here the basis that we all know about is the
@@ -215,10 +218,9 @@ complication here.
 
 ### Operators and Observables
 
-The _observables_ of a quantum system are, I guess, what we can observe about them. Again,
-in classical physics we did not think about observables too much. They were just simple
-numbers or list of numbers that in principe you can just read off of the mathematical model
-that you are working with.
+In classical mechanics we did not think about observables too much. They were just simple
+numbers or list of numbers that in principe you can just read off of the mathematical
+model that you are working with.
 
 But, in quantum mechanics, observables, like the states before them, become a more abstract
 thing, and that thing is what we call a _self-adjoint linear operator_ on the Hilbert
@@ -379,24 +381,28 @@ i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
 $$
 
 The Schrödinger equation is what we call a  linear differential equation, since there are
-no second derivatives or other squared terms. So, it turns out that it defines one of our
-coveted self-adjoint linear operators on the Hilbert space of wave functions. This means
-that there will be some set of states that obey this rule:
+no second derivatives or other squared terms. The trick to solving the hydrogen atom is
+first finding a Hamiltonian $H$ that correctly describes the behavior of the electron in
+the atom. It turns out that when you do this you will define one of our coveted
+self-adjoint linear operators on the Hilbert space of wave functions. This means that
+there will be some set of states that obey this rule:
 
 $$
-H | \psi \rangle  = E | \psi \rangle .
+H | \psi \rangle  = E | \psi \rangle 
 $$
 
-Where $E$ here is just a real number, rather than an operator (I can't write down $e$ for
-this, because $e$ already means something else ... sigh).
+where $E$ here is just a real number, rather than an operator. We use the letter $E$ to
+stand for energy. These energies will be the energies that appear in the spectrum of the
+atom.
 
 So here is why we were going on about eigen-things before (and linear operators before
-that, and vector spaces before that). What have here is that $H$ is a self-adjoint
-operator whose the eigenvalues are the energies in the spectrum of the atom. The
-eigenvectors are the electron wave functions that define the fixed energy levels at which
-we see spectral lines. And an amazing fact about the world is that you can actually set up
-a model of the hydrogen atom so that things work out in exactly this way. The setup is
-somewhat technical and complicated, so we'll use an easier example in the next part.
+that, and vector spaces before that). The Hamiltonian for the hydrogen atom $H$ is a
+self-adjoint operator whose the eigenvalues are the energies in the spectrum of the atom.
+The eigenvectors are the electron wave functions that define the fixed energy levels at
+which we see spectral lines. And an amazing fact about the world is that you can actually
+set up a model of the hydrogen atom so that things work out in exactly this way. The setup
+is somewhat technical and complicated, so I don't cover that here. I'll use a simpler
+system to describe the rest of what I want to talk about.
 
 Speaking of which.
 
@@ -421,20 +427,22 @@ and the eigenvectors are the states that achieve those values. In addition, for 
 operators that represent observables, we can find eigenvectors that form an orthonormal
 basis of the underlying state space. Which is really convenient.
 
-OK. See you in [Part 3](measurement.html).
+Of course, I _still_ have not said anything about measurement, and you should be furious
+with me. I promise I will in part 3.
 
 
 ### References
 
 Here are some things I like.
 
-1. Hughes' [The Structure and Interpretation of Quantum
-Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929), is more
-philosophical.
-
 1. Isham's [Lectures on Quantum
 Theory](https://www.amazon.com/Lectures-Quantum-Theory-Mathematical-Foundations/dp/1860940013),
 is more mathematical.
+
+1. Stephanie Singer's [algebraic
+treatment](https://link.springer.com/book/10.1007/b136359https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)
+of the hydrogen atom is also enjoyable, but much more technical from a mathematical point
+of view.
 
 1. [Peres](https://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321/)
 and
@@ -455,4 +463,4 @@ rigorous way.
 
 1. Frederic Schuller's [lectures on quantum
 mechanics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6) also
-gives you a fairly rigorous mathematical view of this material.
+gives you a rigorous mathematical view of this material.

@@ -9,9 +9,6 @@ mathematical formalism of quantum mechanics to be able to talk about the measure
 paradox in a reasonably precise way. If you were smart and skipped ahead to here you can
 now get the whole answer without reading through all that other tedious nonsense.
 
-We'll start this last part of the story by describing a famous example of a two-state
-quantum system.
-
 For reference, here are the rules that we currently know about quantum mechanics:
 
 1. States are vectors in a Hilbert space.
@@ -27,7 +24,7 @@ operators that represent observables, the eigenvectors always form an orthonorma
 the underlying state space.
 
 At this point you should be _screaming_ at me. I've been telling you from the beginning
-that I was going to talk about _measurement_ and here we are 6,000 words in the future and
+that I was going to talk about _measurement_ and here we are 4,000 words in the future and
 I still have not said thing one about it. What an asshole.
 
 Well now we'll finally talk about measurement.
@@ -160,8 +157,10 @@ So the $S_z$ box looks like this:
 <img src="../images/z-spin.pdf"></a>
 
 Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
-down stuff comes out the bottom. For a particle in an unknown state, we get spin up half the
-time and spin down half the time.
+down stuff comes out the bottom. For a beam of particles in an unknown state, we get spin
+up half the time and spin down half the time, on average. This makes a certain amount of
+intuitive sense since we are averaging over all possible linear combinations of "up" and
+"down". 
 
 Now we can arrange these boxes in various ways and learn more about how quantum systems
 behave when we measure them. Not surprisingly, if you put another $S_z$ box right after
@@ -172,7 +171,9 @@ particles.
 <img src="../images/z-z-spin.pdf"></a>
 
 This behavior might make you think that $z$ spin is a property that we an attach to the
-electron, perhaps for all time, like classical properties. Keep this thought in your brain.
+electron, perhaps for all time, like classical properties, and that this box acts like a
+filter that just reads off the property and sends the particles the right way. Keep this
+thought in your brain.
 
 Next, we can see that the relationship of $S_z$ to $S_x$ is also straightforward. A
 particle that has a definite $z$ spin still has an undefined $x$ spin:
@@ -181,17 +182,22 @@ particle that has a definite $z$ spin still has an undefined $x$ spin:
 <img src="../images/z-x-spin.pdf"></a>
 
 So here when we put a $S_x$ box right after the $S_z$ box we will get $x$ spin up and $x$
-spin down half the time.
+spin down half the time. If I had shown you all of the math, we'd know that this happens
+because the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
+eigenvectors with coefficients that make these probabilities 1/2. Some of the references
+at the end go into these details.
 
-Interestingly though, measuring the $x$ spin also seems to wipe away whatever $z$ spin we
-saw before. So here if we start with $S_z$, then follow it with $S_x$, then follow it
-again with $S_z$ the particle somehow loses its $z$ spin after going through the $S_x$ box:
+Finally, we can do one more experiment where we put another $S_z$ box after the $S_x$ box
+above. 
 
 <a href="../images/z-spin.pdf">
 <img src="../images/z-x-z-spin.pdf"></a>
 
-This is a bit surprising. Somehow going through the $S_x$ box has made the $z$ spin
-undefined again, and we go back to 50/50 instead of 100% spin up.
+We might think that all of the particles coming out of the $S_x$ box should be $z$ spin
+"up" since we already filtered those out before. Sadly, this is not the case. Measuring
+the $x$ spin seems to wipe away whatever $z$ spin we saw before. This is surprising.
+Somehow going through the $S_x$ box has made the $z$ spin undefined again, and we go back
+to 50/50 instead of 100% spin up.
 
 ### The Problem
 
@@ -210,3 +216,16 @@ link](https://www.google.com/books/edition/The_Principles_of_Quantum_Mechanics/X
 which is likely to be more reliable) and [von
 Neumann](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics)
 are still pretty readable.
+
+1. Travis Norsen's [Foundations of Quantum
+   Mechanics](https://link.springer.com/book/10.1007/978-3-319-65867-4) is a great
+   introduction to this material. A good combination of nuts and bolts physics and
+   discussions of the conceptual issues.
+
+1. Sakurai's [Modern Quantum
+   Mecanics](https://www.amazon.com/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229)
+   starts with a good discussion of the spin experiments I used as an example.
+
+1. Hughes' [The Structure and Interpretation of Quantum
+Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
+too, but is a more philosophical look at the material.

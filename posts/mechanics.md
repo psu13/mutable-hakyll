@@ -260,11 +260,6 @@ some better sources than this humble web page.
    Cookbook](https://www.amazon.com/Quantum-Cookbook-Mathematical-Foundations-Mechanics/dp/0198827857/)
    is a good semi-historical treatment of early QM.
 
-3. Stephanie
-Singer's [much more algebraic
-treatment](https://link.springer.com/book/10.1007/b136359https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)
-is also enjoyable, but much more technical from a mathematical point of view.
-
 3. <a
    href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">This
    series of lectures from Allan Adams at MIT</a> is very good.
