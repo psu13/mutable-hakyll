@@ -12,8 +12,7 @@ science but strangely, no one really seems to agree about how it works.
 
 And now I've done it to you too. One of the main reasons people write this sentence over
 and over again is because of what is called _the measurement problem_. Here is a way to
-state the measurement problem, which I will then try to explain to you in the rest of the
-article.
+state the measurement problem, which I will then try to explain to you.
 
 The measurement problem refers to the following facts, which seem to contradict each
 other:
@@ -34,12 +33,9 @@ mechanics in enough detail to be able to express the measurement problem in a wa
 relatively rigorous. This mostly boils down to a lot of tedious and basic facts about
 linear algebra, instead of all the scary differential equations from part 1. It will
 be an abstract slog, but I'll try to leave out enough of the really boring details to keep
-it light, and also provide one simple example at the end that holds the whole thing
-together.
+it light. Personally I find the algebraic material a lot easier to understand than the
+more difficult differential equation solving.
  
-If you want to skip to the end, here is the essence of the answer in twelve words: the
-measurement problem occurs because of the inherent linearity of quantum mechanics.
-
 ### Quantum States and Hilbert Space
 
 The rules of quantum mechanics are about _states_ and _observables_. These are both
@@ -49,9 +45,9 @@ section a bit shorter and less tedious I link out to Wikipedia for many of the
 mathematical details, and just provide the highlights that we need here.
 
 Quantum states live in a thing called a [_Hilbert
-space_](https://en.wikipedia.org/wiki/Hilbert_space), which is a special kind of
-vector space. Observables are a particular kind of linear function, or _operator_ on a
-Hilbert space. 
+space_](https://en.wikipedia.org/wiki/Hilbert_space), which is a special kind of [vector
+space](https://en.wikipedia.org/wiki/Vector_space). Observables are a particular kind of
+linear function, or _operator_ on a Hilbert space. 
 
 The ingredients that make up a Hilbert space are:
 
@@ -138,6 +134,11 @@ functional analysis was the right framework to use to formalize Schrödinger's w
 functions. And that's what he did in his [famous book about quantum
 mechanics](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics).
 
+If we wanted to actually prove some of the things I claim later about Hilbert spaces and
+operators we would need some of the more technical results from functional analysis. Doing
+such proofs is way above my pay grade so I'm mostly ignoring such things for now. But at
+the end of this whole story I'll make a list of things that I left out.
+
 After working out the mathematical basis for quantum theory Von Neumann went on to invent
 the [dominant model](https://en.wikipedia.org/wiki/Von_Neumann_architecture) that we still
 use to describe computers. So think about that next time you are feeling yourself after
@@ -145,7 +146,7 @@ having written some clever piece of code.
 
 ### Basis Vectors
 
-There is one final important fact about vector spaces that we need to cover so that the
+There is a third important fact about Hilbert spaces that we need to cover so that the
 language we use later will make sense. In a vector space a _basis_ is a set of vectors
 that one can use to represent any other vector in the space using linear combinations. If
 this set is _finite_, meaning that you can count up the number of basis vectors you need
@@ -202,7 +203,7 @@ By convention we write vectors in columns, which will make more sense in the nex
 And thus we have built the standard sort of coordinate system that we all know and love
 from 10th grade math.
 
-This sort of basis for $\mathbb R^n$ also has the property that it is _orthonormal_,
+This sort of basis for $\mathbb C^n$ also has the property that it is _orthonormal_,
 meaning that with the standard inner product all of the unit vectors are orthogonal to each
 other (their mutual inner products are always zero).
 
@@ -316,7 +317,8 @@ $$
 We can remove the $^*$ because $A = A^*$.
 
 In a lot of physics books you will also see self-adjoint operators referred to as
-_Hermitian_ operators. In the finite dimensional case the two terms are equivalent.
+_Hermitian_ operators. In the finite dimensional complex case the two terms are
+equivalent.
 
 Self-adjoint operators have some nice properties for physics. The reason why has to do with
 eigen-things.
@@ -357,15 +359,15 @@ above is that self-adjoint operators have two nice properties related to eigen-t
 space is over the complex numbers).
 
 1. There is a famous theorem that says that every self-adjoint operator has a set of
-eigenvectors that form a _basis_ of the underlying Hilbert space. This theorem is called
-the _spectral_ theorem and the eigenvectors/values of the operator are called its
-_spectrum_.
+eigenvectors that form a _orthonormal basis_ of the underlying Hilbert space. This theorem
+is called the _spectral_ theorem and the eigenvectors/values of the operator are called
+its _spectrum_. This is a very important result for quantum mechanics.
 
 ### Circling Back on the Atom
 
 At this point you might be thinking to yourself, "I have seen this word 'spectrum'
 before". And you have. One of the earliest problems in quantum mechanics was to explain
-the spectral lines of the hydrogen atom. You will recall that the famous Schödinger
+the spectral lines of the hydrogen atom. You will recall that the famous Schrödinger
 equation, in fact, is an expression for _energy_, and the spectral lines are an
 arrangement of energy "levels" that we think of as different orbits in the atom (even
 though they are not).
@@ -416,16 +418,15 @@ for the Hamiltonian. Time evolution of states is then given by the
 
 1. The possible values of observables are the eigenvalues of the corresponding operator,
 and the eigenvectors are the states that achieve those values. In addition, for the
-operators that represent observables, the eigenvectors always form an orthonormal basis of
-the underlying state space. Which is really convenient.
+operators that represent observables, we can find eigenvectors that form an orthonormal
+basis of the underlying state space. Which is really convenient.
 
 OK. See you in [Part 3](measurement.html).
 
 
 ### References
 
-Here are some books I like that take the "linear algebra" viewpoint of quantum mechanics
-and run with it.
+Here are some things I like.
 
 1. Hughes' [The Structure and Interpretation of Quantum
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929), is more
@@ -443,6 +444,15 @@ are more "physics oriented" books that start from the algebraic point of view.
 is also covers this material, but from a more traditional point of view, but it's a nice
 illustration of how the physics view and the algebraic view are related.
    
-1. Finally, Scott Aaronson's [Quantum Computing since
+1. Scott Aaronson's [Quantum Computing since
 Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
 is a nice computer nerd's view of the world.
+
+1. Brian C. Hall's book on [Quantum Theory for
+Mathematicians](https://link.springer.com/book/10.1007/978-1-4614-7116-5) covers a lot of
+the more technical details about Hilbert spaces and their operators in more mathematically
+rigorous way.
+
+1. Frederic Schuller's [lectures on quantum
+mechanics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6) also
+gives you a fairly rigorous mathematical view of this material.

@@ -200,6 +200,8 @@ undefined again, and we go back to 50/50 instead of 100% spin up.
 
 ### References
 
+A few more things to look at.
+
 1. If you want to go all the way to the beginning with the original sources, both
 of the books by
 [Dirac](https://global.oup.com/academic/product/the-principles-of-quantum-mechanics-9780198520115?cc=us&lang=en&)
