@@ -414,10 +414,9 @@ Speaking of which.
 
 ### Break Time
 
-At this point we have put together almost all of the formalism that we need to talk about
-measurement. But this post has gone on too long, so I am going to make you read yet
-another part to get to the real point of this entire exercise. Meanwhile, here is a quick
-summary of what we have so far:
+At this point we have put together almost all of the formalism that we need. But this post
+has gone on too long, so I am going to make you read yet another part to get to the real
+point of this entire exercise. Meanwhile, here is a quick summary of what we have so far:
 
 1. States are vectors in a [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space).
 
@@ -435,7 +434,6 @@ basis of the underlying state space. Which is really convenient.
 
 Of course, I _still_ have not said anything about measurement, and you should be furious
 with me. I promise I will in part 3.
-
 
 ### References
 

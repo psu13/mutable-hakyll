@@ -153,14 +153,19 @@ down. We have three kinds of boxes that each measure the spin in a different dir
 
 So the $S_z$ box looks like this:
 
-> <a href="../images/z-spin.pdf">
-<img src="../images/z-spin.pdf"></a>
+> <a href="../images/z-spin-50.pdf">
+<img src="../images/z-spin-50.pdf"></a>
 
 Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
 down stuff comes out the bottom. For a beam of particles in an unknown state, we get spin
-up half the time and spin down half the time, on average. This makes a certain amount of
-intuitive sense since we are averaging over all possible linear combinations of "up" and
-"down". 
+up half the time and spin down half the time, on average. This seems plausible after you
+accept that there can only be two spin values, given that the particle beam is a uniform
+"mixture" of all possible spin states.
+
+A more rigorous argument that the answer here should be 50/50 is a bit subtle, and
+involves a more general notion of state and measurement than I have presented. I'll just
+leave it at that for now. In any case when you actually _run_ the experiment this is the
+answer you get, so there is that.[^1]
 
 Now we can arrange these boxes in various ways and learn more about how quantum systems
 behave when we measure them. Not surprisingly, if you put another $S_z$ box right after
@@ -203,7 +208,6 @@ to 50/50 instead of 100% spin up.
 
 ### Things I Left Out, Lies I Told
 
-
 ### References
 
 A few more things to look at.
@@ -229,3 +233,11 @@ are still pretty readable.
 1. Hughes' [The Structure and Interpretation of Quantum
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
 too, but is a more philosophical look at the material.
+
+### Notes
+
+[^1]: The way you calculate a probability of 1/2 for the undefined states is to represent
+them as a random "mixture" of all possible spin states and use a more general state object
+called a density matrix to represent the state. With this representation the probability
+of getting either spin up or spin down in the experiment then turns out to be 1/2. Any of
+the references above can teach you about this.
