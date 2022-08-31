@@ -89,7 +89,7 @@ This rule, it turns out, is the [most important rule in Quantum
 Mechanics](https://youtu.be/Ei8CFin00PY?t=37m58s) and is famously called the
 _superposition principle_. You will also see states that are written down this way called
 _superposition states_. But, this terminology is more magic sounding than it needs to be.
-This is is just a linear combination of two states, and the fact that you always get
+This is just a linear combination of two states, and the fact that you always get
 another state is also a straightforward consequence of the form of the Schrödinger
 equation (it is what we call a first order, or _linear_ differential equation). Linearity
 plays a big role in the eventual measurement puzzle, so store that away in our memory for
@@ -110,7 +110,9 @@ Now we see a bit of the utility of this strange bracket notation. In Dirac's ter
 the $| \psi \rangle$ is a "ket" or "ket vector" and the $\langle \psi |$ is a "bra". So
 you put them together and you get a "bra ket" or
 ["braket"](https://en.wikipedia.org/wiki/Bra–ket_notation). So all of this silliness is in
-service of a bad pun.
+service of a bad pun. There is also some subtle math that you have to do to make sure that
+the "bra" $\langle \psi |$ is a thing that makes sense in this context, but let's assume we have
+done that and it has all worked out.
 
 Those wacky physicists thought this joke was so funny that we've been stuck with this
 notation for a hundred years now.
