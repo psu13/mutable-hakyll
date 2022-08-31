@@ -160,12 +160,10 @@ Electrons (say) go in the left hole and the spin up stuff comes out the top and 
 down stuff comes out the bottom. For a beam of particles in an unknown state, we get spin
 up half the time and spin down half the time, on average. This seems plausible after you
 accept that there can only be two spin values, given that the particle beam is a uniform
-"mixture" of all possible spin states.
-
-A more rigorous argument that the answer here should be 50/50 is a bit subtle, and
-involves a more general notion of state and measurement than I have presented. I'll just
-leave it at that for now. In any case when you actually _run_ the experiment this is the
-answer you get, so there is that.[^1]
+mix of all possible spin states. A more rigorous argument that the answer here should be
+50/50 is a bit subtle, and involves a more general notion of state and measurement than I
+have presented. I'll just leave it at that for now. In any case when you actually _run_
+the experiment this is the answer you get, so there is that.[^1]
 
 Now we can arrange these boxes in various ways and learn more about how quantum systems
 behave when we measure them. Not surprisingly, if you put another $S_z$ box right after
@@ -189,11 +187,13 @@ particle that has a definite $z$ spin still has an undefined $x$ spin:
 So here when we put a $S_x$ box right after the $S_z$ box we will get $x$ spin up and $x$
 spin down half the time. If I had shown you all of the math, we'd know that this happens
 because the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
-eigenvectors with coefficients that make these probabilities 1/2. Some of the references
-at the end go into these details.
+eigenvectors with coefficients that make these probabilities 1/2. This happens to be true
+for the eigenvectors of all the spin operators, so you always get this even split if you
+measure from different axes in a sequential fashion. Some of the references at the end go
+into these details.
 
-Finally, we can do one more experiment where we put another $S_z$ box after the $S_x$ box
-above. 
+We can push on this idea a bit more by adding yet another $S_z$ box on the end of the
+experiment above. When we do this we get a result that is somewhat surprising.
 
 <a href="../images/z-spin.pdf">
 <img src="../images/z-x-z-spin.pdf"></a>
