@@ -393,9 +393,9 @@ fill those in.
    lectures](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
    or any of the more mathematical books that I listed cover this.
 
-1. Related to both of the above ... it's not really clear to me why the first box in the
-   spin experiments should take random states and split them exactly 50/50. But I went
-   with it anyway.
+1. Related to both of the above ... the fact first box in the spin experiments should take
+   random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
+   100% sure I understand all the details about it.
 
 1. In the final statement of the measurement problem I left out the entire huge world of
    _entangled_ states because I did not want to introduce any more formalism. Entanglement
@@ -410,7 +410,7 @@ fill those in.
 
 1. I wish I could have talked about the two slit experiment. But, I'd have done a lousy
    job so go read [Feynman](https://www.feynmanlectures.caltech.edu/III_01.html) instead.
-   
+
 ### References
 
 More references, some repeated from the other parts because I like them just that much.
