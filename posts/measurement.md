@@ -421,9 +421,6 @@ fill those in.
    is also just too big a subject to mention that late and not go into it. Maybe we'll
    cover that in a future part 4.
 
-1. I should have emphasized somewhere that $| 0 \rangle = z_+$ and $| 1 \rangle = z_-$, but I
-   never got around to it.
-
 1. I mostly played fast and loose with normalization when talking about quantum states and
    operators. I should have been much more careful, but I'm lazy.
 
