@@ -182,8 +182,8 @@ What is more interesting for us is what happens when you put multiple spin measu
 together and take sequential measurements.
 
 So, first suppose we put another $S_z$ box right after the first one. What we should
-observe is that all of the particles come out of the "spin up" hole of the second box.
-This seems very reasonable, since they are all spin up. particles. 
+observe is that all of the particles that enter the second box come out of the "spin up"
+hole of the second box. This seems very reasonable, since they are all spin up. particles. 
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
