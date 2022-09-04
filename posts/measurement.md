@@ -285,8 +285,8 @@ be one of the eigenvalues $\lambda$ of $O$ with a probability determined by the 
 In addition, _after_ the measurement the system will evolve to a new state $\psi'$, which
 will be the eigenvector that corresponds to the eigenvalue that we obtained.
 
-This rule, along with the original rule about eigenvalues and eigenvectors is in the
-formalism to make it agree with the following general _experimental_ fact:
+We seem to need this rule, along with the original rule about eigenvalues and eigenvectors
+to make our formalism agree with the following general _experimental_ fact:
 
 Whenever we measure a quantum system we always get one definite answer, and if we measure
 the system again in the same way, we get the same single answer again.
@@ -344,29 +344,38 @@ question, so that's what I will do. Here are some things you can think:
 
 1. The measurement process is an unfathomably complicated interaction between an atomic
    (quantum) object and a giant classical measuring device and some part of this
-   interaction accounts for the macroscopic behavior of measurements. Until we understand
-   how this works, just use the rules and be happy. This is the somewhat standard text
-   book stance, often also called the "Copenhagen" interpretation, although the connection
-   there is a bit tenuous and complicated.
+   interaction accounts for the macroscopic behavior of measurements. We will not
+   understand the measurement puzzle until we understand what is really going on there.
+
+1. The standard text book stance then just states the collapse rule as a postulate and
+   also says something like: until we understand how measurement works, just use the rules
+   and try to be happy. This is also often also called the "Copenhagen" interpretation,
+   although the [Copenhagen story](https://plato.stanford.edu/entries/qm-copenhagen/) is
+   actually a lot more complicated than this.
 
 1. The superpositions don't actually collapse, we just can't see the other branches. This
-   is the Everett and/or the "Many Worlds" idea.
+   is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or the ["Many
+   Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
 
 1. Quantum states are not actually things that exist in the world, they are measures of
    what we know about the world. So the "collapse" process is just the observer updating
-   their knowledge of the world and is completely natural.
+   their knowledge of the world and is completely natural. The most recent instance of
+   this idea is [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
 
-1. Wave functions actually collapse through some random physical process, and we can use
-   this fact to derive the measurement behavior (and perhaps the Born rule). The most
-   famous theory like this is the GRW stuff.
+1. Wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
+   through some random physical process, and we can use this fact to derive the
+   measurement behavior (and perhaps the Born rule). The most famous theory like this is
+   the [GRW stuff](https://plato.stanford.edu/entries/qm-collapse/).
 
 1. The wave functions do not describe the entire state of the system. Instead there is
-   some other part of the state that accounts for this collapse behavior. The most popular
-   version of this idea is the "pilot wave" or "Bohmian" version of quantum mechanics.
+   some other part of the state that gives systems definite measured properties. The most
+   popular version of this idea is the "pilot wave" or
+   ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
-1. There are also linear combinations of some of these ideas. Modal interpretations, for
-   example, seem to combine some ideas from Bohm with the no collapse idea, resulting in
-   something that I have never been able to understand.
+1. There are also linear combinations of some of these ideas. [Modal
+   interpretations](https://plato.stanford.edu/entries/qm-modal/), for example, seem to
+   combine some ideas from Bohm with the no collapse idea, resulting in something that I
+   have never been able to understand.
 
 The most interesting current trains of thought on these questions, to me, are papers like
 this one: [Is the quantum state real? An extended review of _ψ_-ontology
@@ -379,6 +388,10 @@ to explain (although who knows if I actually did it) the weird conceptual questi
 center of the theory remains: what does the formalism actually tell us about the world?
 Why is it that there are clearly pieces that are missing or that in any case we seem not
 to be able to directly observe? And why can't we seem to figure out what those pieces are?
+
+If forced to take a stance I would probably say that I find the first and sixth ideas the
+most attractive. There is more going on here than we currently understand, and hopefully
+at some point more understanding will clear up the puzzle.
 
 ### Things I Left Out, Lies I Told
 
@@ -393,7 +406,9 @@ fill those in.
    lectures](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
    or any of the more mathematical books that I listed cover this.
 
-1. Related to both of the above ... the fact first box in the spin experiments should take
+1. I never mentioned decoherence. I am a bad person.
+
+1. Related to all of the above ... the fact first box in the spin experiments should take
    random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
    100% sure I understand all the details about it.
 
@@ -444,8 +459,8 @@ are still pretty readable.
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
 too, but is a more philosophical look at the material.
 
-1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qm/) has a
-   lot of material on [quantum mechanics and its
+1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) has a
+   lot of material on [quantum mechanics](https://plato.stanford.edu/entries/qm/) and [its
    interpretation](https://plato.stanford.edu/entries/qt-issues/). Their summary page is
    also a bit shorter, yet also more detailed, than my effort here.
 
