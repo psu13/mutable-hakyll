@@ -446,7 +446,7 @@ operators that represent observables, we can find eigenvectors that form an orth
 basis of the underlying state space. Which is really convenient.
 
 Of course, I _still_ have not said anything about measurement, and you should be furious
-with me. I promise I will in part 3.
+with me. I promise I will in [part 3](./measurement.html).
 
 ### References
 

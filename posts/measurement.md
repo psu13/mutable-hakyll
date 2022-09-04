@@ -1,6 +1,6 @@
 ---
 title: Quantum Mechanics, Part 3 - Measurement
-date: 2022-08-31
+date: 2022-09-6
 author: psu
 ---
 
@@ -206,7 +206,8 @@ out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x
 eigenvectors with coefficients that make these probabilities 1/2. In particular:
 
 $$
-z_+ = \begin{pmatrix} 0 \\ 1 \end{pmatrix}, \, {\rm and}\,\, z_- = \begin{pmatrix} 1 \\ 0 \end{pmatrix}
+z_+ = | 0 \rangle  = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \, {\rm and}\,\, z_- = | 1
+\rangle = \begin{pmatrix} 0 \\ 1 \end{pmatrix}
 $$
 
 $$
@@ -356,7 +357,8 @@ question, so that's what I will do. Here are some things you can think:
    their knowledge of the world and is completely natural.
 
 1. Wave functions actually collapse through some random physical process, and we can use
-   this fact to derive the measurement behavior (and perhaps the Born rule).
+   this fact to derive the measurement behavior (and perhaps the Born rule). The most
+   famous theory like this is the GRW stuff.
 
 1. The wave functions do not describe the entire state of the system. Instead there is
    some other part of the state that accounts for this collapse behavior. The most popular
@@ -380,9 +382,38 @@ out what those pieces are?
 
 ### Things I Left Out, Lies I Told
 
+1. I left out a lot of important details related to the structure of Hilbert space. In the
+finite dimensional case they don't matter too much but they are critical in the infinite
+dimensional case. Watch [Schuller's lectures on quantum
+mechanics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6) to
+fill those in.
+
+1. I really only covered the simplest possible models of quantum states, observables and
+   measurements. Mixed state, density operators, POVMs and all that are missing. [Schuller's
+   lectures](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
+   or any of the more mathematical books that I listed cover this.
+
+1. Related to both of the above ... it's not really clear to me why the first box in the
+   spin experiments should take random states and split them exactly 50/50. But I went
+   with it anyway.
+
+1. In the final statement of the measurement problem I left out the entire huge world of
+   _entangled_ states because I did not want to introduce any more formalism. Entanglement
+   is also just too big a subject to mention that late and not go into it. Maybe we'll
+   cover that in a future part 4.
+
+1. I should have emphasized somewhere that $| 0 \rangle = z_+$ and $| 1 \rangle = z_-$, but I
+   never got around to it.
+
+1. I mostly played fast and loose with normalization when talking about quantum states and
+   operators. I should have been much more careful, but I'm lazy.
+
+1. I wish I could have talked about the two slit experiment. But, I'd have done a lousy
+   job so go read [Feynman](https://www.feynmanlectures.caltech.edu/III_01.html) instead.
+   
 ### References
 
-A few more things to look at.
+More references, some repeated from the other parts because I like them just that much.
 
 1. If you want to go all the way to the beginning with the original sources, both
 of the books by
@@ -398,6 +429,13 @@ are still pretty readable.
    introduction to this material. A good combination of nuts and bolts physics and
    discussions of the conceptual issues.
 
+1. David Albert's [Quantum Mechanics and
+   Experience](https://www.hup.harvard.edu/catalog.php?isbn=9780674741133) (also at
+   [amazon](https://www.amazon.com/Quantum-Mechanics-Experience-David-Albert/dp/0674741137))
+   has a nice
+   abstracted description of the spin-box experiment that I have butchered above. This one
+   goes well with Norsen.
+
 1. Sakurai's [Modern Quantum
    Mecanics](https://www.amazon.com/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229)
    starts with a good discussion of the spin experiments I used as an example.
@@ -407,8 +445,10 @@ Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts th
 too, but is a more philosophical look at the material.
 
 1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qm/) has a
-   lot of material on quantum mechanics and its interpretation. Their summary page is also
-   a bit shorter, yet also more detailed, than my effort here.
+   lot of material on [quantum mechanics and its
+   interpretation](https://plato.stanford.edu/entries/qt-issues/). Their summary page is
+   also a bit shorter, yet also more detailed, than my effort here.
+
 
 ### Notes
 
