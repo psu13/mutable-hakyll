@@ -408,6 +408,11 @@ fill those in.
 
 1. I never mentioned decoherence. I am a bad person.
 
+1. I also skipped all of the stuff related to the algebraic relationships between
+   operators and whether they "commute" or not, and thus the entire uncertainty principle.
+   This is a big part of the overall story, but it's also just too much for what I wanted
+   to do
+
 1. Related to all of the above ... the fact first box in the spin experiments should take
    random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
    100% sure I understand all the details about it.
