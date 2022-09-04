@@ -29,10 +29,10 @@ I still have not said thing one about it. What an asshole.
 
 Well now we'll finally talk about measurement.
 
-As with my other technical expositions on subjects that are not about computers, I am the
-furthest thing from an expert on this subject, I'm just organizing what I think are the
-most interesting ideas about what is going on here, and hoping that I'm not too wrong.
-I'll provide a list of more better sources at the end.
+As I said in the other two parts, I am the furthest thing from an expert on this subject,
+I'm just trying to organize what I think are the most interesting ideas about what is
+going on here, and hoping that I'm not too wrong. I'll provide a list of more better
+sources at the end.
 
 ### Measurement and Probability
 
@@ -163,18 +163,27 @@ So the $S_z$ box looks like this:
 
 Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
 down stuff comes out the bottom. We start with a beam of particles where each particle is
-in a completely random state. Since we can only observe two states it makes sense that a
-completely randomized beam should be the same as a beam where half of the particles are
-spin up and the other half are spin down. Therefore, we get a 50/50 split between the two
-resulting beams. A more rigorous argument that the answer here should be 50/50 is a bit
-subtle, and involves a more general notion of state and measurement than I have presented.
-I'll just leave it at that for now. In any case when you actually _run_ the experiment
-this is the answer you get, so there is that.[^1]
+in a completely random state. What ends up happening in this experiment is that half of
+the particles end up at the "spin up" hole and the other half end up at the "spin down"
+hole. This is a rather strange result given a classical understanding of electromagnetism.
 
-Now we can arrange these boxes in various ways and learn more about how quantum systems
-behave when we measure them. Not surprisingly, if you put another $S_z$ box right after
-the first one and capture the stream of spin up particles, you get nothing but spin up
-particles. 
+A more rigorous _quantum mechanical_ argument that the answer here should be 50/50 is a
+bit subtle, and involves a more general notion of state and measurement than I have
+presented. But, it makes a certain amount of sense if you believe that all of those random
+particles are in a state that is a linear combination of $z$-up and $z$-down, and you also
+believe the Born rule. You then average over a uniform probability distribution and 50/50
+seems like it should be right.[^1]
+
+The literature is also full of much more complicated calculations of the path
+that a single particle should take through this experiment. But we are also going to
+ignore all of that.
+
+What is more interesting for us is what happens when you put multiple spin measuring boxes
+together and take sequential measurements.
+
+So, first suppose we put another $S_z$ box right after the first one. What we should
+observe is that all of the particles come out of the "spin up" hole of the second box.
+This seems very reasonable, since they are all spin up. particles. 
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
@@ -190,27 +199,184 @@ particle that has a definite $z$ spin still has an undefined $x$ spin:
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-x-spin.pdf"></a>
 
-So here when we put a $S_x$ box right after the $S_z$ box we will get $x$ spin up and $x$
-spin down half the time. If I had shown you all of the math, we'd know that this happens
-because the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
-eigenvectors with coefficients that make these probabilities 1/2. This happens to be true
-for the eigenvectors of all the spin operators, so you always get this even split if you
-measure from different axes in a sequential fashion. Some of the references at the end go
-into these details.
+So here when we put a $S_x$ box right after the $S_z$ box we and send all the $z$ spin up
+particles through we will get $x$ spin up half the time and $x$ spin down half the time.
+If you study the material on the Paul matrices above this will make sense because it turns
+out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
+eigenvectors with coefficients that make these probabilities 1/2. In particular:
 
-We can push on this idea a bit more by adding yet another $S_z$ box on the end of the
-experiment above. When we do this we get a result that is somewhat surprising.
+$$
+z_+ = \begin{pmatrix} 0 \\ 1 \end{pmatrix}, \, {\rm and}\,\, z_- = \begin{pmatrix} 1 \\ 0 \end{pmatrix}
+$$
+
+$$
+x_+ = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, x_- = {1 \over
+\sqrt{2}} \begin{pmatrix} 1 \\ -1 \end{pmatrix}
+$$
+
+From this we can figure out that, say:
+
+$$
+x_+ = {1 \over \sqrt{2}} (z_+ + z_-)
+$$
+
+and
+
+$$
+z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
+$$
+
+The Born rule then tells us that measuring the $z$-spin of a $x$-up particle will get you
+$z$-up half the time and $z$-down half the time. Similarly, measuring the $x$-spin of a
+$z$-up particle will get you $x$-up half the time and $x$-down half the time.
+
+Relationships like this also happen to be true for the all of eigenvectors of all the spin
+operators, so you will always get this kind of even split if you measure from different
+axes in a sequential fashion. Some of the references at the end go into these details.
+
+Finally, we can push on this idea a bit more by adding yet another $S_z$ box on the end of
+the experiment above. When we do this we get a result that is somewhat surprising.
 
 <a href="../images/z-spin.pdf">
-<img src="../images/z-x-z-spin.pdf"></a>
+<img src="../images/z-x-z-spin.pdf" width=800 ></a>
 
 We might think that all of the particles coming out of the $S_x$ box should be $z$ spin
-"up" since we already filtered those out before. Sadly, this is not the case. Measuring
+"up" since we already filtered for those before. Sadly, this is not the case. Measuring
 the $x$ spin seems to wipe away whatever $z$ spin we saw before. This is surprising.
 Somehow going through the $S_x$ box has made the $z$ spin undefined again, and we go back
 to 50/50 instead of 100% spin up.
 
 ### The Problem
+
+The question that the final spin-box experiment brings up is one that is at the core of
+the conceptual puzzle of quantum mechanics: does the particle have a $z$-spin at all
+unless we measure $z$-spin?
+
+We can interpret the first two experiments as behaving like sequential filters. The first
+$z$-spin box filters out just the particles with spin-up, and then we feed those to the
+second box (either $z$ or $x$) and get the expected answer. 
+
+In order to make sense of the last spin box experiment it seems like we need come to terms
+with the fact that measurements in quantum mechanics appear seem to have side effects on
+the systems that they measure. How can we account for the fact that the $z$-up property
+that the particles have before measuring the $x$-spin seems to disappear after we measure
+the $x$-spin?
+
+The standard answer to this question goes something like this:
+
+1. We start with particles with some arbitrary spin state.
+1. But, when the particles that come out of the $z_+$ hole have a definite spin of $z$-up.
+1. Thus if the second box measures $z$-spin again, all the particles are spin up, and they
+all come out of the $z$-up hole.
+1. But, if the second box is a $x$-spin box, then since $z_+ = {1 \over \sqrt{2}} (x_+ +
+x_-)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
+1. Finally, if we now believe that measuring the spin also resets the spin state of the
+particle, like in step 2 above, then the new state of the particle after the $x$-spin box
+should be $x_+ = {1 \over \sqrt{2}} (z_+ + z_-)$, which is why in the third and last box
+the $z$-spin is indeterminate again.
+
+Thus, we are led to add one more rule to the four we already had for how quantum
+mechanics works:
+
+5. Suppose we have a quantum system that is in some state $\psi$ and we perform a
+measurement on the system for an observable $O$. Then the result of this measurement will
+be one of the eigenvalues $\lambda$ of $O$ with a probability determined by the Born rule.
+In addition, _after_ the measurement the system will evolve to a new state $\psi'$, which
+will be the eigenvector that corresponds to the eigenvalue that we obtained.
+
+This rule, along with the original rule about eigenvalues and eigenvectors is in the
+formalism to make it agree with the following general _experimental_ fact:
+
+Whenever we measure a quantum system we always get one definite answer, and if we measure
+the system again in the same way, we get the same single answer again.
+
+This rule, is, of course, the famous "collapse of the wave function", and with the
+background that I have made you slog through it should really be bothering you now.
+
+Recall that until now all of quantum mechanics has been simple, continuous, and most of
+all _linear_. The only time evolution rule that we have, the Schrödinger equation, very
+carefully evolves states in a way that always preserves linear combinations. So if we
+start in a state like
+
+$$
+ψ_0 = c_1ψ_1 + c_2ψ_2
+$$
+
+we smoothly and linearly move to another state like
+
+$$
+ψ_0' = c_1'ψ_1' + c_2'ψ_2' .
+$$
+
+If we want to believe that quantum mechanics is a general theory that not only describes
+(say) how electrons with spin move but also describes how the electron with spin interacts
+with the box that measures the spin, then when we start with an electron in some
+superposition state (a linear combination like above) we better also end in a state that
+is a superposition. But that is not what happens.
+
+If we start with a particle in the state
+
+$$
+z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
+$$
+
+and push it into the $x$-spin box, it comes out as either $x_+$ or $x_-$. The
+superposition is destroyed. Further if we changed the box to one that just (say) had a
+blue light for up and a red light for down, we never see a universe where a particle goes
+into the box and then the result of the experiment is the particle putting the box into a
+superposition of blue and red. We always get one box at the end, and either blue or red.
+
+If you add a cat to the box, then you have Schrödinger's famous cat puzzle.
+
+So this, dear friends, is the measurement problem. With all of the formal background that
+we've laid out in the last two parts we can write it down in just a few words:
+
+If quantum mechanics is a linear theory, then why does measuring things destroy
+superpositions?
+
+### Possible Answers
+
+The literature on the "interpretation of quantum mechanics" is of course full of deep
+thoughts about the questions that the measurement problem raises. I could not possibly do
+more than unfairly caricature the various possible stances that one could have about this
+question, so that's what I will do. Here are some things you can think:
+
+1. The measurement process is an unfathomably complicated interaction between an atomic
+   (quantum) object and a giant classical measuring device and some part of this
+   interaction accounts for the macroscopic behavior of measurements. Until we understand
+   how this works, just use the rules and be happy. This is the somewhat standard text
+   book stance, often also called the "Copenhagen" interpretation, although the connection
+   there is a bit tenuous and complicated.
+
+1. The superpositions don't actually collapse, we just can't see the other branches. This
+   is the Everett and/or the "Many Worlds" idea.
+
+1. Quantum states are not actually things that exist in the world, they are measures of
+   what we know about the world. So the "collapse" process is just the observer updating
+   their knowledge of the world and is completely natural.
+
+1. Wave functions actually collapse through some random physical process, and we can use
+   this fact to derive the measurement behavior (and perhaps the Born rule).
+
+1. The wave functions do not describe the entire state of the system. Instead there is
+   some other part of the state that accounts for this collapse behavior. The most popular
+   version of this idea is the "pilot wave" or "Bohmian" version of quantum mechanics.
+
+1. There are also linear combinations of some of these ideas. Modal interpretations, for
+   example, seem to combine some ideas from Bohm with the no collapse idea, resulting in
+   something that I have never been able to understand.
+
+The most interesting current trains of thought on these questions, to me, are papers like
+this one: [Is the quantum state real? An extended review of _ψ_-ontology
+theorems](https://arxiv.org/abs/1409.1570). This not only has a great pun in the title,
+but also examines what we really mean when we say thing like "realist" or "epistemic" in
+this context.
+
+Ultimately it's pretty clear that while the formalism of quantum mechanics is not too hard
+to explain (although who knows if I actually did it) the weird conceptual question at the
+center of the theory remains: what does the formalism actually tell us about the world?
+Why is it that there are clearly pieces that are missing? And why can't we seem to figure
+out what those pieces are?
 
 ### Things I Left Out, Lies I Told
 
@@ -239,6 +405,10 @@ are still pretty readable.
 1. Hughes' [The Structure and Interpretation of Quantum
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
 too, but is a more philosophical look at the material.
+
+1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qm/) has a
+   lot of material on quantum mechanics and its interpretation. Their summary page is also
+   a bit shorter, yet also more detailed, than my effort here.
 
 ### Notes
 
