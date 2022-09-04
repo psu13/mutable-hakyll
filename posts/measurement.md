@@ -377,7 +377,10 @@ The most interesting current trains of thought on these questions, to me, are pa
 this one: [Is the quantum state real? An extended review of _ψ_-ontology
 theorems](https://arxiv.org/abs/1409.1570). This not only has a great pun in the title,
 but also examines what we really mean when we say things like "realist", "ontological" or
-"epistemic" in this context.
+"epistemic" in this context. I also really like deep thoughts about the relationship
+between quantum and classical states of being. For example, I really enjoyed what I could
+understand in [Klaas Landsman's long treatise about these
+issues](https://arxiv.org/abs/quant-ph/0506082).
 
 Ultimately it's pretty clear that while the formalism of quantum mechanics is not too hard
 to explain (although who knows if I actually did it) the weird conceptual question at the
