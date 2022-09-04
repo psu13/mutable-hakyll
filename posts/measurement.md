@@ -381,8 +381,8 @@ question, so that's what I will do. Here are some things you can think:
 The most interesting current trains of thought on these questions, to me, are papers like
 this one: [Is the quantum state real? An extended review of _ψ_-ontology
 theorems](https://arxiv.org/abs/1409.1570). This not only has a great pun in the title,
-but also examines what we really mean when we say thing like "realist" or "epistemic" in
-this context.
+but also examines what we really mean when we say things like "realist", "ontological" or
+"epistemic" in this context.
 
 Ultimately it's pretty clear that while the formalism of quantum mechanics is not too hard
 to explain (although who knows if I actually did it) the weird conceptual question at the
@@ -390,9 +390,9 @@ center of the theory remains: what does the formalism actually tell us about the
 Why is it that there are clearly pieces that are missing or that in any case we seem not
 to be able to directly observe? And why can't we seem to figure out what those pieces are?
 
-If forced to take a stance I would probably say that I find the first and sixth ideas the
-most attractive. There is more going on here than we currently understand, and hopefully
-at some point more understanding will clear up the puzzle.
+If forced to take a stance I would probably say that I am most sympathetic to some
+sort of Bohm-type theory, but also that I really think we just don't understand the nature
+of quantum and quantum/classical interactions well enough to figure out this puzzle.
 
 ### Things I Left Out, Lies I Told
 
@@ -418,11 +418,11 @@ fill those in.
    100% sure I understand all the details about it.
 
 1. In the final statement of the measurement problem I left out the entire huge world of
-   _entangled_ states because I did not want to introduce any more formalism. Entanglement
-   is also just too big a subject to mention that late and not go into it. Maybe we'll
-   cover that in a future part 4.
+   _entangled_ states because I did not want to introduce any more formalism.
+   Entanglement, Bells' theorem and all that is also just too big a subject to mention
+   that late and not go into it. Maybe we'll cover that in a future part 4.
 
-1. I mostly played fast and loose with normalization when talking about quantum states and
+1. I played fast and loose with normalization when talking about quantum states and
    operators. I should have been much more careful, but I'm lazy.
 
 1. I wish I could have talked about the two slit experiment. But, I'd have done a lousy
