@@ -343,16 +343,12 @@ thoughts about the questions that the measurement problem raises. I could not po
 more than unfairly caricature the various possible stances that one could have about this
 question, so that's what I will do. Here are some things you can think:
 
-1. The measurement process is an unfathomably complicated interaction between an atomic
-   (quantum) object and a giant classical measuring device and some part of this
-   interaction accounts for the macroscopic behavior of measurements. We will not
-   understand the measurement puzzle until we understand what is really going on there.
-
-1. The standard text book stance then just states the collapse rule as a postulate and
+1. The standard text book picture just states the collapse rule as a postulate and
    also says something like: until we understand how measurement works, just use the rules
    and try to be happy. This is also often also called the "Copenhagen" interpretation,
-   although the [Copenhagen story](https://plato.stanford.edu/entries/qm-copenhagen/) is
-   actually a lot more complicated than this.
+   although that's not really right and the [Copenhagen
+   story](https://plato.stanford.edu/entries/qm-copenhagen/) is actually a lot more
+   complicated than this.
 
 1. The superpositions don't actually collapse, we just can't see the other branches. This
    is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or the ["Many
@@ -373,10 +369,9 @@ question, so that's what I will do. Here are some things you can think:
    popular version of this idea is the "pilot wave" or
    ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
-1. There are also linear combinations of some of these ideas. [Modal
-   interpretations](https://plato.stanford.edu/entries/qm-modal/), for example, seem to
-   combine some ideas from Bohm with the no collapse idea, resulting in something that I
-   have never been able to understand.
+
+There are dozens more ideas that I will not list here because I don't understand them even
+   enough to list them.
 
 The most interesting current trains of thought on these questions, to me, are papers like
 this one: [Is the quantum state real? An extended review of _ψ_-ontology
@@ -390,9 +385,9 @@ center of the theory remains: what does the formalism actually tell us about the
 Why is it that there are clearly pieces that are missing or that in any case we seem not
 to be able to directly observe? And why can't we seem to figure out what those pieces are?
 
-If forced to take a stance I would probably say that I am most sympathetic to some
-sort of Bohm-type theory, but also that I really think we just don't understand the nature
-of quantum and quantum/classical interactions well enough to figure out this puzzle.
+If forced to take a stance I would probably say that I am most sympathetic to the more
+"ontological" theories, like Bohm or Everett. But, I think we need a better understanding
+of the nature of quantum and quantum/classical interactions to figure out this puzzle.
 
 ### Things I Left Out, Lies I Told
 
