@@ -201,9 +201,10 @@ particle that has a definite $z$ spin still has an undefined $x$ spin:
 
 So here when we put a $S_x$ box right after the $S_z$ box we and send all the $z$ spin up
 particles through we will get $x$ spin up half the time and $x$ spin down half the time.
-If you study the material on the Paul matrices above this will make sense because it turns
-out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
-eigenvectors with coefficients that make these probabilities 1/2. In particular:
+If you study the material on the Pauli matrices above this will make sense because it
+turns out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
+eigenvectors with coefficients that make these probabilities 1/2 (and vice versa). In
+particular:
 
 $$
 z_+ = | 0 \rangle  = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \, {\rm and}\,\, z_- = | 1
@@ -227,7 +228,7 @@ $$
 z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
 $$
 
-The Born rule then tells us that measuring the $z$-spin of a $x$-up particle will get you
+The Born rule then tells us that measuring the $z$-spin of an $x$-up particle will get you
 $z$-up half the time and $z$-down half the time. Similarly, measuring the $x$-spin of a
 $z$-up particle will get you $x$-up half the time and $x$-down half the time.
 
@@ -241,11 +242,11 @@ the experiment above. When we do this we get a result that is somewhat surprisin
 <a href="../images/z-spin.pdf">
 <img src="../images/z-x-z-spin.pdf" width=800 ></a>
 
-We might think that all of the particles coming out of the $S_x$ box should be $z$ spin
-"up" since we already filtered for those before. Sadly, this is not the case. Measuring
-the $x$ spin seems to wipe away whatever $z$ spin we saw before. This is surprising.
-Somehow going through the $S_x$ box has made the $z$ spin undefined again, and we go back
-to 50/50 instead of 100% spin up.
+We might think that all of the particles coming out of the $S_x$ box should be $z$-spin
+"up" since we had filtered for those using the first box. Sadly, this is not the case.
+Measuring the $x$-spin seems to wipe away whatever $z$ spin we saw before. This is
+surprising. Somehow going through the $S_x$ box has made the $z$-spin undefined again, and
+we go back to 50/50 instead of 100% spin up.
 
 ### The Problem
 
