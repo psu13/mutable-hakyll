@@ -377,8 +377,8 @@ this context.
 Ultimately it's pretty clear that while the formalism of quantum mechanics is not too hard
 to explain (although who knows if I actually did it) the weird conceptual question at the
 center of the theory remains: what does the formalism actually tell us about the world?
-Why is it that there are clearly pieces that are missing? And why can't we seem to figure
-out what those pieces are?
+Why is it that there are clearly pieces that are missing or that in any case we seem not
+to be able to directly observe? And why can't we seem to figure out what those pieces are?
 
 ### Things I Left Out, Lies I Told
 
