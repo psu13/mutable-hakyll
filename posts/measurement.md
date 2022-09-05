@@ -31,8 +31,7 @@ Well now we'll finally talk about measurement.
 
 As I said in the other two parts, I am the furthest thing from an expert on this subject,
 I'm just trying to organize what I think are the most interesting ideas about what is
-going on here, and hoping that I'm not too wrong. I'll provide a list of more better
-sources at the end.
+going on here, and hoping that I'm not too wrong.
 
 ### Measurement and Probability
 
@@ -268,7 +267,7 @@ The standard answer to this question goes something like this:
 1. But, when the particles that come out of the $|z_+\rangle$ hole have a definite spin of $z$-up.
 1. Thus if the second box measures $z$-spin again, all the particles are spin up, and they
 all come out of the $z$-up hole.
-1. But, if the second box is a $x$-spin box, then since $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
+1. But, if the second box is an $x$-spin box, then since $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
 |x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
 1. Finally, if we now believe that measuring the spin also resets the spin state of the
 particle, like in step 2 above, then the new state of the particle after the $x$-spin box
@@ -413,9 +412,14 @@ There are dozens more ideas that I will not list here because I don't understand
 enough to list them.
 
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett, but even those don't make me happy. I think
-we need a better understanding of the nature of quantum and quantum/classical interactions
-to figure out this puzzle.
+"ontological" theories, like Bohm or Everett, but even those don't make me happy. My least
+favorite idea is probably QBism and its relations. I feel like there just has to be more
+to the world than the knowledge and credences of rational actors. I think we need a better
+understanding of the nature of quantum and quantum/classical interactions to figure out
+this puzzle. 
+
+When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
+Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
 
 ### Things I Left Out, Lies I Told
 
@@ -489,6 +493,16 @@ spin but is a more philosophical look at the material.
    interpretation](https://plato.stanford.edu/entries/qt-issues/). Their summary page is
    also a bit shorter, yet also more detailed, than my effort here.
 
+1. You should read [this paper](https://arxiv.org/abs/1409.1570) by Leifer just for the delicious
+   pun in the title. But it's also a great breakdown of the various ways that people talk
+   about and interpret the quantum state.
+
+1. This [much more technical paper](https://arxiv.org/abs/quant-ph/0506082) by Landsman
+   also addresses the very complicated question of how classical and quantum states are
+   related. He has an [open access
+   book](https://link.springer.com/book/10.1007/978-3-319-51777-3) that expands on these
+   ideas, especially in the chapter on the measurement problem. I don't really understand
+   any of this, but it seems like the kind of work that needs to be done.
 
 ### Notes
 
