@@ -212,7 +212,7 @@ $$
 $$
 
 $$
-|x_+\rangle = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, |x_-\rangle = {1 \over
+|z_+\rangle = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, |z_-\rangle = {1 \over
 \sqrt{2}} \begin{pmatrix} 1 \\ -1 \end{pmatrix}
 $$
 
@@ -315,45 +315,61 @@ $$
 $$
 
 To bring this back to our example, suppose our $S_x$ box is modeled as a simple quantum
-system with three states: $|s_0\rangle$ for when the box is ready to measure something,
-$|s_+\rangle$ for when it has measured spin up, and $|s_-\rangle$ for when it has measured
-spin down.
+system with three states: $|m_0\rangle$ for when the box is ready to measure something,
+$|m_+\rangle$ for when it has measured spin up, and $|m_-\rangle$ for when it has measured
+spin down. Here the $m$ is for machine, or measurement.
 
-In our experiment, we start with a particle in the state
+In our experiment, at the second box, we start with a particle in the state
 
 $$
 |z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
-and send it into the $S_x$ box, which starts in the state $|s_0\rangle$. So the state of the
+and send it into the $S_x$ box, which starts in the state $|m_0\rangle$. So the state of the
 composite system becomes the superposition:
 
 $$
-{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|s_0\rangle .
+{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle .
 $$
 
 This state means "the particle is in a superposition of $x$-spin up and $x$-spin down, and
 the measuring device is ready to measure it." [^2]
 
 If we believe that Schrödinger evolution is the only rule we have, then this state can
-only evolve to something like this:
+only evolve like this:
 
 $$
-{1 \over \sqrt{2}} \bigl(\, |x_+\rangle|s_+\rangle + |x_-\rangle|s_-\rangle \,\bigr) . 
+{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
+{1 \over \sqrt{2}} \bigl(\, |x_+\rangle|m_+\rangle + |x_-\rangle|m_-\rangle \,\bigr) . 
 $$
 
-That is, the box and the particle are now in a superposition of "spin up" and "measured
-spin up" with "spin down" and "measured spin down". The Schrödinger equation never
-removes the superposition.[^3]
+That is, the box and the particle must evolve to a superposition of "spin up" and
+"measured spin up" with "spin down" and "measured spin down". The Schrödinger equation
+never removes the superposition.[^3]
 
 But we never see states like this. Particles go into measuring devices, and those devices
 give us a single answer with a single value. The world is not full of superposed
-Stern-Gerlach devices, or CCDs, or TV screens. Cats, famously, are never both alive and dead.
+Stern-Gerlach devices, or CCDs, or TV screens. Furthermore: cats, famously, are never both
+alive and dead.
 
 Instead, the particle enters the device and we see a universe where only one particle
-leaves and the device tells us a single definitive answer: either $|x_+\rangle|$ or
-$|x_-\rangle|$. In order to make this happen, we have to add something like the collapse
-rule, or some other story, to the theory.
+leaves and the device tells us a single definitive answer: either $|x_+\rangle$ or
+$|x_-\rangle$. That is, using our notation above, the time evolution must look like this:
+
+$$
+{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
+|x_+\rangle|m_+\rangle
+$$
+
+or
+
+$$
+{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
+|x_-\rangle|m_-\rangle
+$$
+
+In order to make this happen, we have to add something like the collapse rule, or some
+other story, to the theory.
 
 So this, dear friends, is the measurement problem. It is a fundamental contradiction
 between the observed behavior of real systems in the world, and what the Schrödinger
@@ -364,9 +380,9 @@ equation allows.
 The literature on the "interpretation of quantum mechanics" is of course full of deep
 thoughts about the questions that the measurement problem raises. I could not possibly do
 more than unfairly caricature the various possible stances that one could have about this
-question, so that's what I will do. Here are some things we can think:
+question, so that's what I will do. Here are some things we can do:
 
-1. We can take the collapse rule as a postulate  and until we understand how measurement
+1. We can take the collapse rule as a postulate and until we understand how measurement
    works, just use the rules and try to be happy. This view is often called the
    "Copenhagen" interpretation, although that's not really right and the [Copenhagen
    story](https://plato.stanford.edu/entries/qm-copenhagen/) is actually a lot more
@@ -377,10 +393,11 @@ question, so that's what I will do. Here are some things we can think:
    other branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/)
    and/or the ["Many Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
 
-1. We can say that quantum states are not actually things that exist in the world, they are measures of
-   what we know about the world. So the "collapse" process is just the observer updating
-   their knowledge of the world and is completely natural. The most recent instance of
-   this idea is [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
+1. We can say that quantum states are not actually things that exist in the world, they
+   are measures of what we know about the world. So the "collapse" process is just the
+   observer updating their knowledge of the world and is completely natural. The most
+   recent instance of this idea is
+   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
 
 1. We could say that wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
    through some random physical process, and we can use this fact to derive the
@@ -395,30 +412,23 @@ question, so that's what I will do. Here are some things we can think:
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
 
-It's pretty clear that while the formalism of quantum mechanics is not too hard to explain
-(although who knows if I actually did it) the weird conceptual question at the center of
-the theory remains: what does the formalism actually tell us about the world? Why is it
-that there are clearly pieces that are missing or that in any case we seem not to be able
-to directly observe? And why can't we seem to figure out what those pieces are?
-
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett. But, I think we need a better understanding
-of the nature of quantum and quantum/classical interactions to figure out this puzzle.
+"ontological" theories, like Bohm or Everett, but even those don't make me happy. I think
+we need a better understanding of the nature of quantum and quantum/classical interactions
+to figure out this puzzle.
 
 ### Things I Left Out, Lies I Told
 
 1. I left out a lot of important details related to the structure of Hilbert space. In the
-finite dimensional case they don't matter too much but they are critical in the infinite
-dimensional case. Watch [Schuller's lectures on quantum
-mechanics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6) to
-fill those in.
+   finite dimensional case they don't matter too much but they are critical in the
+   infinite dimensional case. Watch [Schuller's lectures on quantum
+   mechanics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6) to
+   fill those in.
 
 1. I really only covered the simplest possible models of quantum states, observables and
    measurements. Mixed state, density operators, POVMs and all that are missing. [Schuller's
    lectures](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6)
    or any of the more mathematical books that I listed cover this.
-
-1. I never mentioned decoherence. I am a bad person.
 
 1. I left out the uncertainty principle, which is kind of a big part of the story to
    skip. You can talk about it in the context of the spin operators but it's a lot of work
@@ -428,6 +438,8 @@ fill those in.
    introduce any more formalism. Entanglement, Bell's theorem and all that is also just
    too big a subject to mention and not go into it, so I left it out Maybe we'll cover that in a future
    part 4.
+
+1. I never mentioned decoherence. I am a bad person.
 
 1. Related to all of the above ... the fact first box in the spin experiments should take
    random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
@@ -447,7 +459,7 @@ More references, some repeated from the other parts because I like them just tha
 of the books by
 [Dirac](https://global.oup.com/academic/product/the-principles-of-quantum-mechanics-9780198520115?cc=us&lang=en&)
 (or look at the [Google Books
-link](https://www.google.com/books/edition/The_Principles_of_Quantum_Mechanics/XehUpGiM6FIC?hl=en&gbpv=0)
+link](https://www.google.com/books/edition/The_Principlem_of_Quantum_Mechanics/XehUpGiM6FIC?hl=en&gbpv=0)
 which is likely to be more reliable) and [von
 Neumann](https://press.princeton.edu/books/hardcover/9780691178561/mathematical-foundations-of-quantum-mechanics)
 are still pretty readable.
