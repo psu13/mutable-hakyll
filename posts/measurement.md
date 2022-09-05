@@ -1,6 +1,6 @@
 ---
 title: Quantum Mechanics, Part 3 - Measurement
-date: 2022-09-6
+date: 2022-09-06
 author: psu
 ---
 
@@ -292,7 +292,7 @@ to make our formalism agree with the following general _experimental_ fact:
 Whenever we measure a quantum system we always get one definite answer, and if we measure
 the system again in the same way, we get the same single answer again.
 
-This rule, is, of course, the famous "collapse of the wave function", and with the
+This rule, is, of course, the (in)famous "collapse of the wave function", and with the
 background that I have made you slog through it should really be bothering you now.
 
 Recall that until now all of quantum mechanics has been simple, continuous, and most of
@@ -322,19 +322,22 @@ $$
 z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
 $$
 
-and push it into the $x$-spin box, it comes out as either $x_+$ or $x_-$. The
-superposition is destroyed. Further if we changed the box to one that just (say) had a
-blue light for up and a red light for down, we never see a universe where a particle goes
-into the box and then the result of the experiment is the particle putting the box into a
-superposition of blue and red. We always get one box at the end, and either blue or red.
+and push it into the $x$-spin box, it _always_ comes out as either $x_+$ or $x_-$. We
+never see another superposition state as the _result_ of a measurement. The superposition
+is destroyed. 
 
-If you add a cat to the box, then you have Schrödinger's famous cat puzzle.
+Further if we changed the box to one that just (say) had a blue light for up and a red
+light for down, we never see a universe where a particle goes into the box and then the
+result of the experiment is the particle putting the box into a superposition of blue and
+red. We always get one box at the end, and either blue or red.
+
+Finally, if you add a cat to the box, then you have Schrödinger's famous cat puzzle.
 
 So this, dear friends, is the measurement problem. With all of the formal background that
 we've laid out in the last two parts we can write it down in just a few words:
 
-If quantum mechanics is a linear theory, then why does measuring things destroy
-superpositions?
+If quantum mechanics is a linear theory, and that it describes the measurement process,
+then how does measuring things destroy superpositions?
 
 ### Possible Answers
 
@@ -419,7 +422,7 @@ fill those in.
 1. Related to all of the above ... the fact first box in the spin experiments should take
    random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
    100% sure I understand all the details about it.
-   
+
 1. I played fast and loose with normalization when talking about quantum states and
    operators. I should have been much more careful, but I'm lazy.
 
