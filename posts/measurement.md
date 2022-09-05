@@ -250,19 +250,17 @@ we go back to 50/50 instead of 100% spin up.
 
 ### The Problem
 
-The question that the final spin-box experiment brings up is one that is at the core of
-the conceptual puzzle of quantum mechanics: what exactly happens to the $z$-spin when we
-measure the $x$-spin, and why?
+So now our problem is this: what is going on in the last box of the last spin experiment?
 
 We can interpret the first two experiments as behaving like sequential filters. The first
 $z$-spin box filters out just the particles with spin-up, and then we feed those to the
 second box (either $z$ or $x$) and get the expected answer. 
 
-In order to make sense of the last spin box experiment it seems like we need come to terms
-with the fact that measurements in quantum mechanics appear seem to have side effects on
-the systems that they measure. How can we account for the fact that the $z$-up property
-that the particles have before measuring the $x$-spin seems to disappear after we measure
-the $x$-spin?
+In order to make sense of the third experiment it seems like we need come to terms with
+the fact that measurements in quantum mechanics appear seem to have side effects on the
+systems that they measure. How can we account for the fact that the $z$-up property that
+the particles have before measuring the $x$-spin seems to disappear after we measure the
+$x$-spin?
 
 The standard answer to this question goes something like this:
 
@@ -301,13 +299,13 @@ carefully evolves states in a way that always preserves linear combinations. So 
 start in a state like
 
 $$
-|ψ_0\rangle = c_1|ψ_1 \rangle + c_2|ψ_2 \rangle
+|ψ\rangle = c_1|ψ_1 \rangle + c_2|ψ_2 \rangle
 $$
 
 we smoothly and linearly move to another state like
 
 $$
-|ψ_0'\rangle = c_1' |ψ_1'\rangle + c_2' |ψ_2'\rangle .
+|ψ'\rangle = c_1' |ψ_1'\rangle + c_2' |ψ_2'\rangle .
 $$
 
 If we want to believe that quantum mechanics is a general theory that not only describes
@@ -324,7 +322,7 @@ $$
 
 and push it into the $x$-spin box, it _always_ comes out as either $|x_+\rangle$ or $|x_-\rangle$. We
 never see another superposition state as the _result_ of a measurement. The superposition
-is destroyed. 
+is apparently destroyed. 
 
 Further if we changed the box to one that just (say) had a blue light for up and a red
 light for down, we never see a universe where a particle goes into the box and then the
