@@ -305,7 +305,7 @@ $$
 $$
 
 This state means "the particle is in a superposition of $x$-spin up and $x$-spin down, and
-the measuring device is ready to measure it." [^2]
+the measuring device is ready to measure it." [^1]
 
 If we believe that Schrödinger evolution is the only rule we have, then this state can
 only evolve like this:
@@ -317,7 +317,7 @@ $$
 
 That is, the box and the particle must evolve to a superposition of "spin up" and
 "measured spin up" with "spin down" and "measured spin down". The Schrödinger equation
-never removes the superposition.[^3]
+never removes the superposition.[^2]
 
 But we never see states like this. Particles go into measuring devices, and those devices
 give us a single answer with a single value. The world is not full of superposed
@@ -477,9 +477,9 @@ spin but is a more philosophical look at the material.
 
 ### Notes
 
-[^2]: Those in the know will notice that I have not really explained what this notation
+[^1]: Those in the know will notice that I have not really explained what this notation
 for product states that I am using here means. I did not have the space to explain tensor
 products and entanglement.
 
-[^3]: For those keeping track, this is the formula I've been trying to get to this whole
+[^2]: For those keeping track, this is the formula I've been trying to get to this whole
 time. Was the 9000 words worth it? 
