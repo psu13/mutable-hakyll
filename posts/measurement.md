@@ -293,48 +293,71 @@ the system again in the same way, we get the same single answer again.
 This rule, is, of course, the (in)famous "collapse of the wave function", and with the
 background that I have made you slog through it should really be bothering you now.
 
-Recall that until now all of quantum mechanics has been simple, continuous, and most of
-all _linear_. The only time evolution rule that we have, the Schrödinger equation, very
-carefully evolves states in a way that always preserves linear combinations. So if we
-start in a state like
+The problem here is that this rule completely contradicts our existing time evolution
+rule, which says that everything evolves continuously and linearly via the Schrödinger
+equation:
+
+$$
+i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
+$$
+
+This equation can do a lot of things, but the one thing it cannot do is take a state like this
 
 $$
 |ψ\rangle = c_1|ψ_1 \rangle + c_2|ψ_2 \rangle
 $$
 
-we smoothly and linearly move to another state like
+and remove the superposition. With that equation we can only ever end up in another
+superposition state, like this:
 
 $$
 |ψ'\rangle = c_1' |ψ_1'\rangle + c_2' |ψ_2'\rangle .
 $$
 
-If we want to believe that quantum mechanics is a general theory that not only describes
-(say) how electrons with spin move but also describes how the electron with spin interacts
-with the box that measures the spin, then when we start with an electron in some
-superposition state (a linear combination like above) we better also end in a state that
-is a superposition. But that is not what happens.
+To bring this back to our example, suppose our $S_x$ box is modeled as a simple quantum
+system with three states: $|s_0\rangle$ for when the box is ready to measure something,
+$|s_+\rangle$ for when it has measured spin up, and $|s_-\rangle$ for when it has measured
+spin down.
 
-If we start with a particle in the state
+In our experiment, we start with a particle in the state
 
 $$
 |z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
-and push it into the $x$-spin box, it _always_ comes out as either $|x_+\rangle$ or $|x_-\rangle$. We
-never see another superposition state as the _result_ of a measurement. The superposition
-is apparently destroyed. 
+and send it into the $S_x$ box, which starts in the state $|s_0\rangle$. So the state of the
+composite system becomes the superposition:
 
-Further if we changed the box to one that just (say) had a blue light for up and a red
-light for down, we never see a universe where a particle goes into the box and then the
-result of the experiment is the particle putting the box into a superposition of blue and
-red. We only ever get a single box that is either blue or red.
+$$
+{1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|s_0\rangle .
+$$
 
-Finally, if you add a cat to the box, then you have Schrödinger's famous cat puzzle.
+This state means "the particle is in a superposition of $x$-spin up and $x$-spin down, and
+the measuring device is ready to measure it." [^2]
 
-So this, dear friends, is the measurement problem. With all of the formal background that
-we've laid out in the last two parts we can write it down in just a few words:
+If we believe that Schrödinger evolution is the only rule we have, then this state can
+only evolve to something like this:
 
-Why do measurements destroy superpositions?
+$$
+{1 \over \sqrt{2}} \bigl(\, |x_+\rangle|s_+\rangle + |x_-\rangle|s_-\rangle \,\bigr) . 
+$$
+
+That is, the box and the particle are now in a superposition of "spin up" and "measured
+spin up" with "spin down" and "measured spin down". The Schrödinger equation never
+removes the superposition.[^3]
+
+But we never see states like this. Particles go into measuring devices, and those devices
+give us a single answer with a single value. The world is not full of superposed
+Stern-Gerlach devices, or CCDs, or TV screens. Cats, famously, are never both alive and dead.
+
+Instead, the particle enters the device and we see a universe where only one particle
+leaves and the device tells us a single definitive answer: either $|x_+\rangle|$ or
+$|x_-\rangle|$. In order to make this happen, we have to add something like the collapse
+rule, or some other story, to the theory.
+
+So this, dear friends, is the measurement problem. It is a fundamental contradiction
+between the observed behavior of real systems in the world, and what the Schrödinger
+equation allows.
 
 ### Possible Answers
 
@@ -462,3 +485,10 @@ them as a random "mixture" of all possible spin states and use a more general st
 called a density matrix to represent the state. With this representation the probability
 of getting either spin up or spin down in the experiment then turns out to be 1/2. Any of
 the references above can teach you about this.
+
+[^2]: Those in the know will notice that I have not really explained what this notation
+for product states that I am using here means. I did not have the space to explain tensor
+products and entanglement.
+
+[^3]: For those keeping track, this is the formula I've been trying to get to this whole
+time. Was the 9000 words worth it? 
