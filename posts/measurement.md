@@ -89,7 +89,7 @@ $$
 p_1 = { |c_1|^2 \over |c_0|^2 + |c_1|^2 } .
 $$
 
-We have seen this rule before, in [part 1](./mechanics.html), but this time I normalized
+We have seen a version of this rule before, in [part 1](./mechanics.html), but this time I normalized
 the probabilities like a good boy (so that they add up to 1).
 
 One last puzzle that should be bothering you is the question of whether we can represent
@@ -338,7 +338,8 @@ alive and dead.
 
 Instead, the particle enters the device and we see a universe where only one particle
 leaves and the device tells us a single definitive answer: either $|x_+\rangle$ or
-$|x_-\rangle$. That is, using our notation above, the time evolution must look like this:
+$|x_-\rangle$. That is, using our notation above, the real world time evolution always
+look like this:
 
 $$
 {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
