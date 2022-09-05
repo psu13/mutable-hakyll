@@ -23,103 +23,91 @@ and the eigenvectors are the states that achieve those values. In addition, for 
 operators that represent observables, the eigenvectors always form an orthonormal basis of
 the underlying state space.
 
-At this point you should be _screaming_ at me. I've been telling you from the beginning
-that I was going to talk about _measurement_ and here we are 4,000 words in the future and
-I still have not said thing one about it. What an asshole.
-
-Well now we'll finally talk about measurement.
-
-As I said in the other two parts, I am the furthest thing from an expert on this subject,
-I'm just trying to organize what I think are the most interesting ideas about what is
-going on here, and hoping that I'm not too wrong.
+Now we'll finally talk about measurement.
 
 ### Measurement and Probability
 
 In quantum mechanics measurements are the connection between eigen-things and observables.
-We interpret the eigenvalues of the operator representing an observable as the actual
-values that we can see from that observable in experiments (say). In addition, if the
-system is in a state which is an eigenvector of the operator, then the value you get from
-the observable will be the corresponding eigenvalue. You will see the term "eigenstate"
-used for such vectors.
+We interpret the eigenvalues of the operator representing an observable as the values that
+we can see from that observable in experiments. In addition, if the system is in a state
+which is an eigenvector of the operator, then the value you get from the observable will
+always be the corresponding eigenvalue.
 
-The simplest model of _measurement_ in quantum systems is to just say that a measurement
-is represented by acting with the operator of the observable on a vector representing the
-state of the system. In addition we'll assume that states are always simple vectors (so
-called "pure" states) and that measurements are always simple operators. There are
+The simplest model of _measurement_ in quantum systems is to say that a measurement is
+represented by acting with a single operator representing the observable on a single
+vector representing the state of the system. In this simple model we are doing "idealized"
+measurements (simple operators) on "pure" states (simple vectors). There are
 generalizations of both of these ideas that you can pursue if you are interested. See the
 further reading.
 
-So, for simple measurements on systems that happen to be in the right kind of state (a
-state that is an eigenvector of the operator), we always get absolutely determined and
-well defined answers.
+If we perform a measurement on a system that is in a state represented by an eigenvector
+of the operator), we always get absolutely determined and well defined answers.
 
-But, quantum states come in Hilbert spaces, which are linear. This means that we also have
-to figure out what to do if our state vector is any linear combination of the
-eigenvectors. For simplicity let's say we are in a system where the Hilbert space is two
-dimensional. So, the simplest basis that we can define for the space needs only two
-vectors: $$| 0 \rangle = \begin{pmatrix}1\\ 0\end{pmatrix}$$ and $$| 1 \rangle =
-\begin{pmatrix}0\\ 1\end{pmatrix}$$ 
+For example let's say we are in a system where the Hilbert space is two dimensional. So,
+any basis that we define for the space needs only two vectors: $$| 0 \rangle =
+\begin{pmatrix}1\\ 0\end{pmatrix}$$ and $$| 1 \rangle = \begin{pmatrix}0\\
+1\end{pmatrix}$$ 
 
 If we have some operator $S$ such that $| 0 \rangle$ and $| 1 \rangle$ are its
-eigenvectors. Then we know that if we measure either $| 0 \rangle$ or $| 1 \rangle$ with
-$S$ we'll get some number:
+eigenvectors with eigenvalues $\lambda_0$ and $\lambda_1$. Then we know that if we measure
+either $| 0 \rangle$ or $| 1 \rangle$ with
+$S$ we'll get some number with probability 100%:
 
 That is:
 
 $$
-S | 0 \rangle = \lambda_1 | 0 \rangle
+S | 0 \rangle = \lambda_0 | 0 \rangle
 $$
 
 and
 
 $$
-S | 1 \rangle = \lambda_2 | 1 \rangle
+S | 1 \rangle = \lambda_1 | 1 \rangle
 $$
 
-But what happens when I give you another perfectly fine state like
+But, quantum states come in Hilbert spaces, which are linear. This means that we also have
+to figure out what to do if our state vector is any linear combination of the
+eigenvectors. So what if we had a state like this:
 
 $$
-\alpha | 0 \rangle + \beta  | 1 \rangle 
+c_0 | 0 \rangle + c_1  | 1 \rangle 
 $$
 
-where $\alpha$ and $\beta$ are arbitrary constants? Here is where we invoke the Born rule
-which I mentioned in part 1. This rule states that the result of a measurement on a state
-like the one above will be _either_ $| 0 \rangle$, with probability $|\alpha|^2$, or $| 1 \rangle$
-with probability $|\beta|^2$. Actually the probabilities have to add up to 1, so the real
-values will be subject to some normalization rule that I am ignoring here.
+where $c_0$ and $c_1$ are arbitrary constants? In this case the result of doing a
+measurement will then either be the eigenvalue $\lambda_0$ with some probability $p_0$ or
+$\lambda_1$ with some other probability $p_1$.
+
+The Born rule then states that the probability of getting $\lambda_0$ is
+
+$$
+p_0 = { |c_0|^2 \over |c_0|^2 + |c_1|^2 }
+$$
+
+and the probability of getting $\lambda_1$ is
+
+$$
+p_1 = { |c_1|^2 \over |c_0|^2 + |c_1|^2 } .
+$$
+
+We have seen this rule before, in [part 1](./mechanics.html), but this time I normalized
+the probabilities like a good boy (so that they add up to 1).
 
 One last puzzle that should be bothering you is the question of whether we can represent
-_any_ state as a linear combination of eigenvectors of the operator. It turns out we can,
-because we specified that observables are self-adjoint, so we can invoke the spectral
-theorem above to know that given an arbitrary state $\psi \in \cal H$ we can always write
-the state as a linear combination of the eigenstates.
+_any_ state as a linear combination of the eigenvectors of the operator. It turns out we
+can, because we specified that observables are self-adjoint, so we can invoke the spectral
+theorem from [part 2](./quantum.html) which says that given an arbitrary state $\psi \in
+\cal H$ we can always write the state as a linear combination of the eigenvectors.
 
-So, the summary of this section is, given an arbitrary state $\psi \in \cal H$ and an
-observable $S$ you can calculate the behavior of the observable by first expressing $\psi$
-as a linear combination of the eigenvectors of $S$ (because you can find eigenvectors that
-form a basis). Assuming that the eigenvectors are $| 0 \rangle$ and $| 1 \rangle$  the
-expression for $\psi$ will then be something like
+In summary: given an arbitrary state $\psi \in \cal H$ and an observable $S$ you can
+calculate the behavior of the observable on $\psi$ by first expressing $\psi$ as a linear
+combination of the eigenvectors of $S$ (because you can find eigenvectors that form a
+basis). That is, first we write $\psi$ like this:
 
 $$
 \psi = c_1 | 0 \rangle + c_2  | 1 \rangle 
 $$
 
-The result of doing a measurement will then either be the eigenvalue $\lambda_1$ or
-$\lambda_2$ corresponding to one of the eigenvectors, and the probability of getting any
-given value will be a probability of getting $\lambda_1$ is
-
-$$
-p_1 = { |c_1|^2 \over |c_1|^2 + |c_2|^2 }
-$$
-
-and the probability of getting $\lambda_2$ is
-
-$$
-p_2 = { |c_2|^2 \over |c_1|^2 + |c_2|^2 } .
-$$
-
-This is the Born rule, which we have met before. Here I've normalized the probabilities
-like a good boy.
+And then we use the Born rule to compute the measurement probabilities.
 
 ### An Example
 
@@ -232,8 +220,7 @@ $z$-up half the time and $z$-down half the time. Similarly, measuring the $x$-sp
 $z$-up particle will get you $x$-up half the time and $x$-down half the time.
 
 Relationships like this also happen to be true for the all of eigenvectors of all the spin
-operators, so you will always get this kind of even split if you measure from different
-axes in a sequential fashion. Some of the references at the end go into these details.
+operators. Some of the references at the end go into these details.
 
 Finally, we can push on this idea a bit more by adding yet another $S_z$ box on the end of
 the experiment above. When we do this we get a result that is somewhat surprising.
@@ -249,17 +236,16 @@ we go back to 50/50 instead of 100% spin up.
 
 ### The Problem
 
-So now our problem is this: what is going on in the last box of the last spin experiment?
+So now our problem is this: what is going on in the last spin experiment?
 
 We can interpret the first two experiments as behaving like sequential filters. The first
 $z$-spin box filters out just the particles with spin-up, and then we feed those to the
 second box (either $z$ or $x$) and get the expected answer. 
 
-In order to make sense of the third experiment it seems like we need come to terms with
-the fact that measurements in quantum mechanics appear seem to have side effects on the
-systems that they measure. How can we account for the fact that the $z$-up property that
-the particles have before measuring the $x$-spin seems to disappear after we measure the
-$x$-spin?
+In order to make sense of the third experiment it seems like we need posit that
+measurements in quantum mechanics have side effects on the systems that they measure. How
+can we account for the fact that the $z$-up property that the particles have before
+measuring the $x$-spin seems to disappear after we measure the $x$-spin?
 
 The standard answer to this question goes something like this:
 
@@ -274,7 +260,7 @@ particle, like in step 2 above, then the new state of the particle after the $x$
 should be $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)$, which is why in the third and last box
 the $z$-spin is indeterminate again.
 
-Thus, we are led to ponder adding one more rule to the four we already had for how quantum
+Thus, we are led to ponder another rule to the four we already had for how quantum
 mechanics works:
 
 > Suppose we have a quantum system that is in some state $\psi$ and we perform a
@@ -289,12 +275,11 @@ to make our formalism agree with the following general _experimental_ fact:
 Whenever we measure a quantum system we always get one definite answer, and if we measure
 the system again in the same way, we get the same single answer again.
 
-This rule, is, of course, the (in)famous "collapse of the wave function", and with the
+This is, of course, the (in)famous "collapse of the wave function", and with the
 background that I have made you slog through it should really be bothering you now.
 
-The problem here is that this rule completely contradicts our existing time evolution
-rule, which says that everything evolves continuously and linearly via the Schrödinger
-equation:
+The problem here is that this completely contradicts our existing time evolution rule,
+which says that everything evolves continuously and linearly via the Schrödinger equation:
 
 $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
@@ -412,11 +397,12 @@ There are dozens more ideas that I will not list here because I don't understand
 enough to list them.
 
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett, but even those don't make me happy. My least
-favorite idea is probably QBism and its relations. I feel like there just has to be more
-to the world than the knowledge and credences of rational actors. I think we need a better
-understanding of the nature of quantum and quantum/classical interactions to figure out
-this puzzle. 
+"ontological" theories, like Bohm or Everett. My least favorite idea is probably QBism and
+its relations because I have a hard time being enthusiastic about a world where everything
+is just the knowledge and credences of rational actors. None of the ideas above really
+seem to attack the core question about what is really happening in quantum and
+quantum/classical interactions. Until we have a better understanding of that I think we'll
+never figure out this puzzle.
 
 When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
 Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
@@ -457,7 +443,7 @@ Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems
 
 ### References
 
-More references, some repeated from the other parts because I like them just that much.
+Some more reading for you:
 
 1. If you want to go all the way to the beginning with the original sources, both
 of the books by
