@@ -207,25 +207,25 @@ eigenvectors with coefficients that make these probabilities 1/2 (and vice versa
 particular:
 
 $$
-z_+ = | 0 \rangle  = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \, {\rm and}\,\, z_- = | 1
+|z_+\rangle = | 0 \rangle  = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \, {\rm and}\,\, |z_-\rangle = | 1
 \rangle = \begin{pmatrix} 0 \\ 1 \end{pmatrix}
 $$
 
 $$
-x_+ = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, x_- = {1 \over
+|x_+\rangle = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, |x_-\rangle = {1 \over
 \sqrt{2}} \begin{pmatrix} 1 \\ -1 \end{pmatrix}
 $$
 
 From this we can figure out that, say:
 
 $$
-x_+ = {1 \over \sqrt{2}} (z_+ + z_-)
+|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)
 $$
 
 and
 
 $$
-z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
+|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
 The Born rule then tells us that measuring the $z$-spin of an $x$-up particle will get you
@@ -251,8 +251,8 @@ we go back to 50/50 instead of 100% spin up.
 ### The Problem
 
 The question that the final spin-box experiment brings up is one that is at the core of
-the conceptual puzzle of quantum mechanics: does the particle have a $z$-spin at all
-unless we measure $z$-spin?
+the conceptual puzzle of quantum mechanics: what exactly happens to the $z$-spin when we
+measure the $x$-spin, and why?
 
 We can interpret the first two experiments as behaving like sequential filters. The first
 $z$-spin box filters out just the particles with spin-up, and then we feed those to the
@@ -267,20 +267,20 @@ the $x$-spin?
 The standard answer to this question goes something like this:
 
 1. We start with particles with some arbitrary spin state.
-1. But, when the particles that come out of the $z_+$ hole have a definite spin of $z$-up.
+1. But, when the particles that come out of the $|z_+\rangle$ hole have a definite spin of $z$-up.
 1. Thus if the second box measures $z$-spin again, all the particles are spin up, and they
 all come out of the $z$-up hole.
-1. But, if the second box is a $x$-spin box, then since $z_+ = {1 \over \sqrt{2}} (x_+ +
-x_-)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
+1. But, if the second box is a $x$-spin box, then since $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
+|x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
 1. Finally, if we now believe that measuring the spin also resets the spin state of the
 particle, like in step 2 above, then the new state of the particle after the $x$-spin box
-should be $x_+ = {1 \over \sqrt{2}} (z_+ + z_-)$, which is why in the third and last box
+should be $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)$, which is why in the third and last box
 the $z$-spin is indeterminate again.
 
 Thus, we are led to ponder adding one more rule to the four we already had for how quantum
 mechanics works:
 
-5. Suppose we have a quantum system that is in some state $\psi$ and we perform a
+> Suppose we have a quantum system that is in some state $\psi$ and we perform a
 measurement on the system for an observable $O$. Then the result of this measurement will
 be one of the eigenvalues $\lambda$ of $O$ with a probability determined by the Born rule.
 In addition, _after_ the measurement the system will evolve to a new state $\psi'$, which
@@ -301,13 +301,13 @@ carefully evolves states in a way that always preserves linear combinations. So 
 start in a state like
 
 $$
-ψ_0 = c_1ψ_1 + c_2ψ_2
+|ψ_0\rangle = c_1|ψ_1 \rangle + c_2|ψ_2 \rangle
 $$
 
 we smoothly and linearly move to another state like
 
 $$
-ψ_0' = c_1'ψ_1' + c_2'ψ_2' .
+|ψ_0'\rangle = c_1' |ψ_1'\rangle + c_2' |ψ_2'\rangle .
 $$
 
 If we want to believe that quantum mechanics is a general theory that not only describes
@@ -319,17 +319,17 @@ is a superposition. But that is not what happens.
 If we start with a particle in the state
 
 $$
-z_+ = {1 \over \sqrt{2}} (x_+ + x_-)
+|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
-and push it into the $x$-spin box, it _always_ comes out as either $x_+$ or $x_-$. We
+and push it into the $x$-spin box, it _always_ comes out as either $|x_+\rangle$ or $|x_-\rangle$. We
 never see another superposition state as the _result_ of a measurement. The superposition
 is destroyed. 
 
 Further if we changed the box to one that just (say) had a blue light for up and a red
 light for down, we never see a universe where a particle goes into the box and then the
 result of the experiment is the particle putting the box into a superposition of blue and
-red. We always get one box at the end, and either blue or red.
+red. We only ever get a single box that is either blue or red.
 
 Finally, if you add a cat to the box, then you have Schrödinger's famous cat puzzle.
 
