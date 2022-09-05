@@ -4,13 +4,13 @@ date: 2022-08-06
 author: psu
 ---
 
-I got it into my head that I should try to explain the problem with quantum mechanics on
+I got it into my head that I should try to explain part of the problem with quantum mechanics on
 this web site. I am, of course, no expert on this subject at all. But I wanted to do a
 relatively simple and shallow (but mostly correct) treatment, like my [category theory
 tutorial](yoneda-speedrun.html). So, over the last few months I've taken a few different
 shots at it but never found a way to wind it up into a single coherent train of thought. I
 wanted to thread my way through the physical puzzles to the mathematical formalism and
-then end up at the particular formula that, in my mind, sums up all of the problems.
+then end up at the particular set of ideas that, in my mind, sums up the problems.
 
 I finally realized that trying to fit the whole thing into a single stream of words is
 beyond my talents as a writer, or at least not a structure that fits well into a single
@@ -244,7 +244,7 @@ them. This is one aspect of the so called "measurement problem" and a lot of peo
 smarter than me have thought about it and still find themselves confused. I am also mostly
 confused about this, but it will take a few more details to get at the core of why.
 
-See you later, in part 2.
+See you later, in [part 2](./quantum.html).
 
 ### References
 
@@ -259,6 +259,11 @@ some better sources than this humble web page.
 2. Baggot's [Quantum
    Cookbook](https://www.amazon.com/Quantum-Cookbook-Mathematical-Foundations-Mechanics/dp/0198827857/)
    is a good semi-historical treatment of early QM.
+
+1. Stephanie Singer's [algebraic
+treatment](https://link.springer.com/book/10.1007/b136359https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)
+of the hydrogen atom is also enjoyable, but much more technical from a mathematical point
+of view.
 
 3. <a
    href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">This
@@ -277,8 +282,5 @@ some better sources than this humble web page.
    Myths"](https://arxiv.org/abs/quant-ph/0609163) is a nice antidote to the sort of woo
    woo mysticism that too much of the writing on this subject indulges in.
 
-5. Finally, Scott Aaronson's [Quantum Computing since
-   Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565/)
-   is a nice computer nerd's view of the world.
 
 You should also read all the John Bell stuff, and various things by David Mermin.

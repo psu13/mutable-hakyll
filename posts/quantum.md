@@ -454,12 +454,7 @@ Here are some things I like.
 
 1. Isham's [Lectures on Quantum
 Theory](https://www.amazon.com/Lectures-Quantum-Theory-Mathematical-Foundations/dp/1860940013),
-is more mathematical.
-
-1. Stephanie Singer's [algebraic
-treatment](https://link.springer.com/book/10.1007/b136359https://www.amazon.com/Linearity-Symmetry-Prediction-Undergraduate-Mathematics/dp/0387246371/)
-of the hydrogen atom is also enjoyable, but much more technical from a mathematical point
-of view.
+is a nice treatment of the subject that is more mathematically rigorous than most.
 
 1. [Peres](https://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321/)
 and

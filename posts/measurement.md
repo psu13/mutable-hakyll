@@ -407,19 +407,19 @@ fill those in.
 
 1. I never mentioned decoherence. I am a bad person.
 
-1.  I left out the uncertainty principle, which is kind of a big part of the story to
+1. I left out the uncertainty principle, which is kind of a big part of the story to
    skip. You can talk about it in the context of the spin operators but it's a lot of work
    and not directly related to the puzzle that I was trying to get to.
+
+1. I left out the entire huge world of _entangled_ states because I did not want to
+   introduce any more formalism. Entanglement, Bell's theorem and all that is also just
+   too big a subject to mention and not go into it, so I left it out Maybe we'll cover that in a future
+   part 4.
 
 1. Related to all of the above ... the fact first box in the spin experiments should take
    random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
    100% sure I understand all the details about it.
-
-1. In the final statement of the measurement problem I left out the entire huge world of
-   _entangled_ states because I did not want to introduce any more formalism.
-   Entanglement, Bells' theorem and all that is also just too big a subject to mention
-   that late and not go into it. Maybe we'll cover that in a future part 4.
-
+   
 1. I played fast and loose with normalization when talking about quantum states and
    operators. I should have been much more careful, but I'm lazy.
 
@@ -456,8 +456,8 @@ are still pretty readable.
    starts with a good discussion of the spin experiments I used as an example.
 
 1. Hughes' [The Structure and Interpretation of Quantum
-Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
-too, but is a more philosophical look at the material.
+Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) also starts with
+spin but is a more philosophical look at the material.
 
 1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) has a
    lot of material on [quantum mechanics](https://plato.stanford.edu/entries/qm/) and [its
