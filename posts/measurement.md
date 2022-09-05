@@ -156,7 +156,7 @@ measurements.
 
 First suppose we put another $S_z$ box right after the first one so that all of the
 particles that enter the second box come out of the "spin up" hole of the first box. What
-we expect to happen here is that 100% of this beam will come out the "spin up" hole of the
+will happen here is that 100% of this beam will come out the "spin up" hole of the
 second box. This seems very reasonable, since they are all spin up particles. 
 
 > <a href="../images/z-spin.pdf">
@@ -202,9 +202,9 @@ $$
 |z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
-The Born rule then tells us that measuring the $z$-spin of an $x$-up particle will get you
-$z$-up half the time and $z$-down half the time. Similarly, measuring the $x$-spin of a
-$z$-up particle will get you $x$-up half the time and $x$-down half the time.
+The Born rule then tells us that measuring the $x$-spin of a $z$-up particle will get you
+$x$-up half the time and $x$-down half the time. Similarly, measuring the $z$-spin of an
+$x$-up particle will get you $z$-up half the time and $z$-down half the time.
 
 Relationships like this also happen to be true for the all of eigenvectors of all the spin
 operators. Some of the references at the end go into these details.
@@ -265,8 +265,9 @@ to make our formalism agree with the following general _experimental_ fact:
 > Whenever we measure a quantum system we always get one definite answer, and if we measure
 the system again in the same way, we get the same single answer again.
 
-The problem is that this completely contradicts our existing time evolution rule,
-which says that everything evolves continuously and linearly via the Schrödinger equation:
+The problem is that the collapse rule completely contradicts our existing time evolution
+rule, which says that everything evolves continuously and linearly via the Schrödinger
+equation:
 
 $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
@@ -419,10 +420,6 @@ Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems
 
 1. I never mentioned decoherence. I am a bad person.
 
-1. Related to all of the above ... the fact first box in the spin experiments should take
-   random states and split them exactly 50/50 is pretty subtle and deep. I'm still not
-   100% sure I understand all the details about it.
-
 1. I played fast and loose with normalization when talking about quantum states and
    operators. I should have been much more careful, but I'm lazy.
 
@@ -479,12 +476,6 @@ spin but is a more philosophical look at the material.
    any of this, but it seems like the kind of work that needs to be done.
 
 ### Notes
-
-[^1]: The way you calculate a probability of 1/2 for the undefined states is to represent
-them as a random "mixture" of all possible spin states and use a more general state object
-called a density matrix to represent the state. With this representation the probability
-of getting either spin up or spin down in the experiment then turns out to be 1/2. Any of
-the references above can teach you about this.
 
 [^2]: Those in the know will notice that I have not really explained what this notation
 for product states that I am using here means. I did not have the space to explain tensor
