@@ -277,7 +277,7 @@ particle, like in step 2 above, then the new state of the particle after the $x$
 should be $x_+ = {1 \over \sqrt{2}} (z_+ + z_-)$, which is why in the third and last box
 the $z$-spin is indeterminate again.
 
-Thus, we are led to add one more rule to the four we already had for how quantum
+Thus, we are led to ponder adding one more rule to the four we already had for how quantum
 mechanics works:
 
 5. Suppose we have a quantum system that is in some state $\psi$ and we perform a
@@ -336,45 +336,43 @@ Finally, if you add a cat to the box, then you have Schrödinger's famous cat pu
 So this, dear friends, is the measurement problem. With all of the formal background that
 we've laid out in the last two parts we can write it down in just a few words:
 
-If quantum mechanics is a linear theory, and that it describes the measurement process,
-then how does measuring things destroy superpositions?
+Why do measurements destroy superpositions?
 
 ### Possible Answers
 
 The literature on the "interpretation of quantum mechanics" is of course full of deep
 thoughts about the questions that the measurement problem raises. I could not possibly do
 more than unfairly caricature the various possible stances that one could have about this
-question, so that's what I will do. Here are some things you can think:
+question, so that's what I will do. Here are some things we can think:
 
-1. The standard text book picture just states the collapse rule as a postulate and
-   also says something like: until we understand how measurement works, just use the rules
-   and try to be happy. This is also often also called the "Copenhagen" interpretation,
-   although that's not really right and the [Copenhagen
+1. We can take the collapse rule as a postulate  and until we understand how measurement
+   works, just use the rules and try to be happy. This view is often called the
+   "Copenhagen" interpretation, although that's not really right and the [Copenhagen
    story](https://plato.stanford.edu/entries/qm-copenhagen/) is actually a lot more
-   complicated than this.
+   complicated than this. A better name for this view is the "standard" or "text book"
+   viewpoint.
 
-1. The superpositions don't actually collapse, we just can't see the other branches. This
-   is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or the ["Many
-   Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
+1. We can decide that the superpositions don't actually collapse, we just can't see the
+   other branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/)
+   and/or the ["Many Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
 
-1. Quantum states are not actually things that exist in the world, they are measures of
+1. We can say that quantum states are not actually things that exist in the world, they are measures of
    what we know about the world. So the "collapse" process is just the observer updating
    their knowledge of the world and is completely natural. The most recent instance of
    this idea is [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
 
-1. Wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
+1. We could say that wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
    through some random physical process, and we can use this fact to derive the
    measurement behavior (and perhaps the Born rule). The most famous theory like this is
    the [GRW stuff](https://plato.stanford.edu/entries/qm-collapse/).
 
-1. The wave functions do not describe the entire state of the system. Instead there is
-   some other part of the state that gives systems definite measured properties. The most
-   popular version of this idea is the "pilot wave" or
+1. Finally, we might think that the wave functions do not describe the entire state of the
+   system. Instead there is some other part of the state that gives systems definite
+   measured properties. The most popular version of this idea is the "pilot wave" or
    ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
-
-There are dozens more ideas that I will not list here because I don't understand them even
-   enough to list them.
+There are dozens more ideas that I will not list here because I don't understand them well
+enough to list them.
 
 The most interesting current trains of thought on these questions, to me, are papers like
 this one: [Is the quantum state real? An extended review of _ψ_-ontology
