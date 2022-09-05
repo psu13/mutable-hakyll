@@ -98,13 +98,13 @@ can, because we specified that observables are self-adjoint, so we can invoke th
 theorem from [part 2](./quantum.html) which says that given an arbitrary state $\psi \in
 \cal H$ we can always write the state as a linear combination of the eigenvectors.
 
-In summary: given an arbitrary state $\psi \in \cal H$ and an observable $S$ you can
-calculate the behavior of the observable on $\psi$ by first expressing $\psi$ as a linear
-combination of the eigenvectors of $S$ (because you can find eigenvectors that form a
-basis). That is, first we write $\psi$ like this:
+In summary: given an arbitrary state vector $\psi \in \cal H$ and an observable $S$ you
+can calculate the behavior of the observable on $\psi$ by first expressing $\psi$ as a
+linear combination of the eigenvectors of $S$ (because you can find eigenvectors that form
+a basis). That is, first we write $\psi$ like this:
 
 $$
-\psi = c_1 | 0 \rangle + c_2  | 1 \rangle 
+\psi = c_0 | 0 \rangle + c_1  | 1 \rangle 
 $$
 
 And then we use the Born rule to compute the measurement probabilities.
