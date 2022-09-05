@@ -98,10 +98,10 @@ can, because we specified that observables are self-adjoint, so we can invoke th
 theorem from [part 2](./quantum.html) which says that given an arbitrary state $\psi \in
 \cal H$ we can always write the state as a linear combination of the eigenvectors.
 
-In summary: given an arbitrary state vector $\psi \in \cal H$ and an observable $S$ you
-can calculate the behavior of the observable on $\psi$ by first expressing $\psi$ as a
-linear combination of the eigenvectors of $S$ (because you can find eigenvectors that form
-a basis). That is, first we write $\psi$ like this:
+In summary: given an arbitrary state vector $\psi \in \cal H$ and an observable
+represented by an operator $S$ you can calculate the behavior of $S$ on $\psi$
+by first expressing $\psi$ as a linear combination of the eigenvectors of $S$ (because you
+can find eigenvectors that form a basis). That is, first we write $\psi$ like this:
 
 $$
 \psi = c_0 | 0 \rangle + c_1  | 1 \rangle 
@@ -373,26 +373,26 @@ question, so that's what I will do. Here are some things we can do:
    complicated than this. A better name for this view is the "standard" or "text book"
    viewpoint.
 
-1. We can decide that the superpositions don't actually collapse, we just can't see the
-   other branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/)
-   and/or the ["Many Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
+1. We can decide that superpositions don't actually collapse, we just can't see the other
+   branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or
+   the ["Many Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
+
+1. We can say that wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
+   through some random physical process, and we can use this fact to derive the
+   measurement behavior (and perhaps the Born rule). The most famous theory like this is
+   the [GRW stuff](https://plato.stanford.edu/entries/qm-collapse/).
+
+1. We can think that wave functions do not describe the entire state of the system.
+   Instead, there is some other part of the state that gives systems definite measured
+   properties. The most popular version of this idea is the "pilot wave" or
+   ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
 1. We can say that quantum states are not actually things that exist in the world, they
    are measures of what we know about the world. So the "collapse" process is just the
    observer updating their knowledge of the world and is completely natural. The most
    recent instance of this idea is
    [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
-
-1. We could say that wave functions [actually collapse](https://plato.stanford.edu/entries/qm-collapse/)
-   through some random physical process, and we can use this fact to derive the
-   measurement behavior (and perhaps the Born rule). The most famous theory like this is
-   the [GRW stuff](https://plato.stanford.edu/entries/qm-collapse/).
-
-1. Finally, we might think that the wave functions do not describe the entire state of the
-   system. Instead there is some other part of the state that gives systems definite
-   measured properties. The most popular version of this idea is the "pilot wave" or
-   ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
-
+   
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
 
