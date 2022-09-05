@@ -145,32 +145,19 @@ down. We have three kinds of boxes that each measure the spin in a different dir
 
 So the $S_z$ box looks like this:
 
-> <a href="../images/z-spin-50.pdf">
-<img src="../images/z-spin-50.pdf"></a>
+> <a href="../images/z-spin.pdf">
+<img src="../images/z-spin.pdf"></a>
 
-Electrons (say) go in the left hole and the spin up stuff comes out the top and the spin
-down stuff comes out the bottom. We start with a beam of particles where each particle is
-in a completely random state. What ends up happening in this experiment is that half of
-the particles end up at the "spin up" hole and the other half end up at the "spin down"
-hole. This is a rather strange result given a classical understanding of electromagnetism.
+We start with a beam of particles where each particle is in a completely random state.
+Electrons (say) go in the left hole and the spin up stuff is directed out the top right
+hole and the spin down stuff comes out the bottom right hole. We can when consider what
+happens if we take a bunch of devices like this, chain them together, and take sequential
+measurements.
 
-A more rigorous _quantum mechanical_ argument that the answer here should be 50/50 is a
-bit subtle, and involves a more general notion of state and measurement than I have
-presented. But, it makes a certain amount of sense if you believe that all of those random
-particles are in a state that is a linear combination of $z$-up and $z$-down, and you also
-believe the Born rule. You then average over a uniform probability distribution and 50/50
-seems like it should be right.[^1]
-
-The literature is also full of much more complicated calculations of the path
-that a single particle should take through this experiment. But we are also going to
-ignore all of that.
-
-What is more interesting for us is what happens when you put multiple spin measuring boxes
-together and take sequential measurements.
-
-So, first suppose we put another $S_z$ box right after the first one. What we should
-observe is that all of the particles that enter the second box come out of the "spin up"
-hole of the second box. This seems very reasonable, since they are all spin up. particles. 
+First suppose we put another $S_z$ box right after the first one so that all of the
+particles that enter the second box come out of the "spin up" hole of the first box. What
+we expect to happen here is that 100% of this beam will come out the "spin up" hole of the
+second box. This seems very reasonable, since they are all spin up particles. 
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
