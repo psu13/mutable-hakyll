@@ -269,16 +269,16 @@ be one of the eigenvalues $\lambda$ of $O$ with a probability determined by the 
 In addition, _after_ the measurement the system will evolve to a new state $\psi'$, which
 will be the eigenvector that corresponds to the eigenvalue that we obtained.
 
-We seem to need this rule, along with the original rule about eigenvalues and eigenvectors
-to make our formalism agree with the following general _experimental_ fact:
-
-Whenever we measure a quantum system we always get one definite answer, and if we measure
-the system again in the same way, we get the same single answer again.
-
 This is, of course, the (in)famous "collapse of the wave function", and with the
 background that I have made you slog through it should really be bothering you now.
 
-The problem here is that this completely contradicts our existing time evolution rule,
+We seem to need this rule, along with the original rule about eigenvalues and eigenvectors
+to make our formalism agree with the following general _experimental_ fact:
+
+> Whenever we measure a quantum system we always get one definite answer, and if we measure
+the system again in the same way, we get the same single answer again.
+
+The problem is that this completely contradicts our existing time evolution rule,
 which says that everything evolves continuously and linearly via the Schrödinger equation:
 
 $$
