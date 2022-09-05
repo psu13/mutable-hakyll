@@ -4,13 +4,14 @@ date: 2022-08-06
 author: psu
 ---
 
-I got it into my head that I should try to explain part of the problem with quantum mechanics on
-this web site. I am, of course, no expert on this subject at all. But I wanted to do a
-relatively simple and shallow (but mostly correct) treatment, like my [category theory
-tutorial](yoneda-speedrun.html). So, over the last few months I've taken a few different
-shots at it but never found a way to wind it up into a single coherent train of thought. I
-wanted to thread my way through the physical puzzles to the mathematical formalism and
-then end up at the particular set of ideas that, in my mind, sums up the problems.
+I got it into my head that I should try to explain part of the problem with quantum
+mechanics on this web site. I am, of course, no expert on this subject at all. But I
+wanted to do a relatively simple and shallow (but mostly correct) treatment, like my
+[category theory tutorial](yoneda-speedrun.html). So, over the last few months I've taken
+a few different shots at it but never found a way to wind it up into a single coherent
+train of thought. I wanted to thread my way through the physical puzzles to the
+mathematical formalism and then end up at the particular formula that, in my mind, sums up
+at least one of the problems.
 
 I finally realized that trying to fit the whole thing into a single stream of words is
 beyond my talents as a writer, or at least not a structure that fits well into a single
