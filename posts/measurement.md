@@ -241,16 +241,18 @@ measuring the $x$-spin seems to disappear after we measure the $x$-spin?
 The standard answer to this question goes something like this:
 
 1. We start with particles with some arbitrary spin state.
-1. But, when the particles that come out of the $|z_+\rangle$ hole have a definite spin of $z$-up.
-1. Thus if the second box measures $z$-spin again, all the particles are spin up, and they
-all come out of the $z$-up hole.
-1. But, if the second box is an $x$-spin box, then since $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
-|x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
+1. But, when the particles that come out of the ${\small +}$ hole of the first z-spin box
+   have a definite spin of $|z_+\rangle$, or $z$-up.
+1. Thus if the second box measures $z$-spin again, as in the second experiment, all the
+particles are spin up, and they all come out of the $z$-up hole.
+1. But, if the second box is an $x$-spin box, as in the third experiment, then since
+   $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
+   |x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
 1. Finally, if we now believe that measuring the spin also resets the spin state of the
-particle, like in step 2 above, then the new state of the particle coming out of the
-"${\small +}$"
-hole of the $x$-spin box should be $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle +
-|z_-\rangle)$, which is why in the third and last box the $z$-spin is indeterminate again.
+   particle, like in step 2 above, then the new state of the particle coming out of the
+   "${\small +}$" hole of the $x$-spin box should be $|x_+\rangle = {1 \over \sqrt{2}}
+   (|z_+\rangle + |z_-\rangle)$, which is why in the third and last box the $z$-spin is
+   indeterminate again.
 
 Thus, we are led to ponder another rule to the four we already had for how quantum
 mechanics works:
