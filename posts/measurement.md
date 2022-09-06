@@ -247,9 +247,10 @@ all come out of the $z$-up hole.
 1. But, if the second box is an $x$-spin box, then since $|z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle +
 |x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
 1. Finally, if we now believe that measuring the spin also resets the spin state of the
-particle, like in step 2 above, then the new state of the particle after the $x$-spin box
-should be $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)$, which is why in the third and last box
-the $z$-spin is indeterminate again.
+particle, like in step 2 above, then the new state of the particle coming out of the
+"${\small +}$"
+hole of the $x$-spin box should be $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle +
+|z_-\rangle)$, which is why in the third and last box the $z$-spin is indeterminate again.
 
 Thus, we are led to ponder another rule to the four we already had for how quantum
 mechanics works:
