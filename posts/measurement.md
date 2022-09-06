@@ -33,7 +33,7 @@ we can see from that observable in experiments. In addition, if the system is in
 which is an eigenvector of the operator, then the value you get from the observable will
 always be the corresponding eigenvalue.
 
-The simplest model of _measurement_ in quantum systems is to say that a measurement is
+The simplest model of measurement in quantum systems is to say that a measurement is
 represented by acting with a single operator representing the observable on a single
 vector representing the state of the system. In this simple model we are doing "idealized"
 measurements (simple operators) on "pure" states (simple vectors). There are
@@ -424,6 +424,9 @@ Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems
 
 1. I wish I could have talked about the two slit experiment. But, I'd have done a lousy
    job so go read [Feynman](https://www.feynmanlectures.caltech.edu/III_01.html) instead.
+
+1. Finally, you can do an experiment similar to the chained spin-box experiment with
+   polarized light. [Watch here](https://www.youtube.com/watch?v=zcqZHYo7ONs).
 
 ### References
 
