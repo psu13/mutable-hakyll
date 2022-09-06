@@ -125,10 +125,9 @@ either "up" or "down" along a certain spatial axis (e.g. $x$, $y$, or $z$). The 
 space for this system is just $\mathbb C^2$. Each one of the spin states is some linear
 combination of $| 0 \rangle$ and $| 1\rangle$ above.
 
-It also turns out that there are exactly four operators that we can use as observables:
+It also turns out that there are four convenient operators that we can use as observables:
 the identity, and a spin operator for each spatial axis which we will call $S_x$, $S_y$
-and $S_z$. For all the details of where these come
-from, you can read about the [Pauli
+and $S_z$. For all the details of where these come from, you can read about the [Pauli
 matrices](https://en.wikipedia.org/wiki/Pauli_matrices).
 
 The Pauli matrices are usually called $\sigma_1$, $\sigma_2$ and $\sigma_3$. You could
@@ -186,7 +185,7 @@ $$
 $$
 
 $$
-|z_+\rangle = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, |z_-\rangle = {1 \over
+|x_+\rangle = {1 \over \sqrt{2}} \begin{pmatrix} 1 \\ 1  \end{pmatrix}, \, {\rm and}\,\, |x_-\rangle = {1 \over
 \sqrt{2}} \begin{pmatrix} 1 \\ -1 \end{pmatrix}
 $$
 
@@ -358,9 +357,9 @@ question, so that's what I will do. Here are some things we can do:
 1. We can take the collapse rule as a postulate and until we understand how measurement
    works, just use the rules and try to be happy. This view is often called the
    "Copenhagen" interpretation, although that's not really right and the [Copenhagen
-   story](https://plato.stanford.edu/entries/qm-copenhagen/) is actually a lot more
-   complicated than this. A better name for this view is the "standard" or "text book"
-   viewpoint.
+   story](https://plato.stanford.edu/entries/qm-copenhagen/) is [actually a lot more
+   complicated than this](https://en.wikipedia.org/wiki/Copenhagen_interpretation). A
+   better name for this view is the "standard" or "text book" viewpoint.
 
 1. We can decide that superpositions don't actually collapse, we just can't see the other
    branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or
@@ -479,7 +478,8 @@ spin but is a more philosophical look at the material.
 
 [^1]: Those in the know will notice that I have not really explained what this notation
 for product states that I am using here means. I did not have the space to explain tensor
-products and entanglement.
+products and entanglement, which is a shame because along with measurement entanglement is
+the second huge conceptual puzzle in quantum mechanics.
 
 [^2]: For those keeping track, this is the formula I've been trying to get to this whole
 time. Was the 9000 words worth it? 
