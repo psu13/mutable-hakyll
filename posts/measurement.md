@@ -25,6 +25,10 @@ the underlying state space.
 
 Now we'll finally talk about measurement.
 
+As before, I am the furthest thing from an expert on this subject. I'm just trying to
+summarize some interestng stuff and hoping that I'm not too wrong. I'll provide a list of
+more better sources at the end.
+
 ### Measurement and Probability
 
 In quantum mechanics measurements are the connection between eigen-things and observables.
