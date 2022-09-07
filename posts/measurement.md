@@ -369,6 +369,18 @@ question, so that's what I will do. Here are some things we can do:
    complicated than this](https://en.wikipedia.org/wiki/Copenhagen_interpretation). A
    better name for this view is the "standard" or "text book" viewpoint.
 
+1. We can say that the collapse rule is either not needed or not contradictory because
+   quantum states are not really things that exist in the world. Rather, they are just
+   used as a tool to compute experimental outcomes. [Ballentine's
+   book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
+   which I referenced in part 2, has a careful exposition of one version of this line of
+   thought called the "[ensemble
+   inerpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation). The most recent
+   version of these ideas is probably
+   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/), where the quantum state
+   is supposed to represent some sort of subjective knowledge or believe on the part of
+   agents doing experiments. I don't like that.
+
 1. We can decide that superpositions don't actually collapse, we just can't see the other
    branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or
    the ["Many Worlds"](https://plato.stanford.edu/entries/qm-manyworlds/) idea.
@@ -383,16 +395,6 @@ question, so that's what I will do. Here are some things we can do:
    properties. The most popular version of this idea is the "pilot wave" or
    ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
-1. We can say that quantum states are not really things that exist in the world. Rather,
-   quantum theory is just a way to compute a probability distribution for experimental
-   outcomes. [Ballentine's
-   book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2, has a careful exposition of this idea. More recent ideas
-   along these lines might say that the quantum state represents "information" or
-   "knowledge" about a system, not the system itself. Either way, the "collapse" process
-   is either not needed or just a function of the observer updating their knowledge of the
-   world and is completely natural. The most recent instance of this idea is
-   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/). 
    
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
