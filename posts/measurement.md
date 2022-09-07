@@ -390,7 +390,8 @@ question, so that's what I will do. Here are some things we can do:
    recent instance of this idea is
    [QBism](https://plato.stanford.edu/entries/quantum-bayesian/). [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2 also has a careful take on similar (but different) ideas.
+   which I referenced in part 2, also has a careful exposition on a purely statisical view
+   of quantum theory.
    
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
