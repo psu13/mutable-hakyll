@@ -168,10 +168,10 @@ use to represent any other vector in the space using linear combinations. If thi
 _finite_, meaning that you can count up the number of basis vectors you need with your
 fingers, then we say that the vector space is "finite dimensional".
 
-The most familiar example of a finite dimensional Hilbert space is $\mathbb R^n$ (and also
-$\mathbb C^n$ if you like complex numbers). Here the basis that we all know about is the
-one made up of the unit vectors for each possible axis direction in the space. So, for
-$n=3$ the unit vectors are 
+The most familiar example of a finite dimensional Hilbert space is $\mathbb C^n$, which is
+where we do a lot of physics. Here the basis that we all know about is the one made up of
+the unit vectors for each possible axis direction in the space. So, for $n=3$ the unit
+vectors are 
 
 $$
 \begin{pmatrix}
@@ -308,7 +308,7 @@ $$
 
 So it works!
 
-With this background in hand, we can define the _adjoint_ of operator $A$, which we write
+With this background in hand, we can define the _adjoint_ of an operator $A$, which we write
 as $A^*$ (math) or $A^\dagger$ (physics). Anyway, the adjoint of $A$ is an operator that
 obeys this rule:
 
@@ -431,7 +431,8 @@ At this point we have put together almost all of the formalism that we need. But
 has gone on too long, so I am going to make you read yet another part to get to the real
 point of this entire exercise. Meanwhile, here is a quick summary of what we have so far:
 
-1. States are vectors in a [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space).
+1. States are vectors in a [Hilbert space](https://en.wikipedia.org/wiki/Hilbert_space),
+   usually over $\mathbb C$.
 
 1. Observables are [self-adjoint linear
    operators](https://en.wikipedia.org/wiki/Self-adjoint_operator) on that space.

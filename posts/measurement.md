@@ -11,7 +11,7 @@ now get the whole answer without reading through all that other tedious nonsense
 
 For reference, here are the rules that we currently know about quantum mechanics:
 
-1. States are vectors in a Hilbert space.
+1. States are vectors in a Hilbert space, usually over $\mathbb C$.
 
 1. Observables are self-adjoint linear operators on that space.
 
