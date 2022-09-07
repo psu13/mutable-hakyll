@@ -400,12 +400,13 @@ There are dozens more ideas that I will not list here because I don't understand
 enough to list them.
 
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett. My least favorite idea is probably QBism and
-its relations because I have a hard time being enthusiastic about a world where everything
-is just the knowledge and credences of rational actors. None of the ideas above really
-seem to attack the core question about what is really happening in quantum and
-quantum/classical interactions. Until we have a better understanding of that I think we'll
-never figure out this puzzle.
+"ontological" theories, like Bohm or Everett. My least favorite idea is probably QBism
+because I have a hard time being enthusiastic about a world where everything is just the
+knowledge and credences of rational actors. Paradoxically I do like Ballentine's careful
+thinking about these issues, and I think more people need to do that. I feel like what we
+really need to do is to attack the core question of what is really happening in quantum
+and quantum/classical interactions. Until we have a better understanding of that I think
+we'll never figure out this puzzle.
 
 When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
 Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
