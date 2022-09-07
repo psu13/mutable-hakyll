@@ -374,8 +374,8 @@ question, so that's what I will do. Here are some things we can do:
    used as a tool to compute experimental outcomes. [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
    which I referenced in part 2, has a careful exposition of one version of this line of
-   thought called the "[ensemble
-   inerpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". The most recent
+   thought called the "[ensemble (or statistical)
+   interpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". The most recent
    version of these ideas is probably
    [QBism](https://plato.stanford.edu/entries/quantum-bayesian/), where the quantum state
    is supposed to represent some sort of subjective knowledge or believe on the part of
