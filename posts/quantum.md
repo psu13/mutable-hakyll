@@ -47,7 +47,7 @@ I'll provide a list of more better sources at the end.
 ### Quantum States and Hilbert Space
 
 The rules of quantum mechanics are about _states_ and _observables_. These are both
-described by objects from a fancy sort of linear algebra, which involves a lot of axioms
+described by objects from a fancy sort of linear algebra. This involves a lot of axioms
 that are interesting (not really) but not needed for our purposes. To try and keep this
 section a bit shorter and less tedious I link out to Wikipedia for many of the
 mathematical details, and just provide the highlights that we need here.
@@ -232,7 +232,7 @@ complication here.
 ### Operators and Observables
 
 In classical mechanics we did not think about observables too much. They were just simple
-numbers or list of numbers that in principe you can just read off of the mathematical
+numbers or lists of numbers that in principe you can just read off of the mathematical
 model that you are working with.
 
 But, in quantum mechanics, observables, like the states before them, become a more abstract
@@ -455,6 +455,7 @@ Here are some things I like.
 1. Isham's [Lectures on Quantum
 Theory](https://www.amazon.com/Lectures-Quantum-Theory-Mathematical-Foundations/dp/1860940013),
 is a nice treatment of the subject that is more mathematically rigorous than most.
+
 
 1. [Peres](https://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321/)
 and
