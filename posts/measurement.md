@@ -20,8 +20,8 @@ for the Hamiltonian. Time evolution of states is then given by the Schrödinger 
 
 1. The possible values of observables are the eigenvalues of the corresponding operator,
 and the eigenvectors are the states that achieve those values. In addition, for the
-operators that represent observables, the eigenvectors always form an orthonormal basis of
-the underlying state space.
+operators that represent observables, we can find eigenvectors that form an orthonormal
+basis of the underlying state space.
 
 Now we'll finally talk about measurement.
 
