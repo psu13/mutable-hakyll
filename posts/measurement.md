@@ -375,11 +375,12 @@ question, so that's what I will do. Here are some things we can do:
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
    which I referenced in part 2, has a careful exposition of one version of this line of
    thought called the "[ensemble (or statistical)
-   interpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". The most recent
-   version of these ideas is probably
-   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/), where the quantum state
-   is supposed to represent some sort of subjective knowledge or believe on the part of
-   agents doing experiments. I don't like that.
+   interpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". I'm not sure I
+   believe this, but Ballentine's work is very careful and considered.
+   
+1. We can say that the quantum state is just a way of desribing what we, or some set of
+   rational agents, believes about the world. The most recent version of this idea is
+   probably [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
 
 1. We can decide that superpositions don't actually collapse, we just can't see the other
    branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or
@@ -430,8 +431,8 @@ Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems
 
 1. I left out the entire huge world of _entangled_ states because I did not want to
    introduce any more formalism. Entanglement, Bell's theorem and all that is also just
-   too big a subject to mention and not go into it, so I left it out Maybe we'll cover that in a future
-   part 4.
+   too big a subject to mention and not go into it, so I left it out Maybe we'll cover
+   that in a future part 4.
 
 1. I never mentioned decoherence. I am a bad person.
 
