@@ -385,13 +385,13 @@ question, so that's what I will do. Here are some things we can do:
 
 1. We can say that quantum states are not actually things that exist in the world. Rather,
    they are measures of what we know about the world, or just ways to compute the
-   probability distributions of experimental outcomes. So the "collapse" process is just
-   the observer updating their knowledge of the world and is completely natural. The most
-   recent instance of this idea is
+   probability distributions of experimental outcomes. So the "collapse" process is either
+   not needed or just a function of the observer updating their knowledge of the world and
+   is completely natural. The most recent instance of this idea is
    [QBism](https://plato.stanford.edu/entries/quantum-bayesian/). [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2, also has a careful exposition on a purely statisical view
-   of quantum theory.
+   which I referenced in part 2, also has a careful exposition of his statistical, or
+   ensemble view which is similar, but different, and a bit nicer in some ways.
    
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
