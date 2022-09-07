@@ -166,19 +166,19 @@ second box. This seems very reasonable, since they were all $z$-spin up particle
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
 
-This behavior might make you think that $z$ spin is a property that we an attach to the
+This behavior might make you think that $z$-spin is a property that we can attach to the
 electron, perhaps for all time, like classical properties, and that this box acts like a
 filter that just reads off the property and sends the particles the right way. Keep this
 thought in your brain.
 
 Next, we can see that the relationship of $S_z$ to $S_x$ is also straightforward. A
-particle that has a definite $z$ spin still has an undefined $x$ spin:
+particle that has a definite $z$-spin still has an undefined $x$-spin:
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-x-spin.pdf"></a>
 
-So here when we put a $S_x$ box right after the $S_z$ box we and send all the $z$ spin up
-particles through we will get $x$ spin up half the time and $x$ spin down half the time.
+So here when we put a $S_x$ box right after the $S_z$ box andsend all the $z$-spin up
+particles through we will get $x$-spin up half the time and $x$-spin down half the time.
 If you study the material on the Pauli matrices above this will make sense because it
 turns out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
 eigenvectors with coefficients that make these probabilities 1/2 (and vice versa). In
@@ -206,9 +206,9 @@ $$
 |z_+\rangle = {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)
 $$
 
-The Born rule then tells us that measuring the $x$-spin of a $z$-up particle will get you
-$x$-up half the time and $x$-down half the time. Similarly, measuring the $z$-spin of an
-$x$-up particle will get you $z$-up half the time and $z$-down half the time.
+The Born rule then tells us that measuring the $x$-spin of a $z$-spin up particle will get you
+$x$-spin up half the time and $x$-down half the time. Similarly, measuring the $z$-spin of an
+$x$-spin up particle will get you $z$-spin up half the time and $z$-spin down half the time.
 
 Relationships like this also happen to be true for the all of eigenvectors of all the spin
 operators. Some of the references at the end go into these details.
@@ -221,7 +221,7 @@ the experiment above. When we do this we get a result that is somewhat surprisin
 
 We might think that all of the particles coming out of the $S_x$ box should be $z$-spin
 "up" since we had filtered for those using the first box. Sadly, this is not the case.
-Measuring the $x$-spin seems to wipe away whatever $z$ spin we saw before. This is
+Measuring the $x$-spin seems to wipe away whatever $z$-spin we saw before. This is
 surprising. Somehow going through the $S_x$ box has made the $z$-spin undefined again, and
 we go back to 50/50 instead of 100% spin up.
 
