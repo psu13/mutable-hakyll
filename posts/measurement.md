@@ -159,9 +159,9 @@ happens if we take a bunch of devices like this, chain them together, and take s
 measurements.
 
 First suppose we put another $S_z$ box right after the first one so that all of the
-particles that enter the second box come out of the "spin up" hole of the first box. What
-will happen here is that 100% of this beam will come out the "spin up" hole of the
-second box. This seems very reasonable, since they are all spin up particles. 
+particles that enter the second box come out of the ${\small +}$ hole of the first box. What
+will happen here is that 100% of this beam will come out the ${\small +}$ hole of the
+second box. This seems very reasonable, since they were all $z$-spin up particles. 
 
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-z-spin.pdf"></a>
@@ -250,9 +250,9 @@ particles are spin up, and they all come out of the $z$-up hole.
    |x_-\rangle)$, the $x$-spin is indeterminate, and we go back to a 50/50 split.
 1. Finally, if we now believe that measuring the spin also resets the spin state of the
    particle, like in step 2 above, then the new state of the particle coming out of the
-   "${\small +}$" hole of the $x$-spin box should be $|x_+\rangle = {1 \over \sqrt{2}}
-   (|z_+\rangle + |z_-\rangle)$, which is why in the third and last box the $z$-spin is
-   indeterminate again.
+   ${\small +}$ hole of the $x$-spin box will have $x$-spin up so their state will be
+   $|x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)$, which is why in the
+   third and last box the $z$-spin is indeterminate again.
 
 Thus, we are led to ponder another rule to the four we already had for how quantum
 mechanics works:
