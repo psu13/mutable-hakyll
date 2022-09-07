@@ -383,11 +383,14 @@ question, so that's what I will do. Here are some things we can do:
    properties. The most popular version of this idea is the "pilot wave" or
    ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
-1. We can say that quantum states are not actually things that exist in the world, they
-   are measures of what we know about the world. So the "collapse" process is just the
-   observer updating their knowledge of the world and is completely natural. The most
+1. We can say that quantum states are not actually things that exist in the world. Rather,
+   they are measures of what we know about the world, or just ways to compute the
+   probability distributions of experimental outcomes. So the "collapse" process is just
+   the observer updating their knowledge of the world and is completely natural. The most
    recent instance of this idea is
-   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
+   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/). [Ballentine's
+   book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
+   which I referenced in part 2 also has a careful take on similar (but different) ideas.
    
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
