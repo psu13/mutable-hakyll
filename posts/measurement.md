@@ -378,7 +378,7 @@ question, so that's what I will do. Here are some things we can do:
    interpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". I'm not sure I
    believe this, but Ballentine's work is very careful and considered.
    
-1. We can say that the quantum state is just a way of desribing what we, or some set of
+1. We can say that the quantum state is just a way of describing what we, or some set of
    rational agents, believes about the world. The most recent version of this idea is
    probably [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
 
