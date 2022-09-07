@@ -387,10 +387,10 @@ question, so that's what I will do. Here are some things we can do:
    quantum theory is just a way to compute a probability distribution for experimental
    outcomes. [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2, has a careful exposition of this idea. More recently
-   there are some related interpretations where the quantum state represents "information"
-   or "knowledge" about a system, not the system itself. So the "collapse" process is
-   either not needed or just a function of the observer updating their knowledge of the
+   which I referenced in part 2, has a careful exposition of this idea. More recent ideas
+   along these lines might say that the quantum state represents "information" or
+   "knowledge" about a system, not the system itself. Either way, the "collapse" process
+   is either not needed or just a function of the observer updating their knowledge of the
    world and is completely natural. The most recent instance of this idea is
    [QBism](https://plato.stanford.edu/entries/quantum-bayesian/). 
    
