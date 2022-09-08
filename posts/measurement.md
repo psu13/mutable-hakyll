@@ -407,7 +407,7 @@ because I have a hard time being enthusiastic about a world where everything is 
 knowledge and credences of rational actors. But, in between these two extremes I enjoy the
 careful and pragmatic thinking that's been done about the nature of experiments and
 measurement in quantum theory. I used Ballentine's book as an example of this, but there
-is a lot more where that game from (see
+is a lot more where that came from (see
 [Peres](https://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321/)
 for example). I feel like what we really need to do is to attack the core question of what
 is really happening in quantum and quantum/classical interactions. Until we have a better
