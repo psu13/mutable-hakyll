@@ -372,11 +372,11 @@ question, so that's what I will do. Here are some things we can do:
 1. We can say that quantum states are mainly a tool for describing the statistical
    behavior of experiments. [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2, has a careful exposition of one version of
-   this line of thought where the wave function only describes statistical
+   which I referenced in part 2, has a careful exposition of one version of this line of
+   thought where the wave function only describes statistical
    [ensembles](https://en.wikipedia.org/wiki/Ensemble_interpretation) of systems. There
-   are, of course, a spectrum of different opinions in this space about whether quantum
-   mechanics describes any physical reality at all, or just the behavior of experiments.
+   are, of course, a spectrum of different opinions about whether quantum mechanics
+   describes any physical reality at all, or just the behavior of experiments.
    
 1. We can say that the collapse rule is either not needed or not contradictory because
    quantum states are not really things that exist in the world. Rather, the quantum state
@@ -402,13 +402,16 @@ There are dozens more ideas that I will not list here because I don't understand
 enough to list them.
 
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett. On the other hand I do like Ballentine's
-careful thinking about these issues, and I think more people need to do that. My least
-favorite idea is probably QBism because I have a hard time being enthusiastic about a
-world where everything is just the knowledge and credences of rational actors. I feel like
-what we really need to do is to attack the core question of what is really happening in
-quantum and quantum/classical interactions. Until we have a better understanding of that I
-think we'll never figure out this puzzle.
+"ontological" theories, like Bohm or Everett. My least favorite idea is probably QBism
+because I have a hard time being enthusiastic about a world where everything is just the
+knowledge and credences of rational actors. But, in between these two extremes I enjoy the
+careful and pragmatic thinking that's been done about the nature of experiments and
+measurement in quantum theory. I used Ballentine's book as an example of this, but there
+is a lot more where that game from (see
+[Peres](https://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321/)
+for example). I feel like what we really need to do is to attack the core question of what
+is really happening in quantum and quantum/classical interactions. Until we have a better
+understanding of that I think we'll never figure out this puzzle.
 
 When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
 Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
