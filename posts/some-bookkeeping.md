@@ -32,7 +32,7 @@ So this week I finally did that. But with one tweak
 
 1. Make a new `virtualenv` with python3
 2. Install `pelican` in it.
-3. Install `pelican_jsmath` in it for $\TeX$ via <a href="https://katex.org>$\KaTeX$</a>.
+3. Install `pelican_jsmath` in it for $\TeX$ via <a href="https://katex.org">$\KaTeX$</a>.
 4. Copy everything else over.
 5. Generate the site and make sure it looks right.
 
