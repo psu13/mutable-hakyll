@@ -369,18 +369,25 @@ question, so that's what I will do. Here are some things we can do:
    complicated than this](https://en.wikipedia.org/wiki/Copenhagen_interpretation). A
    better name for this view is the "standard" or "text book" viewpoint.
 
-1. We can say that the collapse rule is either not needed or not contradictory because
-   quantum states are not really things that exist in the world. Rather, they are just
-   used as a tool to compute experimental outcomes. [Ballentine's
+1. We can say that quantum states are mainly a tool for describing the statistical
+   behavior of experiments. [Ballentine's
    book](https://www.amazon.com/Quantum-Mechanics-Modern-Development-2Nd/dp/9814578584/),
-   which I referenced in part 2, has a careful exposition of one version of this line of
-   thought called the "[ensemble (or statistical)
-   interpretation](https://en.wikipedia.org/wiki/Ensemble_interpretation)". I'm not sure I
-   believe this, but Ballentine's work is very careful and considered.
+   which I referenced in part 2, has a careful exposition of one version of
+   this line of thought where the wave function only describes statistical
+   [ensembles](https://en.wikipedia.org/wiki/Ensemble_interpretation) of systems. There
+   are, of course, a spectrum of different opinions in this space about whether quantum
+   mechanics describes any physical reality at all, or just the behavior of experiments.
    
-1. We can say that the quantum state is just a way of describing what we, or some set of
-   rational agents, believes about the world. The most recent version of this idea is
-   probably [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
+1. We can say that the collapse rule is either not needed or not contradictory because
+   quantum states are not really things that exist in the world. Rather, the quantum state
+   is just a way of describing what we, or some set of rational agents, believes about the
+   world. The most recent version of this idea is probably
+   [QBism](https://plato.stanford.edu/entries/quantum-bayesian/).
+
+1. We can think that wave functions do not describe the entire state of the system.
+   Instead, there is some other part of the state that gives systems definite measured
+   properties. The most popular version of this idea is the "pilot wave" or
+   ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
 
 1. We can decide that superpositions don't actually collapse, we just can't see the other
    branches. This is the [Everett](https://plato.stanford.edu/entries/qm-everett/) and/or
@@ -390,24 +397,18 @@ question, so that's what I will do. Here are some things we can do:
    through some random physical process, and we can use this fact to derive the
    measurement behavior (and perhaps the Born rule). The most famous theory like this is
    the [GRW stuff](https://plato.stanford.edu/entries/qm-collapse/).
-
-1. We can think that wave functions do not describe the entire state of the system.
-   Instead, there is some other part of the state that gives systems definite measured
-   properties. The most popular version of this idea is the "pilot wave" or
-   ["Bohmian"](https://plato.stanford.edu/entries/qm-bohm/) version of quantum mechanics.
-
    
 There are dozens more ideas that I will not list here because I don't understand them well
 enough to list them.
 
 If forced to take a stance I would probably say that I am most sympathetic to the more
-"ontological" theories, like Bohm or Everett. My least favorite idea is probably QBism
-because I have a hard time being enthusiastic about a world where everything is just the
-knowledge and credences of rational actors. Paradoxically I do like Ballentine's careful
-thinking about these issues, and I think more people need to do that. I feel like what we
-really need to do is to attack the core question of what is really happening in quantum
-and quantum/classical interactions. Until we have a better understanding of that I think
-we'll never figure out this puzzle.
+"ontological" theories, like Bohm or Everett. On the other hand I do like Ballentine's
+careful thinking about these issues, and I think more people need to do that. My least
+favorite idea is probably QBism because I have a hard time being enthusiastic about a
+world where everything is just the knowledge and credences of rational actors. I feel like
+what we really need to do is to attack the core question of what is really happening in
+quantum and quantum/classical interactions. Until we have a better understanding of that I
+think we'll never figure out this puzzle.
 
 When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
 Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
