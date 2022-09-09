@@ -478,9 +478,13 @@ are still pretty readable.
    Mecanics](https://www.amazon.com/Modern-Quantum-Mechanics-J-Sakurai/dp/1108473229)
    starts with a good discussion of the spin experiments I used as an example.
 
+1. An older book, [Quantum mechanics and the particles of
+   nature](https://archive.org/details/quantummechanics00sudb), by Sudbery, goes at this
+   from a point of view that I like. Hard to find though.
+
 1. Hughes' [The Structure and Interpretation of Quantum
-Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) also starts with
-spin but is a more philosophical look at the material.
+   Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) also starts with
+   spin but is a more philosophical look at the material.
 
 1. The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) has a
    lot of material on [quantum mechanics](https://plato.stanford.edu/entries/qm/) and [its
