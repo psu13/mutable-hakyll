@@ -53,7 +53,14 @@ That said, even if the fonts did not look right the *typesetting* was a triumph.
 
 #### Part 3: Knuth and Me
 
-I first looked at the Knuth books in high school just as I was getting interested in computer programming. What confused me at the time was why all that math was in there. My feeling was that math did not have much to do with computer programming. I was young, ignorant, and very much overestimated how much I understood about computer programming at the time. If I had lived in 2018 I would have posted a lot of stupid shit on twitter about this. Happily I didn't, and by the time I graduated from college and went to study computer science in graduate school I had a better understanding of what Knuth was going on about and I had my own copy of the books.
+I first looked at the Knuth books in high school just as I was getting interested in
+computer programming. What confused me at the time was why all that math was in there. My
+feeling was that math did not have much to do with computer programming. I was young,
+ignorant, and very much overestimated how much I understood about computer programming at
+the time. If I had been in high school in 2018 I would have posted a lot of stupid shit on
+twitter about this. Happily it was the 80s instead and I could not do this. By the time I
+graduated from college and went to study computer science in graduate school I had a
+better understanding of what Knuth was going on about and I had my own copy of the books.
  
 I first came across $\rm\TeX$ in college, but didn't really do battle with it in earnest until graduate school. Like most graduate students I ended up fighting with $\rm\TeX$ to get my thesis done. When I got out of the academic game I did my best to forget about Knuth and his software. $\rm\TeX$ is a precisely designed and functional tool for what it does, but from a *software engineering* perspective it's kind of a disaster. The fact that the source code is mashed up inside a giant $\rm\TeX$ document so that you can print it as a book does not help. [^4] Through the 80s and 90s publishing of course evolved from phototypesetting to fully digital printing workflows to publishing based on no printing at all. There are now tools by the hundreds to help you do this work, so you would have thought that $\rm\TeX$ would have died the slow death. But this has not been the case.
 
@@ -68,7 +75,7 @@ I came back to $\rm\TeX$ for the dumbest of all possible reasons. I like to read
 1. Two column layouts are the standard for journals, but are a pain to read on screens.
 2. Most older papers do not have hyperlinks for various things like references. Most newer papers *do* have hyperlinks but they use the default formatting for them, which is hideous.
 3. Most papers use teeny tiny little letters and are better to read on screen if changed to use larger typefaces.
-4. Lot's of little picky things like using the right kinds of quotes, or using the \cite macro correctly.
+4. Lot's of little picky things like using the right kinds of quotes, or using the `\cite` macro correctly.
 3. I've never really liked Knuth's typefaces (more on this later). I did my dissertation in Times. More modern $\rm\TeX$ lets you use my favorite font of all time, Palatino, for both text and math. It is glorious.
 
 So if I find a paper, and if the source code for the paper is available (and it usually is at the arXiv, which is amazing), then I will noodle with it for 10 minutes to try and make it better. Or give up. What is remarkable is that about 90% of the time you can take a ten or twenty year old paper that was originally written in some journal format and redo it without much trouble. The fact that $\rm\TeX$ and its surrounding tools (esp. the $\rm\LaTeX$ macros) have been stable enough over such a long period of time to make this possible turns out to be one of the most important parts of the Knuth legacy, IMHO. For better or worse, he froze the software and its formats and they have become a semi-accidentally archival in a way that no one would have considered possible.
