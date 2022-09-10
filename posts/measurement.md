@@ -319,7 +319,7 @@ only evolve like this:
 
 $$
 {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
-{1 \over \sqrt{2}} \bigl(\, |x_+\rangle|m_+\rangle + |x_-\rangle|m_-\rangle \,\bigr) . 
+{1 \over \sqrt{2}} ( |x_+\rangle|m_+\rangle + |x_-\rangle|m_-\rangle ) . 
 $$
 
 That is, the box and the particle must evolve to a superposition of "spin up" and
