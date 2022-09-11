@@ -14,9 +14,17 @@ Heat up a medium sized soup pot (4-6 quarts will do). When it’s hot, add oil a
 
 Now combine about a cup of soy sauce and a cup of water. Pour this over the ribs. If there isn’t enough liquid to cover, add some more water. At this point you might have to add a bit more soy to balance things. You can also add red wine if you like that kind of thing. The soy to water ratio should be about 1-to-1, but it’s really more a matter of taste and discretion.
 
-After adding the liquid, put 3-4 more tablespoons of sugar, scallions, ginger, and the star anise in the pot. Bring to a bubble, then turn the heat down and get things to a simmer. Cover the pot and go play Halo for a while. After an hour, check the sauce to make sure it’s salty and sweet enough. If too salty, add some water, or wine.
+After adding the liquid, put 3-4 more tablespoons of sugar, scallions, ginger, and the
+star anise in the pot. Bring to a bubble, then turn the heat down and get things to a
+simmer. Cover the pot and go play Halo for a while. Or cover and put the pot in a low oven
+(200-250) and simmer it in there. After an hour, check the sauce to make sure it’s salty
+and sweet enough. If too salty, add some water, or wine.
 
-Now go back and play Halo for a few more hours, letting the ribs cook until they are infused with the sauce and the meat falls off the bone easily. In addition, the sauce should be a nice combination of “soy saucy” and sweet. The anise and the soy also combine into a sort of magical synergy that you don't notice until you forget to use the anise and then you hate yourself.
+Now go back and play Halo for a few more hours, checking on the ribs every hour or so. Let
+the ribs cook until they are infused with the sauce and the meat falls off the bone
+easily. In addition, the sauce should be a nice combination of “soy saucy” and sweet. The
+anise and the soy also combine into a sort of magical synergy that you don't notice until
+you forget to use the anise and then you hate yourself.
 
 It can take a few tries to get the seasoning just right, so experiment until you get it to where you like it.
 
