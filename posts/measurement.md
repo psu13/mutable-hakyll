@@ -123,12 +123,15 @@ this experiment you shoot electrons (really atoms with a single free electron) t
 non-uniform magnetic field, and see where they end up on a screen on the other side. You
 would expect them to end up in some continuous distribution of possible points, but it
 turns out they end up in only one of two points, which we will call "up" and "down". We're
-just going to take this result for granted rather than trying to explain it right now
+just going to take this result for granted rather than trying to explain it right now.
 
 We can imagine spin as being like a little arrow over the top of the electron pointing
-either "up" or "down" along a certain spatial axis (e.g. $x$, $y$, or $z$). The state
-space for this system is just $\mathbb C^2$. Each one of the spin states is some linear
-combination of $| 0 \rangle$ and $| 1\rangle$ above.
+either "up" or "down" along a certain spatial axis (e.g. $x$, $y$, or $z$). The
+Stern-Gerlach device determines the state of this "arrow" by measuring the behavior of the
+electron in a magnetic field. So it's sort of like a magnet ... but not really.
+
+The state space for this system is just $\mathbb C^2$. Each one of the spin states is some
+linear combination of $| 0 \rangle$ and $| 1\rangle$ above. 
 
 It also turns out that there are four convenient operators that we can use as observables:
 the identity, and a spin operator for each spatial axis which we will call $S_x$, $S_y$
