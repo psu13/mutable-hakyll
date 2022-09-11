@@ -26,7 +26,7 @@ basis of the underlying state space.
 Now we'll finally talk about measurement.
 
 As before, I am the furthest thing from an expert on this subject. I'm just trying to
-summarize some interestng stuff and hoping that I'm not too wrong. I'll provide a list of
+summarize some interesting stuff and hoping that I'm not too wrong. I'll provide a list of
 more better sources at the end.
 
 ### Measurement and Probability
@@ -180,7 +180,7 @@ particle that has a definite $z$-spin still has an undefined $x$-spin:
 > <a href="../images/z-spin.pdf">
 <img src="../images/z-x-spin.pdf"></a>
 
-So here when we put a $S_x$ box right after the $S_z$ box andsend all the $z$-spin up
+So here when we put a $S_x$ box right after the $S_z$ box and send all the $z$-spin up
 particles through we will get $x$-spin up half the time and $x$-spin down half the time.
 If you study the material on the Pauli matrices above this will make sense because it
 turns out that the eigenvectors of $S_z$ can be written as a superposition of the $S_x$
