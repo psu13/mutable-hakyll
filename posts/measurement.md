@@ -104,9 +104,10 @@ theorem from [part 2](./quantum.html) which says that given an arbitrary state $
 \cal H$ we can always write the state as a linear combination of the eigenvectors.
 
 In summary: given an arbitrary state vector $\psi \in \cal H$ and an observable
-represented by an operator $S$ you can calculate the behavior of $S$ on $\psi$
-by first expressing $\psi$ as a linear combination of the eigenvectors of $S$ (because you
-can find eigenvectors that form a basis). That is, first we write $\psi$ like this:
+represented by an operator $S$ you can calculate the behavior of $S$ on $\psi$ by first
+expressing $\psi$ as a linear combination of the eigenvectors of $S$ (because you can find
+eigenvectors that form a basis). So in our example above, where the operator $S$ has
+eigenvectors $| 0 \rangle$ and $| 1 \rangle$, we can first write $\psi$ like this:
 
 $$
 \psi = c_0 | 0 \rangle + c_1  | 1 \rangle 
