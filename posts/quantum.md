@@ -384,27 +384,28 @@ eigenvectors that form a _orthonormal basis_ of the underlying Hilbert space. Th
 is called the _spectral_ theorem and the eigenvectors/values of the operator are called
 its _spectrum_. This is a very important result for quantum mechanics.
 
-### Circling Back on the Atom
+### Circling Back to the Atom
 
-At this point you might be thinking to yourself, "I have seen this word 'spectrum'
+At this point you might be thinking to yourself, "I have seen this word _spectrum_
 before". And you have. One of the earliest problems in quantum mechanics was to explain
-the spectral lines of the hydrogen atom. You will recall that the famous Schrödinger
-equation, in fact, is an expression for _energy_, and the spectral lines are an
-arrangement of energy "levels" that we think of as different orbits in the atom (even
-though they are not).
-
-Let's remember what the Schrödinger equation looks like:
+the spectral lines of the hydrogen atom. So we might be wondering to ourselves, how do we
+get from these abstract quantum states and operators to energy? The answer is the next
+important rule of quantum mechanics, which we are already familiar with from part 1: there
+is a special observable for the energy of the system whose operator we call $H$, for the
+_Hamiltonian_. Time evolution of states is then given by the Schrödinger equation:
 
 $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
 $$
 
-The Schrödinger equation is what we call a  linear differential equation, since there are
-no second derivatives or other squared terms. The trick to solving the hydrogen atom is
-first finding a Hamiltonian $H$ that correctly describes the behavior of the electron in
-the atom. It turns out that when you do this you will define one of our coveted
-self-adjoint linear operators on the Hilbert space of wave functions. This means that
-there will be some set of states that obey this rule:
+You will recall from part 1 that the wave functions, which we now know are the quantum
+states of a system were all solutions to this equation. 
+
+Now, the trick to solving the hydrogen atom is first finding a Hamiltonian $H$ that
+correctly describes the behavior of the electron in the atom. It turns out that when you
+do this $H$ will be one of our coveted self-adjoint linear operators on the Hilbert
+space of wave functions. This means that there will be some set of states that obey this
+rule:
 
 $$
 H | \psi \rangle  = E | \psi \rangle 
@@ -437,14 +438,14 @@ point of this entire exercise. Meanwhile, here is a quick summary of what we hav
 1. Observables are [self-adjoint linear
    operators](https://en.wikipedia.org/wiki/Self-adjoint_operator) on that space.
 
-1. There is a special observable for the energy of the system whose operator we call $H$,
-for the Hamiltonian. Time evolution of states is then given by the 
-[Schrödinger equation](https://en.wikipedia.org/wiki/Schrödinger_equation).
-
 1. The possible values of observables are the eigenvalues of the corresponding operator,
 and the eigenvectors are the states that achieve those values. In addition, for the
 operators that represent observables, we can find eigenvectors that form an orthonormal
 basis of the underlying state space. Which is really convenient.
+
+1. There is a special observable for the energy of the system whose operator we call $H$,
+for the Hamiltonian. Time evolution of states is then given by the 
+[Schrödinger equation](https://en.wikipedia.org/wiki/Schrödinger_equation).
 
 Of course, I _still_ have not said anything about measurement, and you should be furious
 with me. I promise I will in [part 3](./measurement.html).

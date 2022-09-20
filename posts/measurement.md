@@ -15,13 +15,13 @@ For reference, here are the rules that we currently know about quantum mechanics
 
 1. Observables are self-adjoint linear operators on that space.
 
-1. There is a special observable for the energy of the system whose operator we call $H$,
-for the Hamiltonian. Time evolution of states is then given by the Schrödinger equation.
-
 1. The possible values of observables are the eigenvalues of the corresponding operator,
 and the eigenvectors are the states that achieve those values. In addition, for the
 operators that represent observables, we can find eigenvectors that form an orthonormal
 basis of the underlying state space.
+
+1. There is a special observable for the energy of the system whose operator we call $H$,
+for the Hamiltonian. Time evolution of states is then given by the Schrödinger equation.
 
 Now we'll finally talk about measurement.
 
