@@ -261,8 +261,9 @@ The best things to go after, in order of easiness are:
    points will let you get to the minimum stats needed for most of the weapons usable
    early.
 
-2. Somber smithing stones. It's not too hard to sombers up to 9 if you are good at
-   jumping, or up to 6 if you are not, without killing much of anything.
+2. Somber smithing stones. It's not too hard to get sombers up to 6 without killing much
+   of anything. You used to be able to get up to 9, but I hear that they finally patched
+   out the jump you need to make to get the 7. So you can't do that anymore.
 
 3. Various early golden seeds and sacred tears. For healing potions.
 
@@ -274,6 +275,8 @@ The best things to go after, in order of easiness are:
    much more of a pain to get a regular weapon to high level than the somber weapons.
 
 5. Lots of other buff items, mostly talismans, but also weapon skills and spells and such.
+   Golden vow, the flame damage buff spell, and the physical damage (Strength and Dex)
+   physicks are the best things to get here.
 
 To get an idea of how to approach this watch some of the speed runs on youtube. Speed
 runners are the best at building powerful characters fairly quickly. Although sometimes
