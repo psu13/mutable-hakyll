@@ -232,7 +232,7 @@ complication here.
 ### Operators and Observables
 
 In classical mechanics we did not think about observables too much. They were just simple
-numbers or lists of numbers that in principe you can just read off of the mathematical
+numbers or lists of numbers that in principle you can just read off of the mathematical
 model that you are working with.
 
 But, in quantum mechanics, observables, like the states before them, become a more abstract
