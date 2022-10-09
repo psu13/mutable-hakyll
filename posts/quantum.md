@@ -110,12 +110,12 @@ Now we see a bit of the utility of this strange bracket notation. In Dirac's ter
 the $| \psi \rangle$ is a "ket" or "ket vector" and the $\langle \psi |$ is a "bra". So
 you put them together and you get a "bra ket" or
 ["braket"](https://en.wikipedia.org/wiki/Bra–ket_notation). So all of this silliness is in
-service of a bad pun. There is also some subtle math that you have to do to make sure that
-the "bra" $\langle \psi |$ is a thing that makes sense in this context, but let's assume we have
-done that and it has all worked out.
+service of a bad pun. Those wacky physicists thought this joke was so funny that we've
+been stuck with this notation for almost a hundred years now.
 
-Those wacky physicists thought this joke was so funny that we've been stuck with this
-notation for a hundred years now.
+There is also some subtle math that you have to do to make sure that the "bra" $\langle
+\psi |$ is a thing that makes sense in this context, but let's assume we have done that
+and it has all worked out.
 
 As always, I refer you to wikipedia
 for the [comprehensive list of important inner product facts](https://en.wikipedia.org/wiki/Inner_product_space#Definition).
