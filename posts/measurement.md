@@ -105,7 +105,7 @@ theorem from [part 2](./quantum.html) which says that given an arbitrary state $
 
 In summary: given an arbitrary state vector $\psi \in \cal H$ and an observable
 represented by an operator $S$ you can calculate the behavior of $S$ on $\psi$ by first
-expressing $\psi$ as a linear combination of the eigenvectors of $S$ (because you can find
+expressing $\psi$ as a linear combination of eigenvectors of $S$ (because you can find
 eigenvectors that form a basis) and then applying the Born rule.
 
 So in our example above, where the operator $S$ has eigenvectors $| 0 \rangle$ and $| 1
@@ -120,7 +120,7 @@ And then we use the Born rule to compute the measurement probabilities.
 ### An Example
 
 The most famous two-state system in the quantum mechanics literature is the so-called
-"spin $1\over 2$" system. The behavior of these systems was first explored in the famous
+"spin $1\over 2$" system. The behavior of these systems was first explored in the
 [Stern-Gerlach](https://en.wikipedia.org/wiki/Stern–Gerlach_experiment) experiment. In
 this experiment you shoot electrons (really atoms with a single free electron) through a
 non-uniform magnetic field, and see where they end up on a screen on the other side. You
@@ -200,7 +200,7 @@ $$
 \sqrt{2}} \begin{pmatrix} 1 \\ -1 \end{pmatrix}
 $$
 
-From this we can figure out that, say:
+From this we can figure out that:
 
 $$
 |x_+\rangle = {1 \over \sqrt{2}} (|z_+\rangle + |z_-\rangle)
