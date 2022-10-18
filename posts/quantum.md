@@ -76,7 +76,7 @@ bracket notation like this: $| \psi \rangle$, or sometimes this way $\langle \ps
 is also how we wrote down the wave functions in part 1.
 
 The most important thing about Hilbert spaces is that they are _linear_. What this means
-is that any given any two vectors $\psi$ and $\phi$ and two scalars $a$ and $b$, any
+is that any given any two vectors $| \psi \rangle$ and $| \phi \rangle$ and two scalars $a$ and $b$, any
 expression like
 
 $$
