@@ -238,8 +238,8 @@ like a computer program that always spits out the right answer but for which you
 have the source code, so you can't reason about the exact mechanism by which the answer
 was generated.
 
-In addition quantum mechanics appears to make you accept a world where the equations that
-tell you how systems evolve appear to be completely evolve one way (the smooth Schrödinger
+In addition quantum mechanics seems to make you accept a world where the equations that
+tell you how systems evolve one way (the smooth Schrödinger
 equation) when you leave them alone and another way (no interference) when you look at
 them. This is one aspect of the so called "measurement problem" and a lot of people
 smarter than me have thought about it and still find themselves confused. I am also mostly
