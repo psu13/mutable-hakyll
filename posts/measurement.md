@@ -47,7 +47,7 @@ further reading.
 If we perform a measurement on a system that is in a state represented by an eigenvector
 of the operator), we always get absolutely determined and well defined answers.
 
-For example let's say we are in a system where the Hilbert space is two dimensional, so we
+For example let's say we are in a system where the Hilbert space $\cal H$ is two dimensional, so we
 can represent it as $\mathbb C^2$ and with scalars from $\mathbb C$. So, any basis that we
 define for the space needs only two vectors: $$| 0 \rangle = \begin{pmatrix}1\\
 0\end{pmatrix}$$ and $$| 1 \rangle = \begin{pmatrix}0\\
