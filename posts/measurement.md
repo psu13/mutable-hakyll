@@ -142,10 +142,14 @@ and $S_z$. For all the details of where these come from, you can read about the 
 matrices](https://en.wikipedia.org/wiki/Pauli_matrices).
 
 The Pauli matrices are usually called $\sigma_1$, $\sigma_2$ and $\sigma_3$. You could
-also write them as $\sigma_x$, $\sigma_y$ and $\sigma_z$. But I stayed with $S$ for "Spin"
+also write them as $\sigma_x$, $\sigma_y$ and $\sigma_z$. But I stayed with $S$ for "spin"
 in my text. I can't decide if it's a deep mathematical fact or just a strange coincidence
 of nature that $\mathbb C^2$ should have exactly three operators for spin measurements,
 one in each direction that we need. It seems a bit spooky that it worked out that way.
+
+Note: in all of the computations below I'm leaving out factors of $\hbar$. This is a
+standard trick in physics texts ... you can use units here $\hbar = 1$ and then put it
+back later if you want.
 
 We measure spin using a box with a magnetic field in it. So, imagine that we have some box
 with one hole on the left, and two holes on the right. We send an electron in the left
