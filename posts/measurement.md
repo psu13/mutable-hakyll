@@ -141,11 +141,17 @@ the identity, and a spin operator for each spatial axis which we will call $S_x$
 and $S_z$. For all the details of where these come from, you can read about the [Pauli
 matrices](https://en.wikipedia.org/wiki/Pauli_matrices).
 
-The Pauli matrices are usually called $\sigma_1$, $\sigma_2$ and $\sigma_3$. You could
-also write them as $\sigma_x$, $\sigma_y$ and $\sigma_z$. But I stayed with $S$ for "spin"
-in my text. I can't decide if it's a deep mathematical fact or just a strange coincidence
-of nature that $\mathbb C^2$ should have exactly three operators for spin measurements,
-one in each direction that we need. It seems a bit spooky that it worked out that way.
+The Pauli matrices are called $\sigma_1$, $\sigma_2$ and $\sigma_3$. And the spin
+operators $S_x$, $S_y$, and $S_z$ are defined as 
+
+$$
+S_x = {\sigma_1 \over 2}, \quad S_y = {\sigma_2 \over 2}, \quad S_z = {\sigma_3 \over 2} .
+$$
+
+I can't decide if it's a deep mathematical fact or
+just a strange coincidence of nature that $\mathbb C^2$ should have exactly three
+operators for spin measurements, one in each direction that we need. It seems a bit spooky
+that it worked out that way.
 
 Note: in all of the computations below I'm leaving out factors of $\hbar$. This is a
 standard trick in physics texts ... you can use units where $\hbar = 1$ and then put it
