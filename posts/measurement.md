@@ -148,7 +148,7 @@ of nature that $\mathbb C^2$ should have exactly three operators for spin measur
 one in each direction that we need. It seems a bit spooky that it worked out that way.
 
 Note: in all of the computations below I'm leaving out factors of $\hbar$. This is a
-standard trick in physics texts ... you can use units here $\hbar = 1$ and then put it
+standard trick in physics texts ... you can use units where $\hbar = 1$ and then put it
 back later if you want.
 
 We measure spin using a box with a magnetic field in it. So, imagine that we have some box
