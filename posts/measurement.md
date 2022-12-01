@@ -45,7 +45,7 @@ generalizations of both of these ideas that you can pursue if you are interested
 further reading.
 
 If we perform a measurement on a system that is in a state represented by an eigenvector
-of the operator), we always get absolutely determined and well defined answers.
+of the operator, we always get absolutely determined and well defined answers.
 
 For example let's say we are in a system where the Hilbert space $\cal H$ is two dimensional, so we
 can represent it as $\mathbb C^2$ and with scalars from $\mathbb C$. So, any basis that we
