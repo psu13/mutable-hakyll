@@ -14,10 +14,12 @@ author: psu
 <p>1. Whenever I get a new laptop, I buy two bus powered portable drives that are about the same size as the main drive in the laptop.</p>
 
 <p>2. When I get the laptop set up, I take one of these drives and make a complete bootable copy of the drive in the laptop. On Macs, there are various pieces of software that allow you to do this easily. You can use Disk Utility to do it. I use something called SuperDuper! because it has some other handy features. I then label this drive as the &#8220;mirror&#8221; drive. I carry this drive on trips in case the disk in the laptop goes bad and I need an emergency boot drive. </p>
-
 <p>The mirror drive is also handy for when you need to undo some disaster that you have perpetrated on your main machine. You can mirror your machine before every major OS update, for example, in case you need to back it out. If it all goes bad, you can boot from your mirror and copy it all back to the main drive on the laptop. Macs make this easy. I would assume and hope that there is some way to do this in Windows too, but I don&#8217;t really know.</p>
+
 <p>3. I use the second external drive for Time Machine. Time machine is handy for automatically keeping track of all the new files I&#8217;ve created without me needing to do anything. And it keeps multiple versions of all those files. So in a disaster, I can boot with the mirror drive and restore all my data from the Time Machine drive if the mirror drive is out of date.</p>
+
 <p>My backup scheme follows this main pattern. I generally do a backup whenever I have a add batch of pictures to my laptop. I do this a lot, and digital photographs make up the bulk of the data that I want to back up, so this makes sense for me. Here is how the flow works.</p>
+
 <p>1. Load pictures into laptop. Do all the picture workflow stuff on them.</p>
 
 <p>2. Hook up the mirror drive. Sync the new data to the pictures folder there. SuperDuper! has an incremental update feature which makes this easy.</p>
