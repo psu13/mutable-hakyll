@@ -46,7 +46,9 @@ Most pre-print formats are set up to use ten point type. This is great on paper,
 
 1. Some formats have no 12 point size. Boo.
 2. Many papers, esp. those with complicated calculations in them, will have math in them that is too wide if you use the small page size from above along with bigger type. Usually this is not hard, just very tedious, to fix (see below).
-3. Some formats have bugs that make 12 point sizes look strange. The most obvious one is the bug in the `revtex` physics journal style where footnotes are all the wrong size if you the 12pt version of the style.
+3. Some formats have bugs that make 12 point sizes look strange. The most obvious one is
+   the bug in the `revtex` physics journal style where footnotes are all the wrong size if
+   you use the 12pt version of the style.
 4. If you want the least amount of hassle from $\rm\TeX$'s line breaking algorithms use `\sloppy` to just make it shut up. Similarly `\raggedbottom` is a good idea for page breaks. Otherwise you will get constant complaints about bad line breaks and/or pages with weirdly giant areas of white space between the paragraphs.
 
 One other thing I do here, if the paper is using one of the default formats in $\rm\LaTeX$, is to use the `titlesec` package to shrink the size of the titles and section headers to something more reasonable. The default $\rm\LaTeX$ formats are much too enthusiastic about their headline fonts. I think my dream would be to make all papers take on the minimal understated look of articles from the AMS journals, but in practice that is much too complicated, so we live with what we can get.
