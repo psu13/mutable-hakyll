@@ -29,8 +29,9 @@ What you need:
 
 * 1 Box of macaroni or other small pasta. 
 * 1 can of evaporated milk.
-* 6-8oz of American cheese. You can get cubes, or slices, or whatever. It does not matter.
-* 6-8oz of some other cheese you like to grate and melt. I like Gruyère, Emmental (Swiss) or maybe even Fontina. Cheddar is fine too but I've never liked the way it melts.
+* 4-6oz of American cheese. You can get cubes, or slices, or whatever. It does not matter.
+  Kraft singles are the best though.
+* 4-6oz of some other cheese you like to grate and melt. I like Gruyère, Emmental (Swiss) or maybe even Fontina. Cheddar is fine too but I've never liked the way it melts.
 * Butter, salt, white pepper.
 * Some corn starch or flour.
 
