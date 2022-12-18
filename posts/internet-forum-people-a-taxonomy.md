@@ -7,14 +7,21 @@ author: psu
 <p>Spend any time on the Interwebs these days and you will inevitably end up reading one kind of forum or another. These days there seems to be one of these for every normal human interest and probably the interests that aren&#8217;t all that normal. I have two observations to make about these forums, one short and one long.<br />
 <span id="more-928"></span><a></a></p>
 <p>First, for some reason, they all use the same sort of shitty PHP forum software. What&#8217;s up with this software anyway? Readers old enough to remember the original USENET will also remember a terminal-based message reader called &#8220;trn&#8221; which, while primitive did three basic things that all of these shitty forums do not:</p>
-<p>(a) Keep track of what I have read and only show me new messages.<br />
-(2) Organize the messages into a nice threaded tree of messages and replies.<br />
-(c) Let me edit my own messages in an interface that does not blow.</p>
+
+<p>(a) Keep track of what I have read and only show me new messages.
+
+<p>(2) Organize the messages into a nice threaded tree of messages and replies.
+
+<p>(iii) Let me edit my own messages in an interface that does not blow.</p>
+
 <p>Almost 20 years of web forums and almost none of them do even <em>one</em> of these things correctly. Let&#8217;s hear it for the march of technology.</p>
+
 <p>Second, for the most part, they are populated by the same types of people.</p>
+
 <p>Here then is my humble and no doubt incomplete taxonomy.</p>
-<p><!---more--><a></a></p>
+
 <h4>Smugly Superior</h4>
+
 <p>This guy is smarter than you, better read than you, knows more about food than you, and in general is just better than you in every way. Most importantly, he has better taste than you. Just ask him. He will pontificate in the most pompous and self-important way about any subject while at the same time steering the subject of the conversation to why his sense of taste is refined and erudite while your preferences are no better than the drunk homeless guy lying near that sewer grate across the street.</p>
 <h4>Douchebag</h4>
 <p>Very common in the forums, but is really native to the Xbox Live service. Never has anything interesting to say, but does have a large catalog of racial slurs, sexist attacks and generally just mean things to say. Would call his own mother a gay useless n00b without a clue about life if it would make him feel more like a man on the Internet.</p>
