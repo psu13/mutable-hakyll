@@ -106,7 +106,7 @@ The objects and arrows of a category satisfy the following conditions:
     sometimes written $gf$.
 
 -   For each $A \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$
-    there is a function $1_A: A \to A$, called the *identity* at $A$
+    there is an arrow $1_A: A \to A$, called the *identity* at $A$
     that maps $A$ to itself. Sometimes this object is also written as
     $\mathrm{id}_A$.
 
