@@ -185,7 +185,7 @@ that we express "mathematical structures". But we have much higher to climb.
 Functors are the first step up.
 
 Functors are the *arrows between categories*. That is, if you were to
-define the category where the objects were all categories of some kind
+define a category where the objects were all categories of some kind
 then the arrows would be functors.
 
 **Definition 5**. Given two categories $\mathbf{C}$ and $\mathbf{D}$ a
