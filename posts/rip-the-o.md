@@ -6,7 +6,12 @@ author: psu
 
 Yesterday the news broke that the O had closed, the latest victim in the local food world of our ongoing global COVID-19 disaster. This news was not entirely surprising. I think they had been trying to sell the place for a while now. Still, this one is tough. 
 
-The Original Hot Dog Shop, or Essie's Original Hot Dog Shop was a landmark culinary institution in Pittsburgh situated in the middle of the city-based campus of the University of Pittsburgh. Its location also served several of the other nearby schools, including my alma mater, Carnegie Mellon University.
+The Original Hot Dog Shop, or Essie's Original Hot Dog Shop was a landmark culinary
+institution in Pittsburgh situated in the middle of the city-based campus of the
+University of Pittsburgh. Its location also served several of the other nearby schools,
+including my alma mater, Carnegie Mellon University.
+
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/52614624291/in/photostream/" title="IMG_5801"><img src="https://live.staticflickr.com/65535/52614624291_3df833ed5b_z.jpg" width="640" height="480" alt="IMG_5801"></a>
 
 I first went to the O with my dorm RA when I was a freshman at CMU. It was a late fall afternoon. I had maybe skipped lunch, I don't remember. My companion said "I'll go get us some fries" while I stared at the menu boards above the counter in the front of the store. He disappeared to the back of the store where the fry station is. 
 
