@@ -20,7 +20,7 @@ When you ordered fries at the O they told you that you could pick between "small
 
 While the O was most famous for its stupidly large fries, the actual magic of the place was the hot dogs. The O was always my favorite hot dog place in the world. They pulled off the miracle of having a chili-cheese-onion dog that was better than just a plain dog with mustard. As I got older I stopped getting the cheese, but the dog remained as good as ever:
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49790479603/in/dateposted-public/" title="psu_20170224-IMG_0295"><img src="https://live.staticflickr.com/65535/49790479603_0b4ffa3e90_z.jpg" width="480" height="640" alt="psu_20170224-IMG_0295"></a>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/49790479603/in/dateposted-public/" title="psu_20170224-IMG_0295"><img src="https://live.staticflickr.com/65535/49790479603_0b4ffa3e90_z.jpg" width="480" height="640" alt="psu_20170224-IMG_0295"></a>
 
 The hot dogs at the O were so good that they even got a special shout out in this <a href="https://www.nytimes.com/2002/07/03/dining/high-spots-in-a-nation-of-hot-dog-heavens.html">NYT survey article about regional hot dog styles</a>: 
 
@@ -38,12 +38,11 @@ side of the grill, and then another dozen larger all beef dogs on the other side
 sausages would sit there getting slowly more and more charred over the hours that they sat
 there. That's why the dogs were so good.
 
-<a data-flickr-embed="true"
+> <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/79904144@N00/52614884014/in/photostream"
 title="IMG_5804"><img
 src="https://live.staticflickr.com/65535/52614884014_d35a5eb693_z.jpg" width="640"
-height="480" alt="IMG_5804"></a><script async
-src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+height="480" alt="IMG_5804"></a>
 
 Anyway, while I'm pondering whether to get a regular or a beef dog, the dude in front of me gets up to order. He carefully points at one of the darkest, blackest, and most charred beef dogs sitting on the grill.
 
