@@ -32,7 +32,18 @@ Having gotten older, I hadn't been getting back to the O as much as I used to. I
 
 To close, here is my favorite O story, which I swear to god is true.
 
-One afternoon I'm standing at the hot dog counter looking at the flat top. The way the place worked was that there would always be about a dozen or so regular dogs on one side of the grill, and then another five or ten of the larger all beef dogs on the other side. These sausages would sit there getting slowly more and more charred over the hours that they sat there. That's why the dogs were so good.
+One afternoon I'm standing at the hot dog counter looking at the flat top. The way the
+place worked was that there would always be about a few dozen or so regular dogs on one
+side of the grill, and then another dozen larger all beef dogs on the other side. These
+sausages would sit there getting slowly more and more charred over the hours that they sat
+there. That's why the dogs were so good.
+
+<a data-flickr-embed="true"
+href="https://www.flickr.com/photos/79904144@N00/52614884014/in/photostream"
+title="IMG_5804"><img
+src="https://live.staticflickr.com/65535/52614884014_d35a5eb693_z.jpg" width="640"
+height="480" alt="IMG_5804"></a><script async
+src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Anyway, while I'm pondering whether to get a regular or a beef dog, the dude in front of me gets up to order. He carefully points at one of the darkest, blackest, and most charred beef dogs sitting on the grill.
 
