@@ -51,3 +51,10 @@ I love two things about this dish.
 
 Finally, if you are more efficient, you can probably do this with only one pot and the
 saute pan. But this flow is a bit easier.
+
+**Notes from 2023**:
+
+Yes I know I should be using guanciale. The stuff is hard to find locally though.
+
+Also apparently I should not be using garlic. I'm surprised that Hazen would have a
+controversial stance on this. But there you go.
