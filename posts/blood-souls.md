@@ -100,7 +100,11 @@ So I built a guy specifically to do this run. At first I was going to make mysel
 
 3. Finally, the cleaver does extra damage against Beast enemies, like many of the bosses in the dungeons. 
 
-Put these together and you end up using the cleaver as an ludicrously powerful DPS machine. <a href="https://www.youtube.com/watch?v=2nyx4MQ7gEM&t">Here is a modest example</a>. Note how the damage counter goes up slightly super-linearly. Truly the Saw Cleaver is the Dark Souls 1 falchion reborn. 
+Put these together and you end up using the cleaver as an ludicrously powerful DPS
+machine. <a href="https://www.youtube.com/watch?v=4wCQsxfhY7U>">Here is a modest
+example</a>. <a href="https://www.youtube.com/watch?v=Fy0CIocGVIM">And another</a>. 
+Note how the damage counter goes up slightly super-linearly. Truly the Saw
+Cleaver is the Dark Souls 1 falchion reborn. 
 
 Note: if you were really good and could avoid hits, you can combine this with the Beast Blood Pellets and deal even more damage as your beasthood meter fills and amplifies your hits. But I tend to get one-shot when I try to do that.
 
