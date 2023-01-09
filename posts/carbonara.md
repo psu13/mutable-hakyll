@@ -56,5 +56,5 @@ saute pan. But this flow is a bit easier.
 
 Yes I know I should be using guanciale. The stuff is hard to find locally though.
 
-Also apparently I should not be using garlic. I'm surprised that Hazen would have a
+Also apparently I should not be using garlic. I'm surprised that Hazan would have a
 controversial stance on this. But there you go.
