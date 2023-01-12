@@ -10,7 +10,7 @@ great darkness began. No sourdough bread here, sorry.
 ### Ma Po Tofu Tater Tots
 
 OK. This is a bit of a cheat since I've already mentioned this in my <a
-href="http://mutable-states.com/ma-po-tofu.html">ode to ma-po tofu</a> earlier. Still, it
+href="https://mutable-states.com/2020-for-2020.html">ode to ma-po tofu in 2020</a> earlier. Still, it
 deserves another mention. Make ma-po tofu, put it on tater tots.
 
 > <a href="../images/IMG_2215.jpg">
