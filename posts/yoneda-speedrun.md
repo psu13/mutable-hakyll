@@ -62,7 +62,7 @@ or even really show you how the proof goes.
 
 
 In the spirit of video game speedruns 
-[[5](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
+[[6](https://www.youtube.com/watch?v=ImMOdTxtf-s)], 
 we will skip entire
 interesting areas of category theory in the name of getting
 to the end of our "game" as fast as possible. Clearly this will be no
@@ -97,8 +97,10 @@ The objects and arrows of a category satisfy the following conditions:
 -   Each arrow $f$ connects one object
     $A \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ to another
     object $B \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ and we
-    denote this by writing $f: A \to B$. $A$ is called the *domain* of
-    $f$ and $B$ the *codomain*.
+    denote this by writing $f: A \to B$. $A$ is called the *source* (or *domain*) of
+    $f$ and $B$ the *target (or *codomain*).  Source and target are somewhat more
+    intuitive terms, but domain and codomain connect the language to functions in other
+    areas of mathematics.
 
 -   For each pair of arrows $f:A \to B$ and $g : B \to C$ we can form a
     new arrow $g \circ f:
@@ -198,11 +200,11 @@ parallel rules. First:
 -   For each arrow $f: X \to Y$ in $\mathbf{C}$ we assign an arrow
     $F(f): F(X) \to F(Y)$ in $\mathbf{D}$.
 
-So $F$ maps objects in $\mathbf{C}$ to objects in $\mathbf{D}$ and also
-arrows in $\mathbf{C}$ to arrows in $\mathbf{D}$ such that the domains
-and codomains match up the right way. That is, the domain of $F(f)$ is
-$F$ applied to the domain of $f$, and the codomain of $F(f)$ is $F$
-applied to the codomain of $f$. In addition the following must be true:
+So $F$ maps objects in $\mathbf{C}$ to objects in $\mathbf{D}$ and also arrows in
+$\mathbf{C}$ to arrows in $\mathbf{D}$ such that the sources and targets match up the
+right way. That is, the source of $F(f)$ is $F$ applied to the source of $f$, and the
+target of $F(f)$ is $F$ applied to the target of $f$. In addition the following must be
+true:
 
 -   If $f:X \to Y$ and $g: Y \to Z$ are arrows in $\mathbf{C}$ then
     $F(g \circ f) = F(g) \circ
@@ -211,9 +213,8 @@ applied to the codomain of $f$. In addition the following must be true:
 -   For every $X \in \mathbf{C}$ it is the case that
     $F(1_X) = 1_{F(X)}$.
 
-Thus, the mappings that make up a functor preserve all of the structure
-of the source category in its target, namely domains and codomains,
-composition, and the identities.
+Thus, the mappings that make up a functor preserve all of the structure of the source category
+in its target, namely the sources and targets of arrows, composition, and the identities.
 
 If $F: \mathbf{C}\to \mathbf{D}$ is a functor from a category $\mathbf{C}$ to another
 category $\mathbf{D}$, $X \in \mathbf{C}$ is an object in $\mathbf{C}$, and $f: X \to Y$
@@ -272,7 +273,7 @@ relationship between functors that is just sitting there in the world no
 matter what, and thus "natural". Another apt way of putting this is that
 natural transformations give a canonical way of moving between the
 images of two functors 
-[[2](http://www.julia-goedecke.de/pdf/CategoryTheoryNotes.pdf)].
+[[3](http://www.julia-goedecke.de/pdf/CategoryTheoryNotes.pdf)].
 
 As with arrows, it will be useful to define what an isomorphism means in
 the context of natural transformations:
@@ -527,7 +528,7 @@ their lingo translates to my notational scheme. As one last bit of
 terminology, in some of the definitions below the word *bijection* is
 used to mean an invertible mapping.
 
-This statement is due to Tom Leinster [[4](https://arxiv.org/abs/1612.09375)],
+This statement is due to Tom Leinster [5](https://arxiv.org/abs/1612.09375)],
 and uses the
 contravariant language.
 
@@ -568,7 +569,7 @@ $\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X,-), F)$.
 I think this is my favorite "standard" way of writing this.
 
 Peter Smith
-[[10](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/)]
+[[11](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/)]
 does this:
 
 **Lemma 4** (Yoneda). For any locally small category $\mathbf{C}$,
@@ -582,7 +583,7 @@ He uses the $[\mathbf{C}, {\mathbf {Sets}}]$ notation for the functor
 category, and $\mathop{\mathit{Nat}}$ where we use
 $\mathop{\mathrm{\mathit{Natural}}}$.
 
-Paolo Perrone [[7](https://arxiv.org/abs/1912.10642)]
+Paolo Perrone [[8](https://arxiv.org/abs/1912.10642)]
 writes the dual version, and uses the standard
 term \"presheaf\" to mean a functor from $\mathbf{C}^{\mathrm op}$ to
 ${\mathbf {Sets}}$.
@@ -608,7 +609,7 @@ $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$, which are the natural
 transformations.
 
 Finally, Peter Johnstone
-[[3](http://pi.math.cornell.edu/~dmehrle/notes/partiii/cattheory_partiii_notes.pdf)]
+[[4](http://pi.math.cornell.edu/~dmehrle/notes/partiii/cattheory_partiii_notes.pdf)]
 has my favorite, relatively
 concrete statement:
 
@@ -703,12 +704,12 @@ Given this, how could I resist?
 Finally, I need to shout out the [excellent tutorial video by Emily
 Riehl](https://www.youtube.com/watch?v=SsgEvrDFJsM) that demonstrates
 how this result works the specific category of matrices 
-[[9](https://www.youtube.com/watch?v=SsgEvrDFJsM)].
+[[10](https://www.youtube.com/watch?v=SsgEvrDFJsM)].
 The whole Yoneda picture suddenly
 became more clear while I was watching this talk the second time.
 Her book, [*Category Theory in
 Context*](https://emilyriehl.github.io/files/context.pdf), is also excellent
-[[8](https://math.jhu.edu/~eriehl/context/)]. Recommended.
+[[9](https://math.jhu.edu/~eriehl/context/)]. Recommended.
 
 ### Cheat Sheet
 
@@ -750,32 +751,34 @@ $\mathop{Y\!o}$ -                                                Yoneda Embeddin
 Relativity*](https://preposterousuniverse.com/wp-content/uploads/2015/08/grtinypdf.pdf),
 2001.
 
-[2] Julia Goedecke, [*Category Theory
+[2] Eugenia Cheng, [*The Joy Of Abstraction*](https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657), 2022.
+
+[3] Julia Goedecke, [*Category Theory
 Notes*](http://www.julia-goedecke.de/pdf/CategoryTheoryNotes.pdf), 2013.
 
-[3] Peter Johnstone, [ *Category
+[4] Peter Johnstone, [ *Category
 Theory*](http://pi.math.cornell.edu/~dmehrle/notes/partiii/cattheory_partiii_notes.pdf),
 notes written by David Mehrle, 2015.
 
-[4] Tom Leinster, [*Basic Category Theory*](https://arxiv.org/abs/1612.09375),
+[5] Tom Leinster, [*Basic Category Theory*](https://arxiv.org/abs/1612.09375),
 2016.
 
-[5] LobosJr, [*Dark Souls 1 Speedrun, Personal
+[6] LobosJr, [*Dark Souls 1 Speedrun, Personal
 Best*](https://www.youtube.com/watch?v=ImMOdTxtf-s), 2013.
 
-[6] Saunders Mac Lane, [*Categories for the Working
+[7] Saunders Mac Lane, [*Categories for the Working
 Mathematician*](https://link.springer.com/book/10.1007%2F978-1-4757-4721-8),
 Second Edition, Springer, 1978.
 
-[7] Paolo Perrone, [*Notes on Category Theory with examples from basic
+[8] Paolo Perrone, [*Notes on Category Theory with examples from basic
 mathematics*](https://arxiv.org/abs/1912.10642).
 
-[8] Emily Riehl, [*Category Theory in
+[9] Emily Riehl, [*Category Theory in
 Context*](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_context.html), Dover, 2016.
 
-[9] Emily Riehl, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
+[10] Emily Riehl, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
 matrices*](https://www.youtube.com/watch?v=SsgEvrDFJsM).
 
-[10] Peter Smith, [ *Category Theory: A Gentle
+[11] Peter Smith, [ *Category Theory: A Gentle
 Introduction*](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/),
 2019.
