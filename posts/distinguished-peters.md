@@ -6,10 +6,10 @@ date: 2006-07-13
 
 *Note*: This is a post from the old [tleaves
 site](https://tleaves.com/wordpress-archive/post0619/) written by both me and my old buddy
-Pete (*peterb*). I made one other small change to address reader complaints. People
-complained at the time that the order of *psu* and *peterb* changed around apparently at
-random. So in this version I made it consistent except for the very last one, which only
-works in that order.
+Pete (*peterb*). I have copied the post here to clean up the formatting a bit. I made one
+other small change to address reader complaints. People complained at the time that the
+order of *psu* and *peterb* changed around apparently at random. So in this version I made
+it consistent except for the very last one, which only works in that order.
 
 Recently we have become aware that some readers of the blog have difficulty telling the
 two Petes, *psu* and *peterb*, apart. Here’s a handy reference guide for when you have
