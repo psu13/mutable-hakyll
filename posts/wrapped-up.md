@@ -14,7 +14,11 @@ No. We don't have time for that. Because we have to get right to the issue at ha
 
 > Aren't burritos, or any other foods that by coincidence involve wrapping a set of related ingredients in a round piece of flour, "wraps"?
 
-He went on to rattle off various dishes that he claimed to fall into this category: burritos, moo shu pork, Peking duck. I can only imagine that he'd make the same claim about tacos, Vietnamese fresh spring rolls, shawarma, gyros, calzones, street crepes, blintzes, cannelloni, cannoli, any number of fried spring roll-like constructions and maybe even sushi rolls.
+He went on to rattle off various dishes that he claimed to fall into this category:
+burritos, moo shu pork, Peking duck. I can only imagine that he'd make the same claim
+about tacos, Vietnamese fresh spring rolls, shawarma, gyros, calzones, street crepes,
+dosa, roti, paratha, blintzes, cannelloni, cannoli, any number of fried spring roll-like constructions
+and maybe even sushi rolls.
 
 Here is what I have to say: No. No. No. No. No. No. No. No. No. No. No. No.
 
