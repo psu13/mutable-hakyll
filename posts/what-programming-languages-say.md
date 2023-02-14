@@ -42,7 +42,18 @@ Here are a few of the models that get thrown around in such discussions:
 
 	**Useless Digression**: the late 80s, when I was trying to be an academic computer science type, it was thought that the classic <a href="http://en.wikipedia.org/wiki/Von_Neumann_architecture">"Von Neumann" architecture</a> was not long for this world. The logic went that we would soon end up against the limits of how fast a single core could compute (because of the dreaded <a href="http://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck">von Neumann bottleneck</a>), and we would need ways to structure the new generation of parallel processing software that would be needed to get more the performance that we desired. Then what happened was that the hardware kept getting faster for the next 25 years anyway. Computer scientists are cute when they are wrong.
 
-	Yes yes, most new computers are multi-core architectures now. You can <a href="http://store.apple.com/us/buy-mac/mac-pro">buy a cute little machine that is shaped like trashcan</a> with 12 blazing hot cores of death in it. Your phone even has two or maybe four cores in it. But these are the same sorts of machines that we were running in the 80s. They even use the same instruction set. No one is running an Intel <a href="http://en.wikipedia.org/wiki/SECD_machine">graph reduction machine</a> or an <a href="http://en.wikipedia.org/wiki/Warren_Abstract_Machine">ARM WAM logic engine</a> with thousands of processors all dancing in a huge data-flow disco party. All of this is of course forgivable because even if they were never built in hardware, these models have been used as the basis for a lot of interesting language ideas. We are always saved by the fact that models can be just as useful as software than as hardware.
+	Yes yes, most new computers are multi-core architectures now. You can <a
+	href="http://store.apple.com/us/buy-mac/mac-pro">buy a cute little machine that is
+	shaped like trashcan</a> with 12 blazing hot cores of death in it. Your phone even has
+	two or maybe four cores in it. But these are the same sorts of machines that we were
+	running in the 80s. They even use the same instruction set. No one is running an Intel
+	<a href="https://en.wikipedia.org/wiki/Graph_reduction">graph reduction</a> <a
+	href="http://www0.cs.ucl.ac.uk/staff/C.Clack/research/LNCS274.pdf">machine</a> or an <a href="http://en.wikipedia.org/wiki/Warren_Abstract_Machine">ARM
+	WAM logic engine</a> with thousands of processors all dancing in a huge data-flow
+	disco party. All of this is of course forgivable because even if they were never built
+	in hardware, these models have been used as the basis for a lot of interesting
+	language ideas. We are always saved by the fact that models can be just as useful as
+	software than as hardware.
 
 4. The type theory cult. The most modern functional languages also make heavy use of ideas from "type theory", or the theory of <a href="http://en.wikipedia.org/wiki/Type_systems">type systems</a> in languages. It's beyond the scope of this page (and my brain) to talk about this deeply, but we can take a short digression into this now.
 
