@@ -22,17 +22,17 @@ digital point and shoot for kid pictures while still shooting black and white fi
 look at the film ones at all.
 
 My working method with these pictures was never really that interesting. Until about 2007
-I used an ad-hoc and cobbled together set of tools to store a year or two of full sized
-pictures on my laptop and work with reduced size pictures on my web site. Older pictures
-were offloaded to an iMac with a larger disk and various other backup media. I stuck with
-this year at a time kind of scheme until around 2015 when laptop disks started to get big
-enough to store more pictures at once on the laptop.
+I used an ad-hoc and cobbled together set of tools to ingest, edit and store a year or two
+of full sized pictures on my laptop and work with reduced size pictures on my web site.
+Older pictures were offloaded to an iMac with a larger disk and various other backup
+media. I stuck with this year at a time kind of scheme until around 2015 when laptop disks
+started to get big enough to store more pictures at once on the laptop.
 
-After 2007 I started using Lightroom as a single tool that did all three previous jobs.
-Since then I have moved from Lightroom to Lightroom and never really thought about it. I
-even stuck with the tool after Adobe committed the unforgivable sin of switching to a more
-sustainable subscription-based business model in the 2010s. For better or worse Lightroom
-had my data in it, and I didn't want to move it.
+After 2007 I started using Lightroom as a single tool that handled all of the
+ingest/edit/store jobs on its own. Since then I have moved from Lightroom to Lightroom and
+never really thought about it. I even stuck with the tool after Adobe committed the
+unforgivable sin of switching to a more sustainable subscription-based business model in
+the 2010s. For better or worse Lightroom had my data in it, and I didn't want to move it.
 
 Of course, the Lightroom landscape has been a bit confusing in the past few years. Let me
 summarize...
