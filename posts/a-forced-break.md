@@ -1,6 +1,6 @@
 ---
 title: A Forced Break
-date: 2023-02-27
+date: 2023-02-25
 author: psu
 ---
 
@@ -11,8 +11,8 @@ hands and wrist area. I have been lucky to mostly avoid issues like this for the
 years (knock wood) so of course the thing that took me down for 3 months ends up being
 [newborn mother's thumb](https://en.wikipedia.org/wiki/De_Quervain_syndrome), which I
 guess can also happen to people who use gamepads too much. But I _don't_ use gamepads too
-much ... I spread the hundreds of hours of 
-[FromSoft addiction](i-am-malenia-blade-of-miquella.html) over many weeks and months and
+much ... I spread the thousands of hours of 
+[Fromsoft addiction](i-am-malenia-blade-of-miquella.html) over many weeks and months and
 am careful to play no more than an hour or two at a time. Oh well. Who knows.
 
 What's important is that the result was me sitting at home unable to type, cook, shower,
