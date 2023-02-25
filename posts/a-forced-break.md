@@ -8,12 +8,15 @@ I had a bit of a forced break from most of the regular things I do. An amazing t
 the world is that doing a job, and hobbies, that mostly involve sitting around and typing
 at a keyboard can still open you up to severely crippling orthopedic injuries in your
 hands and wrist area. I have been lucky to mostly avoid issues like this for the last 30
-years (knock wood) so of course the thing that took me down for 3 months ends up being
-[newborn mother's thumb](https://en.wikipedia.org/wiki/De_Quervain_syndrome), which I
-guess can also happen to people who use gamepads too much. But I _don't_ use gamepads too
-much ... I spread the thousands of hours of 
-[Fromsoft addiction](i-am-malenia-blade-of-miquella.html) over many weeks and months and
-am careful to play no more than an hour or two at a time. Oh well. Who knows.
+years (knock wood) so of course the thing that took me down ends up being [newborn
+mother's thumb](https://en.wikipedia.org/wiki/De_Quervain_syndrome). I have had this
+before, and always escaped with just a cortisone shot. But I was not so lucky this time
+and had to have a "minor" surgery, which took months to recover from.
+
+**Note**: I guess this can also happen to people who use gamepads too much. But I _don't_ use
+gamepads too much ... I spread the thousands of hours of [Fromsoft
+addiction](i-am-malenia-blade-of-miquella.html) over many weeks and months and am careful
+to play no more than an hour or two at a time. Oh well. Who knows.
 
 What's important is that the result was me sitting at home unable to type, cook, shower,
 and lots of other stuff with my right hand. So I was really fun to be with. Here are some
@@ -28,7 +31,12 @@ fraction (maybe slightly more than half) of all the tracks.
 
 So I made a playlist of unplayed Mosaic tracks and started shuffling my way through it
 while I sat in my house either rehabbing the hand or trying not to think about how
-uncomfortable the hand was. 
+uncomfortable the hand was.
+
+**Note**: If this ever happens to you, and you end up needing surgery of any kind ... sign up
+for the post-surgery PT and OT _before_ the procedure even happens. Trust me on this. The
+therapy people know _so_ much more about how shit will go after the surgeon is done
+it's not even funny.
 
 Since November I have shuffled through about 2,500 tracks, and I have about 1,000 to go. I
 have not listened to all of them deeply and seriously, but I have listened enough to know
@@ -78,15 +86,19 @@ iceberg. If you are not careful you are also signing up for the secondary league
 "League" Cup (which for sponsorship reasons is really the Carabao Cup right now),
 Champions League, Europa League, and who knows what else. One could retire and do nothing
 but watch English and European football 7 days a week, 10 hours a day, for the rest of
-one's life. All of this is to say that my intuition that this was too complicated was
-right. The FA Cup is cool though.
+one's life. Maybe if I did that for 5 or 10 years I'd finally figure out how the VAR offside
+detection system works.
 
-The best thing about all these games is how high variance they are. It
-seems very rare for things to actually go the way people would expect them to, given
-whatever the current league standings (er, table) are at the time. The bottom of the
-league will often outplay and destroy the top. Or, some team from the third or fourth tier
-league will play a team two or three tiers above it (to an exciting draw)[https://www.wrexham.com/news/wrexham-draw-sheffield-united-at-home-in-the-fa-cup-229064.html]. Exciting draws
-are not a thing I would have expected to either
+All of this is to say that my intuition that this was too complicated was right. The FA
+Cup is cool though.
+
+The best thing about all these games is the songs. The second best thing is how high
+variance they are. It seems very rare for things to actually go the way people would
+expect them to, given whatever the current league standings (er, table) are at the time.
+The bottom of the league will often outplay and destroy the top. Or, some team from the
+third or fourth tier league will play a team two or three tiers above it [to an exciting
+draw](https://www.wrexham.com/news/wrexham-draw-sheffield-united-at-home-in-the-fa-cup-229064.html).
+Exciting draws are not a thing I would have expected to either
 
 1. Acknowledge
 
@@ -99,7 +111,8 @@ But there you go.
 Finally, to answer the obvious question: I have not picked a team yet. I'm going to
 bandwagon the front runners (Arsenal, Man United) this year. And I like the Crystal Palace
 shirts and team name the best. Although _Wolverhampton Wanderers_ and _Nottingham Forest_
-are both strong contenders in the name contest. Oh, and I like the bubble machines at West Ham.
+are both strong contenders in the name contest. Oh, and I like the bubble machines at West
+Ham.
 
 ### Izola's
 
@@ -156,7 +169,7 @@ too so people are not misled into using the previous inferior method.
 
 That's all I got for now. It's good to be back. And I'm gonna make that chili again.
 
-Note: whatever you do, don't use the recent [NYT chili
+**Note**: whatever you do, don't use the recent [NYT chili
 recipe](https://cooking.nytimes.com/recipes/1023921-chili?searchResultPosition=4). The
 fact that they would call the result of that recipe "spicy" is an insult to the word
 spicy.
