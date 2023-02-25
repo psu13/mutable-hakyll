@@ -72,7 +72,7 @@ The first thing you notice watching league, or "club" football, as they call it,
 the games are very different from the World Cup. This should not be surprising. The World
 Cup is a giant high pressure all star game where the happiness of entire nations depends
 on good performances from teams that have played together for a comparatively short time.
-So the games tend to be a bit, for lack of a better description, stiff and tight. So while
+So the games tend to be a bit, for lack of a better description, stiff and tight. While
 it's an incredible event the quality of the football games is a bit variable. This is me
 saying what hundreds of millions of people have known for decades.
 
@@ -134,7 +134,7 @@ And it was just as glorious as in the videos.
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/52674008848/in/photostream/" title="IMG_0339"><img src="https://live.staticflickr.com/65535/52674008848_a8445208e4_z.jpg" width="640" height="480" alt="IMG_0339"></a>
 
-> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/52673013827/in/photostream/" title="IMG_0337_jpg"><img src="https://live.staticflickr.com/65535/52673013827_effa837aae_z.jpg" width="640" height="480" alt="IMG_0337_jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+> <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/52673013827/in/photostream/" title="IMG_0337_jpg"><img src="https://live.staticflickr.com/65535/52673013827_effa837aae_z.jpg" width="640" height="480" alt="IMG_0337_jpg"></a>
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/52673509506/in/photostream/" title="IMG_0355"><img src="https://live.staticflickr.com/65535/52673509506_fc2ff7dc73_z.jpg" width="480" height="640" alt="IMG_0355"></a>
 
