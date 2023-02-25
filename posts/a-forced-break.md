@@ -81,13 +81,13 @@ more fun to watch. Especially the opening minutes of games. The ball goes up and
 back and forth. People run for their lives. There are early scores. Lots of trash talking
 and drama. It's great.
 
-Of course, Premier League is, in a literal sense, only the very tip of the top of the
-iceberg. If you are not careful you are also signing up for the secondary leagues, FA Cup,
-"League" Cup (which for sponsorship reasons is really the Carabao Cup right now),
+Of course the Premier League is, in a literal sense, only the very tip of the top of the
+iceberg. If you are not careful you will also find yourself diving into the other Euro
+leagues (Ligue 1, Bundesliga, La Liga, Serie A, etc), the secondary English leagues, FA
+Cup, League Cup (which for sponsorship reasons is really the Carabao Cup right now),
 Champions League, Europa League, and who knows what else. One could retire and do nothing
 but watch English and European football 7 days a week, 10 hours a day, for the rest of
-one's life. Maybe if I did that for 5 or 10 years I'd finally figure out how the VAR offside
-detection system works.
+one's life. If I did that for 5 or 10 years I might finally figure out how offside works.
 
 All of this is to say that my intuition that this was too complicated was right. The FA
 Cup is cool though.
