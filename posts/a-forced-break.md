@@ -24,7 +24,7 @@ thoughts on things I did instead.
 
 ### Shuffle Play
 
-I buy too much music from (Mosaic Records)[https://www.mosaicrecords.com]. I have since
+I buy too much music from [Mosaic Records](https://www.mosaicrecords.com). I have since
 the late 80s. The result is that I have a huge number of ripped tracks from various CD
 collections that they have put out over the years, but I have actually only listened to a
 fraction (maybe slightly more than half) of all the tracks.
@@ -89,9 +89,6 @@ Champions League, Europa League, and who knows what else. One could retire and d
 but watch English and European football 7 days a week, 10 hours a day, for the rest of
 one's life. If I did that for 5 or 10 years I might finally figure out how offside works.
 
-All of this is to say that my intuition that this was too complicated was right. The FA
-Cup is cool though.
-
 The best thing about all these games is the songs. The second best thing is how high
 variance they are. It seems very rare for things to actually go the way people would
 expect them to, given whatever the current league standings (er, table) are at the time.
@@ -110,9 +107,8 @@ But there you go.
 
 Finally, to answer the obvious question: I have not picked a team yet. I'm going to
 bandwagon the front runners (Arsenal, Man United) this year. And I like the Crystal Palace
-shirts and team name the best. Although _Wolverhampton Wanderers_ and _Nottingham Forest_
-are both strong contenders in the name contest. Oh, and I like the bubble machines at West
-Ham.
+shirts and team name the best. _Wolverhampton Wanderers_ and _Nottingham Forest_ are also
+strong contenders in the name contest. Oh, and I like the bubble machines at West Ham.
 
 ### Izola's
 
