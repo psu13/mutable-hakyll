@@ -90,10 +90,11 @@ but watch English and European football 7 days a week, 10 hours a day, for the r
 one's life. If I did that for 5 or 10 years I might finally figure out how offside works.
 
 The best thing about all these games is the songs. The second best thing is how high
-variance they are. It seems very rare for things to actually go the way people would
-expect them to, given whatever the current league standings (er, table) are at the time.
-The bottom of the league will often outplay and destroy the top. Or, some team from the
-third or fourth tier league will play a team two or three tiers above it [to an exciting
+variance they are (the third best thing is team shirts with collars). It seems very rare
+for things to actually go the way people would expect them to, given whatever the current
+league standings (er, table) are at the time. The bottom of the league will often outplay
+and destroy the top. Or, some team from the third or fourth tier league will play a team
+two or three tiers above it [to an exciting
 draw](https://www.wrexham.com/news/wrexham-draw-sheffield-united-at-home-in-the-fa-cup-229064.html).
 Exciting draws are not a thing I would have expected to either
 
