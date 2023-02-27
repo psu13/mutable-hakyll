@@ -98,7 +98,7 @@ invented in the U.S. we'd get ad breaks before every corner and free kick. And t
 kicks would have a sponsor (and next, the Visa Interest Free Free kick!). Instead we get
 these weird surreal 3-d cans on the field:
 
-> <img src="../images/cans.png" width=800> 
+> <a href="https://amayse.com/sports-branding/solutions/3d-camcarpets/"> <img src="../images/cans.png" width=600> </a>
 
 The next best thing about all these games is the songs. After that the best thing is the
 shirts with collars. But finally the actual best thing is how high variance they are. It
