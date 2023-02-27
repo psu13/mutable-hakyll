@@ -64,7 +64,7 @@ So anyway, the World Cup was cool, especially all the Messi brilliance, the enti
 making fun of Ronaldo, and that craaayyyyyyzy final game. But the difference this year was
 that it came right in the middle of all the major English and European professional
 seasons. So, after a short break the curious could dive immediately into the Premier
-league rat hole. In the past I had thought about doing this, but it all seemed too
+League rat hole. In the past I had thought about doing this, but it all seemed too
 complicated. This year I literally had nothing better to do. But it's _still_ too
 complicated.
 
