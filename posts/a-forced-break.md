@@ -89,12 +89,23 @@ Champions League, Europa League, and who knows what else. One could retire and d
 but watch English and European football 7 days a week, 10 hours a day, for the rest of
 one's life. If I did that for 5 or 10 years I might finally figure out how offside works.
 
-The best thing about all these games is the songs. The second best thing is how high
-variance they are (the third best thing is team shirts with collars). It seems very rare
-for things to actually go the way people would expect them to, given whatever the current
-league standings (er, table) are at the time. The bottom of the league will often outplay
-and destroy the top. Or, some team from the third or fourth tier league will play a team
-two or three tiers above it [to an exciting
+The best thing about these games is the timing. Because of the time zones involved there
+are no night games that go until midnight. Great! And, the games always finish on time.
+Wonderful! And, you can play almost two complete English football games in the time it
+takes to get through a regular season MLB or NFL game ... or sometimes two and a half
+games for a playoff baseball or NFL game. I'm pretty sure if English football had been
+invented in the U.S. we'd get ad breaks before every corner and free kick. And the free
+kicks would have a sponsor (and next, the Visa Interest Free Free kick!). Instead we get
+these weird surreal 3-d cans on the field:
+
+> <img src="../images/cans.png" width=800> 
+
+The next best thing about all these games is the songs. After that the best thing is the
+shirts with collars. But finally the actual best thing is how high variance they are. It
+seems fairly rare for things to actually go the way people would expect them to, given
+whatever the current league standings (er, table) are at the time. The bottom of the
+league will often outplay and destroy the top. Or, some team from the third or fourth tier
+league will play a team two or three tiers above it [to an exciting
 draw](https://www.wrexham.com/news/wrexham-draw-sheffield-united-at-home-in-the-fa-cup-229064.html).
 Exciting draws are not a thing I would have expected to either
 
@@ -153,7 +164,7 @@ I've mostly stopped again.
 
 Finally, once things improved a lot, I made chili for the Super Bowl game (and the two or
 three Premier League and related games that played before it on Sunday morning and
-afternoon). I an pretentiously snobby about [my chili](my-chili.html) because I make my own chili
+afternoon). I am pretentiously snobby about [my chili](my-chili.html) because I make my own chili
 powder and use that as a base.
 
 This year I learned I should be using those dried peppers to make a chili pepper sludge,
