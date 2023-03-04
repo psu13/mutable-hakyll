@@ -37,11 +37,28 @@ otherwise be able to make. But it doesn't really make the pictures better.
 Every time I hear someone gripe about not being able to buy a camera body
 because it is insufficient build quality, and in particular if it is not
 "sealed against the elements" all I do is snicker and think of this photo.net
-thread about [skydiving with a D-Rebel](http://photo.net/canon-eos-digital-
-camera-forum/00LE7S).
+thread about [skydiving with a D-Rebel](https://archive.ph/Fii5M). 
 
-The payoff message is about eight or ten replies in. Trust me, if you aren't
-working harder than that guy, you don't need weather sealing.
+The payoff message is about eight or ten replies in from user `joe_courtney`. Trust me, if you aren't
+working harder than that guy, you don't need weather sealing. 
+
+**Addition in 2023**: For posterity, and because the original page has disappeared in the past, here is the text
+of said post:
+
+> Some where around 15-20 times per weekend, I strap my xti to a helmet, walk it across
+> the tarmac and through the prop wash of a turbine aircraft, haul it to 14,000' above
+> ground level, open the aircraft door, which hopefully does not hit my camera but
+> sometimes does, in anywhere from -15F degrees and up, hurl myself, and camera, towards
+> the earth at around 120 mph, taking over 100 images of my free fall student / subject as
+> the conditions around me go from cold to extremely warm, dry to moist, sun shine to
+> falling thru a cloud, then deploy a parachute, createing a 3g force worth of brakes,
+> then land in to what is hopefully a nice stand up in the grass, but may be a hit drop
+> and roll in the unknown, then return to a open-air, dusty packing area where my xti sits
+> on a table, waiting for the parachute to be repacked so that it may ride my head for
+> another adventure. It does great. One of the major things about a rebel that has always
+> made it suitable for freefall photagraphy is its weight, or lack there of, however it
+> light construction has never been a problem for me, or any of my peers.
+
 
 #### That 50/0.9 Lens
 
