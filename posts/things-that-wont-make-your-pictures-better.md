@@ -4,13 +4,12 @@ date: 2010-01-13
 author: psu
 ---
 
-My year in photography ended like it usually does, at my parents' house where
-I took pictures of the Christmas festivities and all of the excessive
-preparation of food. This year I sent the gallery to my parents, and then got
-a curious email from my dad essentially asking me why my camera takes better
-pictures. I did not have an answer. As is usual for me though, I _do_ a lot of
-insight from the _negative_. So, for the new decade I present up to ten things
-that will not make your pictures any better.
+My year in photography ended like it usually does, at my parents' house where I took
+pictures of the Christmas festivities and all of the excessive preparation of food. This
+year I sent the gallery to my parents, and then got a curious email from my dad
+essentially asking me why my camera takes better pictures. I did not have an answer. As is
+usual for me though, I _do_ have a lot of insight from the _negative_. So, for the new
+decade I present up to ten things that will not make your pictures any better.
 
 #### ISO 12,800
 
