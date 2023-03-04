@@ -35,7 +35,7 @@ otherwise be able to make. But it doesn't really make the pictures better.
 #### Weight and Weather Sealing
 
 Every time I hear someone gripe about not being able to buy a camera body
-because it is insufficient build quality, and in particular if it is not
+because it is of insufficient build quality, and in particular if it is not
 "sealed against the elements" all I do is snicker and think of this photo.net
 thread about [skydiving with a D-Rebel](https://archive.ph/Fii5M). 
 
