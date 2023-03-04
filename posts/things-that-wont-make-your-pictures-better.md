@@ -32,7 +32,7 @@ partly because of its high ISO performance. But, what can I say. There are
 times I find it useful. There are times it lets me make a picture I would not
 otherwise be able to make. But it doesn't really make the pictures better.
 
-#### Weather Sealing
+#### Weight and Weather Sealing
 
 Every time I hear someone gripe about not being able to buy a camera body
 because it is insufficient build quality, and in particular if it is not
