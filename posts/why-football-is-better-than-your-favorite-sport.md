@@ -1,5 +1,5 @@
 ---
-title: Why Football is Better Than Your Favorite Sport
+title: Why (NFL) Football is Better Than Your Favorite Sport
 date: 2010-02-08
 author: psu
 ---
