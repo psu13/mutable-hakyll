@@ -30,7 +30,7 @@ The most important rule on the social networks is to work hard not to talk to an
 
 Other random things to never talk about on social media: work, family, work and family, politics, any subject matter requiring subtle thought or layers of meaning, anything you are angry about. It's almost to the point where even things as vacuous as sports and pop culture need to be off limits (see Gamergate).
 
-The most stress I ever had online was when I called a writer at some NY magazine a moron for writing a really moronic thing about "techies" in Silicon Valley. I have a short fuse when it comes to stereotyping people who are good with working with computers. The comment set off a seemingly unending stream of replies at various levels of invective. I think at that point and time I would also get emails whenever anyone mentioned or replied to me on twitter. Which made it even worse. Which leads to rule 2.
+The most stress I ever had online was when I called a writer at some NY magazine a moron for writing a really moronic thing about "techies" in Silicon Valley. I have a short fuse when it comes to stereotyping people who are good with working with computers. The comment set off a seemingly unending stream of replies at various levels of invective. I think at that point in time I would also get emails whenever anyone mentioned or replied to me on twitter. Which made it even worse. Which leads to rule 2.
 
 **Rule 2: No Notifications**
 
@@ -74,4 +74,7 @@ The problem with twitter is you never know what thing all the randoms are going 
 
 Thus we have looped back to the rule 1.
 
-Having written all this down, I conclude that I should really lock both of the social accounts that I use so I can't actually post anything ever. But that probably won't happen. This is why the Internet is the disease-filled hell-scape that we know and love today.
+Having written all this down, I conclude that I should really lock both of the social
+accounts that I use so I can't actually post anything ever. But that probably won't
+happen. This is why the Internet is the disease filled hellscape that we know and love
+today.
