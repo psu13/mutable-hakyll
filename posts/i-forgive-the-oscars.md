@@ -4,7 +4,7 @@ date: 2023-03-13
 author: psu
 ---
 
-My plan today had been to just say "Happy March 1095 2020", as we have yet again passed
+My plan today had been to just say "Happy March 1096 2020", as we have yet again passed
 one more go around the sun since that great stupidity started. But instead I have a
 different and unexpected grudge to finally let go of.
 
@@ -21,13 +21,13 @@ collection of dour and boring electronic pap instead of John Williams. Be honest
 the last time you thought about the theme to _Chariots of Fire_ without falling asleep?
 Now run that trumpet fanfare from _Raiders_ through your head ... see? OK whatever.
 
-Anyway. At the time sixteen year old me was furious, and concluded that the Oscars was a
+Anyway. At the time teen high school me was _furious_, and concluded that the Oscars was a
 huge scam run by money and old people. And I have never changed my mind.
 
 But, this year I feel like I have to forgive them. About a year ago when I first saw the
 trailers to [_Everything Everywhere All At
 Once_](https://www.youtube.com/watch?v=wxN1T1uxQ2g) I immediately went around calling it
-_The Best Film of the Year_. I did this more after actually seeing it (twice!). And
+_The Best Film of 2022_. I did this more after actually seeing it (twice!). And
 finally last night the Oscars did the right thing and picked a movie with a fun and
 actually enjoyable energy over a lot of dour and depressing drama for best picture. More
 importantly, they finally gave Michelle Yeoh her statue after robbing her in 2000 (!!) and
