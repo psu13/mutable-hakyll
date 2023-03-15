@@ -96,12 +96,12 @@ myFeedConfiguration = FeedConfiguration
     , feedRoot        = "https://mutable-states.com"
     }
 
-copyright = "2022"
+copyright = "2023"
 
 -- default post context for things here. this is mostly just to hold
 -- the default ending copyright date above for convenience in the templates.
 mutableCtx :: Context String
-mutableCtx = 
+mutableCtx =
     constField "copyright" copyright `mappend`
     defaultContext
 
@@ -111,7 +111,7 @@ postCtx =
     mutableCtx
 
 -- remove the parent directory "posts" from the URL path of the
--- final HTML pages to match the current convention at the old site. 
+-- final HTML pages to match the current convention at the old site.
 -- this leaves the site a bit cluttered but who cares.
 flatRoute :: Routes
 flatRoute = customRoute createIndexRoute
@@ -124,8 +124,8 @@ flatRoute = customRoute createIndexRoute
 -- this generates <span> tags for the math. you need to put the right script into
 -- the templates for this to work out.
 withKaTexMathOptions :: Extensions.Extensions -> Options.WriterOptions
-withKaTexMathOptions mathExtensions = Hakyll.defaultHakyllWriterOptions 
-    { 
+withKaTexMathOptions mathExtensions = Hakyll.defaultHakyllWriterOptions
+    {
         Options.writerExtensions = mathExtensions,
         Options.writerHTMLMathMethod =  Options.KaTeX ""
     }
@@ -133,7 +133,7 @@ withKaTexMathOptions mathExtensions = Hakyll.defaultHakyllWriterOptions
 
 -- compiler for posts, uses the options above to turn on math and stuff.
 postCompiler :: Compiler (Item String)
-postCompiler = 
+postCompiler =
     let defaultExtensions = Options.writerExtensions defaultHakyllWriterOptions
         writerOptions = withKaTexMathOptions defaultExtensions
     in pandocCompilerWith defaultHakyllReaderOptions writerOptions
