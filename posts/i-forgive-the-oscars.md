@@ -4,7 +4,7 @@ date: 2023-03-13
 author: psu
 ---
 
-My plan today had been to just say "Happy March 1096 2020", as we have yet again passed
+My plan today had been to just say "Happy March 1107 2020", as we have yet again passed
 one more go around the sun since that great stupidity started. But instead I have a
 different and unexpected grudge to finally let go of.
 
