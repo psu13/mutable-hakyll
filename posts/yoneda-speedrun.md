@@ -34,7 +34,7 @@ result that you prove on the way to the main event, the Yoneda lemma
 of category theory: it characterizes universal facts about general
 abstract constructs.
 
-Its statement is deceivingly simple [[8](https://math.jhu.edu/~eriehl/context/)]
+Its statement is deceivingly simple [[9](https://emilyriehl.github.io/files/context.pdf)]
 
 Let $\mathbf{C}$ be a locally small category. Let $X$ be an object of
 $\mathbf{C}$, and let $F: \mathbf{C}\to
