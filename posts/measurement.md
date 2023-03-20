@@ -349,7 +349,7 @@ alive and dead.
 
 Instead, the particle enters the device and we see a universe where the device tells us a
 single definitive answer: either spin up or spin down. That is, using our notation above,
-the real world time evolution always look like this:
+the real world time evolution seems to always look like this:
 
 $$
 {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
@@ -363,13 +363,12 @@ $$
 |x_-\rangle|m_-\rangle
 $$
 
-In order to make this happen, we have figure out a way around this apparently fundamental
-conflict: the Schrödinger says we should see superpositions, but in our experiments we
-never see superpositions.
+So we seem to have a fundamental conflict: the Schrödinger says we should see
+superpositions, but in our experiments we never see superpositions.
 
-So this, dear friends, is the measurement problem. It is a fundamental contradiction
-between the observed behavior of real systems in the world, and what the Schrödinger
-equation allows.
+This, dear friends, is the measurement problem. It is a fundamental contradiction between
+the observed behavior of real systems in the world, and what the Schrödinger equation
+allows.
 
 ### Possible Answers
 
