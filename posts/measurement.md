@@ -347,10 +347,9 @@ give us a single answer with a single value. The world is not full of superposed
 Stern-Gerlach devices, or CCDs, or TV screens. Furthermore: cats, famously, are never both
 alive and dead.
 
-Instead, the particle enters the device and we see a universe where only one particle
-leaves and the device tells us a single definitive answer: either $|x_+\rangle$ or
-$|x_-\rangle$. That is, using our notation above, the real world time evolution always
-look like this:
+Instead, the particle enters the device and we see a universe where the device tells us a
+single definitive answer: either spin up or spin down. That is, using our notation above,
+the real world time evolution always look like this:
 
 $$
 {1 \over \sqrt{2}} (|x_+\rangle + |x_-\rangle)|m_0\rangle \quad \xrightarrow{\hspace 20pt} \quad
@@ -364,8 +363,9 @@ $$
 |x_-\rangle|m_-\rangle
 $$
 
-In order to make this happen, we have to add something like the collapse rule, or some
-other story, to the theory.
+In order to make this happen, we have figure out a way around this apparently fundamental
+conflict: the Schrödinger says we should see superpositions, but in our experiments we
+never see superpositions.
 
 So this, dear friends, is the measurement problem. It is a fundamental contradiction
 between the observed behavior of real systems in the world, and what the Schrödinger
