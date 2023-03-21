@@ -12,7 +12,13 @@ The general ground rules still apply though. I am not much of a tourist. My idea
 
 #### Before You Go
 
-There are two books that you should get before you go. First, get a copy of <a href="http://www.amazon.com/French-English-Dictionary-Culinary-Terms/dp/0320005461/">_The A-Z of French Food_</a>. This is a French to English food dictionary which will explain to you what all the flowery language on the French menus means. This will allow you to go to the good places (no English menus) and not have to guess what they are serving you. This books is now much more expensive than I remember it being. If you can buy it in France. It might be cheaper there.
+There are two books that you should get before you go. First, get a copy of <a
+href="http://www.amazon.com/French-English-Dictionary-Culinary-Terms/dp/0320005461/">_The
+A-Z of French Food_</a>. This is a French to English food dictionary which will explain to
+you what all the flowery language on the French menus means. This will allow you to go to
+the good places (no English menus) and not have to guess what they are serving you. This
+books is now much more expensive than I remember it being. If you can buy it in France
+it might be cheaper there.
 
 Next, shortly after arriving you should go to any news stand and pick up the definitive Paris map book. Look for a little blue book with the title <a href="http://www.amazon.com/Plans-Paris-Street-Index-French/dp/2707202398">Paris Practique</a>. The book has one or two maps per arrondissement (or neighborhood) all on individual pages. This is handy because everything in Paris is labeled with the number of the arrondissement in which it resides. There are 15-20 arrondissements in all organized in a spiral out from the center of the city. If you hear people saying things like "Oh that's in the 8th", this is what they mean.
 
