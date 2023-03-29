@@ -40,7 +40,7 @@ I could go on all night, but I’d rather stop and go back downstairs and play s
 
 The second to last time I was this confused about a game was when, on the strength of a [Penny Arcade](http://www.penny-arcade.com/comic/2004/10/04) cartoon I picked up [*Shadow Hearts: Covenant*](http://tleaves.com/2005/02/15/shadow-hearts-covenant/index.html) on a whim. Here was as hard core J a JRPC as they came and I should have hated it, but it tickled some part of my fancy and I played it all the way to the end.
 
-The last time I was this confused about a video game was when I got into [*Resident Evil 4*](http://tleaves.com/2005/04/21/evil-in-residence/index.html). Here was a game where you must shoot zombies with a character who can’t walk and hold a gun at the same time. And yet I played the game through a half dozen times on multiple platforms.
+The last time I was this confused about a video game was when I got into [*Resident Evil 4*](evil-in-residence.html). Here was a game where you must shoot zombies with a character who can’t walk and hold a gun at the same time. And yet I played the game through a half dozen times on multiple platforms.
 
 After 50 or 60 hours of *Dark Souls* I finally figured that what I like about the game is what it has in common from these two previous inscrutable favorites.
 
