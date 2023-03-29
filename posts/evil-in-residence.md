@@ -58,7 +58,9 @@ always menacing, they are hardly ever completely overwhelming. This means that y
 spend most of your time blowing up zombie heads rather than worrying about resources, or
 replaying levels because you are dead. This means you spend most of your time having fun.
 
-In summary, the meat of the game is the combat, and while it is awkward and sort of stupid, the combat is good enough to keep you coming back for more. But, this doesn’t mean that the game doesn’t do some stupid things.
+In summary, the meat of the game is the combat, and while it is awkward and sort of
+stupid, the combat is good enough to keep you coming back for more. But, this doesn’t mean
+that the game doesn’t do some stupid things.
 
 ### A Lack of Puzzling Puzzles
 
