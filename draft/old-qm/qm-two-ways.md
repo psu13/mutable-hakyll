@@ -104,14 +104,14 @@ called a _linear_ differential equation) means that it's easy to construct state
 are valid in the formalism but never observed in experiments. So let's try to see what
 this means.
 
-### The Rules
+#### The Rules
 
 On the way to the shiny quantum weirdness we first have do some boring review of linear algebra.
 
-### Superposition and Entanglement
+#### Superposition and Entanglement
 
-### Measurement
+#### Measurement
 
-### The Problem
+#### The Problem
 
-### Appendix
+#### Appendix

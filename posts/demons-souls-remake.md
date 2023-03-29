@@ -22,11 +22,11 @@ Of course, FromSoft's second major release was *Dark Souls*, and <em><a href="/s
 
 Now a remake of *Demon's Souls*, built by BluePoint Games, is a launch title on the new PS5. Through a unusual set of circumstance I happened to get one of the new machines pretty close to launch and have spent some time playing through this game again. This time without cheating.
 
-### The Big Picture
+#### The Big Picture
 
 This a great remake that makes it possible to really get to know this game for real. 
 
-### The Details
+#### The Details
 
 *Demon's Souls* on the PS3 was characterized by slightly janky gameplay and questionable performance. I never really connected with the game partly because I got one shotted one too many times but also because I could never get a feel for how to navigate the world. This was all made worse by the truly horrendous load times for levels and the floaty disconnected controls.
 
@@ -123,6 +123,6 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 I am assuming these fights would be even easier with super OP magic builds. But even with not quite the best bow you can make this pleasingly straightforward. The final boss falls the same way.
 
-### Summing Up
+#### Summing Up
 
 BluePoint is to be commended for this product. It's hard enough to build software these days. Software that modernizes existing software and stays faithful to (almost) everything everyone likes while polishing and improving all the warts and rough edges is a whole different level of hard. Bravo, and I'll see you on the other side of a Soul Level 1 run (maybe).

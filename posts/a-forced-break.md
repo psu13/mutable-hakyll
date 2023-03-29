@@ -22,7 +22,7 @@ What's important is that the result was me sitting at home unable to type, cook,
 and lots of other stuff with my right hand. So I was really fun to be with. Here are some
 thoughts on things I did instead.
 
-### Shuffle Play
+#### Shuffle Play
 
 I buy too much music from [Mosaic Records](https://www.mosaicrecords.com). I have since
 the late 80s. The result is that I have a huge number of ripped tracks from various CD
@@ -49,7 +49,7 @@ my brain back on. It had been taking a bit of a vacation lately and I had not be
 motivated to engage with the huge amount of recorded music in the world. Getting this
 engagement back has improved my life.
 
-### English and World Football
+#### English and World Football
 
 Another thing I engaged in more than I have in the past is soccer, which in this section
 of the page I will call football since it seems more appropriate.
@@ -122,7 +122,7 @@ bandwagon the front runners (Arsenal, Man United) this year. And I like the Crys
 shirts and team name the best. _Wolverhampton Wanderers_ and _Nottingham Forest_ are also
 strong contenders in the name contest. Oh, and I like the bubble machines at West Ham.
 
-### Izola's
+#### Izola's
 
 Izola's is a buffet style restaurant in Hinesville Georgia. It serves food that is best
 described as "Classic American Southern". Early on in the [great
@@ -152,7 +152,7 @@ And it was just as glorious as in the videos.
 
 You should go. It's close to Savannah, which is also a neat place.
 
-### Apple Voice Recognition
+#### Apple Voice Recognition
 
 The voice input stuff in the Apple operating systems is just good enough to be really
 annoying when it misses, and not really good enough to use on a regular basis if you can
@@ -160,7 +160,7 @@ actually type at the keyboard. Not surprisingly it's especially bad with jargon 
 domain specific language. I used it a lot when my hand was at its most useless. But now
 I've mostly stopped again.
 
-### Chili
+#### Chili
 
 Finally, once things improved a lot, I made chili for the Super Bowl game (and the two or
 three Premier League and related games that played before it on Sunday morning and

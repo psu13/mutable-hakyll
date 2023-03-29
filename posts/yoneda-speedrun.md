@@ -25,7 +25,7 @@ But, the pdf looks much better:
 wrote this down trying to figure out the language. So everything in this
 document is probably wrong.
 
-### The Big Picture
+#### The Big Picture
 
 The Yoneda Lemma is a basic and beloved result in category theory. Even
 though it is called a "lemma", a word usually used to describe a minor
@@ -74,7 +74,7 @@ game.
 wrote this down trying to figure out the language. So everything in this
 document is probably wrong.
 
-### Categories
+#### Categories
 
 Categories have a deliciously chewy multi-part definition.
 
@@ -177,7 +177,7 @@ exactly the invertible mappings between sets. An invertible mapping is
 also called a *bijection* (because it's injective and surjective, you
 see), so you will see that word sometimes.
 
-### Functors
+#### Functors
 
 As we navigate our way from basic categories up to the statement of the
 lemma we will travel through multiple layers conceptual abstraction.
@@ -231,7 +231,7 @@ sense but can be a little weird. Sometimes in proofs and calculations
 the notations will shift back and forth without enough context and can
 be disorienting.
 
-### Natural Transformations
+#### Natural Transformations
 
 Natural transformations are the next step up the ladder. If functors are
 arrows between categories, then natural transformations are arrows
@@ -283,7 +283,7 @@ $\alpha: F \Rightarrow G$ in which every component $\alpha_X$ is an
 isomorphism. In this case, the natural isomorphism may be depicted as
 $\alpha: F \cong G$.
 
-### Functor Categories
+#### Functor Categories
 
 In the last two sections we have defined functors, and then the natural
 transformations. Given that functors and natural transformations look a
@@ -342,7 +342,7 @@ functor category then people will write
 $\mathop{\mathrm{\mathit{Hom}}}_{\mathbf{K}}(F,G)$ or $\mathbf{K}(F,G)$
 for this.
 
-### Representing Functors
+#### Representing Functors
 
 The next conceptual step that we need is a way to relate *functors* to
 *objects*. The following definition is a natural way to do this once you
@@ -422,7 +422,7 @@ $\mathop{\mathrm{\mathit{Arrows}}}_\mathbf{C}(X,-):\mathbf{C}\to{\mathbf {Sets}}
 for some object $X$ of $\mathbf{C}$. In that case we call $X$ the
 *representing object*.
 
-### Opposites and Duals
+#### Opposites and Duals
 
 Next we move a bit sideways. Duality in mathematics comes up in a lot of
 different ways. Covering it all is way beyond the scope of these notes.
@@ -481,7 +481,7 @@ Note how the arrows and composition go backwards when they need to. With
 this terminology in mind, we call regular functors from
 $\mathbf{C}\to \mathbf{D}$ *covariant*.
 
-### Yoneda Again
+#### Yoneda Again
 
 Now we have all the language we need to look at the statement of the
 lemma again. So, here is what we wrote down before, more verbosely, and
@@ -622,7 +622,7 @@ $\mathbf{C}(X, -) \Rightarrow F$
 
 \(ii\) the bijection in (i) is natural in both $F$ and $X$.
 
-### One More Thing
+#### One More Thing
 
 Now your reward for having climbed all the way up this abstraction
 ladder with me is yet another abstraction!
@@ -673,7 +673,7 @@ it." This statement can be made precise:
     represent are naturally isomorphic. In particular, if X and Y
     represent the same functor then they must be isomorphic.
 
-### Final Thoughts
+#### Final Thoughts
 
 To close, a few final thoughts, and no more abstraction.
 
@@ -711,7 +711,7 @@ Her book, [*Category Theory in
 Context*](https://emilyriehl.github.io/files/context.pdf), is also excellent
 [[9](https://math.jhu.edu/~eriehl/context/)]. Recommended.
 
-### Cheat Sheet
+#### Cheat Sheet
 
 $\mathbf{C}$, $\mathbf{C}^\mathrm{op}$ - Categories and opposite categoies.
 
@@ -745,7 +745,7 @@ $f \circ -$, $- \circ f$ -                                       Pre- and post-c
 
 $\mathop{Y\!o}$ -                                                Yoneda Embedding.
   
-### References
+#### References
 
 [1] Sean Carroll, [*A No-Nonsense Introduction to General
 Relativity*](https://preposterousuniverse.com/wp-content/uploads/2015/08/grtinypdf.pdf),

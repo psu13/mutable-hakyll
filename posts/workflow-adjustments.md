@@ -17,17 +17,17 @@ both sets of files down. So, where would I find a good browsing tool? Reading
 I found that they use a program called [Photo Mechanic](https://home.camerabits.com), so I
 tried it out. Turns out, it is really good at browsing, editing, and tagging.
 
-### Browsing
+#### Browsing
 
 Once it loads your pictures, the Photo Mechanic browser is very very fast. It has a convenient import tool that lets you suck the pictures off the card, rename them the way you want and put them into a folder. For RAW files, PM conveniently lets you browse the pictures using the embedded preview thumbnails that are generally embedded in Nikon NEF files. For D70 files, these are full sized JPEG files, making browsing very nice. Generally I import pictures a few hundred at a time, which PM handles well, without bogging down.
 
 So, where I used to bring my RAW files into iView just to run a batch conversion script, I can now browse the pictures directly in PM. This saves the import step and the conversion steps, and I can evaluate the pictures at full resolution. Which brings us to editing.
 
-### Editing
+#### Editing
 
 The editing UI in PM is great. As I said above, the browser is fast. It is easily 2 or 3 times faster than either iView or Photoshop. Also, it lets me edit full sized JPEGs and it has a nice side by side view for comparing similar shots. Love it.
 
-### Tagging
+#### Tagging
 
 Finally, Photo Mechanic has a nice tool for tagging pictures with meta-data. This is different than iView, where annotating pictures in the catalog was easy, but applying those annotations to the files was a multi-step process. PM has a “stationery pad” where you can enter the meta-data for a bunch of pictures and tag them all in one batch. It’s easy and fast and supports all the prevailing EXIF and ITPC standards. PM, like all the other tools, does have problems with manufacturer specific EXIF tags. But this is all part of the meta-data problem on which I have ranted before. This won’t change unless the manufacturers stop deciding to screw users.
 
@@ -35,7 +35,7 @@ The only annoyance with Photo Mechanic is that at the time I started using it, t
 
 As if to read my mind, the Photo Mechanic developer added this functionality to version 4.3.3 of the product.
 
-### New Workflow
+#### New Workflow
 
 Here’s what I do now:
 

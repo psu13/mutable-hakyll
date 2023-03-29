@@ -105,7 +105,7 @@ avoided](http://mutable-states.com/anti-social-social-networking.html).
 
 But once in a while it's not too bad.
 
-### Final Note
+#### Final Note
 
 It turns out that I did find [this stackoverflow
 thread](https://stackoverflow.com/questions/11530133/why-is-it-that-sending-any-selector-to-a-nil-object-does-nothing-but-sending-an)

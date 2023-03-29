@@ -101,7 +101,7 @@ questions that we started with to "probability based on the 2-norm". Along the w
 also meet up with the two questions that have vexed everyone who has thought about quantum
 mechanics in the last hundred years or so: measurement and entanglement. So here we go.
 
-### The Rules
+#### The Rules
 
 What is interesting is that we can talk about these puzzles without actually ever solving
 any differential equations or figuring out how atoms work. All you need is a system with
@@ -121,13 +121,13 @@ mechanics) that hold the solutions to this equation are "linear", and linear thi
 to strange behaviors.
 On the way to the shiny quantum weirdness we first have do some boring review of linear algebra.
 
-### Superposition and Entanglement
+#### Superposition and Entanglement
 
-### Measurement
+#### Measurement
 
-### The Problem
+#### The Problem
 
-### Appendix
+#### Appendix
 
 
 On the one hand, in the 50 years since Feynman
@@ -145,7 +145,7 @@ in his own text, after declaring that quantum mechanics is completely obvious:
 
 But, I'm getting ahead of myself. First, we need a bit of background.
 
-### What is Mechanics Anyway?
+#### What is Mechanics Anyway?
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -208,7 +208,7 @@ covers.
 To me, the problem with quantum mechanics is that this is no longer the case. But to
 figure out we come to this conclusion, we need a bit of background.
 
-### Quantum Mechanics
+#### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
 to atoms. The development of the theory was driven by the experimental discovery of a host
@@ -338,7 +338,7 @@ from without just writing down the math, but I'm not that smart. So I'm just goi
 write down the math. We'll see how far we get, maybe I'll start here and continue in a
 second post.
 
-### Linear Spaces and Operators
+#### Linear Spaces and Operators
 
 There is a whole other universe of strange quantum behavior that stems from a curious
 property of the Schrödinger equation. The Schrödinger equation is what is called a

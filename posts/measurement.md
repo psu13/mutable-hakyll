@@ -29,7 +29,7 @@ As before, I am the furthest thing from an expert on this subject. I'm just tryi
 summarize some interesting stuff and hoping that I'm not too wrong. I'll provide a list of
 more better sources at the end.
 
-### Measurement and Probability
+#### Measurement and Probability
 
 In quantum mechanics measurements are the connection between eigen-things and observables.
 We interpret the eigenvalues of the operator representing an observable as the values that
@@ -117,7 +117,7 @@ $$
 
 And then we use the Born rule to compute the measurement probabilities.
 
-### An Example
+#### An Example
 
 The most famous two-state system in the quantum mechanics literature is the so-called
 "spin $1\over 2$" system. The behavior of these systems was first explored in the
@@ -241,7 +241,7 @@ Measuring the $x$-spin seems to wipe away whatever $z$-spin we saw before. This 
 surprising. Somehow going through the $S_x$ box has made the $z$-spin undefined again, and
 we go back to 50/50 instead of 100% spin up.
 
-### The Problem
+#### The Problem
 
 So now our problem is this: what is going on in the last spin experiment?
 
@@ -370,7 +370,7 @@ This, dear friends, is the measurement problem. It is a fundamental contradictio
 the observed behavior of real systems in the world, and what the Schrödinger equation
 allows.
 
-### Possible Answers
+#### Possible Answers
 
 The literature on the "interpretation of quantum mechanics" is of course full of deep
 thoughts about the questions that the measurement problem raises. I could not possibly do
@@ -431,7 +431,7 @@ understanding of that I think we'll never figure out this puzzle.
 When in doubt, I will just appeal to my favorite quantum computer nerd: [Scott
 Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems right.
 
-### Things I Left Out, Lies I Told
+#### Things I Left Out, Lies I Told
 
 1. I left out a lot of important details related to the structure of Hilbert space. In the
    finite dimensional case they don't matter too much but they are critical in the
@@ -464,7 +464,7 @@ Aaronson](https://scottaaronson.blog/?p=5359) for his point of view, which seems
 1. Finally, you can do an experiment similar to the chained spin-box experiment with
    polarized light. [Watch here](https://www.youtube.com/watch?v=zcqZHYo7ONs).
 
-### References
+#### References
 
 Some more reading for you:
 
@@ -517,7 +517,7 @@ are still pretty readable.
    ideas, especially in the chapter on the measurement problem. I don't really understand
    any of this, but it seems like the kind of work that needs to be done.
 
-### Notes
+#### Notes
 
 [^1]: Those in the know will notice that I have not really explained what this notation
 for product states that I am using here means. I did not have the space to explain tensor

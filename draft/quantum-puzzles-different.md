@@ -109,17 +109,17 @@ called a _linear_ differential equation) means that it's easy to construct state
 are valid in the formalism but never observed in experiments. So let's try to see what
 this means.
 
-### The Rules
+#### The Rules
 
 On the way to the shiny quantum weirdness we first have do some boring review of linear algebra.
 
-### Superposition and Entanglement
+#### Superposition and Entanglement
 
-### Measurement
+#### Measurement
 
-### The Problem
+#### The Problem
 
-### Appendix
+#### Appendix
 
 
 On the one hand, in the 50 years since Feynman
@@ -137,7 +137,7 @@ in his own text, after declaring that quantum mechanics is completely obvious:
 
 But, I'm getting ahead of myself. First, we need a bit of background.
 
-### What is Mechanics Anyway?
+#### What is Mechanics Anyway?
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -200,7 +200,7 @@ covers.
 To me, the problem with quantum mechanics is that this is no longer the case. But to
 figure out we come to this conclusion, we need a bit of background.
 
-### Quantum Mechanics
+#### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
 to atoms. The development of the theory was driven by the experimental discovery of a host
@@ -330,7 +330,7 @@ from without just writing down the math, but I'm not that smart. So I'm just goi
 write down the math. We'll see how far we get, maybe I'll start here and continue in a
 second post.
 
-### Linear Spaces and Operators
+#### Linear Spaces and Operators
 
 There is a whole other universe of strange quantum behavior that stems from a curious
 property of the Schrödinger equation. The Schrödinger equation is what is called a

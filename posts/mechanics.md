@@ -24,7 +24,7 @@ furthest thing from an expert on this subject, I'm just organizing what I think 
 most interesting ideas about what is going on here, and hoping that I'm not too wrong.
 I'll provide a list of more better sources at the end.
 
-### Mechanics
+#### Mechanics
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -90,7 +90,7 @@ good.
 
 The problem was that it didn't work.
 
-### Quantum Mechanics
+#### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
 to atoms. The development of the theory was driven by the experimental discovery of a host
@@ -167,7 +167,7 @@ want to believe this even harder.
 
 But, sadly, this is not so.
 
-### The Trouble With Quantum Mechanics
+#### The Trouble With Quantum Mechanics
 
 The waves in classical mechanics are an aggregate phenomena created by the motion of lots
 of things (air molecules, water molecules, etc) at once. Even more abstract entities like
@@ -247,7 +247,7 @@ confused about this, but it will take a few more details to get at the core of w
 
 See you later, in [part 2](./quantum.html).
 
-### References
+#### References
 
 If what I have written makes no sense or you want to figure it out for yourself, here are
 some better sources than this humble web page.

@@ -32,7 +32,7 @@ medium makes some of this easier and some more tedious. But, it’s important to
 structured and repeatable process, since you don’t to be losing that one file with a
 favorite picture in it.
 
-### The Big Picture
+#### The Big Picture
 
 I shoot with 2 cameras, a small point and shoot that makes JPEG files and a bigger digital SLR that can make JPEG files, but also allows me to store the pictures in a “RAW” format. The following is what I do with the pictures from shooting to final print.
 
@@ -52,7 +52,7 @@ I shoot with 2 cameras, a small point and shoot that makes JPEG files and a bigg
 
 For prints, I have to come up with a way to organize the print files and attach them to the originals. I don’t make many prints, so I haven’t worked this out yet.
 
-### The Rationale
+#### The Rationale
 
 I came to this particular workflow after about a year of fussing around with a few different schemes. So here is the rationale for the steps I take above.
 
@@ -82,7 +82,7 @@ Oh, so for reference, what I do that is similar to SI is:
 
 My final thoughts are a quick meditation on color profiles.
 
-### Why sRGB?
+#### Why sRGB?
 
 Color profiling and color spaces are a large and confusing topic. Rather than get into a long and abstract discussion about color spaces, device profiles, gamut and so on, I’ll outline my reason for using sRGB for everything via a simple problem that I was trying to solve:
 

@@ -34,7 +34,7 @@ furthest thing from an expert on this subject, I'm just organizing what I think 
 most interesting ideas about what is going on here, and hoping that I'm not too wrong.
 I'll provide a list of more better sources at the end.
 
-### Measurement and Probability
+#### Measurement and Probability
 
 In quantum mechanics measurements are the connection between eigen-things and observables.
 We interpret the eigenvalues of the operator representing an observable as the actual
@@ -122,7 +122,7 @@ $$
 This is the Born rule, which we have met before. Here I've normalized the probabilities
 like a good boy.
 
-### An Example
+#### An Example
 
 The most famous two-state system in the quantum mechanics literature is the so-called
 "spin $1\over 2$" system. The behavior of these systems was first explored in the famous
@@ -210,11 +210,11 @@ the $x$ spin seems to wipe away whatever $z$ spin we saw before. This is surpris
 Somehow going through the $S_x$ box has made the $z$ spin undefined again, and we go back
 to 50/50 instead of 100% spin up.
 
-### The Problem
+#### The Problem
 
-### Things I Left Out, Lies I Told
+#### Things I Left Out, Lies I Told
 
-### References
+#### References
 
 A few more things to look at.
 
@@ -240,7 +240,7 @@ are still pretty readable.
 Mechanics](https://www.hup.harvard.edu/catalog.php?isbn=9780674843929) starts this way
 too, but is a more philosophical look at the material.
 
-### Notes
+#### Notes
 
 [^1]: The way you calculate a probability of 1/2 for the undefined states is to represent
 them as a random "mixture" of all possible spin states and use a more general state object

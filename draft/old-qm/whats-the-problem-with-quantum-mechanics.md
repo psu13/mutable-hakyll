@@ -20,7 +20,7 @@ Doing this in detail, of course, takes a whole book. But, like all nerds who thi
 are smarter than they are, I think the highlights can be sketched in a smaller amount of
 time, like one or two blog posts.
 
-### The Big Picture
+#### The Big Picture
 
 Quantum mechanics is arguably the most successful physical theory in the history of
 science. Strangely, no one really seems to agree about how it works (see?).
@@ -37,9 +37,9 @@ with other things. But the name has stuck, because names never change.
 The second confusing thing about quantum mechanics is exactly why the motion of subatomic
 objects is hard to pin down. So let's talk about that.
 
-### Experimental Prelude 1: Spectral Lines
+#### Experimental Prelude 1: Spectral Lines
 
-### Mathematical Prelude 1: The Algebraic View
+#### Mathematical Prelude 1: The Algebraic View
 
 came to realize that Newtonian mechanics, relativity, and
 Maxwell's electromagnetism (which most books now bundle together under the umbrella term
@@ -68,9 +68,9 @@ been going on about. Besides, differential equations and various kinds of algebr
 deep mathematical friendship, so it should not be that surprising that they turn up
 together in the most important physical theory of our time (there I go again).
 
-### Experimental Prelude 2: Double Slits
+#### Experimental Prelude 2: Double Slits
 
-### Experimental Prelude 3: Spin Boxes
+#### Experimental Prelude 3: Spin Boxes
 
-### The Problem with Quantum Mechanics
+#### The Problem with Quantum Mechanics
 

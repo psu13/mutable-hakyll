@@ -1,4 +1,4 @@
-### The Algebra of Quantum States
+#### The Algebra of Quantum States
 
 Quantum states generalize wave functions and are supposed to be a mathematical
 representation of the state of some quantum system the same way $x$ and $p$ above

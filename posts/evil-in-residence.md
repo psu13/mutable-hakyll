@@ -13,7 +13,7 @@ Every review also seems to make a point to claim that the game has no zombies. A
 playing through most of the game, I can agree with some of this, but anyone who thinks
 there are no zombies in this game must be partially undead in the brain. 
 
-### Zombies, Lots of Zombies
+#### Zombies, Lots of Zombies
 
 Let’s get one thing straight. This game is full of zombies. They may look like
 “villagers”, or wear funny hats, or babble in Spanish. Most of all, they may not actually
@@ -24,7 +24,7 @@ slowly, they surround you, they grab you and wack you with weapons and most of a
 you shoot them in the head they explode in a rain of guts and blood and gore while they
 shuffle off to their ultimate fate. Then they fall over and turn into money.
 
-### You Shoot, Slowly
+#### You Shoot, Slowly
 
 Here is how the game plays. You walk slowly into an area. You can only walk slowly, unless
 you hit the B key to move faster. You have to wonder about a game that dedicates an entire
@@ -62,7 +62,7 @@ In summary, the meat of the game is the combat, and while it is awkward and sort
 stupid, the combat is good enough to keep you coming back for more. But, this doesn’t mean
 that the game doesn’t do some stupid things.
 
-### A Lack of Puzzling Puzzles
+#### A Lack of Puzzling Puzzles
 
 Once in a while you have to solve a puzzle. There are basically two kinds of puzzles in
 the game: easy and stupid. The easy puzzles are of the form “find the key, unlock the
@@ -72,7 +72,7 @@ combinatorial problems that are not so much hard as just busywork. There is even
 the 8 tiles around the 9 spaces” puzzle. Luckily, I came to the game late so all of the
 walkthroughs have the stupid combinations in them already.
 
-### Interactive Cut Scenes
+#### Interactive Cut Scenes
 
 One of the more interesting gameplay conceits in RE4 is the combination of cut scenes and
 action sequences. You’ll come into an area, and a cut scene will start playing and
@@ -83,7 +83,7 @@ order. As such, it is stupid and evil. There are a few places in the game where 
 mechanic is used well to provide a general sense of creepiness. But, I think Capcom were a
 little too proud of themselves, and the scheme is overused, especially in the boss fights.
 
-### You are not the Boss of Me
+#### You are not the Boss of Me
 
 In between the fights, and the puzzles and the cut scenes that kill you are, of course,
 the bosses. Generally, the bosses follow the familiar pattern: the boss is big, the boss
@@ -105,19 +105,19 @@ to kill with a single shot.
 
 But ultimately these are still bosses, and bosses are stupid. So mark one more negative point.
 
-### Stupid Savepoints
+#### Stupid Savepoints
 
 The game has stupid save points. The only positive thing you can say is that they are at
 least close together.
 
-### Stupid Inventory System
+#### Stupid Inventory System
 
 The game has an annoying inventory system that allows you to carry a ludicrous amount of
 stuff, but not everything you find or buy. So you get to waste a lot of time shuffling
 things around in your box, and you get to waste money buying bigger boxes once in a while.
 Happily, this is only a minor annoyance, but you have to wonder why they bothered.
 
-### Back to the Good Stuff
+#### Back to the Good Stuff
 
 While I have spent a lot of time whining about the stupid things in the game, RE4 is
 excellent in spite of itself. In addition to the zombie killing, it does a lot of other
@@ -136,7 +136,7 @@ lot of fun. The fun that it provides more than makes up for the things it does w
 you have a GameCube, go buy it now. The upcoming PS2 version will probably play just as
 well, but it will look like ass.
 
-### Note
+#### Note
 
 If you want to see the original version of this post, go here:
 [http://www.tleaves.com/weblog/archives/000347.html](http://www.tleaves.com/weblog/archives/000347.html).

@@ -6,7 +6,7 @@ author: psu
 
 foo
 
-### Classical Physics
+#### Classical Physics
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -54,7 +54,7 @@ good job explaining most of the physical phenomena that we encounter in our ever
 macroscopic lives. But of course, there were exceptions, which is why quantum mechanics was
 born.
 
-### Quantum Mechanics
+#### Quantum Mechanics
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
 to atoms. The language from this original formulation is still used in both popular and
@@ -103,7 +103,7 @@ if we can figure out how this works.
 
 Our discussion will cover three kinds of objects: states, observables, and measurements.
 
-### Quantum States
+#### Quantum States
 
 Quantum states generalize wave functions and are supposed to be a mathematical
 representation of the state of some quantum system the same way $x$ and $p$ above
@@ -186,7 +186,7 @@ can do this so can I.
 
 
 
-### Notes
+#### Notes
 
 We will not really concern ourselves with the mathematical details of all of this, but
 there are three important facts to keep in mind here:

@@ -20,7 +20,7 @@ Doing this in detail, of course, takes a whole book. But, like all nerds who thi
 are smarter than they are, I think the highlights can be sketched in a shorter amount of
 time, like two blog posts. So, let's try, shall we?
 
-### The Big Picture
+#### The Big Picture
 
 Quantum mechanics is arguably the most successful physical theory in the history of
 science. Strangely, no one really seems to agree about how it works (see?).
@@ -59,9 +59,9 @@ require quantum mechanics to explain. Then I'll describe the mathematical formal
 proposed to describe those experiments. Then I'll tell you the most important thing about
 quantum mechanics.
 
-### Experimental Prelude
+#### Experimental Prelude
 
-### Mathematical Prelude
+#### Mathematical Prelude
 
 The most important idea in quantum mechanics starts with the fact that the time evolution
 of quantum systems obeys [Schrödinger's
@@ -85,7 +85,7 @@ originally developed to describe *waves*, like waves in the ocean. There is a lo
 historical angst about this being a really weird quantum contradiction, but I can't get
 all that excited about it.
 
-### The Most Important Idea in Quantum Mechanics
+#### The Most Important Idea in Quantum Mechanics
 
 What *is* really important and a bit weird is the statement described in this [youtube
 clip](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s). What is says is this:

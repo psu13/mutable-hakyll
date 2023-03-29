@@ -39,7 +39,7 @@ material a lot easier to understand than the more difficult differential equatio
 But, it will still be an abstract slog, but I'll try to leave out enough of the really
 boring details to keep it light. 
  
-### Quantum States and Hilbert Space
+#### Quantum States and Hilbert Space
 
 The rules of quantum mechanics are about _states_ and _observables_. These are both
 described by objects from a fancy sort of linear algebra, which involves a lot of axioms
@@ -90,7 +90,7 @@ equation (it is what we call a first order, or _linear_ differential equation). 
 plays a big role in the eventual measurement puzzle, so store that away in our memory for
 later.
 
-### Inner Products
+#### Inner Products
 
 The second most important thing about Hilbert spaces is that they define an _inner
 product_ operation that allows us to define things like length and angle. We write this
@@ -153,7 +153,7 @@ the [dominant model](https://en.wikipedia.org/wiki/Von_Neumann_architecture) tha
 use to describe computers. So think about that next time you are feeling yourself after
 having written some clever piece of code.
 
-### Basis Vectors
+#### Basis Vectors
 
 The third important fact about Hilbert spaces that we will need is the idea of a _basis_.
 In a Hilbert space (really any vector space) a _basis_ is a set of vectors that one can
@@ -222,7 +222,7 @@ spaces in quantum mechanics (for position and momentum) are infinite dimensional
 the other reason Hilbert spaces became a thing. But we will not deal with any of that
 complication here.
 
-### Operators and Observables
+#### Operators and Observables
 
 In classical mechanics we did not think about observables too much. They were just simple
 numbers or list of numbers that in principe you can just read off of the mathematical
@@ -331,7 +331,7 @@ equivalent.
 Self-adjoint operators have some nice properties for physics. The reason why has to do with
 eigen-things.
 
-### Eigen-things
+#### Eigen-things
 
 Linear operators map vectors to vectors in a fairly constrained way. You have some freedom
 in how you transform the vector, but you don't have _total_ freedom since whatever you do
@@ -371,7 +371,7 @@ eigenvectors that form a _orthonormal basis_ of the underlying Hilbert space. Th
 is called the _spectral_ theorem and the eigenvectors/values of the operator are called
 its _spectrum_. This is a very important result for quantum mechanics.
 
-### Circling Back on the Atom
+#### Circling Back on the Atom
 
 At this point you might be thinking to yourself, "I have seen this word 'spectrum'
 before". And you have. One of the earliest problems in quantum mechanics was to explain
@@ -412,7 +412,7 @@ system to describe the rest of what I want to talk about.
 
 Speaking of which.
 
-### Break Time
+#### Break Time
 
 At this point we have put together almost all of the formalism that we need. But this post
 has gone on too long, so I am going to make you read yet another part to get to the real
@@ -435,7 +435,7 @@ basis of the underlying state space. Which is really convenient.
 Of course, I _still_ have not said anything about measurement, and you should be furious
 with me. I promise I will in part 3.
 
-### References
+#### References
 
 Here are some things I like.
 

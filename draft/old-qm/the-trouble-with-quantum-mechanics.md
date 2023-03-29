@@ -42,7 +42,7 @@ in his own text, after declaring that quantum mechanics is completely obvious:
 
 But, I'm getting ahead of myself. First, we need a bit of background.
 
-### What is Mechanics Anyway?
+#### What is Mechanics Anyway?
 
 To understand why quantum mechanics has puzzled people for so long we first have to go
 back to the mechanics that you might or might not have learned in high school or college
@@ -101,7 +101,7 @@ peer into it too hard.
 
 The trouble began when people actually peered into it too hard.
 
-### Quantum Position and Momentum
+#### Quantum Position and Momentum
 
 By the early 20th century there were a few famous experiments, mostly involving what we
 would now call atomic and sub-atomic behavior, that could not be adequately explained by
@@ -148,14 +148,14 @@ mathematical framework that explained the data. I will summarize this below. I r
 reading both Feynman's and Aaronson's explanations of the formalism as well. They are both
 pretty readable and they explain similar material from very different viewpoints.
 
-### Quantum States
+#### Quantum States
 
-### Operators and Linearity
+#### Operators and Linearity
 
-### Schrödinger's Equation
+#### Schrödinger's Equation
 
 
-### Spin and Such
+#### Spin and Such
 
-### The Trouble with Quantum Mechanics
+#### The Trouble with Quantum Mechanics
 

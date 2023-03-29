@@ -7,7 +7,7 @@ author: psu
 Today a few things that I've added, or improved, to my home kitchen repertoire since the
 great darkness began. No sourdough bread here, sorry.
 
-### Ma Po Tofu Tater Tots
+#### Ma Po Tofu Tater Tots
 
 OK. This is a bit of a cheat since I've already mentioned this in my <a
 href="https://mutable-states.com/2020-for-2020.html">ode to ma-po tofu in 2020</a> earlier. Still, it
@@ -18,7 +18,7 @@ deserves another mention. Make ma-po tofu, put it on tater tots.
 
 That's all.
 
-### Fish Congee
+#### Fish Congee
 
 I stole this idea from [this guy](https://www.youtube.com/watch?v=SMJKE4EN-Ts), but
 tweaked it a bit for my own style.
@@ -43,7 +43,7 @@ pressure. You should run whatever cycle is appropriate for your device. When the
 done, stir the rice around. Add some soy sauce, salt, white pepper, and green onion. Now
 you have hot breakfast for a week. Throw a soft egg on top for an extra bonus.
 
-### Boiled Chicken
+#### Boiled Chicken
 
 Gently poached chicken has been a staple of mine for years. But
 I thought I'd make an extra shout for it out now for two reasons:
@@ -97,7 +97,7 @@ The possibilities are endless.
 Extra note: the skin on a poached chicken seems to be a thing people disagree about.
 Chinese people seem to love it. Others, no so much. More for me.
 
-### The Instant Pot Steamer
+#### The Instant Pot Steamer
 
 This is the single best cooking idea I've had in ten years.
 
@@ -105,7 +105,7 @@ This is the single best cooking idea I've had in ten years.
 <img src="../images/instant-pot-small.jpg" width=400></a>
 
 
-### Baconeggandcheese
+#### Baconeggandcheese
 
 The NYC egg and cheese (or, more correctly, baconeggandcheese, one word) is a particular
 class of sandwich that is hard to find other places. A few places in Pittsburgh try to do

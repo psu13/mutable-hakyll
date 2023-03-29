@@ -31,7 +31,7 @@ This is the formula that is at the center of the question of the _measurement pr
 quantum mechanics. Of course, like all short formulas that say a lot, it takes many words
 to explain what it means.
 
-### Classical Physics
+#### Classical Physics
 
 To understand how quantum mechanics has puzzled people for so long we first have to go
 back to the Newtonian physics that you might or might not have learned in high school or college
@@ -84,7 +84,7 @@ good job explaining most of the physical phenomena that we encounter in our ever
 macroscopic lives. But of course, there were exceptions, which is why quantum mechanics was
 born.
 
-### Wave Functions
+#### Wave Functions
 
 Quantum mechanics was originally born to describe the motion of atoms and things related
 to atoms. There is a whole catalog of interesting behaviors that the Newton and
@@ -166,7 +166,7 @@ mechanics has amounted to thinking about a wave function, defining the right Ham
 and then computing probabilities with the Born Rule, and the numbers are always right.
 Sometimes they are right to a ludicrous level of precision too.
 
-### Linearity and Operators
+#### Linearity and Operators
 
 Most of what is weird about quantum mechanics stems from a curious property of the
 Schrödinger equation. The Schrödinger equation is what is called a _linear_ differential
@@ -253,7 +253,7 @@ things together with arbitrary scalar coefficients".
 This, it turns out, [*is the most important rule in all of quantum
 mechanics*](https://www.youtube.com/watch?v=Ei8CFin00PY&t=2278s).
 
-### Superposition, in Practice
+#### Superposition, in Practice
 
 The superposition rule and the probability rule are used together to explain the
 interference pattern in the two slit experiment. In the classical version of this
@@ -310,4 +310,4 @@ against thinking of wave functions as actual physical waves in space. These are 
 probability-generating waves that you can't really observe in isolation. Which is what we
 will get to next.
 
-### Quantum Dots
+#### Quantum Dots
