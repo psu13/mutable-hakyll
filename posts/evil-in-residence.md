@@ -117,18 +117,17 @@ Happily, this is only a minor annoyance, but you have to wonder why they bothere
 
 ### Back to the Good Stuff
 
-While I have spent a lot of time whining about the stupid things in the game, I have to
-say that overall RE4 is excellent in spite of itself. In addition to the zombie killing,
-it does a lot of other things right. The environments have a great sense of scale, small
-or large, and at times they manage to generate an atmosphere of general creepiness and
-dread. This is pretty impressive considering that the game is well balanced enough that
-you are usually not in great danger of dying quickly (except for certain boss-like
-meanies). The rendering is stunning; as good as anything on the Xbox. There are even some
-pretty awesome lighting, fire and water effects. The game is courteous enough to attach a
-virtual flashlight to the back of your head so you can see while running around in the
-dark. The light isn’t really there, but a certain glow does follow you around so you can
-see things. This is a nice touch. Finally, even with all the eye candy, load times are
-fast.
+While I have spent a lot of time whining about the stupid things in the game, RE4 is
+excellent in spite of itself. In addition to the zombie killing, it does a lot of other
+things right. The environments have a great sense of scale, small or large, and at times
+they manage to generate an atmosphere of general creepiness and dread. This is pretty
+impressive considering that the game is well balanced enough that you are usually not in
+great danger of dying quickly (except for certain boss-like meanies). The rendering is
+great; as good as anything on the Xbox. There are even some pretty awesome lighting, fire
+and water effects. The game is courteous enough to attach a virtual flashlight to the back
+of your head so you can see while running around in the dark. The light isn’t really
+there, but a certain glow does follow you around so you can see things. This is a nice
+touch. Finally, even with all the eye candy, load times are fast.
 
 Overall, I have found RE4 to be a game that is superbly balanced, superbly produced, and a
 lot of fun. The fun that it provides more than makes up for the things it does wrong. If
