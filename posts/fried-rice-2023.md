@@ -159,7 +159,7 @@ Bittman made a good video about it too. [Watch that
 here](https://www.youtube.com/watch?v=i2zMrOclu-o).
 
 There are a few more fancy techniques for incorporating eggs into fried rice that I have
-not one over here, but the references below will show you how to do that. Especially Chef
+not gone over here, but the references below will show you how to do that. Especially Chef
 Wang. Go to town and have some fun.
 
 #### References
