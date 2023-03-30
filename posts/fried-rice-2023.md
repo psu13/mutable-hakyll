@@ -131,9 +131,10 @@ of green veg. that cooks fast:
 - Bok choy
 - Whatever
 
-When the vegetable is done, do the whole egg fried rice thing above just piling everything
-on top of it. It will be great. Here we have put all these ideas together for Chinese
-sausage and cabbage fried rice, with a fried egg on top and chili crisp:
+Saute the vegetable in the pan first, like you did with the meat. When the vegetable is
+done, do the whole egg fried rice thing above just piling everything on top of it. It will
+be great. Here we have put all these ideas together for Chinese sausage and cabbage fried
+rice, with a fried egg on top and chili crisp:
 
 > > <a href="../images/IMG_0610_jpg.jpg">
 <img src="../images/IMG_0610_jpg.jpg" width=250></a>
