@@ -164,7 +164,8 @@ For more fried rice insight start at these places:
 
 * [Chef Wang](https://www.youtube.com/watch?v=hgYXRuQcniw). His channel has 4 or 5 great
   videos on this subject, including one on the [fanciest most expensive fried rice
-  ever](https://www.youtube.com/watch?v=ZgdCMwDLhq0).
+  ever](https://www.youtube.com/watch?v=ZgdCMwDLhq0). The egg strand technique in that
+  video is incredible. I wish I could do it, but I'm too lazy.
   
 * [Uncle Roger likes Chef Wang](https://www.youtube.com/watch?v=5M_Z0ARqol8).
 
