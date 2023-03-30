@@ -6,8 +6,8 @@ author: psu
 
 A few years ago [at "peak pandemic"](pandemic-shorts-3.html) I wrote a short blurb about
 fried rice where, among other things, I praised the tireless work that [Uncle
-Roger](https://www.youtube.com/c/mrnigelng/videos) had been doing to defend this staple of
-East/South Asian cuisine against a seemingly never-ending onslaught of stupidity,
+Roger](https://www.youtube.com/c/mrnigelng/videos) had been doing to [defend this staple of
+East/South Asian cuisine](https://www.npr.org/2022/04/18/1092822251/uncle-roger-keep-screwing-up-egg-fried-rice) against a seemingly never-ending onslaught of stupidity,
 overthinking and general cluenessness.
 
 Sadly, his work has not been enough. Even now in 2023 we who love this dish are still
