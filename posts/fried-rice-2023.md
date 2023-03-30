@@ -175,6 +175,9 @@ For more fried rice insight start at these places:
   
 * [Uncle Roger likes Chef Wang](https://www.youtube.com/watch?v=5M_Z0ARqol8).
 
-* Finally, the [Chinese Cooking Demystified](https://www.youtube.com/watch?v=n10xBmqehik)
+* Also, the [Chinese Cooking Demystified](https://www.youtube.com/watch?v=n10xBmqehik)
   people have their own insights, including how to make fried rice without [waiting for the
  rice to sit overnight](https://www.youtube.com/watch?v=owUiKyx4chI). Watch their stuff too.
+
+* Finally, here is a link to my [dumb idea](fried-rice-updated.html) for a fusion fried
+  rice food truck.
