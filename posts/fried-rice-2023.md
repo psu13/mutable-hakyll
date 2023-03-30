@@ -143,7 +143,8 @@ the world is certainly ... something.
 Anyway, you can read [the recipe here](https://archive.ph/1mOVy). Basically you take the
 minced ginger and garlic and brown them in a small pan until crispy. Then you do the fried
 rice above, but without the egg, and with leeks as the main vegetable. Then you assemble
-it by putting a fried egg and the crispy garlic on top. Stupendous.
+it by putting a fried egg and the crispy garlic on top. Fry the eggs in the oil you used
+to brown the garlic and ginger. Stupendous.
 
 Bittman made a good video about it too. [Watch that
 here](https://www.youtube.com/watch?v=i2zMrOclu-o).
