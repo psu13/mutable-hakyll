@@ -132,7 +132,13 @@ of green veg. that cooks fast:
 - Whatever
 
 When the vegetable is done, do the whole egg fried rice thing above just piling everything
-on top of it. It will be great. Here is an example with kielbasa and cabbage in it:
+on top of it. It will be great. Here we have put all these ideas together for Chinese
+sausage and cabbage fried rice, with a fried egg on top and chili crisp:
+
+> > <a href="../images/IMG_0610_jpg.jpg">
+<img src="../images/IMG_0610_jpg.jpg" width=250></a>
+
+Here is another example with kielbasa and cabbage in it:
 
 > > <a href="../images/IMG_9069.jpg">
 <img src="../images/IMG_9069.jpg" width=250></a>
