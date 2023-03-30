@@ -99,7 +99,9 @@ It will look like this
 
 #### Variations that You Will Love
 
-OK. The first variation is to add meat. You can add a lot of different kinds of meat:
+OK. The first variation is to add meat. Whatever you pick, you don't need much. 3 or 4oz
+is usually enough. If you want something really meaty, you could go up to 6oz or maybe
+half a pound. You can add a lot of different kinds of meat:
 
 - Ground pork/beef/lamb/whatever. If you hate yourself go all out with ground
   chicken/turkey. I'd rather not.
@@ -107,10 +109,8 @@ OK. The first variation is to add meat. You can add a lot of different kinds of 
 - Hot Italian sausage.
 - Chorizo.
 - That sweet Chinese/Taiwanese cured sausage.
+- Kielbasa or other European cured sausage.
 - Hot dogs.
-
-Whatever you pick, you don't need much. 3 or 4oz is usually enough. If you want something
-really meaty, you could go up to 6oz or maybe half a pound.
 
 The game here is always the same. First fry/saute/brown off the meat so it's completely
 cooked. Put it into a bowl. Then do the same thing as we did above, and at some point mix
