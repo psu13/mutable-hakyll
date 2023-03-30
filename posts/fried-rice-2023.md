@@ -151,3 +151,16 @@ here](https://www.youtube.com/watch?v=i2zMrOclu-o).
 
 #### References
 
+For more fried rice insight start at these places:
+
+* [Bittman's fried rice from above](https://www.youtube.com/watch?v=i2zMrOclu-o).
+
+* [Chef Wang](https://www.youtube.com/watch?v=hgYXRuQcniw). His channel has 4 or 5 great
+  videos on this subject, including one on the [fanciest most expensive fried rice
+  ever](https://www.youtube.com/watch?v=ZgdCMwDLhq0).
+  
+* [Uncle Roger likes Chef Wang](https://www.youtube.com/watch?v=5M_Z0ARqol8).
+
+* Finally, the [Chinese Cooking Demystified](https://www.youtube.com/watch?v=n10xBmqehik)
+  people have their own insights, including how to make fried rice without [waiting for the
+ rice to sit overnight](https://www.youtube.com/watch?v=owUiKyx4chI). Watch their stuff too.
