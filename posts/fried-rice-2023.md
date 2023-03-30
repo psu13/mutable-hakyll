@@ -99,7 +99,7 @@ It will look like this
 
 #### Variations that You Will Love
 
-OK. The first variation is too add meat. You can add a lot of different kinds of meat:
+OK. The first variation is to add meat. You can add a lot of different kinds of meat:
 
 - Ground pork/beef/lamb/whatever. If you hate yourself go all out with ground
   chicken/turkey. I'd rather not.
@@ -110,7 +110,7 @@ OK. The first variation is too add meat. You can add a lot of different kinds of
 - Hot dogs.
 
 The game here is always the same. First fry/saute/brown off the meat so it's completely
-cooked. But it into a bowl. Then do the same thing as we did above, and at some point mix
+cooked. Put it into a bowl. Then do the same thing as we did above, and at some point mix
 in the meat.
 
 Next, do everything we just did. But at the end mix in frozen peas (maybe even peas and
