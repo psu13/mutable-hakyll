@@ -15,7 +15,7 @@ li {
 
 /* fix link color to match headers */
 a {
-  color: #2B76E3;
+  color: #1b46f4;
 }
 
 p {
@@ -116,7 +116,7 @@ nav a {
 
 header {
   width:100%;
-  background: #2B56E3; /* Header color */
+  background: #1b46f4; /* Header color */
 }
 
 header .container {
