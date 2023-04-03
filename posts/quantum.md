@@ -168,10 +168,10 @@ use to represent any other vector in the space using linear combinations. If thi
 _finite_, meaning that you can count up the number of basis vectors you need with your
 fingers, then we say that the vector space is "finite dimensional".
 
-The most familiar example of a finite dimensional Hilbert space is $\mathbb C^n$, which is
-where we do a lot of physics. Here the basis that we all know about is the one made up of
-the unit vectors for each possible axis direction in the space. So, for $n=3$ the unit
-vectors are 
+The most familiar example of a finite dimensional Hilbert space is $\mathbb C^n$, where
+the vectors are made up of $n$ complex numbers, or $\mathbb R^n$, which is the same, but
+with real numbers. Here the basis that we all know about is the one made up of the unit
+vectors for each possible axis direction in the space. So, for $n=3$ the unit vectors are 
 
 $$
 \begin{pmatrix}
