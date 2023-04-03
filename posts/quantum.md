@@ -34,7 +34,7 @@ math. We will now leave all that behind us.
 My plan here is to describe enough of the mathematical formalism of quantum mechanics in
 enough detail to express the measurement problem in a way that is relatively rigorous.
 This mostly boils down to a lot of tedious and basic facts about linear algebra, instead
-of all the scary differential equations from part 1. Personally I find the algebraic
+of all the scary differential equations from [part 1](mechanics.html). Personally I find the algebraic
 material a lot easier to understand than the more difficult differential equation solving.
 But, it will still be an abstract slog, but I'll try to leave out enough of the really
 boring details to keep it light. 
@@ -73,7 +73,7 @@ We denote Hilbert spaces with a script "H", like this: $\cal H$, and we use gree
 most popularly $\psi$ to denote vectors in $\cal H$. For a reason named [Paul
 Dirac](https://en.wikipedia.org/wiki/Paul_Dirac), we will dress up vectors using a strange
 bracket notation like this: $| \psi \rangle$, or sometimes this way $\langle \psi |$. This
-is also how we wrote down the wave functions in part 1.
+is also how we wrote down the wave functions in [part 1](mechanics.html).
 
 The most important thing about Hilbert spaces is that they are _linear_. What this means
 is that any given any two vectors $| \psi \rangle$ and $| \phi \rangle$ and two scalars $a$ and $b$, any
@@ -132,7 +132,7 @@ Since $\langle \psi | \psi \rangle$ is always positive this is well-defined. You
 define the distance between two vectors in a Hilbert space as $\lVert \psi - \phi \rVert$.
 
 The inner product and the norm will form the basis for how we compute probabilities using
-the Born rule, which we saw in part 1.
+the Born rule, which we saw in [part 1](mechanics.html).
 
 #### A Short Digression
 
@@ -390,7 +390,7 @@ At this point you might be thinking to yourself, "I have seen this word _spectru
 before". And you have. One of the earliest problems in quantum mechanics was to explain
 the spectral lines of the hydrogen atom. So you might be wondering, how do we get from
 these abstract quantum states and operators to energy? The answer is the next important
-rule of quantum mechanics, which we are already familiar with from part 1: there is a
+rule of quantum mechanics, which we are already familiar with from [part 1](mechanics.html): there is a
 special observable for the energy of the system whose operator we call $H$, for the
 _Hamiltonian_. Time evolution of quantum states is then given by the Schrödinger equation:
 
@@ -398,7 +398,7 @@ $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
 $$
 
-You will recall from part 1 that the wave functions, which we now know are the quantum
+You will recall from [part 1](mechanics.html) that the wave functions, which we now know are the quantum
 states of a system were all solutions to this equation. 
 
 Now, the trick to solving the hydrogen atom is first finding a Hamiltonian $H$ that

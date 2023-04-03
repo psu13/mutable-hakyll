@@ -16,8 +16,8 @@ at least one of the problems.
 I finally realized that trying to fit the whole thing into a single stream of words is
 beyond my talents as a writer, or at least not a structure that fits well into a single
 page on this web site. So I decided to split it up. So this first part is just about the
-move from "classical" mechanics to quantum problems ... and then one or more future pages
-will be about the rest.
+move from "classical" mechanics to quantum problems ... and then [one or more](quantum.html)
+future pages will be about [the rest](measurement.html).
 
 As with my other technical expositions on subjects that are not about computers, I am the
 furthest thing from an expert on this subject, I'm just organizing what I think are the
