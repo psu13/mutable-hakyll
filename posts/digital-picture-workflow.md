@@ -5,7 +5,7 @@ author: psu
 ---
 
 One of the big [digital photography web
-sites](https://web.archive.org/web/20040318235548/http://www.robgalbraith.com/bins/multi_page.asp?cid=7-6453-6821&print=true)
+sites](https://web.archive.org/web/20040831085618/http://www.robgalbraith.com/bins/multi_page.asp?cid=7-6453-6821)
 recently published an article on how Sports Illustrated manages its digital photographs.
 The piece described the process of shooting and editing 16,000 pictures during the Super
 Bowl. After reading it, I realized that the workflow that I’ve come up with for managing
