@@ -44,7 +44,7 @@ Next, you turn on your camera and find the menu item for "Smartphone Connection"
 
 Now, download the Olympus app for your iPhone and fire it up.
 
-Now the camera will spend about ten seconds saying that it is "starting the Wi-Fi" and then it will who you a QR code that you are supposed to capture with your phone. I shit you not.
+Now the camera will spend about ten seconds saying that it is "starting the Wi-Fi" and then it will show you a QR code that you are supposed to capture with your phone. I shit you not.
 
 > <a data-flickr-embed="true"  href="https://www.flickr.com/photos/79904144@N00/34676124481/in/dateposted-public/" title="IMG_2163"><img src="https://c1.staticflickr.com/5/4274/34676124481_c0d86e45cd_z.jpg" width="640" height="480" alt="IMG_2163"></a>
 
@@ -74,7 +74,7 @@ Of course, the flow they have thought up to let you do this is 15 times slower a
 
 In addition, it's actually *even more insulting* than this. While in this mode, your dumb camera box can't even do all the things that it used to do when capturing pictures. For example, if you have the camera set to save pictures to two memory cards at once (for backups!), and you want to take a picture with your phone, well, you are out of luck. No backups for you!
 
-Congratulations Olympus, you have developed the worst single feature that I have used in 2017, the year that slack brought you """threads""". The camera without this feature at all is actually better than the camera that includes it. At least there would be two or three fewer menu items in the custom settings. Maybe I'm being too hard on them though. As bad as the Olympus setup is, it at *least* does not require that you buy a special dongle with the networking radio in it like Nikon does.
+Congratulations Olympus, you have developed the worst single feature that I have used in 2017, the year that slack brought you “““threads”””. The camera without this feature at all is actually better than the camera that includes it. At least there would be two or three fewer menu items in the custom settings. Maybe I'm being too hard on them though. As bad as the Olympus setup is, it at *least* does not require that you buy a special dongle with the networking radio in it like Nikon does.
 
 To sum up: rather than build a networking stack and *integrate* it into usage model of the camera in a way that makes it ubiquitous and transparent (the way networking works, say, *on your phone*) the camera companies continue to put networking into the networking box, and use it as nothing more than a different way to push the shutter button on your camera and make it do that camera box thing. 
 

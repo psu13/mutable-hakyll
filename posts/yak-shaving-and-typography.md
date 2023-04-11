@@ -64,7 +64,14 @@ better understanding of what Knuth was going on about and I had my own copy of t
  
 I first came across $\rm\TeX$ in college, but didn't really do battle with it in earnest until graduate school. Like most graduate students I ended up fighting with $\rm\TeX$ to get my thesis done. When I got out of the academic game I did my best to forget about Knuth and his software. $\rm\TeX$ is a precisely designed and functional tool for what it does, but from a *software engineering* perspective it's kind of a disaster. The fact that the source code is mashed up inside a giant $\rm\TeX$ document so that you can print it as a book does not help. [^4] Through the 80s and 90s publishing of course evolved from phototypesetting to fully digital printing workflows to publishing based on no printing at all. There are now tools by the hundreds to help you do this work, so you would have thought that $\rm\TeX$ would have died the slow death. But this has not been the case.
 
-But I do not print things or write books, so for twenty five happy years I did not think about $\rm\TeX$. Knuth, meanwhile, finished <span style = "font-family:'Helvetica',sans-serif;">METAFONT</span> and his fonts got back to writing his books in 1986, after shaving the yak for almost ten years. Just kidding the new editions of his books did not appear until the late 90s. I lost track of why. He is *now* about a third of the way through the material for Volume 4, but he has a long way to go before even getting to the section on NP ... so don't hold your breath. The shaving will continue for the foreseeable future.
+But I do not print things or write books, so for twenty five happy years I did not think
+about $\rm\TeX$. Knuth, meanwhile, finished <span style =
+"font-family:'Helvetica',sans-serif;">METAFONT</span> and his fonts, and got back to writing
+his books in 1986, after shaving the yak for almost ten years. Just kidding the new
+editions of his books did not appear until the late 90s. I lost track of why. He is *now*
+about a third of the way through the material for Volume 4, but he has a long way to go
+before even getting to the section on NP ... so don't hold your breath. The shaving will
+continue for the foreseeable future.
 
 #### Part 4: Modern $\rm\TeX$
 
