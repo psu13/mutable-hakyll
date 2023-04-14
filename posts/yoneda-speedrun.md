@@ -122,18 +122,17 @@ Finally, we have the last two rules:
     \circ (g \circ f)$, or alternatively $(hg)f$ = $h(gf)$. What this
     also means is that we can always just write $hgf$ if we want.
 
-We will call the collection of all arrows from $A$ to $B$ in a category $\mathbf{C}$
-$\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}}(A, B)$. We will usually
-write $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$ when it's clear what
-category $A$ and $B$ come from. People also write
+Given a category ${\mathbf C}$ and objects $A, B$ in ${\mathbf C}$ we write
+$\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf C}(A,B)$ to mean the collection of all arrows
+from $A$ to $B$ in ${\mathbf C}$ if we are being maximally careful. In practice we will usually
+write $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$ because the ${\mathbf C}$ subscript is tedious and
+it’s usually clear what category $A$ and $B$ came from. People also write
 $\mathop{\mathrm{\mathit{Hom}}}(A, B)$ or
-$\mathop{\mathrm{\mathit{Hom}}}_{\mathbf{C}}(A,B)$, or
-$\mathop{\mathrm{\mathit{hom}}}(A, B)$ or just $\mathbf{C}(A,B)$ to mean
-$\mathop{\mathrm{\mathit{Arrows}}}(A,B)$. Here
-"$\mathop{\mathrm{\mathit{Hom}}}$" stands for homomorphism, which is a
-standard word for mappings that preserve some kind of structure.
-Category theory, and the Yoneda lemma, it it turns out, is mostly about
-the arrows.
+$\mathop{\mathrm{\mathit{Hom}}}_{\mathbf{C}}(A,B)$, or $\mathop{\mathrm{\mathit{hom}}}(A,
+B)$ or just $\mathbf{C}(A,B)$ to mean $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$. Here
+"$\mathop{\mathrm{\mathit{Hom}}}$" stands for homomorphism, which is a standard word for
+mappings that preserve some kind of structure. Category theory, and the Yoneda lemma, it
+it turns out, is mostly about the arrows.
 
 I have broken with well established tradition in mathematical
 writing and mostly spelled out names for clarity rather than engaging
