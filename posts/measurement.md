@@ -5,8 +5,8 @@ author: psu
 ---
 
 In [part 1](mechanics.html) and [part 2](quantum.html) we tried to set up enough of the
-mathematical formalism of quantum mechanics to be able to talk about the measurement
-paradox in a reasonably precise way. If you were smart and skipped ahead to here you can
+mathematical formalism of quantum mechanics to be able to talk about quantum measurement
+in a reasonably precise way. If you were smart and skipped ahead to here you can
 now get the whole answer without reading through all that other tedious nonsense.
 
 For reference, here are the rules that we currently know about quantum mechanics:
