@@ -98,7 +98,7 @@ The objects and arrows of a category satisfy the following conditions:
     $A \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ to another
     object $B \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ and we
     denote this by writing $f: A \to B$. $A$ is called the *source* (or *domain*) of
-    $f$ and $B$ the *target (or *codomain*).  Source and target are somewhat more
+    $f$ and $B$ the *target* (or *codomain*).  Source and target are somewhat more
     intuitive terms, but domain and codomain connect the language to functions in other
     areas of mathematics.
 
