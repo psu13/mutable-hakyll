@@ -122,7 +122,7 @@ Finally, we have the last two rules:
     \circ (g \circ f)$, or alternatively $(hg)f$ = $h(gf)$. What this
     also means is that we can always just write $hgf$ if we want.
 
-We will call the collection of all arrows from $A$ to $B$
+We will call the collection of all arrows from $A$ to $B$ in a category $\mathbf{C}$
 $\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}}(A, B)$. We will usually
 write $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$ when it's clear what
 category $A$ and $B$ come from. People also write
