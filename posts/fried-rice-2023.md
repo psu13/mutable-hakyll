@@ -29,7 +29,7 @@ that is posted on the internet is
 - Uses too many different ingredients of different types.
 - Uses too much of each one.
 
-You do not have a gigantic 16 inch restaurant wok sitting on top of a rocket engine. You
+You do not have a gigantic 16-20 inch restaurant wok sitting on top of a rocket engine burner. You
 have (maybe) a 12 inch skillet or (if you have been listening to me) a 12 inch non-stick
 wok. Maybe you have a 14 inch wok. Great for you. They still tell you to put too much
 shit in that pan. This means
