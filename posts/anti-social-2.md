@@ -144,12 +144,8 @@ thought as in my original piece. You can't talk to the whole Internet at once an
 good time. It's just not possible. So whatever interface we build for this is going to
 have to be cut up into smaller pieces organized by common interest, much like the old
 Internet Forums and USENET newsgroups (and these days, slack servers, and discords run by
-brands). Yes yes, this is what "federation" does, in theory. But again:
-
-* This is the most obvious fact in the entire world.
-
-* A single instance, set up just like you want, to mostly read what other people say
-  without replying.
+brands). Yes yes, this is what "federation" does, in theory. But again, this is the most
+obvious fact in the entire world, since even I thought it up.
 
 It remains to be seen if humanity can come up with a better way to interact with itself
 online. Obviously I am skeptical that it can be done. But I'm not the one to build it for
