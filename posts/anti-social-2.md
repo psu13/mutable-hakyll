@@ -35,7 +35,7 @@ fact we somehow manage to make them die, the world will be better without them.
 
 Consider that the pitch for these systems is as follows:
 
-1. Get a lot of people to sign up to provide you will all of your content _for free_.
+1. Get a lot of people to sign up to provide you with all of your content _for free_.
 
 2. When one out of every several million "creators" gets popular, give them channels to
    make "deals" with "brands" so they can get paid a pittance or maybe if they are really
