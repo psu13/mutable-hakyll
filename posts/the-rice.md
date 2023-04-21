@@ -33,7 +33,7 @@ If I'm honest, the beef stir fry part of this dish is its weakest aspect by far 
 the fries, and most importantly, the rice mostly make up for it.
 
 Anyway, I bring this dish up because at some point last year I was excited to finally sit
-down in a new place in town that a lot of local foodies appear to like that had a upscale
+down in a new place in town that a lot of local foodies appear to like that had an upscale
 version of this dish on their menu. So of course I ordered it. 
 
 Here, the meat was a lot better than the cheaper cut you get at Latino, but overall the
@@ -84,20 +84,21 @@ needed to make it decent.
 
 At this point in the article at least 15 reply-boys (and girls) will stand up and declare
 that no functioning human being should need a _dedicated kitchen appliance_ taking up
-their precious counter space for the sold purpose of making sure that the rice is good
+their precious counter space for the sole purpose of making sure that the rice is good
 every time. I am here to say that these people are wrong, because their framing of the
 question is wrong. The question is not "can I cook OK rice on the stove (or more recently,
 in the microwave)?". The question is: "can I push a single button and get perfect rice of
-any kind any time I want without looking at the cooker again until it's done?"
+any kind any time I want without looking at the cooker again until it's done?" ... and
+then also keep it warm and perfect for between 8 and 24 hours afterwards.
 
 The second thing is what rice cookers do, and if rice is important enough to you that it
-will be the main starch in more than 3 out of 7 dinners every week, then you will do the
+will be the main starch in more than 15 out of 35 meals every week, then you will do the
 right thing and just buy the machine.
 
-But, this attitude about rice is why rice always sucks in the U.S. In the U.S. (and most
-of Europe, really) rice is at best a second tier auxiliary starch that is only used once
-in a while. In baseball terms, it's not "and every day player". So no one actually cares
-if it's good or not.
+But, this attitude about rice is rare here which is why rice always sucks in the U.S. In
+the U.S. (and most of Europe, really) rice is at best a second tier auxiliary starch that
+is only used once in a while. In baseball terms, it's not "an every day player". So no one
+actually cares if it's good or not.
 
 Let us contrast this situation with Japan (and most other places in Asia). In Japan you
 can walk into _any_ 7-11 store _anywhere_ in the country and walk over to a cooler with
@@ -123,3 +124,26 @@ grain products that unlike rice don't really taste that good. It should be a who
 unto itself.
 
 The rice is important.
+
+#### Appendix: Places in Pittsburgh with Good Rice
+
+- Chicken Latino.
+
+- Rose Tea in Oakland.
+
+- Cafe 33 in Squirrel Hill.
+
+- Chengdu Gourmet/Chengdu 2 (could be better, but not bad).
+
+- Mola. Decent sushi rice. Maybe as good as Chaya was, which was the standard
+  back in the day.
+
+- Penn Avenue Fish Company. Their rice is good enough for the rice bowls and stuff but the
+  sushi rice is sub par.
+
+- Salems
+
+- Turkish Kebab House.
+
+- Most of the Indian restaurants, although Indian rice is a different aesthetic than East
+  Asian rice (it's not sticky, what the hell?).
