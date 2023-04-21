@@ -1,6 +1,6 @@
 ---
 title: The Rice is Important
-date: 2023-04-21
+date: 2023-04-22
 author: psu
 ---
 
@@ -32,10 +32,9 @@ Who can't love this?
 If I'm honest, the beef stir fry part of this dish is its weakest aspect by far ... but
 the fries, and most importantly, the rice mostly make up for it.
 
-Anyway, I bring this dish up because a couple of months ago I was excited to finally sit
-down in a new place in town called _Con Alma_ that a lot of local foodies appear to like.
-Their food is sort of upscale bar food with a Latin/South American vibe, and I was of
-course excited to see _Lomo Saltado_ on the menu. So of course I ordered it. 
+Anyway, I bring this dish up because at some point last year I was excited to finally sit
+down in a new place in town that a lot of local foodies appear to like that had a upscale
+version of this dish on their menu. So of course I ordered it. 
 
 Here, the meat was a lot better than the cheaper cut you get at Latino, but overall the
 dish was bad. The dish was bad for two reasons:
@@ -52,7 +51,7 @@ run by fancy chefs in the U.S. will serve you sub-par french fries on a routine 
 This is kind of unforgivable, but I guess fries are also technically a tiny bit demanding
 to do well on a large scale. But really it's still unforgivable.
 
-What I _will_rant about is the rice. It tasted like day old rice that you have left
+What I _will_ rant about is the rice. It tasted like day old rice that you have left
 partially uncovered in the fridge and then reheated in the microwave for about 30 seconds
 while forgetting to add a small dribble of water. You bite into it and the kernels break
 off in your mouth in a mealy semi-crunchy and tasteless mess. But, you are either too
@@ -65,11 +64,11 @@ All this for $29 a plate.
 This is, of course, not the first time I have gotten unforgivably bad rice in a
 restaurant. I sent the rice _back_ at a fancy French place in Paris once, and they sent me
 back a perfectly great risotto, which for some reason they could make better than plain
-white rice. I also got the single worst bowl of white rice ever in my life at a fancy
-special dinner at a long standing and well loved Asian fusion joint (it was Soba) in
-Pittsburgh. That rice was like the fridge rice above, except they hadn't even
-try to reheat it, I think. This happened a long time ago, and people say I should be over
-it by now. But I'm not.
+white rice. I also got the single worst bowl of white rice that I ever paid money for in
+my life at a fancy special dinner at a long standing and well loved local Asian fusion
+joint (it was Soba) in Pittsburgh. That rice was like the fridge rice above, except they
+hadn't even really tried to reheat it, I think. This happened a long time ago, and people
+say I should be over it by now. But I'm not.
 
 I am here to say that it does not have to be this way. Unlike fries, _rice_ is completely
 trivial to cook well. Here is what you do:
@@ -83,13 +82,30 @@ do well than perfect white rice in a rice cooker. And yet the evidence before us
 people care so little about rice that they won't even do the bare minimum amount of work
 needed to make it decent.
 
-Let us contrast this situation with Japan. In Japan you can walk into _any_ 7-11 store
-_anywhere_ in the country and walk over to a cooler with _pre-made_ sushi things in it and
-you will get better rice, even though it's cold, than what is served in about 99% of all
-places that serve rice in this country. In particular the rice wrapped in sweet tofu skin
-is _always great_, from the middle of Tokyo to any random small town with a train station
-7-11 no matter how few people live there. This is because they have a rice cooker and they
-give a shit.
+At this point in the article at least 15 reply-boys (and girls) will stand up and declare
+that no functioning human being should need a _dedicated kitchen appliance_ taking up
+their precious counter space for the sold purpose of making sure that the rice is good
+every time. I am here to say that these people are wrong, because their framing of the
+question is wrong. The question is not "can I cook OK rice on the stove (or more recently,
+in the microwave)?". The question is: "can I push a single button and get perfect rice of
+any kind any time I want without looking at the cooker again until it's done?"
+
+The second thing is what rice cookers do, and if rice is important enough to you that it
+will be the main starch in more than 3 out of 7 dinners every week, then you will do the
+right thing and just buy the machine.
+
+But, this attitude about rice is why rice always sucks in the U.S. In the U.S. (and most
+of Europe, really) rice is at best a second tier auxiliary starch that is only used once
+in a while. In baseball terms, it's not "and every day player". So no one actually cares
+if it's good or not.
+
+Let us contrast this situation with Japan (and most other places in Asia). In Japan you
+can walk into _any_ 7-11 store _anywhere_ in the country and walk over to a cooler with
+_pre-made_ sushi things in it and you will get better rice, even though it's cold, than
+what is served in about 99% of all places that serve rice in the West. In particular the
+rice wrapped in sweet tofu skin is _always great_, from the middle of Tokyo to any random
+small town with a train station 7-11 no matter how few people live there. This is because
+they have a rice cooker and they give a shit.
 
 I have often joked that one of my food dreams would be for a single Japanese 7-11 to open
 within a reasonable driving distance from my home. Not only would this greatly improve
