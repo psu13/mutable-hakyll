@@ -1,6 +1,6 @@
 ---
 title: The Rice is Important
-date: 2023-04-22
+date: 2023-04-21
 author: psu
 ---
 
@@ -32,16 +32,13 @@ Who can't love this?
 If I'm honest, the beef stir fry part of this dish is its weakest aspect by far ... but
 the fries, and most importantly, the rice mostly make up for it.
 
-Anyway, I bring this dish up because at some point last year I was excited to finally sit
-down in a new place in town that a lot of local foodies appear to like that had an upscale
+Of course, even something as perfect as this combination can be ruined if you try hard
+enough. I bring this up because at some point last year I was excited to finally sit down
+in a new place in town that a lot of local foodies appear to like that had an upscale
 version of this dish on their menu. So of course I ordered it. 
 
-Here, the meat was a lot better than the cheaper cut you get at Latino, but overall the
-dish was bad. The dish was bad for two reasons:
-
-1. Bad rice.
-
-1. Bad fries.
+In this implementation, the meat was a lot better than the cheaper cut you get at Latino, but overall the
+dish was bad. The dish was bad for two reasons. The first was that the fries were bad.
 
 I will not rant here about the bad fries. Bad fries are just a fact of American life, I
 think. Whereas in (say) France there are places whose <a
@@ -51,13 +48,14 @@ run by fancy chefs in the U.S. will serve you sub-par french fries on a routine 
 This is kind of unforgivable, but I guess fries are also technically a tiny bit demanding
 to do well on a large scale. But really it's still unforgivable.
 
-What I _will_ rant about is the rice. It tasted like day old rice that you have left
-partially uncovered in the fridge and then reheated in the microwave for about 30 seconds
-while forgetting to add a small dribble of water. You bite into it and the kernels break
-off in your mouth in a mealy semi-crunchy and tasteless mess. But, you are either too
-lazy, too tired, too hungover, or too hungry to fix it now, and just dump your food on top
-hoping the sauce from the food will finish the job of bringing the rice back to life. But
-it does not.
+The second thing that ruined the expensive plate was that the rice was unforgiveably bad.
+_This_ I will rant about. It tasted like day old rice that you have left partially
+uncovered in the fridge and then reheated in the microwave for about 30 seconds while
+forgetting to add a small dribble of water. You bite into it and the kernels break off in
+your mouth in a mealy semi-crunchy and tasteless mess. But, you are either too lazy, too
+tired, too hungover, or too hungry to fix it now, and just dump your food on top hoping
+the sauce from the food will finish the job of bringing the rice back to life. But it does
+not.
 
 All this for $29 a plate.
 
@@ -147,3 +145,4 @@ The rice is important.
 
 - Most of the Indian restaurants, although Indian rice is a different aesthetic than East
   Asian rice (it's not sticky, what the hell?).
+  
