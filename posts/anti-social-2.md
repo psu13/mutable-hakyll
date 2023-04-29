@@ -8,12 +8,12 @@ Well, [this aged well](anti-social-social-networking.html).
 
 The last few years have been mostly down for the systems that we call "social media." Once
 thought to be the pinnacle of the late-capitalist engine for consumer surveillance and
-arbitrarily profitable advertising engines people _finally_ seem to having second thoughts
-about using a system that records and broadcasts their every thought and action to the
-entire Internet at once all to sell clicks and ads for someone else's profit. They didn't
-think _too hard_ about not doing this anymore, but the thought did cross through the
-collective conciousness, if only for a microsecond. Then the kid pictures continued to go
-up and the "day in the life" videos continued to be posted. Ah well.
+arbitrarily profitable advertising engines people _finally_ seemed to be having second
+thoughts about using a system that records and broadcasts their every thought and action
+to the entire Internet at once all to sell clicks and ads for someone else's profit. They
+didn't think _too hard_ about not doing this anymore, but the thought did cross through
+the collective conciousness, if only for a microsecond. Then the kid pictures continued to
+go up and the "day in the life" videos continued to be posted. Ah well.
 
 Then in a fun twist, a self-centered billionaire narcisscist dipshit asshole made a joke
 about buying twitter for 44 _billion_ dollars and then it turned that, joke's on him, he
