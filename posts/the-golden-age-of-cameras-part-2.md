@@ -57,4 +57,4 @@ It seems like no one has realized that all they really need to make is two or th
 
 Overall though, it's hard to complain. You can now put together a camera system that goes from 24mm (in 35mm terms) to 200mm, all at around F2.8, and fit that system into one or two large jacket pockets if you are a large person, or a small purse if you are a small person. In addition, you probably won't have to change lenses to get that range, and you'll be able to capture a wider range of tones in a wider range of lighting situations than you ever could have dreamed of with your 1975 Olympus OM-1. This is not a bad situation to be in. Maybe in another fifteen years or so the camera industry will surprise us with good software. Or maybe by then some integrated consumer hardware and software company will have made the point moot.
 
-**Extra Note**: If you want to read more complaining, <a href="http://www.dslrbodies.com/newsviews/homework-results-reviewed.html">go here</a>.
+**Extra Note**: If you want to read more complaining, <a href="https://dslrbodies.com/newsviews/news-archives/nikon-2015-news/february-2015-nikon-news/homework-results-reviewed.html">go here</a>.
