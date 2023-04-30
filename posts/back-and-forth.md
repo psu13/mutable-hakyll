@@ -19,7 +19,7 @@ and generally about as great as the DSLRs. At this point I figured my time with 
 was over, esp. since the Olympus company sold their camera business to some nameless
 private equity firm which brought the brand back as "OM System", which is piece of
 branding no one can love. I concluded that given that Nikon was still making new things,
-and since "OM System" was maybe not, eventually I'd be getting back into the Nikon stuff
+and "OM System" was maybe not, eventually I'd be getting back into the Nikon stuff
 anyway. So I jumped back in.
 
 The Nikon Z6II is a mirrorless camera body that feels exactly like a Nikon DSLR to use
@@ -41,10 +41,10 @@ So I spent a few months happily taking the Nikon and the kit lens (an emminently
 24-70mm F4 zoom lens) around and plugging away with the focus box. Then I put the camera
 in a box and barely used it.
 
-Then I started thinking about expanding the lens line. I generally want three zoom lenses
-to carry around, even though I usually only use two of them. I like zoom lenses. They are
+Then I started thinking about expanding the lens collection. I like zoom lenses. They are
 convenient and at this point in my life I am too old and lazy for the hassle of constantly
-changing single focal length lenses around.
+changing single focal length lenses around. I generally want three zoom lenses to carry
+around, even though I usually only use two of them.
 
 - Very wide to wide.
 - Wide to normal.
@@ -68,38 +68,47 @@ range of focal lengths for the three zooms listed above would be
 - Long: 70-200mm or 70-300mm.
 
 The Olympus cameras that I use have a sensor that is smaller than a piece of 35mm film. In
-fact, it is strategically set up so that if you double the actual focal length of the lens
-you are using, the field of view you get will be about the same as that doubled focal
-length would have when using a 35mm camera. This rule is harder to explain than to say
-with an example: A 12mm lens becomes 24mm, 50mm becomes 100mm, etc.
+fact, it is strategically set up so that if you are using a lens with some given focal
+length, the field of view you see is the same as using a lens with double that focal
+length on a 35mm camera. This rule is harder to explain than to say with an example: A
+12mm lens becomes 24mm, 50mm becomes 100mm, etc.
 
 This means that the three lenses I want above are something like this:
 
-- Very wide: 7-14mm or 8-25mm.
-- Wide to Midrange: 12-40mm or 12-100mm.
-- Long: 40-150mm.
+- Very wide: 7-14mm (14-28mm equivalent) or 8-25mm (16-50mm equivalent).
+- Wide to Midrange: 12-40mm or 12-100mm (24-80mm, or 24-200mm equivalent).
+- Long: 40-150mm (80-300mm equivalent).
 
-Because the "real" focal lengths of the lenses are shorter than what you would build for a
-35mm camera, the lenses themselves are inherently smaller for the same range of field of
-view. But, the lenses also have to cover a smaller chip area with a nice image, which also
+Because the "actual" focal lengths of the lenses are shorter than what you would build for
+a 35mm camera, the lenses themselves are inherently smaller for the same range of field of
+view. Plus, the lenses have to cover a much smaller chip area with a nice image, which
 lets you make them a lot smaller by volume.
 
-So, even though the Nikon mirrorless _body_ is in fact a lot smaller than the old DSLRs,
-the _lenses_ you put on them are basically the same size. And the _lenses_ become the
-limiting factor in size, weight, and volume when carrying the camera around.
+Meanwhile, even though the Nikon mirrorless _body_ is in fact a lot smaller than the old
+DSLRs, the _lenses_ you put on them are basically the same size since they have to cover
+the same piece of CCD. And this size is much bigger than the Olympus stuff. So in the end
+the _lenses_ become the limiting factor in size, weight, and volume when carrying the
+camera around.
 
 If you compare the size of camera+lens for the two systems your universal conclusion is
 that the Nikon lenses are longer, fatter, and heavier than the Olympus lenses of similar
-focal lengths.
+equivalent focal lengths.
 
-Here is each camera with a midrange zoom attached:
+Here is each camera with a midrange zoom attached. The Olympus is a 12-40mm F2.8 (24-80mm
+equivalent) and the Nikon is the 24-70 F4.
 
 > > <a href="../images/IMG_1213.jpg">
 <img src="../images/IMG_1213.jpg" width=480></a>
 
-Here the Nikon has the same zoom as before, the the Olympus has a zoom lens with twice the
-reach. The total Olympus package is still a lot smaller because the width of the camera
-body and the diameter of the lens is so much smaller.
+As we observed above, the bodies are not that different in size (although the Olympus is a
+bit smaller in every dimension, which adds up). But the Olympus lens is a lot smaller than
+the Nikon even though it's a stop faster, and this is one of the more compact Nikon
+lenses.
+
+Next, the Nikon has the same zoom as before, and the Olympus has a zoom lens with twice
+the range as before (12-100mm F4 (24-200 equivalent)). The total Olympus package is still
+a lot smaller because the width of the camera body and the diameter of the lens is so much
+smaller.
 
 > > <a href="../images/IMG_1214.jpg">
 <img src="../images/IMG_1214.jpg" width=480></a>
@@ -169,11 +178,12 @@ also knew I would never want to carry them. So for almost two years I sat around
 paralyzed. I really liked the camera, but could not get myself to buy the lenses.
 
 And finally, to end the story ... during this time that I was dithering Olympus, sorry "OM
-Systems" released not only a new body that is a bit better at the things my current body
-is bad at, but also a set of newer and even more deliciously small lenses: the
-small telephoto in the third comparison photo above, and a really useful super wide to
-normal 8-25mm (16-50mm equiv) zoom. So I picked up the lenses on sale, and will keep them
-in my bag for those situations where the 12-100mm won't do the job.
+Systems", released not only a new body that is a bit better at the things my current body
+is bad at, but also a set of newer and even more deliciously small lenses: the small
+40-150mm (80-300mm equivalent) telephoto zoom in the comparison photo above, and a really
+useful super wide to normal 8-25mm (16-50mm equivalent) zoom. So I picked up the lenses on
+sale, and will keep them in my bag for those situations where the 12-100mm won't do the
+job.
 
 Inevitably I'll probably pick up the new OM body, even though it's not _that_ much better
 at this stuff, and the UI is still a trash fire. Hopefully "OM systems" keeps its head
