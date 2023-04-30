@@ -4,9 +4,9 @@ date: 2023-04-30
 author: psu
 ---
 
-I am apparently in a relatively small minority of camera users that use a camera besides
-my phone for taking pictures. I do this a lot less than I used to, because the phones have
-gotten really good. But I still do it.
+I am apparently in a relatively small minority of humans who use a camera besides my phone
+for taking pictures. I do this a lot less than I used to, because the phones have gotten
+really good. But I still do it.
 
 Most of my time with non-phone digital cameras has been spent using either Nikon DSLRs,
 which were mostly great, but always too big. And Olympus (now "OM System", but I'll still
@@ -22,10 +22,10 @@ branding no one can love. I concluded that given that Nikon was still making new
 and "OM System" was maybe not, eventually I'd be getting back into the Nikon stuff
 anyway. So I jumped back in.
 
-The Nikon Z6II is a mirrorless camera body that feels exactly like a Nikon DSLR to use
-(which in turn felt exactly like a classic Nikon autofocus film body to use, only better).
-It can really do anything you want. And it unquestionably does two things much better than
-the Olympus body that I had been using the last 5 or 6 years:
+The Nikon Z6II is a mirrorless camera body that feels almost exactly like a Nikon DSLR to
+use (which in turn felt almost exactly like a classic Nikon autofocus film body to use,
+only better). It can really do almost anything you want. And it unquestionably does two things
+much better than the Olympus body that I had been using the last 5 or 6 years:
 
 - The noise and sharpness in low light is a lot better.
 - The autofocus system is a lot easier to control.
@@ -41,7 +41,7 @@ So I spent a few months happily taking the Nikon and the kit lens (an emminently
 24-70mm F4 zoom lens) around and plugging away with the focus box. Then I put the camera
 in a box and barely used it.
 
-Then I started thinking about expanding the lens collection. I like zoom lenses. They are
+Later I started thinking about expanding the lens collection. I like zoom lenses. They are
 convenient and at this point in my life I am too old and lazy for the hassle of constantly
 changing single focal length lenses around. I generally want three zoom lenses to carry
 around, even though I usually only use two of them.
@@ -141,11 +141,13 @@ Olympus, but is the one I would use with this lens because the colors match.
 > > <a href="../images/IMG_1220.jpg">
 <img src="../images/IMG_1220.jpg" width=480></a>
 
-Here is the same lens on a Nikon FM3a film body, which is smaller than any Z body made a
-much more nostalgic besides.
+Here is a picture I copied from the internet that has the Z version of the lens on some
+anonymous Z body. Looks about the same size as my monstrosity above.
 
-> > <a href="../images/IMG_1221.jpg">
-<img src="../images/IMG_1221.jpg" width=480></a>
+> > <a href="../images/Nikon_Nikkor_Z-35nn_F1-8_S_DSC0425-1410x793.jpg">
+<img src="../images/Nikon_Nikkor_Z-35nn_F1-8_S_DSC0425-1410x793.jpg" width=480></a>
+
+Conclusion: the prime lenses will lose too.
 
 Of course, size isn't everything. In theory you give up a lot going to a smaller sensor,
 especially in terms of sharpness and noise performance in bad light. In addition, Nikon,
