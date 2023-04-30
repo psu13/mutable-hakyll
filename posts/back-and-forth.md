@@ -9,10 +9,10 @@ for taking pictures. I do this a lot less than I used to, because the phones hav
 really good. But I still do it.
 
 Most of my time with non-phone digital cameras has been spent using either Nikon DSLRs,
-which were mostly great, but always too big. And Olympus (now "OM System", but I'll still
-use the old brand name) mirrorless cameras, which were great once you went through the
-pain of setting up the four modes you want to use them in, and also deliciously small by
-comparison to the Nikons.
+which were mostly great, but always too big. And Olympus (now "OM Digital Solutions", but
+I'll still use the old brand name) mirrorless cameras, which were great once you went
+through the pain of setting up the four modes you want to use them in, and also
+deliciously small by comparison to the Nikons.
 
 Then Nikon got into the mirrorless game, making cameras almost as small as the Olympus,
 and generally about as great as the DSLRs. At this point I figured my time with Olympus
@@ -180,15 +180,15 @@ also knew I would never want to carry them. So for almost two years I sat around
 paralyzed. I really liked the camera, but could not get myself to buy the lenses.
 
 And finally, to end the story ... during this time that I was dithering Olympus, sorry "OM
-Systems", released not only a new body that is a bit better at the things my current body
-is bad at, but also a set of newer and even more deliciously small lenses: the small
-40-150mm (80-300mm equivalent) telephoto zoom in the comparison photo above, and a really
-useful super wide to normal 8-25mm (16-50mm equivalent) zoom. So I picked up the lenses on
-sale, and will keep them in my bag for those situations where the 12-100mm won't do the
-job.
+Digital Solutions", released not only a new body that is a bit better at the things my
+current body is bad at, but also a set of newer and even more deliciously small lenses:
+the small 40-150mm (80-300mm equivalent) telephoto zoom in the comparison photo above, and
+a really useful super wide to normal 8-25mm (16-50mm equivalent) zoom. So I picked up the
+lenses on sale, and will keep them in my bag for those situations where the 12-100mm won't
+do the job.
 
 Inevitably I'll probably pick up the new OM body, even though it's not _that_ much better
-at this stuff, and the UI is still a trash fire. Hopefully "OM systems" keeps its head
+at this stuff, and the UI is still a trash fire. Hopefully the OM system keeps its head
 above water for as long as I need them to. Or at least long enough to sell me the one body
 that I'll use until Apple figures out how to fold a 200mm lens into an iPhone. At that
 point I'll well and truly give up on carrying cameras around for good.
