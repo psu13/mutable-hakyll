@@ -2,6 +2,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
+import           Hakyll.Web.Feed
 
 import qualified Text.Pandoc.Options as Options
 import qualified Text.Pandoc.Extensions as Extensions
@@ -68,7 +69,7 @@ main = hakyll $ do
     create ["atom.xml"] $ do
         route idRoute
         compile $ do
-            let feedCtx = postCtx `mappend` bodyField "description"
+            let feedCtx = baseFeedCtx `mappend` bodyField "description"
             posts <- fmap (take feedSize) . recentFirst =<<
                 loadAllSnapshots "posts/*" "content"
             renderAtom myFeedConfiguration feedCtx posts
@@ -76,7 +77,7 @@ main = hakyll $ do
     create ["feeds/all.atom.xml"] $ do
         route idRoute
         compile $ do
-            let feedCtx = postCtx `mappend` bodyField "description"
+            let feedCtx = baseFeedCtx `mappend` bodyField "description"
             posts <- fmap (take feedSize) . recentFirst =<<
                 loadAllSnapshots "posts/*" "content"
             renderAtom myFeedConfiguration feedCtx posts
@@ -84,7 +85,7 @@ main = hakyll $ do
     create ["feeds/all.rss.xml"] $ do
         route idRoute
         compile $ do
-            let feedCtx = postCtx `mappend` bodyField "description"
+            let feedCtx = baseFeedCtx `mappend` bodyField "description"
             posts <- fmap (take feedSize) . recentFirst =<<
                 loadAllSnapshots "posts/*" "content"
             renderRss myFeedConfiguration feedCtx posts
@@ -113,6 +114,17 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     mutableCtx
+
+-- this is a dirty hack to work around some weird time handling in the RSS/ATOM
+-- feed generation code. If you don't provide an explicit time stamp for these
+-- meta-data keys they get a time of "00:00:00 UT" which is ... useless. So hardwire
+-- the time for noon UT which is when I usually post things anyway. It's
+-- still a useless lie, but unfolding the date code on Context.hs is too hard.
+baseFeedCtx :: Context String
+baseFeedCtx = 
+    dateField "published" "%Y-%m-%d 12:00:00" `mappend`
+    dateField "updated" "%Y-%m-%d 12:00:00" `mappend`
+    postCtx
 
 -- remove the parent directory "posts" from the URL path of the
 -- final HTML pages to match the current convention at the old site.
