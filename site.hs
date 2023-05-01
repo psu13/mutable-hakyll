@@ -121,9 +121,9 @@ postCtx =
 -- the time for 8pm UT which is when I usually post things anyway. It's
 -- still a useless lie, but unfolding the date code on Context.hs is too hard.
 baseFeedCtx :: Context String
-baseFeedCtx = 
-    dateField "published" "%Y-%m-%d 22:00:00" `mappend`
-    dateField "updated" "%Y-%m-%d 22:00:00" `mappend`
+baseFeedCtx =
+    dateField "published" "%Y-%m-%d 20:00:00" `mappend`
+    dateField "updated" "%Y-%m-%d 20:00:00" `mappend`
     postCtx
 
 -- remove the parent directory "posts" from the URL path of the
