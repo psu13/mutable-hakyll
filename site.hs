@@ -118,12 +118,12 @@ postCtx =
 -- this is a dirty hack to work around some weird time handling in the RSS/ATOM
 -- feed generation code. If you don't provide an explicit time stamp for these
 -- meta-data keys they get a time of "00:00:00 UT" which is ... useless. So hardwire
--- the time for noon UT which is when I usually post things anyway. It's
+-- the time for 8pm UT which is when I usually post things anyway. It's
 -- still a useless lie, but unfolding the date code on Context.hs is too hard.
 baseFeedCtx :: Context String
 baseFeedCtx = 
-    dateField "published" "%Y-%m-%d 12:00:00" `mappend`
-    dateField "updated" "%Y-%m-%d 12:00:00" `mappend`
+    dateField "published" "%Y-%m-%d 22:00:00" `mappend`
+    dateField "updated" "%Y-%m-%d 22:00:00" `mappend`
     postCtx
 
 -- remove the parent directory "posts" from the URL path of the
