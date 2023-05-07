@@ -88,9 +88,9 @@ too close, or not perfectly lined up left to right.
 
 Worse, when my parry misses I don't know why, because it feels like I did it just like
 before. If I could even have done five out of six I might have tried for this more because
-you can then dodge to the other. The two I just could not learn were the two fast swings
-and the floaty jump to the right. I could get each of them about half the time, but could
-never figure out what I did wrong when I missed.
+then I would just dodge what I could not parry. Sadly there were two that just could not
+learn: the two fast swings and the floaty jump to the right. I could get each of them
+about half the time, but could never figure out what I did wrong when I missed.
 
 So I finally gave up.
 
