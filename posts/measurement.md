@@ -363,12 +363,12 @@ $$
 |x_-\rangle|m_-\rangle
 $$
 
-So we seem to have a fundamental conflict: the Schrödinger says we should see
+So we seem to have a fundamental conflict: the Schrödinger equation says we should see
 superpositions, but in our experiments we never see superpositions.
 
 This, dear friends, is the measurement problem. It is a fundamental contradiction between
 the observed behavior of real systems in the world, and what the Schrödinger equation
-allows.
+dictates.
 
 #### Possible Answers
 
