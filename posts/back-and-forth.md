@@ -197,3 +197,19 @@ at this stuff, and the UI is still a trash fire. Hopefully the OM system keeps i
 above water for as long as I need them to. Or at least long enough to sell me the one body
 that I'll use until Apple figures out how to fold a 200mm lens into an iPhone. At that
 point I'll well and truly give up on carrying cameras around for good.
+
+**Late Appendix:**
+
+Aside from the size and handling, in retrospect another reason I went back to the Olympus
+cameras is that with the Z bodies Nikon decided to standardize on _yet another_ useless
+and idiotic card storage format which makes me cart around _yet another_ card reader
+instead of using the SD slot that's built in to my computer. The only saving grace is that
+the Z6II has a single stupid card slot and another spare SD card slot for making backup
+copies, so I ended up using the "spare" slot all the time and completely ignored the
+expensive main card slot. I'd have rather paid $200 less for a camera that had two
+"inferior" SD card slots instead.
+
+And yes, we are at a point in the camera industry where the storage cards that a body uses
+are probably the most interesting distinguishing characteristic between different brands.
+If I try full frame again I'll probably defect to Canon just because they don't use the
+stupid cards.
