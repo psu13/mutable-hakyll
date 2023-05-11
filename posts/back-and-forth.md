@@ -86,13 +86,17 @@ lets you make them a lot smaller by volume.
 
 Meanwhile, even though the Nikon mirrorless _body_ is in fact a lot smaller than the old
 DSLRs, the _lenses_ you put on them are basically the same size since they have to cover
-the same piece of CCD. And this size is much bigger than the Olympus stuff. So in the end
-the _lenses_ become the limiting factor in size, weight, and volume when carrying the
-camera around.
+the same piece of CCD. In fact they are usually even a bit bigger than the old F-mount
+35mm format lenses, because the Z-mount has grown in diameter for various technical
+reasons.
+
+In any case, the result is that the Z lenses are _much_ bigger than the Olympus stuff. So
+in the end the _lenses_ become the limiting factor in size, weight, and volume when
+carrying the camera around.
 
 If you compare the size of camera+lens for the two systems your universal conclusion is
-that the Nikon lenses are longer, fatter, and heavier than the Olympus lenses of similar
-equivalent focal lengths.
+that the Nikon lenses are longer, fatter, and heavier than the Olympus lenses that cover similar
+equivalent fields of view.
 
 Here is each camera with a midrange zoom attached. The Olympus is a 12-40mm F2.8 (24-80mm
 equivalent) and the Nikon is the 24-70 F4.
