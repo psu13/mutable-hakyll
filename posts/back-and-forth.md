@@ -117,8 +117,9 @@ smaller.
 > > <a href="../images/IMG_1214.jpg">
 <img src="../images/IMG_1214.jpg" width=480></a>
 
-Here is each camera wearing the telephoto zoom I'd use on them. The Nikon lens is
-a 70-300mm F4.5/5.6, and the Olympus lens is a 40-150 (80-300mm equivalent) constant F4.
+Here is each camera wearing the telephoto zoom I'd use on them. The Nikon lens is a
+70-300mm F4.5/5.6 F lens with an adapter, and the Olympus lens is a 40-150 (80-300mm
+equivalent) constant F4.
 
 > > <a href="../images/IMG_1217.jpg">
 <img src="../images/IMG_1217.jpg" width=480></a>
