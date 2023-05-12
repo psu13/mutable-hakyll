@@ -170,7 +170,7 @@ So the $S_z$ box looks like this:
 
 We start with a beam of particles where each particle is in a completely random state.
 Electrons (say) go in the left hole and the spin up stuff is directed out the top right
-hole and the spin down stuff comes out the bottom right hole. We can when consider what
+hole and the spin down stuff comes out the bottom right hole. We can then consider what
 happens if we take a bunch of devices like this, chain them together, and take sequential
 measurements.
 
