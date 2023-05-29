@@ -62,8 +62,11 @@ anyway. I don't get it. Anyway, here we go.
 
 In its simplest form all you need for fried rice is this:
 
-1. Some day old cooked white rice. Let's say about 3 cups. Short or medium grain is best.
-   Jasmine can work. If you are thinking about brown rice just stop reading and go away now.
+1. Some day old cooked white rice. Let's say about 3 cups. _Rule number one_ is that this
+   rice has to be pre-cooked and preferably at least a day old. You can't make fried rice
+   with freshly cooked rice. It has to at least be cold. Short or medium grain is best.
+   Jasmine can work. If you are thinking about brown rice just stop reading and go away
+   now.
 2. An egg or two.
 3. Some kind of onion/garlic/ginger or other aromatic. Let's say we have 3 or 4 scallions.
 4. Salt, a little soy sauce, white pepper, MSG if you want to get fancy and dark soy sauce if you really
