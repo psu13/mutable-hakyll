@@ -179,6 +179,8 @@ For more fried rice insight start at these places:
   
 * [Uncle Roger likes Chef Wang](https://www.youtube.com/watch?v=5M_Z0ARqol8).
 
+* [Fried rice restaurant in Singapore with a funny name](https://www.youtube.com/watch?v=FLkhG5ZR3ok).
+
 * Also, the [Chinese Cooking Demystified](https://www.youtube.com/watch?v=n10xBmqehik)
   people have their own insights, including how to make fried rice without [waiting for the
  rice to sit overnight](https://www.youtube.com/watch?v=owUiKyx4chI). Watch their stuff too.
