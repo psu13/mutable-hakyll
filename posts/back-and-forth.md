@@ -190,7 +190,7 @@ current body is bad at, but also a set of newer and even more deliciously small 
 the small 40-150mm (80-300mm equivalent) telephoto zoom in the comparison photo above, and
 a really useful super wide to normal 8-25mm (16-50mm equivalent) zoom. So I picked up the
 lenses on sale, and will keep them in my bag for those situations where the 12-100mm won't
-do the job.
+do the job (almost never).
 
 Inevitably I'll probably pick up the new OM body, even though it's not _that_ much better
 at this stuff, and the UI is still a trash fire. Hopefully the OM system keeps its head
