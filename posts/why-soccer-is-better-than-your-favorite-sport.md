@@ -38,8 +38,9 @@ Red Zone. The perfect crime.
 Note that this guaranteed fixed time window is the best thing about actually watching the
 games. Even in other competitions where draws are not allowed, like various tournaments,
 the World Cup, and so on, the games will never go more than three hours. Meanwhile there
-is no game in American sports that does not get stretched to at least three hours with
-commercials and such. Even the new fast baseball is still much longer than a soccer game.
+is no game in American sports that does not get stretched to two and half to three hours
+with commercials and such. Even the new fast baseball is still much longer than a soccer
+game.
 
 But the very best thing is that you never have to be up near midnight watching some stupid
 sports game because of unavoidable psychological programming that you picked up in your
