@@ -91,13 +91,13 @@ if they understand how to use the draft system to their advantage. As far as I k
 impossible to tank in baseball. But baseball sucks anyway.
 
 International football teams cannot tank _at all_. If you lose you don't get second
-chances. You get kicked out of the league into a lower tier league. You lose half your
-revenue. You have to fire everyone. You lose all your players. And then you have to win
-again in the lower league to get back into the higher tier. This system is called
-_relegation_ and _promotion_. Typically the bottom three teams in the league get kicked
-out (relegation) and replaced by the top three teams in the tier below (promotion). In
-English soccer there are 6 or 7 levels of professional and semi-professional leagues ...
-so the potential for collapse is almost infinite.
+chances. You get kicked out of the league into a lower tier league. You lose a huge
+percentage of your revenue. You have to fire everyone. You lose all your players. And then
+you have to win again in the lower league to get back into the higher tier. This system is
+called _relegation_ and _promotion_. Typically the bottom three teams in the league get
+kicked out (relegation) and replaced by the top three teams in the tier below (promotion).
+In English soccer there are 6 or 7 levels of professional and semi-professional leagues
+... so the potential for collapse is almost infinite.
 
 This is a brutal and Darwinian way to run a sports league, and it's also genius for two
 reasons:
