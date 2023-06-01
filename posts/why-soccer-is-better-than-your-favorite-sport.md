@@ -31,13 +31,15 @@ football](https://mutable-states.com/a-forced-break.html). The timing of the gam
 side of the Atlantic is just great. You can enjoy a few nice games every weekend morning,
 and then go about the rest of your day without sports getting in the way. Even during the
 NFL football season, you can easily watch both the Premier League and Red Zone on Sundays.
-And since they are of a fixed length, you always know that all the Premier League games
-will be over by "the witching hour" on Red Zone. The perfect crime.
+Since no Premier League game ever runs longer than two hours (great!) you always know that
+all the Premier League games will be over by the time "the witching hour" comes around on
+Red Zone. The perfect crime.
 
-This works out because no Premier League game ever runs longer than two hours (great!) and
-in other competitions where draws are not allowed (various tournaments, the World Cup, and
-so on) even games that go into overtime and PKs will never go longer than three hours.
-This guaranteed constrained time window is fantastic.
+Note that this guaranteed fixed time window is the best thing about actually watching the
+games. Even in other competitions where draws are not allowed, like various tournaments,
+the World Cup, and so on, the games will never go more than three hours. Meanwhile there
+is no game in American sports that does not get stretched to at least three hours with
+commercials and such. Even the new fast baseball is still much longer than a soccer game.
 
 But the very best thing is that you never have to be up near midnight watching some stupid
 sports game because of unavoidable psychological programming that you picked up in your
