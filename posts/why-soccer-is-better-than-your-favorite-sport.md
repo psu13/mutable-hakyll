@@ -1,6 +1,6 @@
 ---
 title: Why (Premier League) Football is Better Than Your Favorite Sport
-date: 2023-06-02
+date: 2023-05-31
 author: psu
 ---
 
@@ -44,7 +44,7 @@ While I'm sure some of this is just the relative novelty of my experience, I fee
 commentary on Premier League football games is in general much better than the current
 crop of announcers in the NFL, NBA, and national MLB. The NBA in particular is in a
 horrible drought right now, with everyone waiting and praying for Mark Jackson and Jeff
-Van Gundy to just fucking get out of the way so at least Doris Burke can keep Mike Bree
+Van Gundy to just fucking get out of the way so at least Doris Burke can keep Mike Breen
 company on the big games. But this will never happen.
 
 The NFL commentary is on the whole better than the NBA, but also generally anonymous and
@@ -134,15 +134,15 @@ just trying to survive, and they often make it!
 What I don't really understand is the mechanisms that cause these game states to happen. I
 can watch (say) an NBA defense and tell you if they are trying in 5 or 10 minutes of game
 time. Similarly, I can explain to you why the Patriots are pathetic, or the Buffalo Bills
-dominant on any given week. These things are intuitive to me.
+dominant in any given week. These things are intuitive to me.
 
 I don't really understand how soccer works internally, I only understand the outcomes.
 What exactly happens in "the midfield" seems very important, but I have no idea what it
 means. Also, seeing bad defense in real time seems to out of my cognitive reach. Earlier
 this year when Tottenham gave up five goals in twenty minutes to Newcastle (just wow) all
 I saw were the balls going into the back of the net. The analyst on the TV went on and on
-about how the Tottenham were completely clueless, but I didn't really see it like I would
-see the same thing in an NBA game. I suppose with time this will get better.
+about how the Tottenham defenders were completely clueless, but I didn't really see it
+like I would see the same thing in an NBA game. I suppose with time this will get better.
 
 Happily, I can fall back on the endless analysis and gossip cycle, which the Premier
 League has brilliantly imported from the NFL and made their own. Coaches are tactical
