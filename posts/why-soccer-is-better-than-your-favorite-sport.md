@@ -34,6 +34,11 @@ NFL football season, you can easily watch both the Premier League and Red Zone o
 And since they are of a fixed length, you always know that all the Premier League games
 will be over by "the witching hour" on Red Zone. The perfect crime.
 
+This works out because no Premier League game ever runs longer than two hours (great!) and
+in other competitions where draws are not allowed (various tournaments, the World Cup, and
+so on) even games that go into overtime and PKs will never go longer than three hours.
+This guaranteed constrained time window is fantastic.
+
 But the very best thing is that you never have to be up near midnight watching some stupid
 sports game because of unavoidable psychological programming that you picked up in your
 childhood. This is even better than consuming American sports on the American west coast.
