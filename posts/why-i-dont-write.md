@@ -9,14 +9,14 @@ I sat down a few times this week to try and crank out my weekly or twice weekly 
 
 In writing, this state of mind often eludes me. I keep a mental list of single sentence subjects about which I might write an article, but unless the fancy strikes at just the right time I am just as likely to forget my lists as actually write anything about them. I think a real writer would probably be more organized about keeping lists of lists, and not losing them, and not forgetting about them. I don't know.
 
-I also cannot make outlines to be filled in later. I can only write something that basically streams itself from my brain fully formed. Usually I just have to sit down and type it out with minimal editing. In writing articles for this web page, one of the more interesting experiences I have had is finally coming to understand a little bit about what those novelists mean when they say that their characters "take over" the book and dictate how the story should progress. I used to be skeptical about this, but I've actually had my <em>non-fiction</em> do this to me. I will sit down with what I think is a certain idea in my head and discover that the actual text that is there is something different. Usually it's just a different angle or perspective on the subject than I expected. But sometimes it's actually completely different. Often I set out to get to a cool catch phrase (e.g. Dork Nation) but where I end up is not quite the location that I imagined.
+I also cannot make outlines to be filled in later. I can only write something that basically streams itself from my brain fully formed. Usually I just have to sit down and type it out with minimal editing. In writing articles for this web site, one of the more interesting experiences I have had is finally coming to understand a little bit about what those novelists mean when they say that their characters "take over" the book and dictate how the story should progress. I used to be skeptical about this, but I've actually had my <em>non-fiction</em> do this to me. I will sit down with what I think is a certain idea in my head and discover that the actual text that is there is something different. Usually it's just a different angle or perspective on the subject than I expected. But sometimes it's actually completely different. Often I set out to get to a cool catch phrase (e.g. Dork Nation) but where I end up is not quite the location that I imagined.
 By far the largest barrier to actually posting here is self-editing. I will start to write pieces in my head and decide that
 
 1. I've already written it three years ago. Never mind that no one read it then and no one would notice if I wrote it again.
 
 2. Someone else already wrote something slightly similar over at some other web site. So why bother.
 
-3. The subject matter is too self-indulgent of naval-gazingly boring. This page has that problem. But I pushed past it.
+3. The subject matter is too self-indulgent or naval-gazingly boring. This page has that problem. But I pushed past it.
 
 4. peterb already wrote the same piece last week.
 
