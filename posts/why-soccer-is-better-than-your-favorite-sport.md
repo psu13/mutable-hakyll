@@ -32,8 +32,8 @@ side of the Atlantic is just great. You can enjoy a few nice games every weekend
 and then go about the rest of your day without sports getting in the way. Even during the
 NFL football season, you can easily watch both the Premier League and Red Zone on Sundays.
 Since no Premier League game ever runs longer than two hours (great!) you always know that
-all the Premier League games will be over by the time "the witching hour" comes around on
-Red Zone. The perfect crime.
+all the soccer games will be over by the time "the witching hour" comes around on Red
+Zone. The perfect crime.
 
 Note that this guaranteed fixed time window is the best thing about actually watching the
 games. Even in other competitions where draws are not allowed, like various tournaments,
@@ -182,13 +182,13 @@ Of course nothing is perfect, so I have gripes. They are relatively few.
 - I don't like PK shootouts. But what else are you going to do? I don't know. But I still
   don't like them.
 
-- What is the deal with substitutions? Why is the game structured so that the
-  last 10-15 minutes of every match seem to be played with 10 zombies and a goalie with
-  leg cramps against 10 other zombies with leg cramps and a goalie? OK sometimes it's
-  maybe 7 zombies and a few fresh subs against 6 zombies and a few more fresh subs. But
-  all of these situations bring up the question: _why not just have more subs_? Or, even
-  more radically: why not allow a player that you subbed off to _come back later_ when
-  they have had some rest? Baffling.
+- What is the deal with substitutions? Why is the game structured so that the last 10-15
+  minutes of every match seem to be played with 10 zombies with leg cramps and a goalie
+  against 10 other zombies with leg cramps and a goalie? OK sometimes it's maybe 7 zombies
+  and a few fresh subs against 6 zombies and a few more fresh subs. But all of these
+  situations bring up the question: _why not just have more subs_? Or, even more
+  radically: why not allow a player that you subbed off to _come back later_ when they
+  have had some rest? Baffling.
 
 Finally, like hockey, soccer seems to have a fundamental balance issue wherein a team
 that is missing one player does not immediately lose. I will forgive the game this foible,
