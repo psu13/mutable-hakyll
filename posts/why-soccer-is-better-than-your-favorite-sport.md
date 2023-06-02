@@ -61,7 +61,7 @@ of phrase that happen half a dozen times in every game where [Peter Drury is doi
 call](https://www.youtube.com/watch?v=aSVUJXomnFo). Every game he does generates at least
 one or two twitter clips from the Men In Blazers. No American announcer even comes close.
 
-The analysts for the Premier League broadcasts also mostly better than NFL and NBA. Not
+The analysts for the Premier League broadcasts are also mostly better than NFL and NBA. Not
 only do they all seem able to provide you with early Tony Romo levels of insight into the
 what's going on in the game, they also have no fear when it comes to criticizing the
 players, coaches, and refs doing the playing, coaching, and reffing. No missed strike is a
