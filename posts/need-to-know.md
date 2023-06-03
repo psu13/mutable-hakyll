@@ -88,13 +88,16 @@ must also learn it."[^2]
 But of course this is just not true. Most of these things were just bad puzzles that
 people had to solve back in the day because nothing better had been implemented yet. Folks
 were forced to use a lot of awkward implementations of a lot of marginal ideas. There is
-nothing _good_ or _foundational_ about them. What's really going on is old nerds not being
-able to tell the difference between having learned something actually interesting and
-having been beaten in the face with the limitations of the stupid machines and learning
-how to work around the pain. It changes your perspective if you think of all the weird and
-complicated technical things that you have learned over the years as brain damage/trauma
-instead of intellectual trophies to be proud of. The truth is that _most_ things are the
-former instead of the latter.
+nothing _good_ or _foundational_ about them. Like `perl` they were a set of imperfect
+tools and often painful to use tools that happened to solve some problems people needed
+solving. 
+
+But, often old nerds can't tell the difference between having learned something actually
+interesting and having been beaten in the face with the limitations of the stupid machines
+and learning how to work around the pain. It changes your perspective if you think of all
+the weird and complicated technical things that you have learned over the years as brain
+damage/trauma instead of intellectual trophies to be proud of. The truth is that _most_
+things are the former instead of the latter.
 
 Thus it is, as I said in the open, perfectly rational for people to ignore this bullshit until
 such time as they are forced to deal with it. There is no reason to waste brain space on
