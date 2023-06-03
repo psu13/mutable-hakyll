@@ -26,16 +26,17 @@ there is no big picture. This policy also lets you avoid some of the darker and 
 edges of the system that you should have really stayed away from anyway (see also:
 [typeglobs](https://en.wikipedia.org/wiki/Perl_language_structure#Typeglob_values)).
 
-I think using computer systems this way is a rational way to go about your life. For
+I think using most computer systems like this is a rational way to go about your life. For
 example, `perl` is a great tool if you happen to need the thing that it does well. But if
 you don't I would not blame you even a little bit if you know nothing about it. It's just
 a tool. It has no feelings.
 
-In general, unless you have some sort of unhealthy and uncontrollable intellectual
-curiosity about the things computers do computers are not really fun things to learn
-about, and you should minimize the amount of time in your life you spend learning to
-interact with them. God knows you should never get into programming unless you have just
-lost all hope and have nothing better to do.
+Unless you have some sort of unhealthy and uncontrollable intellectual curiosity about the
+things computers do computers are not really fun things to learn about, and you should
+minimize the amount of time in your life you spend learning to interact with them. God
+knows you should never get into programming unless you have just lost all hope and have
+nothing better to do. Or maybe you just [like the
+punishment](https://mutable-states.com/code-souls.html).
 
 Of course, I am one of the cursed ones who enjoys suffering. So I have spent most of my
 adult life programming computers for money. But this has just made my attachment to the
@@ -85,24 +86,24 @@ interaction, which in this form is phrased: "What I had to learn, and I found ve
 interesting, must be the most foundational and important thing in the world and everyone
 must also learn it."[^2]
 
-But of course this is just not true. Most of these things were just bad puzzles that
+Of course this is just not true. Most of these things were just bad puzzles that
 people had to solve back in the day because nothing better had been implemented yet. Folks
 were forced to use a lot of awkward implementations of a lot of marginal ideas. There is
 nothing _good_ or _foundational_ about them. Like `perl` they were a set of imperfect
 tools and often painful to use tools that happened to solve some problems people needed
 solving. 
 
-But, often old nerds can't tell the difference between having learned something actually
-interesting and having been beaten in the face with the limitations of the stupid machines
-and learning how to work around the pain. It changes your perspective if you think of all
-the weird and complicated technical things that you have learned over the years as brain
-damage/trauma instead of intellectual trophies to be proud of. The truth is that _most_
-things are the former instead of the latter.
+However, often old nerds just can't tell the difference between having learned something
+actually interesting and having been beaten in the face with the limitations of the stupid
+machines and learning how to work around the pain. It changes your perspective if you
+think of all the weird and complicated technical things that you have learned over the
+years as brain damage/trauma instead of intellectual trophies to be proud of. The truth is
+that _most_ things are the former instead of the latter.
 
-Thus it is, as I said in the open, perfectly rational for people to ignore this bullshit until
-such time as they are forced to deal with it. There is no reason to waste brain space on
-stupid technical puzzles from the past when you could be using to store the things you
-really need to solve your problems.
+So as I said in the open, it is perfectly rational for people to ignore this bullshit
+until such time as they are forced to deal with it. There is no reason to waste brain
+space on stupid technical puzzles from the past when you could be using to store the
+things you really need to solve your problems.
 
 With that main point out of the way you might now be wondering to yourself: "But psu, what
 _are_ the important things related to computer systems that you _should_ waste brain
@@ -119,7 +120,7 @@ idea about what my answer would be. But here are a few things:
 
 If you find these ideas too technical and theoretical I would not blame you. They do lean
 to that side. But what makes them important to me is that they are all general
-_conceptual_ issues rather than solutions to specific technical puzzles. I think having a
+_conceptual_ issues rather than solutions to specific technical puzzles. I like having a
 nice set of general boxes to put problems into rather than just a list of specific
 solutions to things. There are a lot of patterns in computing and programming and thinking
 that way lets you take advantage of that.
