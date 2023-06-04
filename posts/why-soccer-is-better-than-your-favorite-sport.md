@@ -179,7 +179,7 @@ Of course nothing is perfect, so I have gripes. They are relatively few.
 - Similarly, does anyone understand what a hand ball is anymore? This is almost as
   complicated as the catch rules in the NFL.
 
-- I don't like PK shootouts. But what else are you going to do? I don't know. But I still
+- I don't like penalty shootouts. But what else are you going to do? I don't know. But I still
   don't like them.
 
 - What is the deal with substitutions? Why is the game structured so that the last 10-15
