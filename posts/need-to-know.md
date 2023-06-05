@@ -12,7 +12,7 @@ format to another, reducing and summarizing data from some "experiments" that I 
 generating pictures in $\LaTeX$ for my thesis. That sort of thing.
 
 At the time `perl` had a reputation for being a very powerful but difficult to learn and
-use system. It had some strange syntax and for any given program there always seemed to be
+use system. It had some strange syntax and for any given problem there always seemed to be
 five to ten different ways to write down an idiomatic solution in `perl`. People also made
 claims about how `perl` was hard to learn because it had no simple to understand
 conceptual core. It was just a lot of different utilities thrown together into one big
@@ -26,11 +26,7 @@ there is no big picture. This policy also lets you avoid some of the darker and 
 edges of the system that you should have really stayed away from anyway (see also:
 [typeglobs](https://en.wikipedia.org/wiki/Perl_language_structure#Typeglob_values)).
 
-I think using most computer systems like this is a rational way to go about your life. For
-example, `perl` is a great tool if you happen to need the thing that it does well. But if
-you don't I would not blame you even a little bit if you know nothing about it. It's just
-a tool. It has no feelings.
-
+I think using most computer systems like this is a rational way to go about your life.
 Unless you have some sort of unhealthy and uncontrollable intellectual curiosity about the
 things computers do computers are not really fun things to learn about, and you should
 minimize the amount of time in your life you spend learning to interact with them. God
