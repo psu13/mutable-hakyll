@@ -29,7 +29,7 @@ trailers to [_Everything Everywhere All At
 Once_](https://www.youtube.com/watch?v=wxN1T1uxQ2g) I immediately went around calling it
 _The Best Film of 2022_. I did this more after actually seeing it (twice!). And
 finally last night the Oscars did the right thing and picked a movie with a fun and
-actually enjoyable energy over a lot of dour and depressing drama for best picture. More
+actually enjoyable energy over a lot of dour and depressing dramas for best picture. More
 importantly, they finally gave Michelle Yeoh her statue after robbing her in 2000 (!!) and
 not nominating _Crouching Tiger_ for any acting awards (you can't act in Chinese, you
 see). Oh, and all the other winners from the movie were great too.
