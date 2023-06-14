@@ -146,7 +146,7 @@ dominant in any given week. These things are intuitive to me.
 
 I don't really understand how soccer works internally, I only understand the outcomes.
 What exactly happens in "the midfield" seems very important, but I have no idea what it
-means. Also, seeing bad defense in real time seems to out of my cognitive reach. Earlier
+means. Also, seeing bad defense in real time seems to be out of my cognitive reach. Earlier
 this year when Tottenham gave up five goals in twenty minutes to Newcastle (just wow) all
 I saw were the balls going into the back of the net. The analyst on the TV went on and on
 about how the Tottenham defenders were completely clueless, but I didn't really see it
