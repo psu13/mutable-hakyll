@@ -21,7 +21,7 @@ had actually made an offer that he could not back out of. And that went really w
 
 So now we are in a situation summed up by this message:
 
-> <img src="../images/duncan-twitter.png" width=500 alt="It used to be that Twitter sucked but at least it was good. Now Twitter sucks but it also sucks. I know y'all get exactly what I mean."></a>
+> <img src="../images/duncan-twitter.jpg" width=500 alt="It used to be that Twitter sucked but at least it was good. Now Twitter sucks but it also sucks. I know y'all get exactly what I mean."></a>
 
 This same sentiment is true for most of the major social platforms. Certainly the "big
 three", Facebook, Instagram and Twitter are now mostly brands shilling brands mixed with
