@@ -71,9 +71,8 @@ given no mercy. Very refreshing.
 
 #### No Tanking
 
-Another structural difference that makes the Premier League, and really _all_ of the
-international soccer leagues more emotionally compelling is that because of _relegation_
-teams cannot tank. Let us review.
+In almost all of the international soccer leagues _relegation_ means that teams cannot
+tank. Let us review.
 
 In American sports, because they are _communist_, when you do _badly_ and come in
 _last_ in the league, the league tries to help you out by giving you the best shot at new
