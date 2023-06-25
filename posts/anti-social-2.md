@@ -16,7 +16,7 @@ the collective conciousness, if only for a microsecond. Then the kid pictures co
 go up and the "day in the life" videos continued to be posted. Ah well.
 
 Then in a fun twist, a self-centered billionaire narcisscist dipshit asshole made a joke
-about buying twitter for 44 _billion_ dollars and then it turned that, joke's on him, he
+about buying twitter for 44 _billion_ dollars and then it turned out that, joke's on him, he
 had actually made an offer that he could not back out of. And that went really well.
 
 So now we are in a situation summed up by this message:
