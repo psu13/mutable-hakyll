@@ -12,7 +12,7 @@ Here is my rule: if you put more than five or six messages into my feed in less 
 
 **Down: Nerd Exceptionalism**
 
-The following fact has been true as long public discourse on the Internet has existed: most people online are horrible and you should not interact with them. I point you to this classic USENET thread as evidence: <a href="https://groups.google.com/forum/#!topic/net.flame/evgliEmDzW8%5B1-25-false%5D">Women and the consumption of toilet paper</a>. 
+The following fact has been true as long public discourse on the Internet has existed: most people online are horrible and you should not interact with them. I point you to this classic USENET thread as evidence: <a href="https://groups.google.com/g/net.flame/c/evgliEmDzW8/m/rrcVgG_EqJgJ">Women and the consumption of toilet paper</a>. 
 
 This thread is older than some of the people I work with now. Yet for some reason there still seem to exist people who think one of two things:
 
