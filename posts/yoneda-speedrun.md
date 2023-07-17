@@ -527,7 +527,7 @@ their lingo translates to my notational scheme. As one last bit of
 terminology, in some of the definitions below the word *bijection* is
 used to mean an invertible mapping.
 
-This statement is due to Tom Leinster [5](https://arxiv.org/abs/1612.09375)],
+This statement is due to Tom Leinster [[5](https://arxiv.org/abs/1612.09375)],
 and uses the
 contravariant language.
 
