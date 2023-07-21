@@ -388,11 +388,12 @@ its _spectrum_. This is a very important result for quantum mechanics.
 
 At this point you might be thinking to yourself, "I have seen this word _spectrum_
 before". And you have. One of the earliest problems in quantum mechanics was to explain
-the spectral lines of the hydrogen atom. So you might be wondering, how do we get from
-these abstract quantum states and operators to energy? The answer is the next important
-rule of quantum mechanics, which we are already familiar with from [part 1](mechanics.html): there is a
-special observable for the energy of the system whose operator we call $H$, for the
-_Hamiltonian_. Time evolution of quantum states is then given by the Schrödinger equation:
+the [https://en.wikipedia.org/wiki/Spectral_line](spectral lines) of the hydrogen atom. So
+you might be wondering, how do we get from these abstract quantum states and operators to
+energy? The answer is the next important rule of quantum mechanics, which we are already
+familiar with from [part 1](mechanics.html): there is a special observable for the energy
+of the system whose operator we call $H$, for the _Hamiltonian_. Time evolution of quantum
+states is then given by the Schrödinger equation:
 
 $$
 i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
