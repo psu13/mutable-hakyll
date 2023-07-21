@@ -421,7 +421,7 @@ that, and vector spaces before that). The Hamiltonian for the hydrogen atom $H$ 
 self-adjoint operator whose the eigenvalues are the energies in the spectrum of the atom.
 The eigenvectors are the electron wave functions that define the fixed energy levels at
 which we see [spectral lines](the-wrong-question.html). The two amazing facts about
-spectral lines is that they teach us almost everything we know about astrophysics (at
+spectral lines are that they teach us almost everything we know about astrophysics (at
 least up until the 80s and 90s), and that quantum mechanics can explain them so well if
 you set things up the right way. The setup is somewhat technical and complicated, so I
 don't cover that here. I'll use a simpler system to describe the rest of what I want to
