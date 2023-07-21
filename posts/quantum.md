@@ -70,7 +70,7 @@ The ingredients that make up a Hilbert space are:
    rules here](https://en.wikipedia.org/wiki/Vector_space).
 
 We denote Hilbert spaces with a script "H", like this: $\cal H$, and we use greek letters,
-most popularly $\psi$ to denote vectors in $\cal H$. For a reason named [Paul
+most popularly $\psi$, to denote vectors in $\cal H$. For a reason named [Paul
 Dirac](https://en.wikipedia.org/wiki/Paul_Dirac), we will dress up vectors using a strange
 bracket notation like this: $| \psi \rangle$, or sometimes this way $\langle \psi |$. This
 is also how we wrote down the wave functions in [part 1](mechanics.html).
