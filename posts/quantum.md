@@ -388,7 +388,7 @@ its _spectrum_. This is a very important result for quantum mechanics.
 
 At this point you might be thinking to yourself, "I have seen this word _spectrum_
 before". And you have. One of the earliest problems in quantum mechanics was to explain
-the [https://en.wikipedia.org/wiki/Spectral_line](spectral lines) of the hydrogen atom. So
+the [spectral lines](https://en.wikipedia.org/wiki/Spectral_line) of the hydrogen atom. So
 you might be wondering, how do we get from these abstract quantum states and operators to
 energy? The answer is the next important rule of quantum mechanics, which we are already
 familiar with from [part 1](mechanics.html): there is a special observable for the energy
@@ -420,10 +420,12 @@ So here is why we were going on about eigen-things before (and linear operators 
 that, and vector spaces before that). The Hamiltonian for the hydrogen atom $H$ is a
 self-adjoint operator whose the eigenvalues are the energies in the spectrum of the atom.
 The eigenvectors are the electron wave functions that define the fixed energy levels at
-which we see spectral lines. And an amazing fact about the world is that you can actually
-set up a model of the hydrogen atom so that things work out in exactly this way. The setup
-is somewhat technical and complicated, so I don't cover that here. I'll use a simpler
-system to describe the rest of what I want to talk about.
+which we see [spectral lines](the-wrong-question.html). The two amazing facts about
+spectral lines is that they teach us almost everything we know about astrophysics (at
+least up until the 80s and 90s), and that quantum mechanics can explain them so well if
+you set things up the right way. The setup is somewhat technical and complicated, so I
+don't cover that here. I'll use a simpler system to describe the rest of what I want to
+talk about.
 
 Speaking of which.
 
