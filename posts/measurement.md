@@ -53,7 +53,7 @@ define for the space needs only two vectors: $$| 0 \rangle = \begin{pmatrix}1\\
 0\end{pmatrix}$$ and $$| 1 \rangle = \begin{pmatrix}0\\
 1\end{pmatrix}$$ 
 
-If we have some operator $S$ such that $| 0 \rangle$ and $| 1 \rangle$ are its
+Let's say we have some operator $S$ such that $| 0 \rangle$ and $| 1 \rangle$ are its
 eigenvectors with eigenvalues $\lambda_0$ and $\lambda_1$. Then we know that if we measure
 either $| 0 \rangle$ or $| 1 \rangle$ with
 $S$ we'll get some number with probability 100%:
