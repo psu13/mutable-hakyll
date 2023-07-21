@@ -1,4 +1,4 @@
-all: site sync
+all: site
 
 site:
 	stack build
