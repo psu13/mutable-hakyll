@@ -9,10 +9,10 @@ for taking pictures. I do this a lot less than I used to, because the phones hav
 really good. But I still do it.
 
 Most of my time with non-phone digital cameras has been spent using either Nikon DSLRs,
-which were mostly great, but always too big. And Olympus (now "OM Digital Solutions", but
-I'll still use the old brand name) mirrorless cameras, which were great once you went
-through the pain of setting up the four modes you want to use them in, and also
-deliciously small by comparison to the Nikons.
+which were mostly great, but always too big. I have also used the Olympus (now "OM Digital
+Solutions", but I'll still use the old brand name) mirrorless cameras, which were great
+once you went through the pain of setting up the four modes you want to use them in, and
+also deliciously small by comparison to the Nikons.
 
 Then Nikon got into the mirrorless game, making cameras almost as small as the Olympus,
 and generally about as great as the DSLRs. At this point I figured my time with Olympus
