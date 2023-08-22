@@ -40,7 +40,7 @@ It turns out that what all of this nonsense was hiding (which they tell you abou
 sophomore year in college if you major in physics) is that every single one of these
 problems can be set up so you put some numbers into a single black box, turn a crank, and
 every answer that you ever needed falls out the other side. This magic box is a set of
-*differential equations* that describe how the system you have described evolves in time. I
+*differential equations* that describe how the system you have described changes in time. I
 am not going to go into the details of how differential equations work, because honestly I
 don't know them. But, for reference they look something like this:
 
@@ -83,10 +83,10 @@ there are two important thoughts to keep in mind here:
    match the formulas pretty much perfectly. Not a lot of mystery.
 
 By the end of the nineteenth century physics had developed two very successful models for
-how the world works: mechanics and electromagnetism and both fit into the mathematical and
-intellectual framework outlined above: behaviors determined by smooth and deterministic
-differential equations that compute values that are "real" in the actual world. Life was
-good.
+how the world works: mechanics and electromagnetism. In addition, both of these models
+fit into the mathematical and intellectual framework outlined above: behaviors determined
+by smooth and deterministic differential equations that compute values that are "real" in
+the actual world. Life was good.
 
 The problem was that it didn't work.
 
