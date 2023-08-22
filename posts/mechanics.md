@@ -49,7 +49,7 @@ $$
 \frac {d {p}}{dt} = - \frac{\partial H}{\partial x}
 $$
 
-Here, $x$ represents position and $p$ represents momentum (momentum is
+Here, $x$ represents position, $t$ is time, and $p$ represents momentum (momentum is
 the mass of the object times its velocity ... $p = mv$. For some reason this is a more
 convenient way to work than with the velocity directly). $H$ is called the *Hamiltonian*,
 named after the mathematician who made it up: [William Rowan
