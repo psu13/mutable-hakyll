@@ -400,7 +400,7 @@ i \hbar \frac{\partial}{\partial t} | \psi(t) \rangle  = H | \psi(t) \rangle .
 $$
 
 You will recall from [part 1](mechanics.html) that the wave functions, which we now know are the quantum
-states of a system were all solutions to this equation. 
+states of a system, were all solutions to this equation. 
 
 Now, the trick to solving the hydrogen atom is first finding a Hamiltonian $H$ that
 correctly describes the behavior of the electron in the atom. It turns out that when you
