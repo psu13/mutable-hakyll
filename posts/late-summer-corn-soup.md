@@ -7,7 +7,7 @@ author: psu
 This one is an intellectual companion to the food processor salsa from last time. The soup
 is based on a recipe for "Green Corn Soup" from the _Fields of Greens_ cookbook. This is a
 weird name for the dish because it doesn't really come out green. Especially if you use
-red peppers. But their way was very tedious and fussy so I have streamlined it here.
+red peppers. Their way was also very tedious and fussy so I have streamlined it here.
 
 One special thing you do need for this soup is a "food mill".  A food mill is like a
 strainer with a spinning handle that pushes stuff through the seive part of the strainer.
