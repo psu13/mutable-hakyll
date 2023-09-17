@@ -6,7 +6,7 @@ author: psu
 
 This one is an intellectual companion to the food processor salsa from last time. The soup
 is based on a recipe for "Green Corn Soup" from the _Fields of Greens_ cookbook. This is a
-weird name for the recipe because it doesn't really come out green. Especially if you use
+weird name for the dish because it doesn't really come out green. Especially if you use
 red peppers. But their way was very tedious and fussy so I have streamlined it here.
 
 One special thing you do need for this soup is a "food mill".  A food mill is like a
@@ -17,7 +17,7 @@ Collect the following:
 
 1. 6 ears of corn. Get someone to cut all the kernels off the corn for you.
 
-2. 6-10 tomatillos, cut into big chunks.
+2. 6-12 tomatillos, peeled cut into big chunks.
 
 3. Around three hot peppers if you get hot peppers from where I get hot peppers. Cut the
    seeds out of two of them. If you want more heat, keep more seeds. This year the red
@@ -54,9 +54,9 @@ everything in the soup pot. This will take about 5 or 6 passes around all over a
 minutes. Be patient.
 
 Now get someone to run the contents of the soup pot through a food mill. This will make
-the smooth part of the soup even smoooother.
+the smooth part of the soup even smoooother. Throw the even smoother soup back in the pot.
 
-Now take the bowl of corn kernels you kept aside before and throw it back in the pot. Heat
+Now take the bowl of corn kernels you kept aside before and throw them back in the pot. Heat
 everything back up. Adjust the salt and pepper so it tastes good. For an Asian twist add
 some Chicken powder and/or MSG and a dash of fish sauce for an extra umami jolt. Maybe
 some white pepper too if you want.
@@ -65,7 +65,8 @@ Let it simmer on low heat for five or ten minutes to let everything melt togethe
 are done.
 
 **Notes**: You could make this with chicken stock, and it would be fine. But it doesn't
-really need it. The book suggests you make a "corn stock" from the ears that you cut the
+really need it. The original recipe is from a vegetarian cookbook so they obviously did
+not do this. The book suggests you make a "corn stock" from the ears that you cut the
 kernels off of. If you feel like killing some time doing this go ahead but I am completely
 not convinced that it's worth it. Using _red_ hot peppers gets you a bit of extra
 sweetness on top of the corn which is nice. The original recipe called for jalapenos, but
