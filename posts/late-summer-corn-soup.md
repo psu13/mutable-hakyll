@@ -71,5 +71,3 @@ kernels off of. If you feel like killing some time doing this go ahead but I am 
 not convinced that it's worth it. Using _red_ hot peppers gets you a bit of extra
 sweetness on top of the corn which is nice. The original recipe called for jalapenos, but
 jalapenos kind of suck now so I would suggest getting better stuff.
-
-Over and out.
