@@ -58,7 +58,7 @@ the smooth part of the soup even smoooother. Throw the even smoother soup back i
 
 Now take the bowl of corn kernels you kept aside before and throw them back in the pot
 along with some more liquid if you need it. Heat everything back up. Adjust the salt and
-pepper so it tastes good. For an Asian twist add some Chicken powder and/or MSG and a dash
+pepper so it tastes good. For an Asian twist add some chicken powder and/or MSG and a dash
 of fish sauce for an extra umami jolt. Maybe some white pepper too if you want.
 
 Let it simmer on low heat for five or ten minutes to let everything melt together and you
