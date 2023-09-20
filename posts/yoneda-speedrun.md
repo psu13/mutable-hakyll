@@ -579,8 +579,8 @@ FX$ both naturally in $X \in \mathbf{C}$ and
 $F \in [\mathbf{C}, {\mathbf {Sets}}]$.
 
 He uses the $[\mathbf{C}, {\mathbf {Sets}}]$ notation for the functor
-category, and $\mathop{\mathit{Nat}}$ where we use
-$\mathop{\mathit{Natural}}$.
+category, and he writes "$\!\mathop{\mathit{Nat}}\,$" where we say
+"$\!\mathop{\mathit{Natural}}\,$".
 
 Paolo Perrone [[8](https://arxiv.org/abs/1912.10642)]
 writes the dual version, and uses the standard
