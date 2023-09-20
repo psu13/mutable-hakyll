@@ -41,7 +41,7 @@ $\mathbf{C}$, and let $F: \mathbf{C}\longrightarrow
 {\mathbf {Sets}}$ be a functor from $\mathbf{C}$ to the category
 ${\mathbf {Sets}}$. Then there is an invertible mapping
 $$
-\mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X, -),F) \cong FX
+\mathop{\mathit{Hom}}(\mathbf{C}(X, -),F) \cong FX
 $$
 that
 associates each natural transformation
@@ -82,21 +82,21 @@ Categories have a deliciously chewy multi-part definition.
 
 -   A collection of *objects* that we will denote with upper case
     letters $X, Y, Z, ...$, and so on. We call this collection
-    $\mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$. Traditionally
+    $\mathop{\mathit{Objects}}(\mathbf{C})$. Traditionally
     people write just $\mathbf{C}$ to mean
-    $\mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ when the context
+    $\mathop{\mathit{Objects}}(\mathbf{C})$ when the context
     makes clear what is going on.
 
 -   A collection of *arrows* denoted with lower case letters
     $f, g, h, ...$, and so on. Other names for *arrows* include
     *mappings* or *functions* or *morphisms*. We will call this
-    collection $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$.
+    collection $\mathop{\mathit{Arrows}}(\mathbf{C})$.
 
 The objects and arrows of a category satisfy the following conditions:
 
 -   Each arrow $f$ connects one object
-    $A \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ to another
-    object $B \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ and we
+    $A \in \mathop{\mathit{Objects}}(\mathbf{C})$ to another
+    object $B \in \mathop{\mathit{Objects}}(\mathbf{C})$ and we
     denote this by writing $f: A \longrightarrow B$. $A$ is called the *source* (or *domain*) of
     $f$ and $B$ the *target* (or *codomain*).  Source and target are somewhat more
     intuitive terms, but domain and codomain connect the language to functions in other
@@ -107,7 +107,7 @@ The objects and arrows of a category satisfy the following conditions:
     A \longrightarrow C$ called the *composition* of $f$ and $g$. This is also
     sometimes written $gf$.
 
--   For each $A \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$
+-   For each $A \in \mathop{\mathit{Objects}}(\mathbf{C})$
     there is an arrow $1_A: A \longrightarrow A$, called the *identity* at $A$
     that maps $A$ to itself. Sometimes this object is also written as
     $\mathrm{id}_A$.
@@ -123,14 +123,14 @@ Finally, we have the last two rules:
     also means is that we can always just write $hgf$ if we want.
 
 Given a category ${\mathbf C}$ and objects $A, B$ in ${\mathbf C}$ we write
-$\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf C}(A,B)$ to mean the collection of all arrows
+$\mathop{\mathit{Arrows}}_{\mathbf C}(A,B)$ to mean the collection of all arrows
 from $A$ to $B$ in ${\mathbf C}$ if we are being maximally careful. In practice we will usually
-write $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$ because the ${\mathbf C}$ subscript is tedious and
+write $\mathop{\mathit{Arrows}}(A,B)$ because the ${\mathbf C}$ subscript is tedious and
 it’s usually clear what category $A$ and $B$ came from. People also write
-$\mathop{\mathrm{\mathit{Hom}}}(A, B)$ or
-$\mathop{\mathrm{\mathit{Hom}}}_{\mathbf{C}}(A,B)$, or $\mathop{\mathrm{\mathit{hom}}}(A,
-B)$ or just $\mathbf{C}(A,B)$ to mean $\mathop{\mathrm{\mathit{Arrows}}}(A,B)$. Here
-"$\mathop{\mathrm{\mathit{Hom}}}$" stands for homomorphism, which is a standard word for
+$\mathop{\mathit{Hom}}(A, B)$ or
+$\mathop{\mathit{Hom}}_{\mathbf{C}}(A,B)$, or $\mathop{\mathit{hom}}(A,
+B)$ or just $\mathbf{C}(A,B)$ to mean $\mathop{\mathit{Arrows}}(A,B)$. Here
+"$\mathop{\mathit{Hom}}$" stands for homomorphism, which is a standard word for
 mappings that preserve some kind of structure. Category theory, and the Yoneda lemma, it
 it turns out, is mostly about the arrows.
 
@@ -152,10 +152,10 @@ into set theory trouble. Here are two more short definitions about this
 that we will need.
 
 **Definition 2**. A category $\mathbf{C}$ is called *small* if
-$\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$ is a set.
+$\mathop{\mathit{Arrows}}(\mathbf{C})$ is a set.
 
 **Definition 3**. A category $\mathbf{C}$ is called *locally small* if
-$\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}}(A,B)$ is a set for every
+$\mathop{\mathit{Arrows}}_{\mathbf{C}}(A,B)$ is a set for every
 $A, B \in \mathbf{C}$.
 
 For the rest of this note we will only deal with locally small
@@ -323,22 +323,22 @@ $\mathop{\mathit{Fun}}(\mathbf{C},\mathbf{D})$ or
 $\mathop{\mathit{Func}}(\mathbf{C},\mathbf{D})$, or
 $\mathop{\mathit{Funct}}(\mathbf{C},\mathbf{D})$. I think we should just
 spell it out and use
-$\mathop{\mathrm{\mathit{Functors}}}(\mathbf{C},\mathbf{D})$. So there.
+$\mathop{\mathit{Functors}}(\mathbf{C},\mathbf{D})$. So there.
 
 Now we can define this notation:
 
 **Definition 9**. Let $\mathbf{C}$ and $\mathbf{D}$ be categories, and
 let
-$F, G \in \mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}, \mathbf{D})$.
-Then we'll write $\mathop{\mathrm{\mathit{Natural}}}(F, G)$ for the set
+$F, G \in \mathop{\mathit{Functors}}(\mathbf{C}, \mathbf{D})$.
+Then we'll write $\mathop{\mathit{Natural}}(F, G)$ for the set
 of all natural transformations from $F$ to $G$, which in this context is
 the same as the arrows from $F$ to $G$ in the functor category.
 
-You will also see people write $\mathop{\mathrm{\mathit{Hom}}}(F, G)$,
-$\mathop{\mathrm{\mathit{Hom}}}_{[\mathbf{C},\mathbf{D}]}(F,G)$, or
+You will also see people write $\mathop{\mathit{Hom}}(F, G)$,
+$\mathop{\mathit{Hom}}_{[\mathbf{C},\mathbf{D}]}(F,G)$, or
 $[\mathbf{C},\mathbf{D}](F,G)$ for this. Or, if $\mathbf{K}$ is a
 functor category then people will write
-$\mathop{\mathrm{\mathit{Hom}}}_{\mathbf{K}}(F,G)$ or $\mathbf{K}(F,G)$
+$\mathop{\mathit{Hom}}_{\mathbf{K}}(F,G)$ or $\mathbf{K}(F,G)$
 for this.
 
 #### Representing Functors
@@ -351,46 +351,46 @@ these notes.
 **Definition 10**. Given a locally small category $\mathbf{C}$ and an
 object $X \in \mathbf{C}$ we define the functor
 $$
-\mathop{\mathrm{\mathit{Arrows}}}(X,-) : \mathbf{C}\longrightarrow {\mathbf {Sets}}$$
+\mathop{\mathit{Arrows}}(X,-) : \mathbf{C}\longrightarrow {\mathbf {Sets}}$$
 using the following assignments:
 
 -   A mapping from $\mathbf{C}\longrightarrow {\mathbf {Sets}}$ that assigns to each
-    $Y \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ the set
-    $\mathop{\mathrm{\mathit{Arrows}}}(X,Y)$
+    $Y \in \mathop{\mathit{Objects}}(\mathbf{C})$ the set
+    $\mathop{\mathit{Arrows}}(X,Y)$
 
 -   A mapping from
-    $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C}) \longrightarrow \mathop{\mathrm{\mathit{Arrows}}}({\mathbf {Sets}})$
+    $\mathop{\mathit{Arrows}}(\mathbf{C}) \longrightarrow \mathop{\mathit{Arrows}}({\mathbf {Sets}})$
     that assigns to each arrow $f: A
     \longrightarrow B$ to a mapping $f_*$ defined by $f_*(g) = f\circ g$ for each
     arrow $g: X \longrightarrow A$.
 
-The notation $\mathop{\mathrm{\mathit{Arrows}}}(X,-)$ needs a bit of
+The notation $\mathop{\mathit{Arrows}}(X,-)$ needs a bit of
 explanation. Here the idea is that we have defined a mapping with two
 arguments, but then fixed the object $X$. Then we use the "$-$" symbol
 as a placeholder for the second argument. So
-$\mathop{\mathrm{\mathit{Arrows}}}(X,Y)$ is the value of the mapping as
+$\mathop{\mathit{Arrows}}(X,Y)$ is the value of the mapping as
 we vary the second argument through all the other objects in
 $\mathbf{C}$. This is a bit of an abuse of notation since we are
-apparently using the symbol $\mathop{\mathrm{\mathit{Arrows}}}$ to mean
+apparently using the symbol $\mathop{\mathit{Arrows}}$ to mean
 two different things (one is a set, the other a functor). Oh well.
 
 The definition of the mapping for arrows also needs a bit of
 explanation. Given $A,B \in
 \mathbf{C}$ and an arrow $f: A \longrightarrow B$, it should be the case that
-$\mathop{\mathrm{\mathit{Arrows}}}(X,-)$ applied to $f$ is an arrow that
+$\mathop{\mathit{Arrows}}(X,-)$ applied to $f$ is an arrow that
 maps
-$\mathop{\mathrm{\mathit{Arrows}}}(X,A) \longrightarrow \mathop{\mathrm{\mathit{Arrows}}}(X,B)$.
+$\mathop{\mathit{Arrows}}(X,A) \longrightarrow \mathop{\mathit{Arrows}}(X,B)$.
 We will call this arrow $f_*$. If $g: X \longrightarrow A$ is in
-$\mathop{\mathrm{\mathit{Arrows}}}(X,A)$ then the value that we want for
+$\mathop{\mathit{Arrows}}(X,A)$ then the value that we want for
 $f_*$ at $g$ is $f_*(g)
 = (f \circ g): X \longrightarrow B$. This mapping is called the *post-composition*
 map of $f$ since we apply $f$ *after* $g$. You also see it written as
 $f \circ -$. The *pre-composition* map is then $f^*$ or $- \circ f$.
 
 Thus, we have worked out that the value of
-$\mathop{\mathrm{\mathit{Arrows}}}(X,-)$ at $f$ should be the arrow $f
+$\mathop{\mathit{Arrows}}(X,-)$ at $f$ should be the arrow $f
 \circ -$. Sometimes you will see this written
-$\mathop{\mathrm{\mathit{Arrows}}}(X, f) = f \circ -$, which I find a
+$\mathop{\mathit{Arrows}}(X, f) = f \circ -$, which I find a
 bit odd because now we are overloading the kinds of things that can go
 into the "$-$" slot.
 
@@ -399,16 +399,16 @@ function applications (one for the functor, and one inside that for the
 post-composition arrow), and two different kinds of placeholder.
 
 Other notations for this functor include
-$\mathop{\mathrm{\mathit{Hom}}}(X, -)$,
-$\mathop{\mathrm{\mathit{Hom}}}_\mathbf{C}(X, -)$, $H^X$, $h^X$, and
+$\mathop{\mathit{Hom}}(X, -)$,
+$\mathop{\mathit{Hom}}_\mathbf{C}(X, -)$, $H^X$, $h^X$, and
 just plain $\mathbf{C}(X,-)$. In my notation we should have written this
-as $\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}}(X,
+as $\mathop{\mathit{Arrows}}_{\mathbf{C}}(X,
 -)$, but I'm lazy. This kind of functor is also called a *hom-functor*.
 
 Finally, we can give two more important definitions.
 
 **Definition 11**. Given an object $X \in \mathbf{C}$ we call the
-functor $\mathop{\mathrm{\mathit{Arrows}}}(X,-)$ defined above the
+functor $\mathop{\mathit{Arrows}}(X,-)$ defined above the
 functor *represented* by $X$.
 
 In addition, we can characterize another important relationship between
@@ -417,7 +417,7 @@ objects and functors:
 **Definition 12**. Let $\mathbf{C}$ be a category. A functor
 $F:\mathbf{C}\longrightarrow{\mathbf {Sets}}$ is called *representable* if it is
 naturally isomorphic to the functor
-$\mathop{\mathrm{\mathit{Arrows}}}_\mathbf{C}(X,-):\mathbf{C}\longrightarrow{\mathbf {Sets}}$
+$\mathop{\mathit{Arrows}}_\mathbf{C}(X,-):\mathbf{C}\longrightarrow{\mathbf {Sets}}$
 for some object $X$ of $\mathbf{C}$. In that case we call $X$ the
 *representing object*.
 
@@ -435,16 +435,16 @@ $\mathbf{C}$, and define it as follows:
 -   The objects of $\mathbf{C}^{\mathrm{op}}$ are the same as the objects
     of $\mathbf{C}$.
 
--   $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C}^{\mathrm{op}})$ is
+-   $\mathop{\mathit{Arrows}}(\mathbf{C}^{\mathrm{op}})$ is
     defined by taking each arrow $f :X \longrightarrow Y$ in
-    $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$ and flipping their
+    $\mathop{\mathit{Arrows}}(\mathbf{C})$ and flipping their
     direction, so we put $f': Y \longrightarrow X$ into
-    $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C}^{\mathrm{op}})$. 
+    $\mathop{\mathit{Arrows}}(\mathbf{C}^{\mathrm{op}})$. 
     
     In
     particular for
-    $X, Y \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ we have
-    $\mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}}(A, B) = \mathop{\mathrm{\mathit{Arrows}}}_{\mathbf{C}^{\mathrm{op}}}(B, A)$
+    $X, Y \in \mathop{\mathit{Objects}}(\mathbf{C})$ we have
+    $\mathop{\mathit{Arrows}}_{\mathbf{C}}(A, B) = \mathop{\mathit{Arrows}}_{\mathbf{C}^{\mathrm{op}}}(B, A)$
     (or $\mathbf{C}(A,
     B) = \mathbf{C}^{\mathrm{op}}(B, A)$.
 
@@ -460,20 +460,20 @@ Duality also applies to functors.
 *contravariant* functor from $\mathbf{C}$ to $\mathbf{D}$ is a functor
 $F: \mathbf{C}^{\mathrm{op}}\longrightarrow \mathbf{D}$ where:
 
--   We have an object $F(X) \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{D})$ for each
-    $X \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$.
+-   We have an object $F(X) \in \mathop{\mathit{Objects}}(\mathbf{D})$ for each
+    $X \in \mathop{\mathit{Objects}}(\mathbf{C})$.
 
--   For each arrow $f : X \longrightarrow Y \in \mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$
+-   For each arrow $f : X \longrightarrow Y \in \mathop{\mathit{Arrows}}(\mathbf{C})$
     we have an arrow $F(f): FY \longrightarrow FX$ in
-    $\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{D})$.
+    $\mathop{\mathit{Arrows}}(\mathbf{D})$.
 
 In addition
 
 -   For any two arrows
-    $f, g \in \mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$ where
+    $f, g \in \mathop{\mathit{Arrows}}(\mathbf{C})$ where
     $g \circ f$ is defined we have $F(f) \circ F(g) = F(g \circ f)$.
 
--   For each $X \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$ we
+-   For each $X \in \mathop{\mathit{Objects}}(\mathbf{C})$ we
     have $1_{F(X)} = F(1_X)$
 
 Note how the arrows and composition go backwards when they need to. With
@@ -489,28 +489,28 @@ in my notation.
 **Lemma 1** (Yoneda). Let $\mathbf{C}$ be a locally small category,
 $F:\mathbf{C}\longrightarrow
 {\mathbf {Sets}}$ a functor, and
-$X \in \mathop{\mathrm{\mathit{Objects}}}(\mathbf{C})$. We can define a
+$X \in \mathop{\mathit{Objects}}(\mathbf{C})$. We can define a
 mapping from
-$\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X, -),F)
+$\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(X, -),F)
 \longrightarrow FX$ by assigning each transformation
-$\alpha: \mathop{\mathrm{\mathit{Arrows}}}(X, -) \Rightarrow F$ the
+$\alpha: \mathop{\mathit{Arrows}}(X, -) \Rightarrow F$ the
 value $\alpha_X(1_X) \in FX$. This mapping is invertible and is natural
 in both $F$ and $X$.
 
 So now we can break it down:
 
 -   In principle the natural transformations from
-    $\mathop{\mathrm{\mathit{Arrows}}}(X, -) \Rightarrow F$ could be a
+    $\mathop{\mathit{Arrows}}(X, -) \Rightarrow F$ could be a
     giant complicated thing.
 
 -   But actually it can only be as large as $FX$. The fact that this
     mapping is invertible implies that
-    $\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X, -),F)$
+    $\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(X, -),F)$
     and $FX$ are isomorphic (that is,
-    $\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X, -),F) \cong FX$).
+    $\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(X, -),F) \cong FX$).
 
 -   In other words, every natural transformation from
-    $\mathop{\mathrm{\mathit{Arrows}}}(X, -)$ to $F$ is the same as an
+    $\mathop{\mathit{Arrows}}(X, -)$ to $F$ is the same as an
     element of the set $FX$. In particular, all we need to know is how
     $\alpha_X(1_X)$ is defined to know how any of the natural
     transformations are defined.
@@ -518,8 +518,8 @@ So now we can break it down:
 -   Which is pretty amazing.
 
 To write this in the dual language, you just change
-$\mathop{\mathrm{\mathit{Arrows}}}(X, -)$ to
-$\mathop{\mathrm{\mathit{Arrows}}}(-, X)$, which switches the direction
+$\mathop{\mathit{Arrows}}(X, -)$ to
+$\mathop{\mathit{Arrows}}(-, X)$, which switches the direction
 of all the arrows and the order of composition in the composition maps.
 
 So with that, here are some other ways people write the result, and how
@@ -541,11 +541,11 @@ $F \in [\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$.
 
 Here $[\mathbf{C}^{\mathrm{op}}, {\mathbf {Sets}}]$ is the category of
 functors from $\mathbf{C}^{\mathrm{op}}$ to ${\mathbf {Sets}}$ and $H_X$
-means $\mathop{\mathrm{\mathit{Arrows}}}(-,X)$. The notation
+means $\mathop{\mathit{Arrows}}(-,X)$. The notation
 $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}](H_X, F)$ denotes the arrows
 in the functor category $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$
 between $H_X$ and $F$, so it's the same as
-$\mathop{\mathrm{\mathit{Natural}}}(H_X, F)$.
+$\mathop{\mathit{Natural}}(H_X, F)$.
 
 Emily Riehl's [[8](https://math.jhu.edu/~eriehl/context.pdf)] 
 version is what I used at the top:
@@ -555,7 +555,7 @@ $X \in
 \mathbf{C}$. Then for any functor $F : \mathbf{C}\longrightarrow {\mathbf {Sets}}$
 there is a bijection
 $$
-\mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X,-), F) \cong FX
+\mathop{\mathit{Hom}}(\mathbf{C}(X,-), F) \cong FX
 $$
 that
 associates each natural transformation
@@ -563,8 +563,8 @@ $\alpha:\mathbf{C}(X,-) \Rightarrow F$ with the element
 $\alpha_X(1_X) \in FX$. Moreover, this correspondence is natural in both
 $X$ and $F$.
 
-Here $\mathop{\mathrm{\mathit{Hom}}}(\mathbf{C}(X,-), F)$ means
-$\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X,-), F)$.
+Here $\mathop{\mathit{Hom}}(\mathbf{C}(X,-), F)$ means
+$\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(X,-), F)$.
 I think this is my favorite "standard" way of writing this.
 
 Peter Smith
@@ -580,7 +580,7 @@ $F \in [\mathbf{C}, {\mathbf {Sets}}]$.
 
 He uses the $[\mathbf{C}, {\mathbf {Sets}}]$ notation for the functor
 category, and $\mathop{\mathit{Nat}}$ where we use
-$\mathop{\mathrm{\mathit{Natural}}}$.
+$\mathop{\mathit{Natural}}$.
 
 Paolo Perrone [[8](https://arxiv.org/abs/1912.10642)]
 writes the dual version, and uses the standard
@@ -591,18 +591,18 @@ ${\mathbf {Sets}}$.
 object of $\mathbf{C}$, and let
 $F:\mathbf{C}^\mathrm{op}\longrightarrow{\mathbf {Sets}}$ be a presheaf on
 $\mathbf{C}$. Consider the map from
-$$\mathop{\mathrm{\mathit{Hom}}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]} \bigl(\mathop{\mathrm{\mathit{Hom}}}_\mathbf{C} (-,X) , F \bigr) \longrightarrow FX$$
+$$\mathop{\mathit{Hom}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]} \bigl(\mathop{\mathit{Hom}}_\mathbf{C} (-,X) , F \bigr) \longrightarrow FX$$
 assigning to a natural transformation
-$\alpha:\mathop{\mathrm{\mathit{Hom}}}_\mathbf{C} (-,X)\Rightarrow F$
+$\alpha:\mathop{\mathit{Hom}}_\mathbf{C} (-,X)\Rightarrow F$
 the element $\alpha_X(\mathrm{id}_X)\in FX$, which is the value of the
 component $\alpha_X$ of $\alpha$ on the identity at $X$.
 
 This assignment is a bijection, and it is natural both in $X$ and in
 $F$.
 
-Here he writes $\mathop{\mathrm{\mathit{Hom}}}_\mathbf{C}$ for
-$\mathop{\mathrm{\mathit{Arrows}}}_\mathbf{C}$ and
-$\mathop{\mathrm{\mathit{Hom}}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]}$
+Here he writes $\mathop{\mathit{Hom}}_\mathbf{C}$ for
+$\mathop{\mathit{Arrows}}_\mathbf{C}$ and
+$\mathop{\mathit{Hom}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]}$
 to mean the arrows in the functor category
 $[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]$, which are the natural
 transformations.
@@ -627,33 +627,33 @@ Now your reward for having climbed all the way up this abstraction
 ladder with me is yet another abstraction!
 
 Suppose you are given an object $Y$ and you apply the Yoneda lemma by
-substituting $\mathop{\mathrm{\mathit{Arrows}}}(Y,-)$ for the functor
+substituting $\mathop{\mathit{Arrows}}(Y,-)$ for the functor
 $F$. Then
-$$\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(X, -),\mathop{\mathrm{\mathit{Arrows}}}(Y,-)) \cong\mathop{\mathrm{\mathit{Arrows}}}(Y,-)(X) = \mathop{\mathrm{\mathit{Arrows}}}(Y,X)$$
+$$\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(X, -),\mathop{\mathit{Arrows}}(Y,-)) \cong\mathop{\mathit{Arrows}}(Y,-)(X) = \mathop{\mathit{Arrows}}(Y,X)$$
 Note the order of the arguments! We can also write:
-$$\mathop{\mathrm{\mathit{Arrows}}}(X,Y) \cong\mathop{\mathrm{\mathit{Natural}}}(\mathop{\mathrm{\mathit{Arrows}}}(-, X),\mathop{\mathrm{\mathit{Arrows}}}(-,Y))$$
-Each of the functors $\mathop{\mathrm{\mathit{Arrows}}}(-, X)$ maps from
+$$\mathop{\mathit{Arrows}}(X,Y) \cong\mathop{\mathit{Natural}}(\mathop{\mathit{Arrows}}(-, X),\mathop{\mathit{Arrows}}(-,Y))$$
+Each of the functors $\mathop{\mathit{Arrows}}(-, X)$ maps from
 $\mathbf{C}^\mathrm{op}\longrightarrow {\mathbf {Sets}}$ because that's how we
 defined the represented functors. So now let's jump up one more level of
 abstraction. We define a functor that maps objects to the functors that
 they represent, and arrows to the natural transformations between those
 functors. Given an object $Y\in\mathbf{C}$ define the functor
-$\mathop{Y\!o}:\mathbf{C}\longrightarrow \mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}^\mathrm{op}, {\mathbf {Sets}})$
+$\mathop{Y\!o}:\mathbf{C}\longrightarrow \mathop{\mathit{Functors}}(\mathbf{C}^\mathrm{op}, {\mathbf {Sets}})$
 by
-$$\mathop{Y\!o}(Y) = \mathop{\mathrm{\mathit{Arrows}}}(-, Y) : \mathbf{C}^\mathrm{op}\longrightarrow {\mathbf {Sets}}$$
+$$\mathop{Y\!o}(Y) = \mathop{\mathit{Arrows}}(-, Y) : \mathbf{C}^\mathrm{op}\longrightarrow {\mathbf {Sets}}$$
 and given an arrow $f: A \longrightarrow B$ with $A,B \in \mathbf{C}$ define
-$$\mathop{Y\!o}(f) = f_* = (f \circ -) : \mathop{\mathrm{\mathit{Arrows}}}(-,A) \Rightarrow\mathop{\mathrm{\mathit{Arrows}}}(-,B)$$
+$$\mathop{Y\!o}(f) = f_* = (f \circ -) : \mathop{\mathit{Arrows}}(-,A) \Rightarrow\mathop{\mathit{Arrows}}(-,B)$$
 This definition has the same "shape" as the one for represented
 functors, but we have abstracted over all the objects and arrows. Also
 note that we could have also defined this as
-$\mathop{Y\!o}:\mathbf{C}^\mathrm{op}\longrightarrow \mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}, {\mathbf {Sets}})$
+$\mathop{Y\!o}:\mathbf{C}^\mathrm{op}\longrightarrow \mathop{\mathit{Functors}}(\mathbf{C}, {\mathbf {Sets}})$
 using duality. All that changes is the order of the arguments in the
 functors.
 
 The Yoneda lemma can now be used to prove that these mappings are
 invertible, so $\mathop{Y\!o}$ is what is called an *embedding* of the category
 $\mathbf{C}$ inside the functor category
-$\mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}^\mathrm{op}, {\mathbf {Sets}})$.
+$\mathop{\mathit{Functors}}(\mathbf{C}^\mathrm{op}, {\mathbf {Sets}})$.
 Thus $\mathop{Y\!o}$ is called the *Yoneda embedding*, and you can read
 about the rest of the details in the references.
 
@@ -665,8 +665,8 @@ it." This statement can be made precise:
 
 -   $X$ and $Y$ are isomorphic if and only if for every object
     $A \in \mathbf{C}$, the sets
-    $\mathop{\mathrm{\mathit{Arrows}}}(X, A)$ and
-    $\mathop{\mathrm{\mathit{Arrows}}}(Y, A)$ are naturally isomorphic.
+    $\mathop{\mathit{Arrows}}(X, A)$ and
+    $\mathop{\mathit{Arrows}}(Y, A)$ are naturally isomorphic.
 
 -   $X$ and $Y$ are isomorphic if and only if the functors that they
     represent are naturally isomorphic. In particular, if X and Y
@@ -685,7 +685,7 @@ it is very useful to be able to look at it from many different points of
 view. So, I am grateful for all of the sources.
 
 Second, I wish I could have thought of a better notation for the
-represented functor than $\mathop{\mathrm{\mathit{Arrows}}}(X,-)$ with
+represented functor than $\mathop{\mathit{Arrows}}(X,-)$ with
 all that placeholder nonsense. I don't like how the placeholders can
 stand in for anything you want and how their meaning can shift and
 change in different contexts. But, even with those problems it's better
@@ -714,14 +714,14 @@ Context*](https://emilyriehl.github.io/files/context.pdf), is also excellent
 
 $\mathbf{C}$, $\mathbf{C}^\mathrm{op}$ - Categories and opposite categoies.
 
-$\mathop{\mathrm{\mathit{Objects}(\mathbf{C})}}$  -                           Objects in a category
+$\mathop{\mathit{Objects(\mathbf{C})}}$  -                           Objects in a category
 category $\mathbf{C}$. Often just written $\mathbf{C}$.
 
-$\mathop{\mathrm{\mathit{Arrows}}}(\mathbf{C})$    -             Arrows in a category.
+$\mathop{\mathit{Arrows}}(\mathbf{C})$    -             Arrows in a category.
 
-$\mathop{\mathrm{\mathit{Arrows}}}_\mathbf{C}(X,Y)$  -           Arrows between two
-objects. Also written $\mathop{\mathrm{\mathit{Arrows}}}(X,Y)$ or
-$\mathop{\mathrm{\mathit{Hom}}}(X,Y)$ or $\mathop{\mathrm{\mathit{Hom}}}_\mathbf{C}(A, B)$
+$\mathop{\mathit{Arrows}}_\mathbf{C}(X,Y)$  -           Arrows between two
+objects. Also written $\mathop{\mathit{Arrows}}(X,Y)$ or
+$\mathop{\mathit{Hom}}(X,Y)$ or $\mathop{\mathit{Hom}}_\mathbf{C}(A, B)$
 or just $\mathbf{C}(X,Y)$.
 
 $f: X \longrightarrow Y$ -                                                   An arrow from $X$ to $Y$.
@@ -734,11 +734,11 @@ $F:\mathbf{C}\longrightarrow\mathbf{D}$ -                                     A 
 
 $\alpha: F \Rightarrow G$ -                                      Natural transformation.
 
-$\mathop{\mathrm{\mathit{Functors}}}(\mathbf{C}, \mathbf{D})$ -   Functor category between $\mathbf{C}$ and $\mathbf{D}$. Also $[\mathbf{C},\mathbf{D}]$ or $\mathbf{D}^\mathbf{C}$.
+$\mathop{\mathit{Functors}}(\mathbf{C}, \mathbf{D})$ -   Functor category between $\mathbf{C}$ and $\mathbf{D}$. Also $[\mathbf{C},\mathbf{D}]$ or $\mathbf{D}^\mathbf{C}$.
 
-$\mathop{\mathrm{\mathit{Natural}}}(F, G)$ -                      The collection of natural transformations from $F$ to $G$. Also written $[\mathbf{C},\mathbf{D}](F,G)$, or $\mathop{\mathit {Nat}}(F,G)$ or just $\mathop{\mathrm{\mathit{Hom}}}(F,G)$.
+$\mathop{\mathit{Natural}}(F, G)$ -                      The collection of natural transformations from $F$ to $G$. Also written $[\mathbf{C},\mathbf{D}](F,G)$, or $\mathop{\mathit {Nat}}(F,G)$ or just $\mathop{\mathit{Hom}}(F,G)$.
 
-$\mathop{\mathrm{\mathit{Arrows}}}(X, -)$  -                     The represented or "arrow" functor for $X$. Also called the "hom" functor and written $\mathbf{C}(X,-)$, $H^X$, $\mathop{\mathit{hom}}$, or $\mathop{\mathrm{\mathit{Hom}}}(X,-)$.
+$\mathop{\mathit{Arrows}}(X, -)$  -                     The represented or "arrow" functor for $X$. Also called the "hom" functor and written $\mathbf{C}(X,-)$, $H^X$, $\mathop{\mathit{hom}}$, or $\mathop{\mathit{Hom}}(X,-)$.
 
 $f \circ -$, $- \circ f$ -                                       Pre- and post-composition maps. Also written $f_*$ and $f^*$.
 
