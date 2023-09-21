@@ -617,7 +617,7 @@ $X$ be an object of $\mathbf{C}$ and let
 $F:\mathbf{C}\longrightarrow {\mathbf {Sets}}$ be a functor. Then
 
 \(i\) there is a bijection between natural transformations
-$\mathbf{C}(X, -) \Rightarrow F$
+$\mathbf{C}(X, -) \Rightarrow F$ and the elements of $FX$; and
 
 \(ii\) the bijection in (i) is natural in both $F$ and $X$.
 
