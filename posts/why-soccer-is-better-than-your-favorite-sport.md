@@ -191,7 +191,7 @@ Of course nothing is perfect, so I have gripes. They are relatively few.
 
 Finally, like hockey, soccer seems to have a fundamental balance issue wherein a team
 that is missing one player does not immediately lose. I will forgive the game this foible,
-as it is likely a result of the core fact of the game, which is that actually scoring is a
+as it is likely a result of the following core fact: actually scoring a goal is a
 nearly impossible act requiring incredible feats of athleticism and coordination along
 with the luck to have 15 external things that you can't control go exactly right all at
 the same time.
