@@ -142,7 +142,7 @@ I didn't get to ride it much last year for reasons. But this year I've had it ou
 and it's great. If I get my ride in today I'll make 600 miles in one summer for only the
 second time in the last 10 years. Good times.
 
-I also got some wierd new bike shorts with pockets in them. I wonder why it took like 50
+I also got some weird new bike shorts with pockets in them. I wonder why it took like 50
 years of bike shorts for someone to finally try this. They are great.
 
 Here is the bike in its peak natural habitat on a local road that has just been
