@@ -166,7 +166,7 @@ Finally, one more notion that we'll need later is the idea of an
 *isomorphism*.
 
 **Definition 4**. An arrow $f: X \longrightarrow Y$ in a category $\mathbf{C}$ is an
-*isomorphism* if there exists an arrow $g: B \longrightarrow A$ such that $gf = 1_X$
+*isomorphism* if there exists an arrow $g: Y \longrightarrow X$ such that $gf = 1_X$
 and $fg = 1_Y$. We say that the objects $X$ and $Y$ are *isomorphic* to
 each other whenever there exists an isomorphism between them. If two
 objects in a category are isomorphic to each other we write $X \cong Y$.
@@ -361,8 +361,8 @@ using the following assignments:
 -   A mapping from
     $\mathop{\mathit{Arrows}}(\mathbf{C}) \longrightarrow \mathop{\mathit{Arrows}}({\mathbf {Sets}})$
     that assigns to each arrow $f: A
-    \longrightarrow B$ to a mapping $f_*$ defined by $f_*(g) = f\circ g$ for each
-    arrow $g: X \longrightarrow A$.
+    \longrightarrow B$ a mapping $f_*$ defined by $f_*(g) = f\circ g$ where
+    $g$ is an arrow from $X$ to $A$.
 
 The notation $\mathop{\mathit{Arrows}}(X,-)$ needs a bit of
 explanation. Here the idea is that we have defined a mapping with two
