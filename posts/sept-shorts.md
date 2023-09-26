@@ -14,6 +14,12 @@ theaters. Which is ... something.
 
 I have nothing more to say about this but plan to have a really good time.
 
+Edit: I actually do have one more thing to say about this. Seeing it again I'm struck by
+how unbelieveable it is that they could shoot this the way they did with the giant movie
+cameras of the time. And that this might not be appreciated enough in these days when you
+could just walk around the stage with a phone (or, any of the smaller digital cinema
+cameras, that are comparatively tiny) and do it (if you knew what you were doing).
+
 #### Pod People
 
 Aside from some light use of the classic and now mostly forgotten [iPod
