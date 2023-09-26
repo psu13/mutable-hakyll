@@ -15,7 +15,7 @@ theaters. Which is ... something.
 I have nothing more to say about this but plan to have a really good time.
 
 Edit: I actually do have one more thing to say about this. Seeing it again I'm struck by
-how unbelieveable it is that they could shoot this the way they did with the giant movie
+how unbelievable it is that they could shoot this the way they did with the giant movie
 cameras of the time. And that this might not be appreciated enough in these days when you
 could just walk around the stage with a phone (or, more likely, any of the smaller digital
 cinema cameras, that are comparatively tiny) and do it (if you knew what you were doing).
@@ -24,7 +24,7 @@ cinema cameras, that are comparatively tiny) and do it (if you knew what you wer
 
 Aside from some light use of the classic and now mostly forgotten [iPod
 Shuffle](https://mutable-states.com/the-axiom-of-choice.html) I have mostly avoided the
-smaller auxilliary computing devices that Apple makes. I carry their small pocket camera
+smaller auxiliary computing devices that Apple makes. I carry their small pocket camera
 and Internet communication device around, because if you have to carry one you might as
 well carry that one. But otherwise I had never seen a reason to use their ear mounted or
 wrist mounted machines because they did not do anything that I was interested in doing.
@@ -52,7 +52,7 @@ The new ear pods were a surprise. I decided to try them on a whim after getting 
 my brother. I expected them to not fit just like every Apple earbud product in since the
 original iPod. But surprise, they fit perfectly. I also expected that the idiotic
 bluetooth connection dance would again be 15 times worse than just unplugging from one
-headpone jack and plugging into another. But surprise again ... it mostly just works. I've
+headphone jack and plugging into another. But surprise again ... it mostly just works. I've
 still had it decide to randomly not talk to my Mac once in a while. So it's only 1.5
 times worse.
 
@@ -82,7 +82,7 @@ Here is how it goes:
 - Plug it into the wall and hold your phone near it so that it can set itself up using
   NFC.
 
-- Just kidding that shit never works. So unplug it from the wall and turn it over on it's
+- Just kidding that shit never works. So unplug it from the wall and turn it over on its
   ass and take a picture of a small 4 digit code that has been silk-screened on the bottom
   of the device in a 7pt font in beige lettering that exactly matches the beige color of
   the body of the device.
