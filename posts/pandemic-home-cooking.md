@@ -75,8 +75,9 @@ pint containers and stick them in the freezer.
 
 Now you can make at least two meals in any number of ways.
 
-For chicken rice, take some rice and put it in the rice cooker with the stock. Cook at
-normal, serve with the poached meat from above and chili sauce.
+For chicken rice, take some rice and put it in the rice cooker with the stock. Cook as
+normal, serve with the poached meat from above, some [ginger scallion
+oil](https://thewoksoflife.com/raw-ginger-scallion-oil/) and chili sauce.
 
 For chicken soup saute some onion, celery and carrots in a soup pot on medium heat until
 they get soft. Then add stock, water, white wine, your favorite greens, and some of the cut up

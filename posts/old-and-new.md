@@ -15,8 +15,7 @@ look like in the 2020s you'd get put in a hospital for the mentally ill.
 
 On the other hand, when you abstract away enough of the details, computers these days are
 almost exactly the same as they were in the 80s. Just more. You have a CPU, some memory,
-some mass storage, a network connection, and a pretty cool graphical user interface for
-programming the thing.
+some mass storage, a network connection, and a pretty cool graphical user interface.
 
 Tools for programming the dumb machines have also retained a very similar structure. There
 are a collection of compilers that translate code in higher level languages to binary
