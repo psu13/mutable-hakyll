@@ -355,8 +355,8 @@ $$
 using the following assignments:
 
 -   A mapping from $\mathbf{C}\longrightarrow {\mathbf {Sets}}$ that assigns to each
-    $Y \in \mathop{\mathit{Objects}}(\mathbf{C})$ the set
-    $\mathop{\mathit{Arrows}}(X,Y)$
+    $A \in \mathop{\mathit{Objects}}(\mathbf{C})$ the set
+    $\mathop{\mathit{Arrows}}(X,A)$
 
 -   A mapping from
     $\mathop{\mathit{Arrows}}(\mathbf{C}) \longrightarrow \mathop{\mathit{Arrows}}({\mathbf {Sets}})$
@@ -364,18 +364,24 @@ using the following assignments:
     \longrightarrow B$ a mapping $f_*$ defined by $f_*(g) = f\circ g$ where
     $g$ is an arrow from $X$ to $A$.
 
-The notation $\mathop{\mathit{Arrows}}(X,-)$ needs a bit of
-explanation. Here the idea is that we have defined a mapping with two
-arguments, but then fixed the object $X$. Then we use the "$-$" symbol
-as a placeholder for the second argument. So
-$\mathop{\mathit{Arrows}}(X,Y)$ is the value of the mapping as
-we vary the second argument through all the other objects in
-$\mathbf{C}$. This is a bit of an abuse of notation since we are
-apparently using the symbol $\mathop{\mathit{Arrows}}$ to mean
-two different things (one is a set, the other a functor). Oh well.
+Here is a picture of how this works [[9]](https://math.jhu.edu/~eriehl/context/):
 
-The definition of the mapping for arrows also needs a bit of
-explanation. Given $A,B \in
+<center>
+<img src="../images/rep-diagram.png" width=350>
+</center>
+
+Check over this picture in your head, and note that there are _two_ mappings, and two
+different kinds of placeholders: one for objects and one for arrows.
+
+The notation $\mathop{\mathit{Arrows}}(X,-)$ is a bit strange. The idea is that we have
+defined a mapping with two arguments, but then fixed the object $X$. Then we use the "$-$"
+symbol as a placeholder for the second argument. So $\mathop{\mathit{Arrows}}(X,-)$
+operates on all the other objects in $\mathbf{C}$ and each is named by the dummy variable
+$A$. This is a bit of an abuse of notation since we are apparently using the symbol
+$\mathop{\mathit{Arrows}}$ to mean two different things (one is a set, the other a
+functor). Oh well.
+
+The mapping for the arrows works the same way. Given $A,B \in
 \mathbf{C}$ and an arrow $f: A \longrightarrow B$, it should be the case that
 $\mathop{\mathit{Arrows}}(X,-)$ applied to $f$ is an arrow that
 maps
@@ -393,10 +399,6 @@ $\mathop{\mathit{Arrows}}(X,-)$ at $f$ should be the arrow $f
 $\mathop{\mathit{Arrows}}(X, f) = f \circ -$, which I find a
 bit odd because now we are overloading the kinds of things that can go
 into the "$-$" slot.
-
-Check over this formula in your head, and note that there are *two*
-function applications (one for the functor, and one inside that for the
-post-composition arrow), and two different kinds of placeholder.
 
 Other notations for this functor include
 $\mathop{\mathit{Hom}}(X, -)$,
