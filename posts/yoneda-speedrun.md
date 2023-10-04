@@ -367,7 +367,7 @@ using the following assignments:
 Here is a picture of how this works [[9]](https://math.jhu.edu/~eriehl/context/):
 
 <center>
-<img src="../images/rep-diagram.png" width=350>
+<img src="../images/rep-diagram.png" width=300>
 </center>
 
 Check over this picture in your head, and note that there are _two_ mappings, and two
@@ -438,14 +438,14 @@ $\mathbf{C}$, and define it as follows:
     of $\mathbf{C}$.
 
 -   $\mathop{\mathit{Arrows}}(\mathbf{C}^{\mathrm{op}})$ is
-    defined by taking each arrow $f :X \longrightarrow Y$ in
+    defined by taking each arrow $f :A \longrightarrow B$ in
     $\mathop{\mathit{Arrows}}(\mathbf{C})$ and flipping their
-    direction, so we put $f': Y \longrightarrow X$ into
+    direction, so we put $f': B \longrightarrow A$ into
     $\mathop{\mathit{Arrows}}(\mathbf{C}^{\mathrm{op}})$. 
     
     In
     particular for
-    $X, Y \in \mathop{\mathit{Objects}}(\mathbf{C})$ we have
+    $A, B \in \mathop{\mathit{Objects}}(\mathbf{C})$ we have
     $\mathop{\mathit{Arrows}}_{\mathbf{C}}(A, B) = \mathop{\mathit{Arrows}}_{\mathbf{C}^{\mathrm{op}}}(B, A)$
     (or $\mathbf{C}(A,
     B) = \mathbf{C}^{\mathrm{op}}(B, A)$.
@@ -462,11 +462,11 @@ Duality also applies to functors.
 *contravariant* functor from $\mathbf{C}$ to $\mathbf{D}$ is a functor
 $F: \mathbf{C}^{\mathrm{op}}\longrightarrow \mathbf{D}$ where:
 
--   We have an object $F(X) \in \mathop{\mathit{Objects}}(\mathbf{D})$ for each
-    $X \in \mathop{\mathit{Objects}}(\mathbf{C})$.
+-   We have an object $F(A) \in \mathop{\mathit{Objects}}(\mathbf{D})$ for each
+    $A \in \mathop{\mathit{Objects}}(\mathbf{C})$.
 
--   For each arrow $f : X \longrightarrow Y \in \mathop{\mathit{Arrows}}(\mathbf{C})$
-    we have an arrow $F(f): FY \longrightarrow FX$ in
+-   For each arrow $f : A \longrightarrow B \in \mathop{\mathit{Arrows}}(\mathbf{C})$
+    we have an arrow $F(f): FB \longrightarrow FA$ in
     $\mathop{\mathit{Arrows}}(\mathbf{D})$.
 
 In addition
@@ -475,8 +475,8 @@ In addition
     $f, g \in \mathop{\mathit{Arrows}}(\mathbf{C})$ where
     $g \circ f$ is defined we have $F(f) \circ F(g) = F(g \circ f)$.
 
--   For each $X \in \mathop{\mathit{Objects}}(\mathbf{C})$ we
-    have $1_{F(X)} = F(1_X)$
+-   For each $A \in \mathop{\mathit{Objects}}(\mathbf{C})$ we
+    have $1_{F(A)} = F(1_A)$
 
 Note how the arrows and composition go backwards when they need to. With
 this terminology in mind, we call regular functors from
