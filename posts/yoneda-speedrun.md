@@ -448,7 +448,7 @@ $\mathbf{C}$, and define it as follows:
     $A, B \in \mathop{\mathit{Objects}}(\mathbf{C})$ we have
     $\mathop{\mathit{Arrows}}_{\mathbf{C}}(A, B) = \mathop{\mathit{Arrows}}_{\mathbf{C}^{\mathrm{op}}}(B, A)$
     (or $\mathbf{C}(A,
-    B) = \mathbf{C}^{\mathrm{op}}(B, A)$.
+    B) = \mathbf{C}^{\mathrm{op}}(B, A)$).
 
 -   Composition of arrows is the same, but with the arguments reversed.
 
