@@ -159,7 +159,7 @@ $\mathop{\mathrm{Arrows}}_{\mathbf{C}}(A,B)$ is a set for every
 $A, B \in \mathbf{C}$.
 
 For the rest of this note we will only deal with locally small
-categories, since in the setup for the lemma, we are given a
+categories because in the setup for the lemma we are given a
 category $\mathbf{C}$ that is locally small.
 
 Finally, one more notion that we'll need later is the idea of an
