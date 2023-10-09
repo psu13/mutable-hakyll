@@ -10,7 +10,7 @@ You can't go to as many PSO (and other) concerts as I have without occasionally 
 
 As a disclaimer to start: there are a lot of historical, economic, and social reasons why people don't go to see live orchestral music on a regular basis. I am not going to address any of that here. I am going to start with the thesis that this is the sort of thing more people should do, and try to give guidance to those who might have considered doing it but for various reasons have never gotten around to it. 
 
-**The Big Picture**
+#### The Big Picture
 
 The Classical Music concert as an institution can be an intimidating, overly ritualistic,
 and stultifying musical experience seemingly designed to remove all emotional connection
@@ -23,7 +23,7 @@ counterparts possibly could. You have truly never heard any particular piece of 
 music until you have heard it live in a good hall from a good seat. I'd like more people
 in the world to have experienced this first hand.
 
-**The Details**
+#### The Details
 
 We all know the drill. Classical music is old music for old people played by old people in old halls in the pitch dark while you are made to wear uncomfortable clothes where you can't clap at the wrong times and must otherwise sit in absolutely still silence and rapt attention lest you get the evil eye from some 85 year old man yelling at clouds. Why even bother? Well, again, there is <a href="/the-sound-of-music.html">that sound</a>. But anyway...
 
@@ -91,7 +91,7 @@ If I have one overall gripe about the structure of the mainline classical music 
 
 The problem is that such shows are relatively rare. But, for the sake of maintaining what people think of as the standard length of a concert, there is often a lot of filler. These are those short little pieces of fluffy nonsense that no one will remember five minutes into the first solo of the concerto that is the real point of the first half of the show. For a while at the PSO shows the band was playing small encore pieces from the tours after the the big piece at the end of the show, when everyone was in the mood for more. I think we should make this standard practice and move the filler from the start to the end.
 
-**What To Go See**
+#### What To Go See
 
 In his <a href="https://www.therestisnoise.com/2004/05/more_to_come_6.html">excellent New Yorker article</a> and <a href="https://www.amazon.com/Listen-This-Alex-Ross/dp/0312610688/">even more excellent book</a> Alex Ross speculates about how a potential new audience member might work up the gumption to see a favorite piece live. You should go read it, it contains all the advice that I will now give to you in an inferior way.
 
@@ -132,11 +132,11 @@ The goal is to find something you want to hear live, because hearing it live wil
 recently, but this is by no means a universal rule. And really, for all my posturing ...
 the Beethoven 5th (or 3rd or 7th, or 6th) really slaps. You cannot go wrong.
 
-**Digression: Where to Sit**
+#### Digression: Where to Sit
 
 My favorite seats are at the front of Family Circle. Great blended sound with a lot detail and a good view of the whole stage. Decent leg room. The middle rows from around L to around R on the floor are also good. Just stay out from under ”the overhang”. The local paper ran a good <a href="https://www.post-gazette.com/ae/music/2019/10/14/Heinz-Hall-best-worst-seats-orchestra-concert-pittsburgh-symphony-acoustics/stories/201910070104">overview</a> a while back.
 
-**Final Thoughts**
+#### Final Thoughts
 
 To sum up, don't listen to me.
 
@@ -144,7 +144,7 @@ Spend some time on Spotify (or Apple Music, or YouTube) listening to things. Go 
 
 Do not be intimidated by the pretentious suits, the grumpy old people, and the exhausting air of general self-importance that tends to hang over these shows. The classical music performance environment can genuinely seem like a machine specifically designed to keep you from making achieving any kind of real emotional attachment to what is being played on stage, but *it doesn't have to be*. I think if you ignore it it will go away, and on the best nights you always realize that it's *just a music show* and the joy and rapture can just wash over you. 
 
-**Actual Final Thoughts**
+#### Actual Final Thoughts
 
 After I originally posted this I realized I forgot about something that the PSO has been doing just in the last couple of years that is *super* good for newer audience members. On many nights after the main show they will do a short, smaller chamber performance in Heinz Hall for whoever feels like staying an extra twenty minutes to see it. 
 
