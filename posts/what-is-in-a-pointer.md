@@ -82,18 +82,16 @@ for it on the Internet. The nice things about it are:
 
 Of course, there is more to the story than this.
 
-#### Why Boxes and Arrows?
+#### Boxes and Arrows?
 
-The first thing I'll do to add color to this situation is to take a digression to why we
-like to use "boxes and arrows" to illustrate how pointers work. You know the drill. You'll
-often see a picture like this to indicate a simple pointer to an integer like we talked
-about above:
+First, what's with the boxes and arrows anyway? You know the drill. You'll often see a
+picture like this to indicate a simple pointer to an integer like we talked about above:
 
 <center>
 <img src="../images/pointer-box.png" width=300>
 </center>
 
-Here is the idea is that the box an arrow that represents the name, or reference to the
+Here the idea is that the box holds an arrow that represents the name, or reference to the
 actual value. Follow the arrow from the box to get to the actual value. This is all a bit
 abstract, which is what Pete was really complaining about. Like all overly abstract
 notions the thing makes perfect sense but only if you already know what it means.
@@ -128,20 +126,99 @@ for finding the value that the reference is "holding" sort of makes sense. But w
 also clear is that this picture is most important _after_ you already understand the lower
 level and more concrete picture of how memory allegedly works in an actual computer.
 
-Of course, many more recent language designs, like Java, Python, to some extent Swift, and
-so on have no explicit high level notion of a _reference_. Instead these are replaced by
-objects or classes or whatnot that are represented internally as references, but this fact
-is not really made explicitly visible to the programmer.
+Of course, many languages, like Lisp and Scheme (sort of [^2]), Smalltalk, Java, Python,
+Swift, and Haskell have no explicit high level notion of a _reference_. Instead these are
+replaced by objects or classes or other types that might be represented internally as
+references (or something more complicated), but this fact is not really made explicitly
+visible to the programmer.
 
 And here we can cue up all the pearl clutching old nerds complaining about how Gen-Z
-programmers don't know how anything basic works anymore. Which is of course nonsense.
+programmers don't know how any basic thing works anymore. Which is of course nonsense.
 
-#### Not Integers, Really.
+#### The Rest of the Story
 
-#### Not Simple Indexes Either
+The last part of the story I want to tell is to say that even if we stay close to the
+"machine" level the addresses of memory locations are still not really the same as
+integers, even if they share a similar representation in the machine.
+
+All simple values in computers are stored as (mostly) fixed size bit strings. This
+picture from the classic book about 1970s minicomputers [_Soul of a New
+Machine_](./the-soul-of-a-new-machine.html) can get us started. At one point one of the
+engineers draws a picture of what a basic value looks like in the machine they are
+building, which uses 32-bit values:
+
+<center>
+<img src="../images/32-bits.png" width=400>
+</center>
+
+Here, as I said, every value is 32-bits long and those bits are stored such that the
+higher order bits are first (index 1) in memory and the high bits are last (index 32).
+These things can go the other way too.
+
+Later on, the same engineer draws the following picture for how the data in a machine word
+is interpreted as an address or pointer:
+
+<center>
+<img src="../images/address-space.png" width=400>
+</center>
+
+What's happened here is that they have specified that the top four bits of each address
+are interpreted not just as an index into the giant pool of memory data, but also as
+what is called a "security" or "privilege" ring, which is used for access control.
+
+Thus, while the address is stored as a 32 bit string just like an machine integer might
+you can't actually use the value like an integer, since some standard operations on the
+value (like addition, or multiplication) can change the meaning of the value in ways that
+are independent of their "integer"-ness. There is even an episode in the book where the
+computer fails because one of the test programs that was running took an address and
+incremented it until it fell off the end of the range of addresses that were actually
+physically available in the computer.
+
+Over time, and especially as machines moved from 32-bit to 64-bit basic values, even more
+semantics have been layered over the "integer" representation of machine addresses. Things
+like:
+
+- Virtual memory and access control, as we saw above.
+- Tagged values, where data also carries a type tag that can be used for various sorts of
+  runtime checks.
+- "Secure" pointers, which are hashed with a private key so hostile code can't just walk
+  all over memory.
+- For a while there were database systems that used machine pointers as database keys.
+  Luckily that idea went out of fashion.
+
+All of these things should give one pause before trying to manipulate pointers like
+integers.
+
+Finally, we can't let this subject go without pointing out that by far the dominant
+systems programming language and runtime (`C` and `C++`) has always taken a very laissez
+faire attitude towards the relationship between pointers and integers. Who can forget
+that code from K&R that copied strings like this:
+
+```
+while (*s++ = *t++);
+```
+
+In the fullness of time it's become pretty clear that treating pointers and integers this
+way has gone very badly.
+
+#### Conclusion
+
+To end, my goal here was not really to dunk on my friend Pete's basic statement. This is
+because I agree with it. Instead all these words were really just a warning not to take
+the idea that a pointer is "just a number" too seriously. Pointers are a lot more than
+numbers and if you are not careful to remember this they have a way of sneaking up behind
+you and cutting your code's throat open and laughing while the code bleeds to death on the
+floor ... or at least in the debugger.
+
+Be careful out there.
 
 #### Notes
 
 [^1]: For reasons that are too complicated and/or stupid to go into, most programming
     languages actually index arrays starting at zero rather than one. But I never liked
     that so I'm going to be difficult about it.
+
+[^2]: Lisp and Scheme have an idea of `cons` cells which store pairs of values that are
+    implicitly stored by reference. You use this to construct lists and things, and you
+    can also use them for side effects. These are usually implemented using of pointers, but
+    it's not an explicit part of the language model.
