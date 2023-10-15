@@ -13,15 +13,16 @@ not let go of. He said:
 > BEFORE drawing boxes and arrows by explaining that, in a very real sense, a pointer is
 > just an integer.
 
-I, of course, told him he was wrong. We screamed at each other online and offline for a
-while and came to an understanding that appeared to give us both the last word. But the
-pedantic asshole in my still felt like this was a statement worth clarifying, if for no
-other reason than the fact that pointers are a conceptual boundary that trips a lot of
-beginning programmers hard enough that they just give up completely.
+I, of course, told him he was wrong. Pointers are a thing that is [much more fundamental
+and much more complicated](./what-computers-do.html). We screamed at each other online and
+offline for a while and came to an understanding that appeared to give us both the last
+word. But the pedantic asshole in my still felt like this was a statement worth
+clarifying, if for no other reason than the fact that pointers are a conceptual boundary
+that trips a lot of beginning programmers hard enough that they just give up completely.
 
 #### The Big Picture
 
-Pointers are type of value that programming languages use to store the _name_ of some
+Pointers are a type of value that programming languages use to store the _name_ of some
 other value. 
 
 In high level languages these names can be conceptually high level and abstract. They
@@ -178,7 +179,7 @@ Over time, and especially as machines moved to 32-bit and then 64-bit basic valu
 more semantics have been layered over the "integer" representation of machine addresses.
 Things like:
 
-- Virtual memory and access control, as we saw above.
+- [Virtual memory](./what-computers-do.html) and access control, as we saw above.
 - Tagged values, where data also carries a type tag that can be used for various sorts of
   runtime checks.
 - "Secure" pointers, which are hashed with a private key so hostile code can't just walk
