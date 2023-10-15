@@ -35,7 +35,7 @@ address at which a particular value is stored in memory.
 #### The Details
 
 It is from this second view of what a pointer might be that we can come to the idea that
-it just be "an integer". But to explain why we have to take one or two steps back.
+it might just "be an integer". But to explain why we have to take one or two steps back.
 
 Most programming languages define some built-in types for simple values that can be stored
 and manipulated relatively quickly by the underlying machine architecture. You know,
@@ -55,7 +55,7 @@ small index between `1` and `5`. So `A[1]` is `0`, `A[2]` is `11` and so on. Her
 small integer is called an "index", and we also say that we use that value to "index" into the
 array[^1]. 
 
-Now, the nerds in the room already know where I am going with this. If you take a fairly
+Now the nerds in the room already know where I am going with this. If you take a fairly
 simple minded view of how _memory_ in a computer works, you can think of it as a giant
 array of storage cells, each of which stores (usually) a value that by convention fits
 into 8 bits (so a small integer between `0` and `255`). Computer memory systems are
@@ -109,11 +109,11 @@ really make contact with memory at the machine level, but do want to provide the
 programmer with an abstraction for dealing with references for various important uses
 cases like:
 
-1. Passing references to functions or procedures so that they push state back out to the
-   caller.
-1. Defining the notion of a stateful storage cell in languages like ML or Haskell that
-   otherwise do not have a notion of state. 
+1. Passing references as arguments to functions or procedures so that they can use them
+   to push state back out to the caller (e.g. call by reference vs. call by value).
 1. Building state-based data structures and algorithms.
+1. Defining the notion of stateful storage cell in languages like ML or Haskell that
+   otherwise do not have a notion of state. 
 
 In other words the box and arrow tries to get at the idea that the arrow can be pointing
 at a generic value of any type, including more complicated structured types, like this:
@@ -122,12 +122,13 @@ at a generic value of any type, including more complicated structured types, lik
 <img src="../images/pointer-thing.png" width=300>
 </center>
 
-In this context the idea of a reference as a sort of abstract box that provides a recipe
-for finding the value that the reference is "holding" sort of makes sense. But what is
-also clear is that this picture is most important _after_ you already understand the lower
-level and more concrete picture of how memory allegedly works in an actual computer.
+In this context the idea of a reference as a sort of abstract box that holds an "arrow" [^2]
+which in turn provides a recipe for finding the value that the reference is "holding" sort
+of makes sense. But what is also clear is that this picture is most important _after_ you
+already understand the lower level and more concrete picture of how memory allegedly works
+in an actual computer.
 
-Of course, many languages, like Lisp and Scheme (sort of [^2]), Smalltalk, Java, Python,
+Of course, many languages, like Lisp and Scheme (sort of [^3]), Smalltalk, Java, Python,
 Swift, and Haskell have no explicit high level notion of a _reference_. Instead these are
 replaced by objects or classes or other types that might be represented internally as
 references (or something more complicated), but this fact is not really made explicitly
@@ -207,7 +208,7 @@ way has gone very badly.
 To end, my goal here was not really to dunk on my friend Pete's basic statement. This is
 because I agree with it. Instead all these words were really just a warning not to take
 the idea that a pointer is "just a number" too seriously. Pointers are a lot more than
-numbers and if you are not careful to remember this they have a way of sneaking up behind
+just numbers and if you are not careful to remember this they have a way of sneaking up behind
 you and cutting your code's throat open and laughing while the code bleeds to death on the
 floor ... or at least in the debugger.
 
@@ -219,7 +220,9 @@ Be careful out there.
     languages actually index arrays starting at zero rather than one. But I never liked
     that so I'm going to be difficult about it.
 
-[^2]: Lisp and Scheme have an idea of `cons` cells which store pairs of values that are
+[^2]: Category theory nerds represent!
+
+[^3]: Lisp and Scheme have an idea of `cons` cells which store pairs of values that are
     implicitly stored by reference. You use this to construct lists and things, and you
     can also use them for side effects. These are usually implemented using of pointers, but
     it's not an explicit part of the language model.
