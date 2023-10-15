@@ -16,7 +16,7 @@ not let go of. He said:
 I, of course, told him he was wrong. Pointers are a thing that is [much more fundamental
 and much more complicated](./what-computers-do.html). We screamed at each other online and
 offline for a while and came to an understanding that appeared to give us both the last
-word. But the pedantic asshole in my still felt like this was a statement worth
+word. But the pedantic asshole in me still felt like this was a statement worth
 clarifying, if for no other reason than the fact that pointers are a conceptual boundary
 that trips a lot of beginning programmers hard enough that they just give up completely.
 
