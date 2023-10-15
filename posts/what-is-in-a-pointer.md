@@ -174,9 +174,9 @@ computer fails because one of the test programs that was running took an address
 incremented it until it fell off the end of the range of addresses that were actually
 physically available in the computer.
 
-Over time, and especially as machines moved from 32-bit to 64-bit basic values, even more
-semantics have been layered over the "integer" representation of machine addresses. Things
-like:
+Over time, and especially as machines moved to 32-bit and then 64-bit basic values, even
+more semantics have been layered over the "integer" representation of machine addresses.
+Things like:
 
 - Virtual memory and access control, as we saw above.
 - Tagged values, where data also carries a type tag that can be used for various sorts of
