@@ -72,7 +72,7 @@ from the wall to get it going again. Since the wall plug is actually on the floo
 tall desk and difficult to reach I wanted to get a thing to do this by remote control.
 
 Fortunately, a lot of folks appear to sell remote control power plugs. Unfortunately the
-ones they want to buy these days are all "Smart Home" devices, which means they don't
+ones they want you to buy these days are all "Smart Home" devices, which means they don't
 fucking work.
 
 Here is how it goes:
