@@ -86,7 +86,7 @@ Of course this is just not true. Most of these things were just bad puzzles that
 people had to solve back in the day because nothing better had been implemented yet. Folks
 were forced to use a lot of awkward implementations of a lot of marginal ideas. There is
 nothing _good_ or _foundational_ about them. Like `perl` they were a set of imperfect
-tools and often painful to use tools that happened to solve some problems people needed
+and often painful to use tools that happened to solve some problems people needed
 solving. 
 
 However, often old nerds just can't tell the difference between having learned something
