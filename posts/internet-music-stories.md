@@ -52,7 +52,7 @@ I should look up the band ... and I thought I read it right in the chat ... "Chu
 So I dutifully went to whatever music search engine I had available to me in 2014 and
 typed in "Churches". I got no records by a band by this name, obviously, because I should
 have typed in "Chvrches". To this day I still haven't gotten around to finding out about
-Chvrches. But! Instead a record caught my eye by and artist called Aby Wolf. Probably
+Chvrches. But! Instead a record caught my eye by an artist called Aby Wolf. Probably
 this one:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/GMNOb0g7odQ?si=RmQGKn2nh6WAG3u6&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
