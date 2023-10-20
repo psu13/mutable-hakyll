@@ -13,16 +13,15 @@ for recordings from lesser known artists, recordings in less popular genres, or 
 combination of both. You would then trudge home, wondering what you were missing out on.
 
 These days it's different. Almost everything that was ever recorded and managed to survive
-in the culture until 2010 or so is now encoded somewhere on the Internet and available to
-listen to for either a small nominal fee, or also usually for free if you don't mind ads.
-It's crazy. Describe this world to any music dork in the 80s and they would think you were
-talking about heaven on Earth.
+in the culture is now encoded somewhere on the Internet and available to listen to for
+either a small nominal fee, or also usually for free if you don't mind ads. It's crazy.
+Describe this world to any music dork in the 80s and they would think you were talking
+about heaven on Earth.
 
-But, paradoxically, the more there is the harder it can be to find, sometimes. And, the
-software that you have to use to _mine_ this bounty at times seems designed to actually
-keep you from finding the thing that you _know_ is there. 
+But, it's not all great. And, the software that you have to use to _mine_ this bounty at
+times seems designed to actually keep you from finding the thing that you _know_ is there. 
 
-Below I have three stories about experiencing recorded music in the age of the Internet,
+Below I have three thoughts about experiencing recorded music in the age of the Internet,
 and some of what I learned about things after having these experiences. 
 
 #### I Could Not Find CHRVCHES
@@ -44,8 +43,8 @@ not completely without natural (not machine generated, sort of) serendipity.
 Around ten years ago I was complaining on some online chat system that modern pop music
 seemed to have lost the capability to make a record with something as simple as a well
 recorded female singing voice on it. I griped for a while about over-processed and
-probably autotuned vocals that sound more like a machine than a person and someone told me
-I should look up the band ... and I thought I read it right in the chat ... "Churches".
+probably auto-tuned vocals that sound more like a machine than a person and someone told me
+I should look up the band ... and I thought I read it right in the chat ... "Churches."
 
 So I dutifully went to whatever music search engine I had available to me in 2014 and
 typed in "Churches". I got no records by a band by this name, obviously, because I should
@@ -68,7 +67,7 @@ In any case I eventually ended up on this "Tiny Desk Concert" video:
 After seeing/hearing this I went out and bought everything Dessa had ever done. And I have
 continued to do so for the last ten years. And you should too.
 
-Serendipity (mostly) unmediated by automatic music delivery "algorithms" as we know them
+This was serendipity unmediated by automatic music delivery "algorithms" as we know them
 today. Not even the idiotic Youtube Play Next queue. Just a bit of Internet search.
 
 Oh, this video about Dessa's then new record (Parts of Speech), which is now ten years
@@ -92,26 +91,26 @@ Being an idiot I was sure I'd be able to place it later using my vast library of
 jazz recordings. So I went home and played every Charlie Parker recording that I had, or
 that was in Apple Music. No dice. This drove me nuts for a week and I finally gave up.
 
-At some point I finally figured out that it was this:
+At some point I finally figured out that it was this tune by Monk called Rhythm-a-ning:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ZtCFjAwoZLA?si=5TsyznYxtbO1kwG_&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Then I went on a rhythm-a-ning jag, and found lots of other versions. I was having a great
+Then I went on a Rhythm-a-ning jag, and found lots of other versions. I was having a great
 time until I heard this:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/a9Fkd7aQ5pY?si=uFn_oCAxZlNDyG1F&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-At first this seems like a straightforward fast boppy run through of this tune. But wait.
-What's that tune they play in the recap after the bridge? It's supposed to be the A in the
+At first this seems like a straightforward fast boppy run through of the tune. But wait.
+What's that thing they play in the recap after the bridge? It's supposed to be the A in the
 AABA, but that's not the original tune! That is clearly some _other_ generic Monk-ish or
 Charlie Parker riff. I was right back in the same hole.
 
-For weeks i tried to find it and could not. I even posted on an Internet forum full of old
+For weeks I tried to find it and could not. I even posted on an Internet forum full of old
 men who listen to Jazz and got no answer. Then finally one night tonight I was reading
 some category theory tutorial and absent mindedly listening to an Art Pepper record that I
 had picked up ... and I hear this:
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/_Kgna4ONPqU?si=W6AZK-G3CVYJNyMp&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/_Kgna4ONPqU?si=PNTKEuU2tAHLup-f&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 MYSTERY SOLVED. 
 
@@ -123,24 +122,27 @@ You all should go buy all these records now.
 
 #### Discographical Ordering
 
-The above stories illustrate two different aspects of how I interact with music in my
-life. I think I see music not just as a thing to consume and appreciate as _art_. I also
-have a side interest in _collecting_ it. Before all the music was stored in data centers
-collecting records was not quite such a weird idea. Sure you could sit next to your radio
-and wait for the next time your favorite single of the time came up in the station's
-rotation. But that is tedious and time consuming, so once you have the resources to do
-better you go buy stuff.
+The above stories illustrate two different but similar aspects of how I interact with
+music in my life. I think I see music not just as a thing to consume and appreciate as
+_art_. I also have a side interest in _collecting_ it. Or at least collecting other
+information about it. It can be like a fun intellectual puzzle.
 
-But, you can't buy all of it. You have to know which are the most important things to get.
-Which recordings are the best. Which you should buy first. Which can wait. For me this was
-_especially_ true with recordings of Classical music.
+Before all the music was stored in data centers collecting records was not quite such a
+weird idea. The main way to hear the music you wanted to hear was to buy the record. Sure
+you could sit next to your radio and wait for the next time your favorite single of the
+time came up in the station's rotation. But that is tedious and time consuming, so once
+you have the resources to do better you go buy stuff.
+
+But, you could not buy _all_ of it. You have to know which are the most important things
+to get. Which recordings are the best. Which you should buy first. Which can wait. For me
+this was _especially_ true with recordings of Classical music.
 
 What I will never understand about Classical music recordings is why there are so many of
-them. But, given that there are, it's not enough to know you want to listen to a recording of,
-say, Bruckner's Third symphony. There are four different editions of the work that were
-published at various times. Different conductors and orchestras make different choices
-about which one to play and how they play it. Here is a list of (maybe) every known
-current recording of this piece, organized by edition:
+them. But, given that there are, it's not enough to know you want to listen to a recording
+of, say, Bruckner's Third symphony. You have to narrow it down. There are four or five
+different editions of the work that were published at various times. Different conductors
+and orchestras make different choices about which one to play and how they play it. Here
+is a list of (maybe) every known recording of this piece, organized by edition:
 
 > <a href="https://www.abruckner.com/discography1/symphonyno3indmino/">https://www.abruckner.com/discography1/symphonyno3indmino/</a>
 
@@ -160,9 +162,9 @@ specific times by specific people is very important. I have come to realize that
 _discographical_ mode of interaction is particularly prevalent among those who used to
 have any interest at all in collecting records as opposed to just listening to music.
 
-This scene from that classic movie about record collecting, _High
-Fidelity_ where the main character talks about reorganizing his record collection in
-_autobiographical_ order sums up this point of view in 75 short seconds:
+This scene from that classic movie about record collecting, _High Fidelity_, where the
+main character talks about reorganizing his record collection in _autobiographical_ order
+sums up this point of view in 75 short seconds:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/2msCS8dvSok?si=K1yK1rlpvVDwuzFv&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -170,17 +172,22 @@ Now, it might be that obsession on this level is not all that healthy. It's cert
 case that a lot of people, maybe most people, don't interact with music in this
 multi-leveled way anymore. It's _definitely_ the case that the music services don't think
 they do. The music services are oriented around just playing the songs, or if you are
-lucky, the albums, or if you are really lucky specific performances. But, it is very
-hard to extract any other context from the service itself, because that context is not
-encoded in the data models and user interfaces of the service in the same way that they
-used to be in the record catalogs, magazines and liner notes. You can't organize the
-world, or at least your music collection, the way _you_ want. It can only be the way the
-service has already put it together for you.
+lucky, the albums, or if you are really lucky specific performances. But, it is very hard
+to extract any other context from the service itself, because that context is not encoded
+in the data models and user interfaces of the service in the same way that they used to be
+in the record catalogs, magazines and liner notes. You can't organize the world, or at
+least your music collection, the way _you_ want. It can only be the way the service has
+already put it together for you. If you want proof open up Apple Music or Spotify or
+whatever and go try to find any _specific_ recording of the Bruckner third and then verify
+that you found the right one from the right year. It will make you want to pull your own
+eyes out.
 
-This is frustrating for those degenerates who miss the old ways. This is why grumpy old
-men are always screaming at clouds and in choking out the words "meta-data" from their
-parched throats. The side data is as important as the music itself. And it
-has been taken away.
+This is frustrating for those who miss the old ways even if the old ways weren't really
+that much better. This is <a
+href="https://www.newyorker.com/culture/cultural-comment/apple-again-fails-to-save-classical-music">why
+grumpy old men are always screaming at clouds</a> and choking out the words "meta-data"
+from their parched throats. The side data is as important as the music itself. And the
+perception is that it has been taken away.
 
 The one oasis in this desert of context free recorded music is the grand and noble project
 called <a href="https://www.discogs.com/">Discogs.com</a>. Here is a place on the Internet
