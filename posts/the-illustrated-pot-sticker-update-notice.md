@@ -13,7 +13,7 @@ Just so you don't have to scan the page on archive.org to figure out what I did,
 2. I added a note that making more dough balls than you need, to hedge the variance, is a good idea.
 
 3. I fixed the instructions that say to make a dough rope about "1/4 inch" in diameter to
-   be more accurate. The actual size is more like 3/4ths to 1 inch across.
+   be more accurate. The actual size is more like 1/2 to 3/4ths of an inch across.
 
 4. Recent experimentation indicates that if you start with a piece of dough that weighs
    about 15 grams you get a nice sized dumpling. 12 grams is a bit too small, 18-20 is a bit too

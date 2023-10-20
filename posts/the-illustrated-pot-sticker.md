@@ -56,7 +56,7 @@ I usually use the smell and look of the meat mixture to figure out how to adjust
 
 <p>Now set this side and start to get the dough ready for filling.</p>
 <h4>Dough, Stage 2</h4>
-<p>Get the dough out of the fridge about an hour before you start to work in earnest. Cut the ball into three pieces and roll each out into a long string about 3/4ths to 1 inch in diameter. Then pull pieces of dough off this string by hand. Each piece should be maybe 1/2 an inch long. You can use a dough blade or a knife for this, but after you get good at it the pulling method is easier. If the dough is right the pieces should come off with a loud <em>snap</em>. Now squish them into small rounds with the heel of your hand, so they look like this:</p>
+<p>Get the dough out of the fridge about an hour before you start to work in earnest. Cut the ball into three pieces and roll each out into a long string about 1/2 to 3/4ths of an inch in diameter. Then pull pieces of dough off this string by hand. Each piece should be maybe 1/2 an inch long. You can use a dough blade or a knife for this, but after you get good at it the pulling method is easier. If the dough is right the pieces should come off with a loud <em>snap</em>. Now squish them into small rounds with the heel of your hand, so they look like this:</p>
 
 > <a href="http://www.flickr.com/photos/79904144@N00/3609320910/" title="P1010807 by psu13, on Flickr"><img src="http://farm4.static.flickr.com/3360/3609320910_164e8cb41b_m.jpg" width="240" height="160" alt="P1010807" /></a>
 
