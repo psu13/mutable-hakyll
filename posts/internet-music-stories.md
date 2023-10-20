@@ -18,11 +18,14 @@ either a small nominal fee, or also usually for free if you don't mind ads. It's
 Describe this world to any music dork in the 80s and they would think you were talking
 about heaven on Earth.
 
-But, it's not all great. And, the software that you have to use to _mine_ this bounty at
-times seems designed to actually keep you from finding the thing that you _know_ is there. 
+But, it's not all great. Records are now just so much digital data, "software" if you will
+(although I hate that term for it, because it's just data). As such you have to use other
+software to access it, and as we all know the software that you have to use sometimes
+seems designed to actually [_prevent_ you from finding the thing](./the-martinu-bug.html)
+that you _know_ is there. This aspect of the new world has always been puzzling but with
+enough experience it becomes clear why it has to be that way.
 
-Below I have three thoughts about experiencing recorded music in the age of the Internet,
-and some of what I learned about things after having these experiences. 
+So, story time.
 
 #### I Could Not Find CHRVCHES
 
@@ -122,20 +125,24 @@ You all should go buy all these records now.
 
 #### Discographical Ordering
 
-The above stories illustrate two different but similar aspects of how I interact with
-music in my life. I think I see music not just as a thing to consume and appreciate as
-_art_. I also have a side interest in _collecting_ it. Or at least collecting other
-information about it. It can be like a fun intellectual puzzle.
+The above stories illustrate a big part of how I interact with music in my life. I think I
+see music not just as a thing to consume and appreciate as _art_. I also have a side
+interest in _collecting_ it. Or at least collecting other information about it. It can be
+like a fun intellectual puzzle.
 
 Before all the music was stored in data centers collecting records was not quite such a
 weird idea. The main way to hear the music you wanted to hear was to buy the record. Sure
 you could sit next to your radio and wait for the next time your favorite single of the
 time came up in the station's rotation. But that is tedious and time consuming, so once
-you have the resources to do better you go buy stuff.
+you have the resources to do better you go buy stuff. There were catalogs, and magazines,
+and the local gurus at the record store to tell you what you might like, and the best
+instances of those things. It was a whole eco-system of material outside of the music
+itself that provided more context and insight into the material.
 
-But, you could not buy _all_ of it. You have to know which are the most important things
-to get. Which recordings are the best. Which you should buy first. Which can wait. For me
-this was _especially_ true with recordings of Classical music.
+This is important, because someone one of limited resources you could not buy _all_ of it.
+You had to know which were the most important things to get. Which recordings were the
+"best." Which you should buy first. Which could wait. For me this was _especially_ true with
+recordings of Classical music.
 
 What I will never understand about Classical music recordings is why there are so many of
 them. But, given that there are, it's not enough to know you want to listen to a recording
@@ -172,15 +179,15 @@ Now, it might be that obsession on this level is not all that healthy. It's cert
 case that a lot of people, maybe most people, don't interact with music in this
 multi-leveled way anymore. It's _definitely_ the case that the music services don't think
 they do. The music services are oriented around just playing the songs, or if you are
-lucky, the albums, or if you are really lucky specific performances. But, it is very hard
-to extract any other context from the service itself, because that context is not encoded
-in the data models and user interfaces of the service in the same way that they used to be
-in the record catalogs, magazines and liner notes. You can't organize the world, or at
-least your music collection, the way _you_ want. It can only be the way the service has
-already put it together for you. If you want proof open up Apple Music or Spotify or
-whatever and go try to find any _specific_ recording of the Bruckner third and then verify
-that you found the right one from the right year. It will make you want to pull your own
-eyes out.
+lucky, the albums, or if you are really lucky some specific performances. But, it is very
+hard to extract any other context from the service itself, because that context is not
+encoded in the data models and user interfaces of the service in the same way that they
+used to be in the record catalogs, magazines and liner notes. You can't organize the
+world, or at least your music collection, the way _you_ want. It can only be the way the
+service has already put it together for you. If you want proof open up Apple Music or
+Spotify or whatever and go try to find any _specific_ recording of the Bruckner third and
+then verify that you found the right one from the right year. It will make you want to
+pull your own eyes out.
 
 This is frustrating for those who miss the old ways even if the old ways weren't really
 that much better. This is <a
@@ -192,7 +199,7 @@ perception is that it has been taken away.
 The one oasis in this desert of context free recorded music is the grand and noble project
 called <a href="https://www.discogs.com/">Discogs.com</a>. Here is a place on the Internet
 where those who are obsessed with meta-data can again congregate and collect all of their
-useless nuggets of information. And as a happy synergy they also finance the whole thing
+obscure nuggets of information. And as a happy synergy they also finance the whole thing
 by mediating the exchange of used LPs and CDs for money over the Internet. The perfect
 crime!
 
