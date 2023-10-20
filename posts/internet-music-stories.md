@@ -134,15 +134,15 @@ Before all the music was stored in data centers collecting records was not quite
 weird idea. The main way to hear the music you wanted to hear was to buy the record. Sure
 you could sit next to your radio and wait for the next time your favorite single of the
 time came up in the station's rotation. But that is tedious and time consuming, so once
-you have the resources to do better you go buy stuff. There were catalogs, and magazines,
+you had the resources to do better you go buy stuff. There were catalogs, and magazines,
 and the local gurus at the record store to tell you what you might like, and the best
-instances of those things. It was a whole eco-system of material outside of the music
+instances of those things. It was a whole ecosystem of material outside of the music
 itself that provided more context and insight into the material.
 
-This is important, because someone one of limited resources you could not buy _all_ of it.
-You had to know which were the most important things to get. Which recordings were the
-"best." Which you should buy first. Which could wait. For me this was _especially_ true with
-recordings of Classical music.
+This is important, because as someone one of limited resources you could not buy _all_ of
+it. You had to know which were the most important things to get. Which recordings were the
+"best." Which you should buy first. Which could wait. For me this was _especially_ true
+with recordings of Classical music.
 
 What I will never understand about Classical music recordings is why there are so many of
 them. But, given that there are, it's not enough to know you want to listen to a recording
@@ -164,10 +164,11 @@ find _exactly_ the thing you wanted. Jochum, say, from _1976_, but not _1967_.
 
 From the 50s until around the 2010s this was how Classical music buyers (and also anyone
 interested in historic jazz, blues, or even many old pop records) were conditioned to
-interact with the music available to them. The knowledge of specific recordings made at
-specific times by specific people is very important. I have come to realize that this
-_discographical_ mode of interaction is particularly prevalent among those who used to
-have any interest at all in collecting records as opposed to just listening to music.
+interact with the music and music information systems available to them. The knowledge of
+specific recordings made at specific times by specific people is very important. I have
+come to realize that this _discographical_ mode of interaction is particularly prevalent
+among those who used to have any interest at all in collecting records as opposed to just
+listening to music.
 
 This scene from that classic movie about record collecting, _High Fidelity_, where the
 main character talks about reorganizing his record collection in _autobiographical_ order
@@ -194,7 +195,8 @@ that much better. This is <a
 href="https://www.newyorker.com/culture/cultural-comment/apple-again-fails-to-save-classical-music">why
 grumpy old men are always screaming at clouds</a> and choking out the words "meta-data"
 from their parched throats. The side data is as important as the music itself. And the
-perception is that it has been taken away.
+perception is that it has been taken away. This is not really true. Much of the _raw_ data
+is there. It's just not organized in a way that makes it easy to find.
 
 The one oasis in this desert of context free recorded music is the grand and noble project
 called <a href="https://www.discogs.com/">Discogs.com</a>. Here is a place on the Internet
