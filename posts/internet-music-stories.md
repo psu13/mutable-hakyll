@@ -139,7 +139,7 @@ and the local gurus at the record store to tell you what you might like, and the
 instances of those things. It was a whole ecosystem of material outside of the music
 itself that provided more context and insight into the material.
 
-This is important, because as someone one of limited resources you could not buy _all_ of
+This is important, because as someone with limited resources you could not buy _all_ of
 it. You had to know which were the most important things to get. Which recordings were the
 "best." Which you should buy first. Which could wait. For me this was _especially_ true
 with recordings of Classical music.
