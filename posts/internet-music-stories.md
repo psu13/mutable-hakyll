@@ -214,3 +214,13 @@ listening to.
 
 Of course, if this happened some asshole VC would buy it up and then lay everyone off.
 Because that's how the music business works. But we can dream.
+
+#### Notes
+
+Here are some recordings of the Bruckner 3rd to try out:
+
+1873 edition: [Simone Young](https://music.apple.com/us/album/symphony-no-3-in-d-minor-wab-103-1873-version-i-gemassigt/320703641?i=320703699)
+
+1877 edition: Edition: [Haitink](https://music.apple.com/us/album/symphony-no-3-in-d-minor-wab-103-version-1877-1-gem%C3%A4ssigt/1451985314?i=1451986096)
+
+1889 edition: [Jochum, 1977](https://streaming.prestomusic.com/album/8762019), [Bohm on Decca](https://streaming.prestomusic.com/album/8052089)
