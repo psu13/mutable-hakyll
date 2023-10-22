@@ -17,6 +17,7 @@ is that the thing is obviously completely trivial to implement. Various large ca
 of such features include:
 
 - Copy and paste (ha!).
+- Free text search.
 - Various kinds of notification handling.
 - Correctly keeping track of unread messages.
 - Progress bar behavior.
