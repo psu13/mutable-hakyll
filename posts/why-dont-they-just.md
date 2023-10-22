@@ -93,11 +93,11 @@ machine from the past with less memory in it than a modern microwave oven?"
 
 Which is of course why I am writing this page now, after sitting on it for years.
 
-What statements like this generally ignore is that while software developers of the past
-certainly did a lot of interesting things in assembly language on that machine that only
-had 1MB of memory nothing that they did even comes close to reaching the base minimum
-level of user expectations for the simplest free application that runs on your phone
-today. 
+The most obvious and shallow thing that statements like this generally ignore is that
+while software developers of the past certainly did a lot of interesting things in
+assembly language on that machine that only had 1MB of memory nothing that they did even
+comes close to reaching the base minimum level of user expectations for the simplest free
+application that runs on your phone today. 
 
 Here are some things old applications were really bad at:
 
@@ -114,7 +114,10 @@ Here are some things old applications were really bad at:
 
 Oh hey that list looks familiar.
 
-Anyway. The final thing to say is that I am in no way denying the existence of true
+It would take a dozen more web pages to cover everything else that is wrong with these
+statements, and I don't have the energy for that today. There are sports to watch.
+
+Anyway. The final thing to say is that I am in no way denying the existence of true lazy
 shitware. All over the software universe there is stuff that is put together by people who
 truly don't care and barely even do anything. These things obviously do and will continue
 to exist. I will also confess to being guilty of asking the question I am complaining
