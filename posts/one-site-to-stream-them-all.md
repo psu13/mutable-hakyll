@@ -1,7 +1,11 @@
 ---
 title: One Site to Stream Them All
+<<<<<<< HEAD
 date: 2023-11-06
+=======
+>>>>>>> ab5b90d (tv)
 author: psu
+date: 2023-11-06
 ---
 
 Back in 1999 the dream was born. This was the year the Tivo device first shipped. These
@@ -83,22 +87,31 @@ Finally, after watching all the other soccer coverage for a year the stuff on FO
 really awful. I wish they could just get the British crew from NBC to do it. Dare to
 dream.
 
-The one small exception to all my complaints is, of all things, YouTube TV. I imagine Fubo
-would be similar, but I have not tried their service. While the navigation interface at
-YouTube TV is mostly as poor the fact that you can easily mark various classes of shows
-and events as things to "record" in your "library" at least makes it easy to find recent
-games that you were interested in watching. And, because the user model here is in fact "a
-Tivo run by a web server" for things that are available on the service the system comes
-very close to the "giant Tivo in the Sky" model. Probably as close as one can expect to
-manage, given the realities of media rights, software engineering, and so on.
+From the standpoint of a sports fan all of these services suffer from the fact that the
+navigation interfaces are all built to find _shows_ and the sports content is organized
+the same way instead of being organized according to the structure of the leagues and
+competitions that the games belong to. What you want is something like [this page from
+ESPN](https://www.espn.com/soccer/schedule/_/date/20231029) that has every game that is
+being played on any given day ... and then just add links to where the game is on "TV".
+Sadly no one has any of this.
 
-The only real downside is that it is very expensive. And who knows what data they are
-collecting on you. But I'd pay the money and more if the rest of the streaming services
-just appeared as channels in the YouTube TV service so I'd be able to "record" the sports
-stuff that's there instead of waiting for the replays to appear a few hours after the game
-ends. And, I would much rather everyone just standardized on the YouTube playback
-interface, even though it's far from perfect, because it's closer to good than any of the
-others. At _least_ scrubbing forward and backward in time _usually_ works in YouTube
-whereas I'm pretty sure there are circumstances under which _pausing the video_ doesn't
-even work in Paramount's god-forsaken app.
+The one small exception to many of my complaints is, of all things, YouTube TV. I imagine
+Fubo would be similar, but I have not tried their service. While the general navigation
+interface at YouTube TV is pretty much just as poor as the rest the fact that you can
+easily mark various classes of shows and events as things to "record" in your "library" at
+least makes it easy to find recent games that you were interested in watching. And,
+because the user model here is in fact "a Tivo run by a web server" for things that are
+available on the service the system comes very close to the "giant Tivo in the Sky" model.
+It's probably as close as one can expect to manage, given the realities of media rights,
+software engineering, and so on.
 
+The main downside is that it is very expensive. And who knows what data they are
+collecting on you. And the Apple TV app is not the best. But I'd pay all the money and
+more if the rest of the streaming services just appeared as channels in the YouTube TV
+service so I'd be able to "record" the sports stuff that's there instead of waiting for
+the replays to appear a few hours after the game ends. And, I would much rather everyone
+just standardized on the YouTube playback interface, even though it's far from perfect,
+because it's closer to good than any of the others. At _least_ scrubbing forward and
+backward in time _usually_ works in YouTube whereas I'm pretty sure there are
+circumstances under which _pausing the video_ doesn't even work in Paramount's
+god-forsaken app.
