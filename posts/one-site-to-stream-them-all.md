@@ -27,3 +27,71 @@ to watch it.
 Nerds who also liked sports (a minority to be sure, but not non-existent) especially
 wanted this. No more worrying about being in front of the TV when the game is on. Just
 fire up your computer sometime after it has started and there it is.
+
+Netflix, of course, started the flood of streaming services for scripted and other
+pre-recorded programming. A few years after it was clear that Neflix was about to eat
+everyone else's lunch, all of the major media networks shipped various kinds of streaming.
+But, what remained missing to a large degree was live sports. Or at least live sports that
+I was interested in.
+
+My recent dive into the soccer rabbit hole has changed all of this for me. If you want to
+be able to watch the widest possible range of European football games, you have to be
+signed up to almost every streamer that exists:
+
+1. Peacock and Cable for Premiere league.
+1. fuboTV or YouTube TV for all the cable channels on your computer, plus some other
+   sports packages, like the French Ligue 1 and so on.
+1. ESPN+ for La Liga, various side bits of English football (the various Cup
+   competitions, some second tier league football), lots of other stuff (including the
+   USL Championship, which is the second level U.S.league in which the local Pittsburgh team plays).
+1. Paramount+ for Serie A, Women's football, Champions League, Europa League, and some
+   other stuff.
+1. FOX for the American angle on various International competitions.
+1. AppleTV+ for Messi in America ... and the rest of MSL.
+
+There are probably a few more I missed.
+
+All of these services have various delivery systems that run on your phone, or your iPad,
+or you web browser, or in your Apple TV/Smart TV thingy/Whatever. They are all pretty bad,
+and mostly don't come close to the dreams of the "giant Tivo in the sky" ideal.
+
+All of the various interfaces have generally poor and tedious facilities for navigating to
+the game you want to watch, esp. if you are trying to watch the game after it has started.
+
+Apple TV+ has the distinction of shipping with a UI that shows you every score in every
+game whether you wanted to know them or not. Which is great for when you are a bit late to
+the start time.
+
+Paramount+ and Peacock win the award for "best simulation of everything terrible about
+broadcast TV" by not having a UI that allows you to start the game from the beginning if
+you miss the start time.
+
+ESPN+ is so incoherent that I can't remember if it has this problem as well (I think it
+does not), because most of the time I can't navigate to the game I wanted to watch under
+the sea of all the other sports and all the ESPN shows being listed in the browser
+interface all the time with no way to organize it with any finer granularity. I can
+usually only get there from the ESPN web site, where you'll of course see the score while
+navigating to the game. Good job.
+
+Finally, after watching all the other soccer coverage for a year the stuff on FOX is
+really awful. I wish they could just get the British crew from NBC to do it. Dare to
+dream.
+
+The one small exception to all my complaints is, of all things, YouTube TV. I imagine Fubo
+would be similar, but I have not tried their service. While the navigation interface at
+YouTube TV is mostly as poor the fact that you can easily mark various classes of shows
+and events as things to "record" in your "library" at least makes it easy to find recent
+games that you were interested in watching. And, because the user model here is in fact "a
+Tivo run by a web server" for things that are available on the service the system comes
+very close to the "giant Tivo in the Sky" model. Probably as close as one can expect to
+manage, given the realities of media rights, software engineering, and so on.
+
+The only real downside is that it is very expensive. And who knows what data they are
+collecting on you. But I'd pay the money and more if the rest of the streaming services
+just appeared as channels in the YouTube TV service so I'd be able to "record" the sports
+stuff that's there instead of waiting for the replays to appear a few hours after the game
+ends. And, I would much rather everyone just standardized on the YouTube playback
+interface, even though it's far from perfect, because it's closer to good than any of the
+others. At _least_ scrubbing forward and backward in time _usually_ works in YouTube
+whereas I'm pretty sure there are circumstances under which _pausing the video_ doesn't
+even work in Paramount's god-forsaken app.
