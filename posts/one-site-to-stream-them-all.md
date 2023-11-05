@@ -89,14 +89,14 @@ being played on any given day ... and then just add links to where the game is o
 Sadly no one has any of this.
 
 The one small exception to many of my complaints is, of all things, YouTube TV. I imagine
-Fubo would be similar, but I have not tried their service. While the general navigation
+FuboTV would be similar, but I have not tried their service. While the general navigation
 interface at YouTube TV is pretty much just as poor as the rest the fact that you can
 easily mark various classes of shows and events as things to "record" in your "library" at
-least makes it easy to find recent games that you were interested in watching. And,
-because the user model here is in fact "a Tivo run by a web server" for things that are
-available on the service the system comes very close to the "giant Tivo in the Sky" model.
-It's probably as close as one can expect to manage, given the realities of media rights,
-software engineering, and so on.
+least makes it easy to find recent games that you were interested in watching. Also, the
+user model here is in fact "a Tivo run by a web server." So for things that are available
+on the service the system comes very close to the "giant Tivo in the Sky" thing that we
+all dreamed about back in the day. It's probably as close as one can expect to manage,
+given the realities of media rights, software engineering, and so on.
 
 The main downside is that it is very expensive. And who knows what data they are
 collecting on you. And the Apple TV app is not the best. But I'd pay all the money and
