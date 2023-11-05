@@ -1,6 +1,6 @@
 ---
 title: One Site to Stream Them All
-date: 2023-11-6
+date: 2023-11-06
 author: psu
 ---
 
@@ -56,7 +56,13 @@ or you web browser, or in your Apple TV/Smart TV thingy/Whatever. They are all p
 and mostly don't come close to the dreams of the "giant Tivo in the sky" ideal.
 
 All of the various interfaces have generally poor and tedious facilities for navigating to
-the game you want to watch, esp. if you are trying to watch the game after it has started.
+the game you want to watch, especially if you are trying to watch the game after it has
+started but before it has finished. Most will only allow you to play the game live or
+later play a "replay" of the game several hours after the fact, as if serving a video
+stream to you "in real time" is somehow different than serving one that is delayed a bit.
+I don't begin to understand the complications here, but I do know that YouTube and Twitch
+can both do this with video game streamers so ... to coin a phrase ... [why don't they
+just](./why-dont-they-just.html) do it?
 
 Apple TV+ has the distinction of shipping with a UI that shows you every score in every
 game whether you wanted to know them or not. Which is great for when you are a bit late to
@@ -95,3 +101,4 @@ interface, even though it's far from perfect, because it's closer to good than a
 others. At _least_ scrubbing forward and backward in time _usually_ works in YouTube
 whereas I'm pretty sure there are circumstances under which _pausing the video_ doesn't
 even work in Paramount's god-forsaken app.
+
