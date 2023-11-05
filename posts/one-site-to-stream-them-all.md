@@ -25,5 +25,5 @@ content happened to appear and you would have one single user interface to inter
 to watch it.
 
 Nerds who also liked sports (a minority to be sure, but not non-existent) especially
-wanted this. No more worrying about when the game is on. Just fire up your computer and
-there it is.
+wanted this. No more worrying about being in front of the TV when the game is on. Just
+fire up your computer sometime after it has started and there it is.
