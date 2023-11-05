@@ -99,15 +99,15 @@ all dreamed about back in the day. It's probably as close as one can expect to m
 given the realities of media rights, software engineering, and so on.
 
 The main downside is that it is very expensive. And who knows what data they are
-collecting on you. And the Apple TV app is not the best. But I'd pay all the money and
-more if the rest of the streaming services just appeared as channels in the YouTube TV
-service so I'd be able to "record" the sports stuff that's there instead of waiting for
-the replays to appear a few hours after the game ends. And, I would much rather everyone
-just standardized on the YouTube playback interface, even though it's far from perfect,
-because it's closer to good than any of the others. At _least_ scrubbing forward and
-backward in time _usually_ works in YouTube whereas I'm pretty sure there are
-circumstances under which _pausing the video_ doesn't even work in Paramount's
-god-forsaken app.
+collecting on you. And the Apple TV app for YouTube TV, while thankfully not the same as
+the awful YouTube app, is still not the best. Still, I'd pay all the money and more if the
+rest of the streaming services just appeared as channels in the YouTube TV service so I'd
+be able to "record" the sports stuff that's there instead of waiting for the replays to
+appear a few hours after the game ends. I would also much rather everyone just
+standardized on the YouTube playback interface, even though it's far from perfect, because
+it's closer to good than any of the others. At _least_ scrubbing forward and backward in
+time _usually_ works in YouTube whereas I'm pretty sure there are circumstances under
+which _pausing the video_ doesn't even work in Paramount's god-forsaken app.
 
 I find myself without any real conclusion about all of this except to say that we appear
 to have come full circle in the sports on TV business. Before you could only really be
