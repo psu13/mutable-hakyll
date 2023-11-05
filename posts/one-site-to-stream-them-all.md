@@ -1,11 +1,7 @@
 ---
 title: One Site to Stream Them All
-<<<<<<< HEAD
-date: 2023-11-06
-=======
->>>>>>> ab5b90d (tv)
 author: psu
-date: 2023-11-06
+date: 2023-11-05
 ---
 
 Back in 1999 the dream was born. This was the year the Tivo device first shipped. These
@@ -55,26 +51,19 @@ signed up to almost every streamer that exists:
 
 There are probably a few more I missed.
 
-All of these services have various delivery systems that run on your phone, or your iPad,
+These services have various delivery systems that run on your phone, or your iPad,
 or you web browser, or in your Apple TV/Smart TV thingy/Whatever. They are all pretty bad,
 and mostly don't come close to the dreams of the "giant Tivo in the sky" ideal.
 
-All of the various interfaces have generally poor and tedious facilities for navigating to
-the game you want to watch, especially if you are trying to watch the game after it has
-started but before it has finished. Most will only allow you to play the game live or
-later play a "replay" of the game several hours after the fact, as if serving a video
-stream to you "in real time" is somehow different than serving one that is delayed a bit.
-I don't begin to understand the complications here, but I do know that YouTube and Twitch
-can both do this with video game streamers so ... to coin a phrase ... [why don't they
-just](./why-dont-they-just.html) do it?
-
-Apple TV+ has the distinction of shipping with a UI that shows you every score in every
-game whether you wanted to know them or not. Which is great for when you are a bit late to
-the start time.
-
-Paramount+ and Peacock win the award for "best simulation of everything terrible about
-broadcast TV" by not having a UI that allows you to start the game from the beginning if
-you miss the start time.
+All of the various interfaces have weak and tedious facilities for navigating to the game
+you want to watch, especially if you are trying to watch the game after it has started but
+before it has finished. Most (particularly Paramount+ and Peacock, where most of the
+soccer is) attempt to simulate everything bad about broadcast TV since they will only
+allow you to play a game live or later play a "replay" of the game several hours after the
+fact. Apparently serving a video stream to you "in real time" is somehow different than
+serving one that is delayed a bit. I don't begin to understand the complications here, but
+I do know that YouTube and Twitch can both do this with video game streamers so ... to
+coin a phrase ... [why don't they just](./why-dont-they-just.html) do it?
 
 ESPN+ is so incoherent that I can't remember if it has this problem as well (I think it
 does not), because most of the time I can't navigate to the game I wanted to watch under
@@ -83,7 +72,11 @@ interface all the time with no way to organize it with any finer granularity. I 
 usually only get there from the ESPN web site, where you'll of course see the score while
 navigating to the game. Good job.
 
-Finally, after watching all the other soccer coverage for a year the stuff on FOX is
+Apple TV+ has the distinction of shipping with a UI that shows you every score in every
+game whether you wanted to know them or not. Which another great thing to happen to you
+when you are a bit late to the start time.
+
+Finally, after watching all the other soccer coverage for a year the stuff on FOX is just
 really awful. I wish they could just get the British crew from NBC to do it. Dare to
 dream.
 
@@ -115,3 +108,15 @@ because it's closer to good than any of the others. At _least_ scrubbing forward
 backward in time _usually_ works in YouTube whereas I'm pretty sure there are
 circumstances under which _pausing the video_ doesn't even work in Paramount's
 god-forsaken app.
+
+I find myself without any real conclusion about all of this except to say that we appear
+to have come full circle in the sports on TV business. Before you could only really be
+happy if you spent all the money for everything whether you needed it or not. Internet TV
+is now in exactly the same spot, except you have to use 15 different navigation and video
+interfaces, none of which do the right thing rather than only a single example of such a
+thing. As usual the nerds dreamed for something and when it was actually built it turned
+out kind of all wrong.
+
+Maybe in another 10 years everything will just be a channel in the YouTube TV service of
+the future. On the other hand the number of was _that_ could go wrong is truly mind
+boggling.
