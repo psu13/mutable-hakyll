@@ -73,7 +73,7 @@ usually only get there from the ESPN web site, where you'll of course see the sc
 navigating to the game. Good job.
 
 Apple TV+ has the distinction of shipping with a UI that shows you every score in every
-game whether you wanted to know them or not. Which another great thing to happen to you
+game whether you wanted to know them or not. Which is another great thing to happen to you
 when you are a bit late to the start time.
 
 Finally, after watching all the other soccer coverage for a year the stuff on FOX is just
