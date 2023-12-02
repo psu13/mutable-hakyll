@@ -22,8 +22,8 @@ that trips a lot of beginning programmers hard enough that they just give up com
 
 #### The Big Picture
 
-Pointers are a type of value that programming languages use to store the _name_ of some
-other value. 
+Pointers are a type of value that programming languages use to store a _name of_ or
+_reference to_ some other value. 
 
 In high level languages these names can be conceptually high level and abstract. They
 might even be something as esoteric as a [_function_](./the-ultimate-goto.html) that
