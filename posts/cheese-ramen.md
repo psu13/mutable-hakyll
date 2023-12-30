@@ -228,7 +228,7 @@ alt="vermicelli bowl at ahn and chi"></a>
 
 #### Miscellany
 
-OK. I think I'm over my ten to fifteen highlights quota. You missed out on the chicken
+OK. I've about doubled my ten to fifteen highlights quota. You missed out on the chicken
 buns that have ham in them at the Kam Do bakery. _Hei Hei_ rice rolls in the mall food
 court in Richmond. _DingDing_, a Taiwanese hole in the wall with omelet covered rice. And
 the corner with 4 coffee shops, but just go to _Revolver_ because it's the best one.
@@ -251,4 +251,19 @@ And whatever this is:
 > <a href="../images/IMG_5927.jpg"><img src="../images/IMG_5927.jpg" width=400
 alt="caption this photo"></a>
 
+#### Extra Note on Photos
+
+I like to take pictures on trips. I even still bother to pack a camera different from
+phone with which to do this. I've told the story before about how I went from [giant
+cameras](/too-much-camera.html) to [smaller cameras](the-camera-we-want-redux.html) and then [back and forth](/back-and-forth.html) again.
+
+This trip might have convinced me to go even smaller on the non-phone camera. This seems
+paradoxical but it really isn't. Smaller cameras can now do what you used to need a giant
+camera to do. So you might as well take advantage of that if the main motivation for your
+trip is something besides maximizing photo quality (like stuffing yourself with dim sum).
+
+You'll notice that almost all of the pictures on this page were taken with my phone (the
+file names start with the standard iPhone prefix). And the ones that were not could
+(mostly) have just as well been done with a high quality smaller fixed lens camera
+like the Sony RX100 model whatever. So I think I'm going to go that way.
 
