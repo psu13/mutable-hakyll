@@ -212,6 +212,20 @@ Of course we went back to Vij's. This experience is summed up by the vegetarian 
 > <a href="../images/IMG_5568.jpg"><img src="../images/IMG_5568.jpg" height=400
 alt="thali at vij's"></a>
 
+#### Ahn and Chi
+
+My brother's friend suggested that we get together and have lunch at a local favorite
+Vietnamese spot, _Ahn and Chi_. This place has a nice story behind it, and it has really
+good soft-shell crab fried rice.
+
+> <a href="../images/IMG_5869.jpg"><img src="../images/IMG_5869.jpg" width=400
+alt="Crab fried rice"></a>
+
+The vermicelli bowl is also great. But we should have split one.
+
+> <a href="../images/IMG_5874.jpg"><img src="../images/IMG_5874.jpg" height=400
+alt="vermicelli bowl at ahn and chi"></a>
+
 #### Miscellany
 
 OK. I think I'm over my ten to fifteen highlights quota. You missed out on the chicken
@@ -221,12 +235,6 @@ the corner with 4 coffee shops, but just go to _Revolver_ because it's the best 
 
 > <a href="../images/IMG_5925.jpg"><img src="../images/IMG_5925.jpg" height=400
 alt="Revolver coffee"></a>
-
-Oh, and I have to shout out the fried rice with crab at the excellent _Ahn and Chi_, where
-you should go for Vietnamese.
-
-> <a href="../images/IMG_5869.jpg"><img src="../images/IMG_5869.jpg" width=400
-alt="Crab fried rice"></a>
 
 I'll end with a gratuitous sunset picture:
 
