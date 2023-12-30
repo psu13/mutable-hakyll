@@ -94,7 +94,14 @@ Ramen above and liked it.
 > <a href="../images/IMG_5742.jpg"><img src="../images/IMG_5742.jpg" height=400
 alt="Carbonara Udon"></a>
 
-Meanwhile, our sushi slot was taken up by a fancy lunch at a fancy spot called _Miku_
+We also overloaded on fried meat at _Saku_ on Robson, which has the best (and most) katsu I've
+ever had. This is their sampler platter, which was a lot bigger than we thought it would
+be before we ordered it. Oops.
+
+> <a href="../images/IMG_5165.jpg"><img src="../images/IMG_5165.jpg" width=400
+alt="katsu"></a>
+
+Finally, our sushi slot was taken up by a fancy lunch at a fancy spot called _Miku_
 which you should also go to if you can afford it.
 
 Again I got a rice bowl that was perfect in every way. This is tuna on an absolutely
@@ -123,7 +130,7 @@ from this is the highest possible compliment.
 We broke with tradition and got dim sum in the city this trip instead our normal mode of
 going to Richmond. I think we did OK.
 
-_New Mandarin Seafood Restaurant_ had the only Shu Mai that Karen ever ate on purpose.
+_New Mandarin Seafood Restaurant_ had the only shu mai that Karen ever ate on purpose.
 They had scallop and quail egg in them.
 
 > <a href="../images/IMG_5366.jpg"><img src="../images/IMG_5366.jpg" width=400
@@ -157,15 +164,16 @@ The clay pot with the steamed chicken on rice in it was also great:
 > <a href="../images/IMG_5605.jpg"><img src="../images/IMG_5605.jpg" height=400
 alt="Chicken and rice clay pot"></a>
 
-We had also never had a well executed fried pork steamed bun like these:
+We had also never had a well executed pan fried steamed buns with pork in them like these:
 
 > <a href="../images/IMG_5608.jpg"><img src="../images/IMG_5608.jpg" height=400
 alt="Pan fried steamed buns"></a>
 
 Things like this don't make it to Pittsburgh.
 
-Finally, we _did_ head to Richmond for the roast meat at _Hong Kong BBQ Master_, which did
-not disappoint.
+In between all of these things, we _did_ head to Richmond to walk around the malls and to
+get the roast meat at _Hong Kong BBQ Master_. Neither was a disappointment, but
+I'm only showing pictures of the roast meat.
 
 They have two kinds of pork:
 
@@ -182,7 +190,7 @@ has a score of 3.5 in the local Yelp. _iDen & Quanjude Beijing Duck House_ is pr
 the best value for money, but I found the the food and the service to be hard to
 criticize. I can't say why the Yelp people are so mad about it.
 
-Get the smoke fish appetizer:
+Get the smoked fish appetizer:
 
 > <a href="../images/IMG_5222.jpg"><img src="../images/IMG_5222.jpg" width=400
 alt="smoked fish"></a>
@@ -192,7 +200,7 @@ And of course the duck:
 > <a href="../images/IMG_5241_jpg.jpg"><img src="../images/IMG_5241_jpg.jpg" width=400
 alt="peking duck skin"></a>
 
-And the special crispy duck fried rice with foies gras:
+And the special crispy duck fried rice with foie gras:
 
 > <a href="../images/IMG_5251.jpg"><img src="../images/IMG_5251.jpg" width=400
 alt="fried rice"></a>
@@ -214,14 +222,13 @@ the corner with 4 coffee shops, but just go to _Revolver_ because it's the best 
 > <a href="../images/IMG_5925.jpg"><img src="../images/IMG_5925.jpg" height=400
 alt="Revolver coffee"></a>
 
-Oh, and I have to shout out the fried rice with grab at the excellent _Ahn and Chi_
-for Vietnamese spot.
+Oh, and I have to shout out the fried rice with crab at the excellent _Ahn and Chi_, where
+you should go for Vietnamese.
 
 > <a href="../images/IMG_5869.jpg"><img src="../images/IMG_5869.jpg" width=400
 alt="Crab fried rice"></a>
 
-
-I'll end with a gratitous sunset picture:
+I'll end with a gratuitous sunset picture:
 
 > <a href="../images/PC220525.jpg"><img src="../images/PC220525.jpg" width=400
 alt="sunset over the harbor on the mountains"></a>
@@ -230,7 +237,6 @@ A sunrise picture:
 
 > <a href="../images/IMG_5469.jpg"><img src="../images/IMG_5469.jpg" width=400
 alt="sunrise over railroad tracks"></a>
-
 
 And whatever this is:
 
