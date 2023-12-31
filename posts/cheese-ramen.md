@@ -232,8 +232,9 @@ OK. I've about doubled my ten to fifteen highlights quota. You missed out on the
 buns that have ham in them at the _Kam Do_ bakery. _Hei Hei_ rice rolls in the [Richmond
 Public Market](https://www.yelp.ca/biz/richmond-public-market-richmond) food court in
 Richmond. _DingDing_, a Taiwanese hole in the wall with omelet covered rice. And the
-corner with at least 3 coffee shops (_Nemisis_, _Timber Train_, _Revolver_) near the
-corner of Hastings and Cambie, but just go to _Revolver_ because it's the best one.
+corner with at least 5 or 6 coffee shops (we tried _Nemisis_, _Timber Train_, and
+_Revolver_) near the corner of Hastings and Cambie, but just go to _Revolver_ because it's
+the best one.
 
 > <a href="../images/IMG_5925.jpg"><img src="../images/IMG_5925.jpg" height=400
 title="Revolver coffee" alt="Revolver coffee"></a>
