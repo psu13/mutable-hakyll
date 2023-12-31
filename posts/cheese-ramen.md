@@ -83,7 +83,9 @@ And that location had a great yellowtail sashimi as well:
 title="yellowtail sashimi" alt="yellowtail sashimi"></a>
 
 Meanwhile, at _Zukkushi on Main_ we got dozens of different kinds of grilled skewers and
-also this chicken yakitori rice bowl that was absolutely perfect in every way.
+also this chicken yakitori rice bowl that was absolutely perfect in every way. The rice
+was perfect. The egg was perfect. The chicken was perfect. And the auxiliary toppings
+were the perfect balance. Beautiful.
 
 > <a href="../images/IMG_5744.jpg"><img src="../images/IMG_5744.jpg" width=400
 title="yakitori rice bowl" alt="yakitori rice bowl"></a>
