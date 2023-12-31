@@ -35,20 +35,20 @@ back to the shop and I got my bowl. And it was good.
 The bowl is based on their miso broth with slices of pork and then one shredded cheese
 (maybe mild swiss, maybe mozzarella) and one slice of cheese (probably mozzarella):
 
-> <a href="../images/IMG_5426.jpg"><img src="../images/IMG_5426.jpg" height=400 alt="cheese ramen"></a>
+> <a href="../images/IMG_5426.jpg"><img src="../images/IMG_5426.jpg" height=400 title="cheese ramen" alt="cheese ramen"></a>
 
 As you eat it the cheese melts into the soup and all over the noddles. It's nice! You can
 kind of see the cheese melted into the noodles and broth here:
 
-> <a href="../images/IMG_5437.jpg"><img src="../images/IMG_5437.jpg" height=400 alt="cheese ramen"></a>
+> <a href="../images/IMG_5437.jpg"><img src="../images/IMG_5437.jpg" height=400 title="cheese ramen" alt="cheese ramen"></a>
 
 Of course, the more straight up ramen at Kintaro is also still great:
 
-> <a href="../images/IMG_5430.jpg"><img src="../images/IMG_5430.jpg" height=400 alt="shio ramen"></a>
+> <a href="../images/IMG_5430.jpg"><img src="../images/IMG_5430.jpg" height=400 title="shio ramen" alt="shio ramen"></a>
 
 And they also had a cool onigiri extra, which Karen had been craving.
 
-> <a href="../images/IMG_5421.jpg"><img src="../images/IMG_5421.jpg" height=400 alt="onigiri"></a>
+> <a href="../images/IMG_5421.jpg"><img src="../images/IMG_5421.jpg" height=400 title="onigiri" alt="onigiri"></a>
 
 At this point I could make the rest of this post a lightly annotated list of about 125
 food pictures. But that would be pretty tedious. So I'll try and edit this down to the top
@@ -71,35 +71,35 @@ here were the sashimi and karaage of various sorts.
 Scallop sashimi was great at _Guu with Garlic_ on Robson:
 
 > <a href="../images/IMG_5087.jpg"><img src="../images/IMG_5087.jpg" height=400
-alt="scallop sashimi"></a>
+title="scallop sashimi" alt="scallop sashimi"></a>
 
 The cauliflower karaage was great at _Guu Toramasa_ on Seymour street:
 
-> <a href="../images/IMG_5838.jpg"><img src="../images/IMG_5838.jpg" width=400 alt="cauliflower"></a>
+> <a href="../images/IMG_5838.jpg"><img src="../images/IMG_5838.jpg" width=400 title="cauliflower" alt="cauliflower"></a>
 
 And that location had a great yellowtail sashimi as well:
 
 > <a href="../images/IMG_5834.jpg"><img src="../images/IMG_5834.jpg" width=400
-alt="yellowtail sashimi"></a>
+title="yellowtail sashimi" alt="yellowtail sashimi"></a>
 
 Meanwhile, at _Zukkushi on Main_ we got dozens of different kinds of grilled skewers and
 also this chicken yakitori rice bowl that was absolutely perfect in every way.
 
 > <a href="../images/IMG_5744.jpg"><img src="../images/IMG_5744.jpg" width=400
-alt="yakitori rice bowl"></a>
+title="yakitori rice bowl" alt="yakitori rice bowl"></a>
 
 They also make an Udon Carbonara that you should try. Especially if you tried the Cheese
 Ramen above and liked it.
 
 > <a href="../images/IMG_5742.jpg"><img src="../images/IMG_5742.jpg" height=400
-alt="Carbonara Udon"></a>
+title="Carbonara Udon" alt="Carbonara Udon"></a>
 
 We also overloaded on fried meat at _Saku_ on Robson, which has the best (and most) katsu I've
 ever had. This is their sampler platter, which was a lot bigger than we thought it would
 be before we ordered it. Oops.
 
 > <a href="../images/IMG_5165.jpg"><img src="../images/IMG_5165.jpg" width=400
-alt="katsu"></a>
+title="katsu" alt="katsu"></a>
 
 Finally, our sushi slot was taken up by a fancy lunch at a fancy spot called _Miku_
 which you should also go to if you can afford it.
@@ -108,19 +108,19 @@ Again I got a rice bowl that was perfect in every way. This is tuna on an absolu
 perfect bed of white rice.
 
 > <a href="../images/IMG_5790.jpg"><img src="../images/IMG_5790.jpg" height=400
-alt="Tuna donburi"></a>
+title="Tuna donburi" alt="Tuna donburi"></a>
 
 Close up:
 
 > <a href="../images/IMG_5803.jpg"><img src="../images/IMG_5803.jpg" height=400
-alt="Tuna donburi Udon"></a>
+title="Tuna donburi Udon" alt="Tuna donburi Udon"></a>
 
 The rest of the sushi was just as good:
 
 > <a href="../images/IMG_5791.jpg"><img src="../images/IMG_5791.jpg" width=400
-alt="sushi"></a>
+title="sushi" alt="sushi"></a>
 
-Somehow I have no photographic record of the Inari that I got, which for once in North
+Somehow I have no photographic record of the inari sushi that I got, which for once in North
 America was better than the stuff you get at a 7-11 in Japan. I know the _Miku_ people
 would be insulted by this comparison, but they have to understand that where I am coming
 from this is the highest possible compliment.
@@ -134,40 +134,40 @@ _New Mandarin Seafood Restaurant_ had the only shu mai that Karen ever ate on pu
 They had scallop and quail egg in them.
 
 > <a href="../images/IMG_5366.jpg"><img src="../images/IMG_5366.jpg" width=400
-alt="scallop shu mai"></a>
+title="scallop shu mai" alt="scallop shu mai"></a>
 
-They also had these seafood tofu rollups that were similarly excellent. 
+They also had these seafood tofu rollups that were similarly excellent.
 
 > <a href="../images/IMG_5351.jpg"><img src="../images/IMG_5351.jpg" height=400
-alt="seafood tofu rolls"></a>
+title="seafood tofu rolls" alt="seafood tofu rolls"></a>
 
 And finally, the ever popular sleeping teddy bear dessert.
 
 > <a href="../images/IMG_5340.jpg"><img src="../images/IMG_5340.jpg" width=400
-alt="teddy bear dessert"></a>
+title="teddy bear dessert" alt="teddy bear dessert"></a>
 
 Meanwhile, we went to _Royal Palace Seafood Restaurant_ on Christmas. As one does. There
 were a few people there.
 
 > <a href="../images/IMG_5595.jpg"><img src="../images/IMG_5595.jpg" height=400
-alt="Royal Palace Seafood Restaurant"></a>
+title="Royal Palace Seafood Restaurant" alt="Royal Palace Seafood Restaurant"></a>
 
 Everything here was great as well. But the highlight was the last thing we ordered after
 we were already full. This crab meat and assorted seafood egg fried rice was just
 unhinged:
 
 > <a href="../images/IMG_5631.jpg"><img src="../images/IMG_5631.jpg" height=400
-alt="Fried rice"></a>
+title="Fried rice" alt="Fried rice"></a>
 
 The clay pot with the steamed chicken on rice in it was also great:
 
 > <a href="../images/IMG_5605.jpg"><img src="../images/IMG_5605.jpg" height=400
-alt="Chicken and rice clay pot"></a>
+title="Chicken and rice clay pot" alt="Chicken and rice clay pot"></a>
 
 We had also never had a well executed pan fried steamed buns with pork in them like these:
 
 > <a href="../images/IMG_5608.jpg"><img src="../images/IMG_5608.jpg" height=400
-alt="Pan fried steamed buns"></a>
+title="Pan fried steamed buns" alt="Pan fried steamed buns"></a>
 
 Things like this don't make it to Pittsburgh.
 
@@ -178,12 +178,12 @@ I'm only showing pictures of the roast meat.
 They have two kinds of pork:
 
 > <a href="../images/IMG_5499.jpg"><img src="../images/IMG_5499.jpg" height=400
-alt="pork and pork"></a>
+title="pork and pork" alt="pork and pork"></a>
 
 And also pork, duck, and chicken:
 
 > <a href="../images/IMG_5502.jpg"><img src="../images/IMG_5502.jpg" height=400
-alt="pork and chicken and duck"></a>
+title="pork and chicken and duck" alt="pork and chicken and duck"></a>
 
 Finally, the fancy Chinese this time was a Michelin Starred Peking Duck place that only
 has a score of 3.5 in the local Yelp. _iDen & Quanjude Beijing Duck House_ is probably not
@@ -193,69 +193,72 @@ criticize. I can't say why the Yelp people are so mad about it.
 Get the smoked fish appetizer:
 
 > <a href="../images/IMG_5222.jpg"><img src="../images/IMG_5222.jpg" width=400
-alt="smoked fish"></a>
+title="smoked fish" alt="smoked fish"></a>
 
 And of course the duck:
 
 > <a href="../images/IMG_5241_jpg.jpg"><img src="../images/IMG_5241_jpg.jpg" width=400
-alt="peking duck skin"></a>
+title="peking duck skin" alt="peking duck skin"></a>
 
-And the special crispy duck fried rice with foie gras:
+And the special duck fried rice with crispy rice bits and foie gras:
 
 > <a href="../images/IMG_5251.jpg"><img src="../images/IMG_5251.jpg" width=400
-alt="fried rice"></a>
+title="fried rice" alt="fried rice"></a>
 
 #### Vij's
 
 Of course we went back to Vij's. This experience is summed up by the vegetarian Thali.
 
 > <a href="../images/IMG_5568.jpg"><img src="../images/IMG_5568.jpg" height=400
-alt="thali at vij's"></a>
+title="thali at vij's" alt="thali at vij's"></a>
 
 #### Ahn and Chi
 
 My brother's friend suggested that we get together and have lunch at a local favorite
-Vietnamese spot, _Ahn and Chi_. This place has a nice story behind it, and it has really
-good soft-shell crab fried rice.
+Vietnamese spot, _Ahn and Chi_. This place has [a nice story behind
+it](https://anhandchi.com/pages/about), and it has really good soft-shell crab fried rice.
 
 > <a href="../images/IMG_5869.jpg"><img src="../images/IMG_5869.jpg" width=400
-alt="Crab fried rice"></a>
+title="Crab fried rice" alt="Crab fried rice"></a>
 
 The vermicelli bowl is also great. But we should have split one.
 
 > <a href="../images/IMG_5874.jpg"><img src="../images/IMG_5874.jpg" height=400
-alt="vermicelli bowl at ahn and chi"></a>
+title="vermicelli bowl at ahn and chi" alt="vermicelli bowl at ahn and chi"></a>
 
 #### Miscellany
 
 OK. I've about doubled my ten to fifteen highlights quota. You missed out on the chicken
-buns that have ham in them at the Kam Do bakery. _Hei Hei_ rice rolls in the mall food
-court in Richmond. _DingDing_, a Taiwanese hole in the wall with omelet covered rice. And
-the corner with 4 coffee shops, but just go to _Revolver_ because it's the best one.
+buns that have ham in them at the _Kam Do_ bakery. _Hei Hei_ rice rolls in the [Richmond
+Public Market](https://www.yelp.ca/biz/richmond-public-market-richmond) food court in
+Richmond. _DingDing_, a Taiwanese hole in the wall with omelet covered rice. And the
+corner with at least 3 coffee shops (_Nemisis_, _Timber Train_, _Revolver_) near the
+corner of Hastings and Cambie, but just go to _Revolver_ because it's the best one.
 
 > <a href="../images/IMG_5925.jpg"><img src="../images/IMG_5925.jpg" height=400
-alt="Revolver coffee"></a>
+title="Revolver coffee" alt="Revolver coffee"></a>
 
 I'll end with a gratuitous sunset picture:
 
 > <a href="../images/PC220525.jpg"><img src="../images/PC220525.jpg" width=400
-alt="sunset over the harbor on the mountains"></a>
+title="sunset over the harbor on the mountains" alt="sunset over the harbor on the mountains"></a>
 
 A sunrise picture:
 
 > <a href="../images/IMG_5469.jpg"><img src="../images/IMG_5469.jpg" width=400
-alt="sunrise over railroad tracks"></a>
+title="sunrise over railroad tracks" alt="sunrise over railroad tracks"></a>
 
 And whatever this is:
 
 > <a href="../images/IMG_5927.jpg"><img src="../images/IMG_5927.jpg" width=400
-alt="caption this photo"></a>
+title="caption this photo" alt="caption this photo"></a>
 
 #### Extra Note on Photos
 
 I like to take pictures on trips. I even still bother to pack a camera different from
 phone with which to do this. I've told the story before about how I went from [giant
-cameras](/too-much-camera.html) to [smaller cameras](the-camera-we-want-redux.html) and then [back and forth](/back-and-forth.html) again.
+cameras](/too-much-camera.html) to [smaller cameras](the-camera-we-want-redux.html) and
+then [back and forth](/back-and-forth.html) again.
 
 This trip might have convinced me to go even smaller on the non-phone camera. This seems
 paradoxical but it really isn't. Smaller cameras can now do what you used to need a giant
@@ -266,4 +269,3 @@ You'll notice that almost all of the pictures on this page were taken with my ph
 file names start with the standard iPhone prefix). And the ones that were not could
 (mostly) have just as well been done with a high quality smaller fixed lens camera
 like the Sony RX100 model whatever. So I think I'm going to go that way.
-
