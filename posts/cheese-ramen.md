@@ -54,12 +54,12 @@ At this point I could make the rest of this post a lightly annotated list of abo
 food pictures. But that would be pretty tedious. So I'll try and edit this down to the top
 ten or fifteen highlights along with where the dishes came from.
 
-Our main sources for food info came from a list that a colleague that the Apple office in
-the city gave me that leaned heavily on the Japanese spots around Downtown, and also the food
-blog [Sherman's Food Adventures](http://www.shermansfoodadventures.com) that I found out
-about from a friend of my brother's who lives in town and plays hockey with Sherman.
-Sherman apparently produces that web site as a "hobby", which gives you an idea of what
-hobby-level eating is like in Vancouver, BC (remember: [it's cooler than
+Our main sources for food info came from a list I got from a colleague at the local Apple
+office in the city, and also the food blog [Sherman's Food
+Adventures](http://www.shermansfoodadventures.com) that I found out about from a friend of
+my brother's who lives in town and plays hockey with Sherman. Sherman apparently produces
+that web site as a "hobby", which gives you an idea of what hobby-level eating is like in
+Vancouver, BC (remember: [it's cooler than
 Seattle](https://mutable-states.com/vancouver-bc-cooler-than-seattle.html)).
 
 #### Izakaya and Yakitori and So On.
