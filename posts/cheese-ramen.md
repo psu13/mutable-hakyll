@@ -54,8 +54,8 @@ At this point I could make the rest of this post a lightly annotated list of abo
 food pictures. But that would be pretty tedious. So I'll try and edit this down to the top
 ten or fifteen highlights along with where the dishes came from.
 
-Our main sources for food info came from a list I got from a colleague at the local Apple
-office in the city, and also the food blog [Sherman's Food
+Our main sources for food info came from a list of Downtown area places that I got from a
+colleague at the local Apple office in the city, and also the food blog [Sherman's Food
 Adventures](http://www.shermansfoodadventures.com) that I found out about from a friend of
 my brother's who lives in town and plays hockey with Sherman. Sherman apparently produces
 that web site as a "hobby", which gives you an idea of what hobby-level eating is like in
