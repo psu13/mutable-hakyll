@@ -37,7 +37,7 @@ The bowl is based on their miso broth with slices of pork and then one shredded 
 
 > <a href="../images/IMG_5426.jpg"><img src="../images/IMG_5426.jpg" height=400 title="cheese ramen" alt="cheese ramen"></a>
 
-As you eat it the cheese melts into the soup and all over the noddles. It's nice! You can
+As you eat it the cheese melts into the soup and all over the noodles. It's nice! You can
 kind of see the cheese melted into the noodles and broth here:
 
 > <a href="../images/IMG_5437.jpg"><img src="../images/IMG_5437.jpg" height=400 title="cheese ramen" alt="cheese ramen"></a>
