@@ -235,7 +235,7 @@ buns that have ham in them at the _Kam Do_ bakery, _Hei Hei_ rice rolls in the [
 Public Market](https://www.yelp.ca/biz/richmond-public-market-richmond) food court in
 Richmond, _DingDing_, a Taiwanese hole in the wall with omelet covered rice, _Lee's
 Donuts_, and the bagels at _Siegels_. Finally, there was the corner with at least 5 or 6
-coffee shops near Hastings and Cambie. We tried _Nemisis_, _Timber Train_, and _Revolver_, but
+coffee shops near Hastings and Cambie. We tried _Nemesis_, _Timber Train_, and _Revolver_, but
 just go to _Revolver_ because it's the best one.
 
 > <a href="../images/IMG_5925.jpg"><img src="../images/IMG_5925.jpg" height=400
