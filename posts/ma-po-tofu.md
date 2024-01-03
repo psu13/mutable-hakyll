@@ -36,7 +36,7 @@ So here is what I do, which gives me the spice balance I want.
    green. Again, your local store will have this. Again, [the stuff at the Mala market is
    great](https://themalamarket.com/collections/sichuan-spices-dry-goods/products/sichuan-flower-pepper-special-grade-da-hong-pao-sichuan-pepper).
 
-1. 1 tablespoon fermented black beans, chopped.
+1. 1 teaspoon (or a bit more) fermented black beans, chopped.
 
 1. 3 or 4 cloves of garlic, minced
 
