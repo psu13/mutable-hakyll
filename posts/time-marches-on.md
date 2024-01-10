@@ -10,10 +10,10 @@ then, in Jan of 2004. It's [here](https://kvdpsu.org/blog/B1578553917/index.html
 The first post there is dated Jan 18, 2004, but it's just a link to another thing I had
 put on my personal web site in November 2003. That piece was an [article about digital
 cameras](https://kvdpsu.org/digital.html) and is recognizably in the overall style that
-I'd end up adopting as the "voice", if you will, for all of my bloggy stuff. I hesitate to
-use as pretentious and self-important as "voice" for the rudimentary writing that I do
-here. "Persona" might be more accurate although over the years even that bitter little man
-has toned down a bit (I hope).
+I'd end up adopting for all of my bloggy stuff. I hesitate to use as pretentious and
+self-important a term as "style" or "voice" for the rudimentary writing that I do here.
+"Persona" might be more accurate although over the years even that bitter little man has
+toned down a bit (I hope).
 
 Anyway, if I had been paying more attention I'd have done the "Hey I've been posting dumb
 things on the Internet for 20 years" post in November of last year instead of January of
@@ -49,4 +49,3 @@ mind since the great stupidity.
 This stuff has now been around long enough to _maybe_ worry about what to do with it when
 stop paying the hosting fees for the web site. On the other hand everything is backed up
 on my personal computing devices, and in github. So who knows.
-
