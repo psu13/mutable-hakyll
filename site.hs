@@ -122,8 +122,8 @@ postCtx =
 -- still a useless lie, but unfolding the date code on Context.hs is too hard.
 baseFeedCtx :: Context String
 baseFeedCtx =
-    dateField "published" "%Y-%m-%d 20:00:00" `mappend`
-    dateField "updated" "%Y-%m-%d 20:00:00" `mappend`
+    dateField "published" "%Y-%m-%d 23:00:00" `mappend`
+    dateField "updated" "%Y-%m-%d 23:00:00" `mappend`
     postCtx
 
 -- remove the parent directory "posts" from the URL path of the
