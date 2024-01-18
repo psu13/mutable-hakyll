@@ -4,8 +4,9 @@ date: 2024-01-17
 author: psu
 ---
 
-I first set up a web site that you could call a "blog", or "weblog" as I liked to say back
-then, in January of 2004. It's [here](https://kvdpsu.org/blog/B1578553917/index.html).
+Twenty years ago I first set up a web site that you could call a "blog", or "weblog" as I
+liked to say back then, in January of 2004. It's
+[here](https://kvdpsu.org/blog/B1578553917/index.html).
 
 The first post there is dated January 18, 2004, but it's just a link to another thing I had
 put on my personal web site in November 2003. That piece was an [article about digital
