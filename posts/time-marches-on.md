@@ -5,9 +5,9 @@ author: psu
 ---
 
 I first set up a web site that you could call a "blog", or "weblog" as I liked to say back
-then, in Jan of 2004. It's [here](https://kvdpsu.org/blog/B1578553917/index.html).
+then, in January of 2004. It's [here](https://kvdpsu.org/blog/B1578553917/index.html).
 
-The first post there is dated Jan 18, 2004, but it's just a link to another thing I had
+The first post there is dated January 18, 2004, but it's just a link to another thing I had
 put on my personal web site in November 2003. That piece was an [article about digital
 cameras](https://kvdpsu.org/digital.html) and is recognizably in the overall style that
 I'd end up adopting for all of my bloggy stuff. I hesitate to use as pretentious and
