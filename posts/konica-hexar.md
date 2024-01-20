@@ -604,6 +604,8 @@ the Hexar. Every now and then when I'm stuffing it into a coat pocket or into my
 I wish it were smaller. But when it's in my hand, I'm very satisfied. I'm thinking of
 buying a second one for my wife; she likes the Hexar more than I do.
 
+<hr>
+
 #### Some Extra Notes from psu In the Future
 
 The Hexar was sold sporadically through the 1990s. I don't know exactly when they stopped
