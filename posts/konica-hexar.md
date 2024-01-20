@@ -25,7 +25,7 @@ that you could use it as a quick start manual for the camera when you bought it.
 I had reason recently to try and look for the old review, but I could not find it at
 [photo.net](https://www.photo.net) anymore. Sad. Luckily
 [archive.org](https://web.archive.org/web/20100327082815/http://www.photo.net/photo/hexar)
-had a snapshot of it. Still, that's not the ideal way to read the page.
+had a snapshot of it. But that's not the ideal way to read the page.
 
 Happily, it turns out that I spent some time working in the same lab as Richard Caruana.
 So when I could not find the text on the live Internet anymore I asked him if I could put
@@ -612,7 +612,7 @@ The Hexar was sold sporadically through the 1990s. I don't know exactly when the
 making them, although they definitely did when Minolta bought Konica in 2003.
 
 In 1999 Konica released another relatively modern rangefinder camera that was manual focus
-and used the Leica M lens mount. This they the Hexar RF. Most of the Internet chatter
+and used the Leica M lens mount. This they called the Hexar RF. Most of the Internet chatter
 about this camera was dedicated to anxiety about whether it was _really_ compatible with
 the Leica lenses (hundreds of thousands of words were spilled on the subject of flange to
 film plane distance). But, the Hexar RF was also a great camera, with many of the same
