@@ -5,16 +5,16 @@ author: psu
 ---
 
 The [Konica Hexar](https://en.wikipedia.org/wiki/Konica_Hexar) was a fixed lens
-rangefinder style 35mm film camera that was manufactured for sale between around 1993 and
-probably 1999 to 2000. It had a Leica-ish shell but with more automated internals, and the
-lens was fixed in place. That lens though, a 35mm F2, was exactly what you would use on a
-Leica M most of the time. And like the Leica the Hexar had a giant beautiful bright
-optical viewfinder on the left side of the camera. Unlike the Leica it had autofocus,
+rangefinder style 35mm film camera that was sold new between around 1993 and probably 1999
+to 2000. It had a Leica-ish shell but with more automated internals, and the lens was
+glued in place. That lens though, a 35mm F2, was exactly what you would use on a Leica M
+most of the time. And like the Leica the Hexar had a giant beautiful bright optical
+viewfinder on the left side of the camera. Unlike the Leica it had autofocus,
 auto-exposure, auto-wind, and you didn't have to take the fucking bottom of the camera off
 to load it with film.
 
 I bought a Hexar at the peak of my pretentious "Tri-X 35mm black and white film shot at
-ISO 320 for better shadow detail pseudo-artistic" phase. It's always been one of my favorite
+ISO 320 for better shadow detail" pseudo-artistic phase. It's always been one of my favorite
 cameras.
 
 One reason I bought the camera was a very expansive review that was written by one Richard
@@ -23,7 +23,7 @@ most active forums for photo nerds during the Internet 1.0 period. The review wa
 that you could use it as a quick start manual for the camera when you bought it.
 
 I had reason recently to try and look for the old review, but I could not find it at
-[photo.net](https://www.photo.net] anymore. Sad. Luckily
+[photo.net](https://www.photo.net) anymore. Sad. Luckily
 [archive.org](https://web.archive.org/web/20100327082815/http://www.photo.net/photo/hexar)
 had a snapshot of it. Still, that's not the ideal way to read the page.
 
@@ -69,7 +69,7 @@ speeds as fast as the user-set minimum, it uses the aperture you set and raises 
 shutter speed. It starts closing the aperture past your setting only after it hits the
 camera's top shutter speed. If there is not enough light to use your set aperture at the
 user-set minimum shutter speed, it starts opening up the lens, keeping the shutter speed
-at the user-set minimum. I wish all cameras had a mode like this. The Hexar's P mode let's
+at the user-set minimum. I wish all cameras had a mode like this. The Hexar's P mode lets
 you bias the settings, but is also fairly foolproof. I even prefer this to Nikon's
 exposure shift because the Hexar lets me bias the settings before making an exposure
 reading.
@@ -346,7 +346,7 @@ business -- wouldn't want to open the back back prematurely! Restarting the came
 normal mode finishes the rewind.
 
 The LCD frame counter counts backwards as the film rewinds. When it hits zero, the camera
-pauses for a second and blinks the LCD display several times -- if you open the camera
+pauses for a second and blinks the LCD display several times --- if you open the camera
 back then the film leader is left out. If you don't, the camera pulls the leader in a
 moment later. There is no special mode to remember to set or unset.
 
