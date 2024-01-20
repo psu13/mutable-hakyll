@@ -5,22 +5,22 @@ author: psu
 ---
 
 The [Konica Hexar](https://en.wikipedia.org/wiki/Konica_Hexar) was a fixed lens
-rangefinder style 35mm film camera was available for sale between around 1993 and probably
-the early 2000s. It had a Leica-ish vibe, except the lens was fixed in place. That lens
-though, a 35mm F2, was exactly what you would use on a Leica M most of the time anyway.
-And like the Leica the Hexar had a giant beautiful bright optical viewfinder on the left
-side of the camera. Unlike the Leica it had autofocus, auto-exposure, auto-wind, and you
-didn't have to take the fucking bottom of the camera off to load it with film.
+rangefinder style 35mm film camera that was manufactured for sale between around 1993 and
+probably 1999 to 2000. It had a Leica-ish shell but with more automated internals, and the
+lens was fixed in place. That lens though, a 35mm F2, was exactly what you would use on a
+Leica M most of the time. And like the Leica the Hexar had a giant beautiful bright
+optical viewfinder on the left side of the camera. Unlike the Leica it had autofocus,
+auto-exposure, auto-wind, and you didn't have to take the fucking bottom of the camera off
+to load it with film.
 
 I bought a Hexar at the peak of my pretentious "Tri-X 35mm black and white film shot at
-ISO 320 for better shadow detail artsy fartsy" phase. It's always been one of my favorite
+ISO 320 for better shadow detail pseudo-artistic" phase. It's always been one of my favorite
 cameras.
 
-One reason I bought the camera was an old and very expansive review of it that was written
-by one Richard Caruana and published at [photo.net](https://www.photo.net). That web site
-was one of the most active forums for photo nerds during the Internet 1.0 period. The
-review was so good that you could use it as a quick start manual for the camera when you
-bought it.
+One reason I bought the camera was a very expansive review that was written by one Richard
+Caruana and published at [photo.net](https://www.photo.net). That web site was one of the
+most active forums for photo nerds during the Internet 1.0 period. The review was so good
+that you could use it as a quick start manual for the camera when you bought it.
 
 I had reason recently to try and look for the old review, but I could not find it at
 [photo.net](https://www.photo.net] anymore. Sad. Luckily
