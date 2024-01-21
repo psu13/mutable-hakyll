@@ -4,14 +4,13 @@ date: 2024-01-20
 author: psu
 ---
 
-The [Konica Hexar](https://en.wikipedia.org/wiki/Konica_Hexar) was a fixed lens
-rangefinder style 35mm film camera that was sold new between around 1993 and probably 1999
-to 2000. It had a Leica-ish shell but with more automated internals, and the lens was
-glued in place. That lens though, a 35mm F2, was exactly what you would use on a Leica M
-most of the time. And like the Leica the Hexar had a giant beautiful bright optical
-viewfinder on the left side of the camera. Unlike the Leica it had autofocus,
-auto-exposure, auto-wind, and you didn't have to take the fucking bottom of the camera off
-to load it with film.
+The [Konica Hexar](https://en.wikipedia.org/wiki/Konica_Hexar) is a fixed lens rangefinder
+style 35mm film camera that was sold new between around 1993 and probably 1999 to 2000. It
+has a Leica-ish shell but with more automated internals, and the lens was glued in place.
+That lens though, a 35mm F2, is exactly what you would use on a Leica M most of the time.
+Like the Leica the Hexar has a giant beautiful bright optical viewfinder on the left side
+of the camera. Unlike the Leica it has autofocus, auto-exposure, auto-wind, and you don't
+have to take the fucking bottom of the camera off to load it with film.
 
 I bought a Hexar at the peak of my pretentious "Tri-X 35mm black and white film shot at
 ISO 320 for better shadow detail" pseudo-artistic phase. It's always been one of my favorite
@@ -615,8 +614,8 @@ In 1999 Konica released another relatively modern rangefinder camera that was ma
 and used the Leica M lens mount. This they called the Hexar RF. Most of the Internet chatter
 about this camera was dedicated to anxiety about whether it was _really_ compatible with
 the Leica lenses (hundreds of thousands of words were spilled on the subject of flange to
-film plane distance). But, the Hexar RF was also a great camera, with many of the same
-qualities that the Hexar had. I (psu) carried one around for a while in my "would like to
+film plane distance). But, the Hexar RF is also a great camera, with many of the same
+qualities that the Hexar has. I (psu) carried one around for a while in my "would like to
 use a rangefinder, but am too cheap to buy a Leica" phase and I really enjoyed it. But, I
 never managed to take as many good pictures with fancier rangefinder cameras as I did with
 my SLRs and my Hexar. So I eventually sold it.
