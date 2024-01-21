@@ -6,7 +6,7 @@ author: psu
 
 The [Konica Hexar](https://en.wikipedia.org/wiki/Konica_Hexar) is a fixed lens rangefinder
 style 35mm film camera that was sold new between around 1993 and probably 1999 to 2000. It
-has a Leica-ish shell but with more automated internals, and the lens was glued in place.
+has a Leica-ish shell but with more automated internals, and the lens is glued in place.
 That lens though, a 35mm F2, is exactly what you would use on a Leica M most of the time.
 Like the Leica the Hexar has a giant beautiful bright optical viewfinder on the left side
 of the camera. Unlike the Leica it has autofocus, auto-exposure, auto-wind, and you don't
