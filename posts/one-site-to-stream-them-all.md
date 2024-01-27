@@ -118,5 +118,5 @@ thing. As usual the nerds dreamed for something and when it was actually built i
 out kind of all wrong.
 
 Maybe in another 10 years everything will just be a channel in the YouTube TV service of
-the future. On the other hand the number of was _that_ could go wrong is truly mind
+the future. On the other hand the number of ways _that_ could go wrong is truly mind
 boggling.
