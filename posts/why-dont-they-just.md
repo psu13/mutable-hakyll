@@ -72,7 +72,7 @@ deal with in order to work in a modern application. This is just off the top of 
 
 Now, on the one hand, it is an old maxim that no one should care, least of all the end
 user, [how hard you
-worked](https://theonlinephotographer.typepad.com/the_online_photographer/2011/05/no-one-cares-how-hard-you-worked.html)
+worked](https://ctein.com/TOP_Archives/Blog%20188%20-%20No%20One%20Cares%20How%20Hard%20You%20Worked/The%20Online%20Photographer%20No%20One%20Cares%20How%20Hard%20You%20Worked.html)
 to put the product on the table. That is not the end user's concern.
 
 But, on the other hand, I can't help but think about how hard literally everything is to
