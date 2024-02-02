@@ -1,0 +1,2 @@
+echo sync
+rsync --delete -alrv ./_site/  kvdpsu13@kvdpsu.org:public_html/mutable-states.com/
