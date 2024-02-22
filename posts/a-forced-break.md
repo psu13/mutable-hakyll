@@ -172,8 +172,8 @@ and then make chili out of that. [Kenji does it here](https://www.youtube.com/wa
 
 So I did this with most of the peppers. Then used two or three more to also make some
 powder to spread around in the meat, and kept the rest of my method the same. And it was
-great. I'll do it this way from now on. At some point I'll update the chili recipe page
-too so people are not misled into using the previous inferior method.
+worked pretty well. The scheme is a bit more variable because you never quite use the same
+amount of water to make the sludge. I might keep doing this or not, I have not decided.
 
 That's all I got for now. It's good to be back. And I'm gonna make that chili again.
 
