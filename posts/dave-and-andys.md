@@ -7,13 +7,13 @@ date: 2024-03-05
 It was about 75 degrees fahrenheit in Pittsburgh today, which means it was time to go to
 Dave and Andy's to get dinner.
 
-Dave and Andy's is a venerable ice cream store on the campus of the University of
-Pittsburgh. They opened sometime in the mid 80s when I was an undergraduate at nearby
-Carnegie Mellon and so it was a fixture of the hot days in the summer. We'd venture down
-when it cooled off a bit in the evening, after doing our summer work study jobs, and get a
-(then) new-fangled waffle cone and ice cream with m&m's, or Reese's cups smashed into it.
-They made heavy creamy ice cream, often with fruit that they got on discount from the
-Strip district. It was great.
+Dave and Andy's is a venerable ice cream store that sits in the neighborhood that also
+holds the the campus of the University of Pittsburgh. They opened sometime in the mid 80s
+when I was an undergraduate at nearby Carnegie Mellon and so it was a fixture of the hot
+days in the summer. We'd venture down when it cooled off a bit in the evening, after doing
+our summer work study jobs, and get a (then) new-fangled waffle cone and ice cream with
+m&m's, or Reese's cups smashed into it. They made heavy creamy ice cream, often with fruit
+that they got on discount from the Strip district. It was great.
 
 At some point after moving back to Pittsburgh we made an informal tradition of getting to
 Dave and Andy's as early in the spring as possible. Eventually the rule became this: the
