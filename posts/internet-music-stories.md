@@ -183,9 +183,9 @@ they do. The music services are oriented around just playing the songs, or if yo
 lucky, the albums, or if you are really lucky some specific performances. But, it is very
 hard to extract any other context from the service itself, because that context is not
 encoded in the data models and user interfaces of the service in the same way that they
-used to be in the record catalogs, magazines and liner notes. You can't organize the
-world, or at least your music collection, the way _you_ want. It can only be the way the
-service has already put it together for you. If you want proof open up Apple Music or
+used to be encoded in the record catalogs, magazines and liner notes. You can't organize
+the world, or at least your music collection, the way _you_ want. It can only be the way
+the service has already put it together for you. If you want proof open up Apple Music or
 Spotify or whatever and go try to find any _specific_ recording of the Bruckner third and
 then verify that you found the right one from the right year. It will make you want to
 pull your own eyes out.
