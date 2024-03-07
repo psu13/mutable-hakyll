@@ -16,9 +16,11 @@ Ok here we go.
 
 Start with some approximation of these ingredients:
 
-* 5 or 6 dried peppers of various kinds
+* 5 or 6, or more dried peppers of various kinds (see below)
 * 1 or 2 teaspoons cumin seeds
-* 2 fresh jalapeno peppers. Or if you want you can use canned for pepper taste with less heat. I also like canned hatch chilis.
+* 2 fresh long cayenne or serrano peppers. I used to use jalapenos but there is no point
+  itnhat anymore. Or if you want you can use canned for pepper taste with less heat. I
+  also like canned hatch chilis.
 * Maybe some thyme and oregano.
 * 1 large onion or 2 medium sized onions
 * 6 cloves garlic
@@ -28,7 +30,11 @@ Start with some approximation of these ingredients:
 * 1 can of black beans
 * salt, pepper, ground cayenne or other hot pepper
 
-For dried peppers I usually use milder dried chilis like Ancho or Pasilla or whatever. Lately I've been adding more heat by mixing in some of those little Chinese/Thai/Vietnamese red chilis too. In the past I also used to mix my own pepper mix with a couple of tablespoons of commercial chili powder, but I've done less of that lately.
+For dried peppers I usually use milder dried chilis like ancho, pasilla, guajillo or
+whatever. Lately I've been adding more heat by mixing in some of those little
+Chinese/Thai/Vietnamese red chilis too. The "xiao mi la" peppers from Mala Market are
+great for this. Or just toss in some of their roasted and crushed pepper mix. Kashmiri
+chili can be a nice kick. For an extra surprise toss in some Sichuan peppercorns.
 
 So, toast the cumin seeds lightly before you grind them. It makes a difference. Then stuff everything into a cheap coffee grinder that you use only for this and pulverize it all.
 
