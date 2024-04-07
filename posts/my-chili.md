@@ -18,9 +18,9 @@ Start with some approximation of these ingredients:
 
 * 5 or 6, or more dried peppers of various kinds (see below)
 * 1 or 2 teaspoons cumin seeds
-* 2 fresh long cayenne or serrano peppers. I used to use jalapenos but there is no point
-  itnhat anymore. Or if you want you can use canned for pepper taste with less heat. I
-  also like canned hatch chilis.
+* 2 fresh long green cayenne or serrano peppers. I used to use jalapenos but there is no
+  point in that anymore because jalapenos are just small bell peppers now. Another option
+  is to use canned peppers for pepper taste with less heat. Canned hatch chilis are nice.
 * Maybe some thyme and oregano.
 * 1 large onion or 2 medium sized onions
 * 6 cloves garlic
