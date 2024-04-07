@@ -37,7 +37,8 @@ Chinese/Thai/Vietnamese red chilis too. The "xiao mi la" peppers from Mala Marke
 great for this. Or just toss in some of their roasted and crushed pepper mix. Kashmiri
 chili can be a nice kick. For an extra surprise toss in some Sichuan peppercorns.
 
-So, toast the cumin seeds lightly before you grind them. It makes a difference. Then stuff everything into a cheap coffee grinder that you use only for this and pulverize it all.
+Toast the cumin seeds lightly before you grind them. It makes a difference. Then stuff
+everything into a cheap coffee grinder that you use only for this and pulverize it all.
 
 Now get out your big cast iron dutch oven chili pot. I like the Le Creuset stuff. Dice the onion and garlic and sauté it on medium heat in a generous amount of oil or butter for a few minutes. Season with a good grab of salt, pepper and the dried herbs if you have them. 
 
