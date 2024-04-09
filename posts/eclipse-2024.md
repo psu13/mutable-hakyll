@@ -38,8 +38,8 @@ inconsistent and random. I knew if I ever got another shot at it I'd
 want to at least set up a tripod and a somewhat longer lens and get thus do better with
 some of the details.
 
-Happily another shot has come, as the second totality even in seven years went over close
-by Ohio and Northern PA. So this time we packed up a tripod and a new telephoto lens and
+Happily another shot has come, as the second totality event in seven years traveled over
+Ohio and Northern PA. So this time we packed up a tripod and a new telephoto lens and
 drove to Cleveland to see if the clouds would again be kind to us. But, I also did some
 prep:
 
