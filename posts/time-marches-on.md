@@ -55,11 +55,11 @@ and four hundred thousand words of material, give or take a few tens of thousand
 absolute scale that's not all that much. On the other hand, I'm just sort of an
 introverted nerd, and this is a lot more writing than I ever thought I'd put into the
 world. This stuff has now been around long enough to _maybe_ worry about what to do with
-it when stop paying the hosting fees for the web site. On the other hand everything is
-backed up on my personal computing devices, and in github. So who knows.
+it when I finally stop paying the hosting fees for the web site. On the other hand
+everything is backed up on my personal computing devices, and in github. So who knows.
 
-On our [recent trip to Vancouver](cheese-ramen.html) I told the person serving us food at Vij's that the last
-time we were in their place in 2014 it was at their _previous_ location. She sighed and
-said something like "wow that was _forever_ ago" then paused and added "see you in 2034 I
-guess!" With any luck maybe I'll be doing another one of these in 2044. But I would
-probably not bet on it.
+On our [recent trip to Vancouver](cheese-ramen.html) I told the person serving us food at
+Vij's that the last time we were in their place in 2014 it was at their _previous_
+location. She sighed and said something like "wow that was _forever_ ago" then paused and
+added "see you in 2034 I guess!" With any luck maybe I'll be doing another one of these in
+2044. But I would probably not bet on it.
