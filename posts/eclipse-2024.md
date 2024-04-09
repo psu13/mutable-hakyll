@@ -115,5 +115,5 @@ As a bonus a few of our local friends who were driving around looking for sky we
 drop in on the spot we found at random. So we got to hang with them too while the whole
 thing went down. A great time was had by all.
 
-You can see all the rest of the best pictures I got (in this flickr
-album)[https://www.flickr.com/photos/79904144@N00/albums/72177720316099516/with/53641393507/].
+You can see all the rest of the best pictures I got [in this flickr
+album](https://www.flickr.com/photos/79904144@N00/albums/72177720316099516/with/53641393507/).
