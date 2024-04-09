@@ -67,7 +67,7 @@ prep:
 4. My original plan was to put a 2x teleconverter on the long lens to get that longer
    focal length. But when I tried this configuration I found it hard to get sharp pictures
    in my back yard. 1600mm equivalent is just really hard to deal with. If I were to do
-   that again I'd get a telescope-style mount for the camera instead of using a plan
+   that again I'd get a telescope-style mount for the camera instead of using a plain
    tripod. So I compromised a bit on image size and took the teleconverter off, which
    ended up being a good choice. Modern digital cameras of even moderate resolution, like
    my little 4/3rds bodies have enough pixels to give you a lot of leeway to crop.
