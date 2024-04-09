@@ -47,21 +47,22 @@ prep:
    filters from <a href="https://thousandoaksoptical.com">Thousand Oaks Optical</a>. They
    sell those nice filters that give the disk of the sun that orange color balance that
    you are used to seeing in solar photos. They have all kinds of sizes and form factors,
-   and in 2017 I waited until way to late to get anything in time. So this time I ordered
+   and in 2017 I waited until way too late to get anything in time. So this time I ordered
    four or five months ahead of time.
 
 2. I got a longer lens. To get the disk of the sun to a good size you want a lens that has
    a field of view equivalent to the longest long lenses you can buy for 35mm cameras.
-   600-800mm is the base value to start at. Twice that would be better if you have a
+   600-800mm is the base value to start with. Twice that would be better if you have a
    sturdy enough mount.
 
 3. I did some lens and tripod practice. Pointing the giant lens at the sun and keeping it
    pointed turns out to be tedious and annoying. If I ever do this again I'm getting a
-   tripod head that will easily pan in X-Y and only in X-Y. Ballheads are a bit too hard
-   here. I mostly used the panning base of the ballhead to do fine adjustments and track
-   the sun. My buddy used a gimbal head and that seemed easier. Of course the best
-   solution is to get at tracking mount and then have the camera just shoot away
-   automatically on its own. But that's a lot more size and weight.
+   tripod head that will easily pan in _just_ the X-Y directions. Ballheads are a bit too
+   hard here because they move in all directions at once. So I mostly used the panning
+   base of the ballhead to do fine adjustments and track the sun. My buddy used a gimbal
+   head and that seemed easier. Of course the best solution is to get at tracking mount
+   and then have the camera just shoot away automatically on its own. But that's a lot
+   more size and weight.
 
 4. My original plan was to put a 2x teleconverter on the long lens to get that longer
    focal length. But when I tried this configuration I found it hard to get sharp pictures
