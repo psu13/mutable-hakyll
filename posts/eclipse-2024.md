@@ -22,9 +22,11 @@ On that August afternoon the clouds held off and stayed high and thin enough tha
 managed to see the disk of the moon completely cover the disk of the sun. As day turned to
 night in the middle of the day all the local wild life, including the humans at the
 University of Missouri in Columbia, went all crazy with amazement and confusion at the
-surreal scene in front of us. As I will opine on later, if you have not managed to see
-this one of these events, it's _totally_ worth it to seek it out. You will never see
-anything quite like it. Partials are not even close to the same.
+surreal scene in front of us. If you have not managed to see this one of these events,
+it's _totally_ worth it to seek it out. You will never see anything quite like it.
+Partials are not even close to the same because if even the smallest sliver of the sun is
+still uncovered, it's still basically _day time_. In totality it's _night time_ during the
+day, which is an experience that is just indescribable.
 
 The one thing I did not do on that day is work hard on the photographic end of the
 experience. I knew that really doing well would require a lot of technical know-how that I
