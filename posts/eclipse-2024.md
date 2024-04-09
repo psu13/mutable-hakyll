@@ -100,8 +100,8 @@ As time went on we started to have some cloud anxiety:
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/53641393587/in/album-72177720316099516/" title="IMG_0800"><img src="https://live.staticflickr.com/65535/53641393587_901f0f69a5_w.jpg" width="400" height="300" alt="IMG_0800"/></a>
 
-But just like in 2017 we had great luck. We had some clouds, but they were thin and high,
-and at prime time we could still see the great show.
+But just like in 2017 we had great luck. We had some clouds, but they were thin and high.
+At prime time we could still see the great show.
 
 Here's my favorite shot from this year:
 
