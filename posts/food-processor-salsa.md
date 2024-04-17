@@ -32,7 +32,7 @@ Optional: cut the chilis open and roast them a bit in the oven. This makes them 
 To balance the heat, remove some of the seeds and veins from the peppers if you want. But
 leave some of the seeds in so the final result is hot enough. This is the hardest thing to
 guess at until you get it right. After you have decided what to do chop the peppers into
-prett big pieces.
+pretty big pieces.
 
 Peel and quarter the tomatillos.
 
