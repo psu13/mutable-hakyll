@@ -17,7 +17,7 @@ to boiling and while the pasta cooks. This recipe is calibrated to about a pound
 give or take.
 
 Now chop up three or four cloves of garlic and 3 or 4 slices of bacon (or more, go for
-it). Put these into a medium sizes saute pan with some oil and cook it until the bacon is
+it). Put these into a medium sized saute pan with some oil and cook it until the bacon is
 crispy and frying in its own fat for a while. When it's done deglaze the pan with white
 wine and reduce for a few minutes, then turn the heat off.
 
