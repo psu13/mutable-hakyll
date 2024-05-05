@@ -122,6 +122,15 @@ Finally, we have the last two rules:
     \circ (g \circ f)$, or alternatively $(hg)f$ = $h(gf)$. What this
     also means is that we can always just write $hgf$ if we want.
 
+The definition of categories is an abstraction of many different kinds of definitions in
+mathematics where we are given a some collection of things and some structural rules. The
+main example of a category that we will be concerned with is the category ${\mathbf
+{Sets}}$, where the objects are sets and the arrows are mappings between sets. In this
+context something interesting to think about is how the definition of a category only
+tells you that each mapping $f: A \to B$ acts on things in $A$ and sends them to things in
+$B$. There is nothing said about the specific action of $f$ on any single element of $A$.
+Category theory only ponders aggregate questions.
+
 Given a category ${\mathbf C}$ and objects $A, B$ in ${\mathbf C}$ we write
 $\mathop{\mathrm{Arrows}}_{\mathbf C}(A,B)$ to mean the collection of all arrows
 from $A$ to $B$ in ${\mathbf C}$ if we are being maximally careful. In practice we will usually
