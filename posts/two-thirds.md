@@ -99,7 +99,7 @@ Where the Bruckner invokes a sort of abstract universal spirituality, Mahler is 
 obviously and concretely about our Earthly existence. There are animals, children,
 marching bands, and all that. The music is crazy and neurotic, it seems to have no form or
 flow, and the instruments make strange noises that seem impossible. I found the it hard to
-understand until you've gone through it a few times and then suddenly you finally _get
+understand until I had gone gone through it a few times and then suddenly I finally _got
 it_. It's great fun, if you can use that word to describe a single piece of music that
 lasts more than an hour and a half. Someone should make it into a movie.
 
