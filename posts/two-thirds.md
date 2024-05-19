@@ -8,8 +8,8 @@ When the PSO announced their 2023-24 season last spring around this time one sho
 my eye immediately. The promise was that in April of this year they would be playing the
 Bruckner 8th symphony. This got me very excited because my most irrational obsession in
 Classical Music is sitting in the dark and being as quiet as possible for a single piece
-of music that lasts upwards of an hour and a half, and is structured mostly around two
-giant slow movements.
+of music that lasts more than an hour and is structured mostly around two giant slow
+movements.
 
 For this kind of experience Bruckner and Mahler are the two big players. And interestingly
 aside from the fact that they both wrote ludicrously verbose and expansive music the two
