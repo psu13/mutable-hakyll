@@ -123,7 +123,7 @@ Or incredible shots of Jupiter from the Phillipines (Credit: Chris Go):
 <img height=500 src="http://astro.christone.net/jupiter/j20240117a_cgo.jpg"></a>
 
 But, having the phone do this for you and then posting the shiny purple results on social
-media without careful disclosure and people will suddenly start complaining about you.
+media without careful disclosure and people will suddenly start complaining about it.
 
 I can understand people being a bit confused about the nature of "night mode" picture
 taking with modern phone cameras. It should not be possible. I get it. I have some
