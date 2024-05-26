@@ -78,7 +78,9 @@ You know the standard sort of shot:
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/53643658011/in/album-72177720316099516/" title="P4081188-2"><img src="https://live.staticflickr.com/65535/53643658011_a9b40e9e43.jpg" width="500" height="500" alt="P4081188-2"/></a>
 
-Everyone was satisfied and happy.
+Everyone was satisfied and happy. No one was upset that to get that framing you need to
+buy a lens that magnifies the picture by an order of magnitude or two. Zooming in is
+accepted practice.
 
 Then, about a month later there was the great aurora storm. 
 
