@@ -53,7 +53,7 @@ never happens.
 **Note**: If 2006 me had bothered to go to the other obvious store everywhere in
 Pittsburgh (Giant Eagle) he would have found the thing he was after. The Giant Eagle brand
 factory-made fake-vanilla ice cream and mostly-fake chocolate cookie ice cream sandwiches
-are just about perfect. They are also clearly better than the current local premium darling
-brand that that puts about two times too much too fancy ice cream on too fancy cookies
+are just about perfect. They are also clearly better than the current local foodie darling
+premium brand that that puts about two times too much too fancy ice cream on too fancy cookies
 that are themselves two times too thick and chewy. At least in my twisted opinion.
 
