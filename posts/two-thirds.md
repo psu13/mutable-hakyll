@@ -104,7 +104,7 @@ it_. It's great fun, if you can use that word to describe a single piece of musi
 lasts more than an hour and a half. Someone should make it into a movie.
 
 Some records for you to try: Bernstein with the NY Phil on Sony. Honeck with the PSO (you
-have to buy this, but it's worth it), Haitink on Philips (there is is again). You can get
+have to buy this, but it's worth it), Haitink on Philips (there he is again). You can get
 more suggestions from American Record Guide (July/August 2012) and from this youtube
 video: <a
 href="https://www.youtube.com/watch?v=ft_VyD7TU08">https://www.youtube.com/watch?v=ft_VyD7TU08</a>
