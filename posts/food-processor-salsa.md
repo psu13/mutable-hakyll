@@ -65,6 +65,6 @@ fridge for an hour or two.
 
 It will take you a bit of practice to get the balance between the tomatoes and tomatillos
 right, and to get the heat like you want it. I have found that the salsa gets less hot as
-it sits in the fridge, so making it a bit too hot to start it a good move. Do this once a
+it sits in the fridge, so making it a bit too hot to start is a good move. Do this once a
 week until you are good at it. Then every year you can do it again and make salsa that's
 better than the rest.
