@@ -171,7 +171,7 @@ This year I learned I should be using those dried peppers to make a chili pepper
 and then make chili out of that. [Kenji does it here](https://www.youtube.com/watch?v=pRsPrQ56BvI).
 
 So I did this with most of the peppers. Then used two or three more to also make some
-powder to spread around in the meat, and kept the rest of my method the same. And it was
+powder to spread around in the meat, and kept the rest of my method the same. And it
 worked pretty well. The scheme is a bit more variable because you never quite use the same
 amount of water to make the sludge. I might keep doing this or not, I have not decided.
 
