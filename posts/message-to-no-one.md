@@ -54,26 +54,29 @@ really wasn't sure what to look for and the site was loading slowly. Disappointe
 feeling lazy, I decided to see [what twitter
 thought](https://twitter.com/psu_13/status/1495849554108989444):
 
-<img src="../images/nil-message.png" width=500>
+<a href="https://twitter.com/psu_13/status/1495849554108989444"><img src="../images/nil-message.png" width=500></a>
 
 This, it turned out, was the perfect thing to use the giant nerd village for.
 
-Within a few minutes there was confirmation that [the behavior certainly existed and was
-documented by 1995](https://twitter.com/mbessey/status/1495853524407701514)
+Within just a few minutes there was a fairly heated twitter back and forth, and eventually
+I got [this message](https://twitter.com/helje5/status/1495861914605432837), which I have
+also saved here as a screenshot:
 
-Then later we got [back to 1993](https://twitter.com/vasprintf/status/1495854893898289160)
+> <a href="https://twitter.com/helje5/status/1495861914605432837"><img src="../images/objc-squeak.png" width=500></a>
 
-There was [runtime nerding](https://twitter.com/mbessey/status/1495856800369102849) by
-[runtime nerds](https://twitter.com/jckarter/status/1495857998845349888).
+**Note from 2024**: In the fall of 2022 twitter was acquired and then ended up as just a
+shadow of its former self, so I had to delete the various links that I had here that
+contained the humorous back and forth that my question generated because many of them have
+disappeared into the ether. I saved the most relevant ones that I could as screen shots.
+Like these two messages about runtime minutiae:
 
-There was also [funny runtime snarking by the same runtime
-nerds](https://twitter.com/jckarter/status/1495853328420552708). This tweet, by the way,
-is true. I have seen such code and will leave it at that.
+> <a href="https://twitter.com/jckarter/status/1495853328420552708"><img src="../images/objc-squizzle.png" width=500></a>
 
-Then, I got [this message which won the
-day](https://twitter.com/helje5/status/1495861914605432837) with a reference back to a
-post in the [Squeak forums, of all things](http://wiki.squeak.org/squeak/5962). So now we
-have the following facts:
+> <a href="https://twitter.com/jckarter/status/1495857998845349888"><img src="../images/objc-nil-register.png" width=500></a>
+
+But I had to remove the section here that had the rest of the light hearted banter. Sigh.
+
+So now we have the following facts:
 
 1. The long post verifies that the original Objective-C runtimes threw an error when told
 to send messages to `nil`, and that this was changed to the current fall-through behavior
@@ -91,8 +94,11 @@ says that the RTF for the OSF window manager happened in 1988, so this mean that
 201" must have shipped sometime around 1988. Hooray!
 
 Finally, a few hours later I got this reference to more [NeXT documentation from
-1990](https://twitter.com/EricShapiro/status/1495915397069090816). Of course this manual
-is on
+1990](https://twitter.com/EricShapiro/status/1495915397069090816):
+
+> <a href="https://twitter.com/EricShapiro/status/1495915397069090816"><img src="../images/objc-docs.png" width=500></a>
+
+Of course this manual is on
 [bitsavers](http://www.bitsavers.org/pdf/next/Release_1_Dec90/NEXTstep_Concepts_Dec90.pdf),
 like I figured it would be. 
 
