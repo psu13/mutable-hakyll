@@ -65,16 +65,18 @@ also saved here as a screenshot:
 > <a href="https://twitter.com/helje5/status/1495861914605432837"><img src="../images/objc-squeak.png" width=500></a>
 
 **Note from 2024**: In the fall of 2022 twitter was acquired and then ended up as just a
-shadow of its former self, so I had to delete the various links that I had here that
-contained the humorous back and forth that my question generated because many of them have
-disappeared into the ether. I saved the most relevant ones that I could as screen shots.
-Like these two messages about runtime minutiae:
+shadow of its former self. As a result a lot of the links I had here before have disappear
+into the ether. So I removed the section that had the rest of the light hearted banter.
+Sigh. After noticing this I did save a few of the most relevant ones that I could as
+screen shots. Like these two messages about runtime minutiae:
 
 > <a href="https://twitter.com/jckarter/status/1495853328420552708"><img src="../images/objc-squizzle.png" width=500></a>
 
 > <a href="https://twitter.com/jckarter/status/1495857998845349888"><img src="../images/objc-nil-register.png" width=500></a>
 
-But I had to remove the section here that had the rest of the light hearted banter. Sigh.
+Such is life with the modern Internet.
+
+**Back to 2022**
 
 So now we have the following facts:
 
