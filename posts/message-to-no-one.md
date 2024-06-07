@@ -65,7 +65,7 @@ also saved here as a screenshot:
 > <a href="https://twitter.com/helje5/status/1495861914605432837"><img src="../images/objc-squeak.png" width=500></a>
 
 **Note from 2024**: In the fall of 2022 twitter was acquired and then ended up as just a
-shadow of its former self. As a result a lot of the links I had here before have disappear
+shadow of its former self. As a result a lot of the links I had here before have disappeared
 into the ether. So I removed the section that had the rest of the light hearted banter.
 Sigh. After noticing this I did save a few of the most relevant ones that I could as
 screen shots. Like these two messages about runtime minutiae:
