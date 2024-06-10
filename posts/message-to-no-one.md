@@ -66,11 +66,10 @@ me at [this page in the Squeak forums](http://wiki.squeak.org/squeak/5962), of a
 
 The forum post had a lot of the relevant details that we were after. So now we know:
 
-1. The [long post]((http://wiki.squeak.org/squeak/5962)) verifies that the original
-Objective-C runtimes threw an error when told to send messages to `nil`, and that this was
-changed to the current fall-through behavior in a release of some software called "ICPack
-201". This package was released by a company called Stepstone, which originally developed
-and owned the language in the 80s.
+1. The original Objective-C runtimes threw an error when told to send messages to `nil`,
+and that this was changed to the current fall-through behavior in a release of some
+software called "ICPack 201". This package was released by a company called Stepstone,
+which originally developed and owned the language in the 80s.
 
 2. The only information about this company that I could find on the Internet was [the
 wikipedia entry](https://en.wikipedia.org/wiki/Stepstone) which mentions "ICPack 201" but
