@@ -59,31 +59,18 @@ thought](https://twitter.com/psu_13/status/1495849554108989444):
 This, it turned out, was the perfect thing to use the giant nerd village for.
 
 Within just a few minutes there was a fairly heated twitter back and forth, and eventually
-I got [this message](https://twitter.com/helje5/status/1495861914605432837), which I have
-also saved here as a screenshot:
+I got [this message](https://twitter.com/helje5/status/1495861914605432837), which pointed
+me at [this page in the Squeak forums](http://wiki.squeak.org/squeak/5962), of all things:
 
 > <a href="https://twitter.com/helje5/status/1495861914605432837"><img src="../images/objc-squeak.png" width=500></a>
 
-**Note from 2024**: In the fall of 2022 twitter was acquired and then ended up as just a
-shadow of its former self. As a result a lot of the links I had here before have disappeared
-into the ether. So I removed the section that had the rest of the light hearted banter.
-Sigh. After noticing this I did save a few of the most relevant ones that I could as
-screen shots. Like these two messages about runtime minutiae:
+The forum post had a lot of the relevant details that we were after. So now we know:
 
-> <a href="https://twitter.com/jckarter/status/1495853328420552708"><img src="../images/objc-squizzle.png" width=500></a>
-
-> <a href="https://twitter.com/jckarter/status/1495857998845349888"><img src="../images/objc-nil-register.png" width=500></a>
-
-Such is life with the modern Internet.
-
-**Back to 2022**
-
-So now we have the following facts:
-
-1. The long post verifies that the original Objective-C runtimes threw an error when told
-to send messages to `nil`, and that this was changed to the current fall-through behavior
-in a release of some software called "ICPack 201". This package was released by a company
-called Stepstone, which originally developed and owned the language in the 80s.
+1. The [long post]((http://wiki.squeak.org/squeak/5962)) verifies that the original
+Objective-C runtimes threw an error when told to send messages to `nil`, and that this was
+changed to the current fall-through behavior in a release of some software called "ICPack
+201". This package was released by a company called Stepstone, which originally developed
+and owned the language in the 80s.
 
 2. The only information about this company that I could find on the Internet was [the
 wikipedia entry](https://en.wikipedia.org/wiki/Stepstone) which mentions "ICPack 201" but
@@ -120,3 +107,17 @@ thread](https://stackoverflow.com/questions/11530133/why-is-it-that-sending-any-
 in my first few searches, and it also has the reference to the Squeak post. But I missed
 it my first time through. So there you go. If I had had better eyes I would have missed
 out on a minor twitter storm.
+
+#### New Final Note from 2024
+
+In the fall of 2022 twitter was acquired and then ended up as just a
+shadow of its former self. As a result a lot of the links I had here before have disappeared
+into the ether. So I removed the section that had the rest of the light hearted banter.
+Sigh. After noticing this I did save a few of the most relevant ones that I could as
+screen shots. Like these two messages about runtime minutiae:
+
+> <a href="https://twitter.com/jckarter/status/1495853328420552708"><img src="../images/objc-squizzle.png" width=500></a>
+
+> <a href="https://twitter.com/jckarter/status/1495857998845349888"><img src="../images/objc-nil-register.png" width=500></a>
+
+Such is life with the modern Internet.
