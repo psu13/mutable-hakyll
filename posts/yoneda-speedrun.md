@@ -579,19 +579,24 @@ $\mathop{\mathrm{Natural}}(\mathop{\mathrm{Arrows}}(X,-), F)$.
 I think this is my favorite "standard" way of writing this.
 
 Peter Smith
-[[11](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/)]
+[[11](https://www.logicmatters.net/resources/pdfs/SmithCat.pdf)]
 does this:
 
 **Lemma 4** (Yoneda). For any locally small category $\mathbf{C}$,
-object $X
-\in \mathbf{C}$, and functor $F:\mathbf{C}\longrightarrow {\mathbf {Sets}}$ we have
+object $X$ in $\mathbf{C}$, and functor $F:\mathbf{C}\longrightarrow {\mathbf {Sets}}$,
 $\mathop{\mathrm{Nat}}(\mathbf{C}(X,-),F) \cong
-FX$ both naturally in $X \in \mathbf{C}$ and
-$F \in [\mathbf{C}, {\mathbf {Sets}}]$.
+FX$ both naturally in $X$ and naturally in
+$F$.
 
-He uses the $[\mathbf{C}, {\mathbf {Sets}}]$ notation for the functor
-category, and he writes "$\!\mathop{\mathrm{Nat}}\,$" where we say
-"$\!\mathop{\mathrm{Natural}}\,$".
+Likewise For any locally small category $\mathbf{C}$,
+object $X$ in $\mathbf{C}$, and contravariant functor $F:\mathbf{C}\longrightarrow
+{\mathbf {Sets}}$ (equivalently, covariant functor $F:\mathbf{C}^{\mathrm{op}} \to {\mathbf {Sets}}$),
+$\mathop{\mathrm{Nat}}(\mathbf{C}(-,X),F) \cong
+FX$ both naturally in $X$ and naturally in
+$F$.
+
+Smith writes "$\mathop{\mathrm{Nat}}$" where we say
+"$\mathop{\mathrm{Natural}}$".
 
 Paolo Perrone [[8](https://arxiv.org/abs/1912.10642)]
 writes the dual version, and uses the standard
@@ -602,10 +607,10 @@ ${\mathbf {Sets}}$.
 object of $\mathbf{C}$, and let
 $F:\mathbf{C}^\mathrm{op}\longrightarrow{\mathbf {Sets}}$ be a presheaf on
 $\mathbf{C}$. Consider the map from
-$$\mathop{\mathrm{Hom}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]} \bigl(\mathop{\mathrm{Hom}}_\mathbf{C} (-,X) , F \bigr) \longrightarrow FX$$
+$$\mathop{\mathrm{Hom}}_{[\mathbf{C}^\mathrm{op},{\mathbf {Sets}}]} \bigl(\mathop{\mathrm{Hom}}_\mathbf{C} (-,X), F \bigr) \longrightarrow FX$$
 assigning to a natural transformation
 $\alpha:\mathop{\mathrm{Hom}}_\mathbf{C} (-,X)\Rightarrow F$
-the element $\alpha_X(\mathrm{id}_X)\in FX$, which is the value of the
+the element $\alpha_X(\mathrm{id}_X)\in FX,$ which is the value of the
 component $\alpha_X$ of $\alpha$ on the identity at $X$.
 
 This assignment is a bijection, and it is natural both in $X$ and in
@@ -789,6 +794,5 @@ Context*](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_contex
 [10] Emily Riehl, [ACT 2020 Tutorial: *The Yoneda lemma in the category of
 matrices*](https://www.youtube.com/watch?v=SsgEvrDFJsM).
 
-[11] Peter Smith, [ *Category Theory: A Gentle
-Introduction*](https://www.logicmatters.net/2018/01/29/category-theory-a-gentle-introduction/),
-2019.
+[11] Peter Smith, [*Introducing Category Theory*](https://www.logicmatters.net/resources/pdfs/SmithCat.pdf),
+2024.
