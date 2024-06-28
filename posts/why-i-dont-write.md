@@ -20,6 +20,15 @@ By far the largest barrier to actually posting here is self-editing. I will star
 
 4. peterb already wrote the same piece last week.
 
-And on and on. There are certainly more reasons not to write something than to sit down and actually do it. I recall an article I read in graduate school by the Professor Ivan Sutherland (of Evans and Sutherland fame) about courage and research. He said that the major barrier to getting published academically is the self-editing that happens due to the fear that your own work is not worth publishing. His article made the point that it's your job to do the work and write about it. It's someone else's job to figure out if it is good. So just do it and don't do the other guy's job for him. Google found me a <a href="http://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf">more evolved</a> version of this paper, so now you can read it too.
+And on and on. There are certainly more reasons not to write something than to sit down
+and actually do it. I recall an article I read in graduate school by the Professor Ivan
+Sutherland (of Evans and Sutherland fame) about courage and research. He said that the
+major barrier to getting published academically is the self-editing that happens due to
+the fear that your own work is not worth publishing. His article made the point that it's
+your job to do the work and write about it. It's someone else's job to figure out if it is
+good. So just do it and don't do the other guy's job for him. Google found me a <a
+href="https://reimbar.org/papers/technology-and-courage/">more evolved</a> version of this
+paper, so now you can read it too.
 
-I guess I didn't have to write this piece after all, since Mr. Sutherland did it for me. Oh well. Too late now.
+I guess I didn't have to write this piece after all, since Mr. Sutherland did it for me.
+Oh well. Too late now.
