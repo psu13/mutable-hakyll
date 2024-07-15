@@ -106,7 +106,7 @@ guess which ones.
 The one thing they did do was break up the back end into a lot of separate servers run by
 independent individuals. So instead of broadcasting your precious thoughts to every
 asshole on the Internet everywhere, all you do now is broadcast them to _just the assholes
-on server you picked to join_. To get more assholes to see it, users from the other servers
+on the server you picked to join_. To get more assholes to see it, users from the other servers
 have to follow you to open up a tube to get your posts from one server to the other.
 
 This, the nerds say, will fix everything, and create a system that can truly fulfill the
