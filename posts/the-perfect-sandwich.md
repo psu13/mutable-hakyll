@@ -50,7 +50,7 @@ It is rare in the U.S. (maybe other places, I don't know) to run into people who
 
 Anyway, the list of perfect sandwiches I have had in my life:
 
-1. The NY-style egg and cheese. I got a couple of these on my last trip to Manhattan. In Pittsburgh you can go to <a href="http://www.pearandpickle.com">Pear and the Pickle</a> and they make a very good version of this sandwich. The key thing is not using bread that's too fancy.
+1. The NY-style egg and cheese. I got a couple of these on my last trip to Manhattan. In Pittsburgh you can go to Pear and the Pickle<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref">*</a> and they make a very good version of this sandwich. The key thing is not using bread that's too fancy.
 
 2. I once got an absolutely perfect Reuben at a bar in Pittsburgh (Tessaro's). I've never gotten one that good again, so I think it was a fluke. We don't have the space here to go into what makes a perfect Reuben.
 
@@ -104,3 +104,5 @@ We also went to a third sandwich shop called <a href="https://www.tripadvisor.co
 And finally, as I was writing this we headed over to the local summer farmer's market where a new bagel bakery in town, Pigeon Bagels, was selling a bagel sandwich with cream cheese, fresh local tomatoes, lettuce, and anchovy. This, I thought, would not have been completely out of place in Florence. So maybe there is yet hope for the sandwich in the States.
 
 **Editorial Note:** I realized after I hit publish that there should be one more entry on the list of great sandwiches: a well made *milanesa*. There used to be a Mexican restaurant in Pittsburgh that did this really well, but I have not had a really good once since then.
+
+<p id="fn1" role="doc-endnote">&#x2a; **Editorial Note 2:** Sadly the Pear and Pickle is no more. So instead go to the Thyme Machine food truck. Their egg and cheese is just as good. Maybe better.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p>
