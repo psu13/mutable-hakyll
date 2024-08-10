@@ -151,6 +151,3 @@ After I originally posted this I realized I forgot about something that the PSO 
 It would not be hyperbolic to say that some of the *most interesting* music of the year happens in these post-concert performances. They play stuff you don't get to hear a lot, and you also get to move up closer to the performers and really engage with them face to face. One time the guest conductor even played clarinet in one of these pieces. That was dope.
 
 So anyway, stick around for these. You will not regret it.
-
-
-
