@@ -125,7 +125,7 @@ stopped running the spot last year it has not missed a step.
 The Eastern European vegan food at Apteka is actually great. This is _me_ saying this.
 
 Finally, new Hong Kong style dessert place Mango Mango is a must try. Not quite as good as
-the Mango cake. But almost.
+the mango cake. But almost.
 
 Even though we have lost some old friends over the last few years the restaurant scene in
 Pittsburgh has really started to come back with more variety and personality than I could
