@@ -12,12 +12,12 @@ keep that in mind!
 
 1. **Pork Xiao Long Bao: Everyday Noodle**
 
-    Everyday noodle is a local miracle. The place should not be able to exist and it certainly
-should not be as good as it is. It's certainly as good or better than comparable places in
-cities what you would call "real" high level Chinese food: Vancouver BC, the Bay Area, LA,
-Toronto, etc. It also competes well with comparable places _in Asia_. I don't know what
-they are doing to maintain this, but I'm happy they are doing it and I'm going to keep
-going as often as I can because there is no way it can last forever.
+    Everyday Noodle is a local miracle. The place should not be able to exist and it
+certainly should not be as good as it is. It's as good or better than comparable places in
+cities that have what you would call "real" high level Chinese food: Vancouver BC, the Bay
+Area, LA, Toronto, etc. It also competes well with comparable places _in Asia_. I don't
+know what they are doing to maintain this, but I'm happy they are doing it and I'm going
+to keep going as often as I can because there is no way it can last forever.
 
 1. **"House Fly Heads": Cafe 33**
 
