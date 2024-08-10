@@ -21,11 +21,11 @@ going as often as I can because there is no way it can last forever.
 
 1. **"House Fly Heads": Cafe 33**
 
-    Taiwanese Bistro Cafe 33 is run by some former Rose Tea folks, if I recall correctly. They
-have generally held up a Rose Tea level of quality Taiwanese food. Although the pandemic
-took its toll and it's a little more variable now than before. This dish mixes the Chinese
-garlic chives, ground pork, and black beans. The black beans are the fly heads. It's
-great. You should get it.
+    Taiwanese Bistro Cafe 33 is run by some former Rose Tea folks, if I recall correctly.
+They have generally managed to put out a Rose Tea level of quality Taiwanese food, though
+the pandemic took its toll and it's a little more variable now than before. This dish
+mixes the Chinese garlic chives, ground pork, and black beans. The black beans are the fly
+heads. It's great. You should get it.
 
 1. **Lomo Saltado: Chicken Latino**
 
