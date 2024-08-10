@@ -120,7 +120,9 @@ and expect it to still be there when you get there.
 Hot dogs at D's must be mentioned.
 
 The burger (and everything else) at Butterjoint must be mentioned. Even though Trevett
-stopped running the spot last year it has not missed a step. 
+stopped running the spot last year it has not missed a step.
+
+The Eastern European vegan food at Apteka is actually great. This is _me_ saying this.
 
 Finally, new Hong Kong style dessert place Mango Mango is a must try. Not quite as good as
 the Mango cake. But almost.
