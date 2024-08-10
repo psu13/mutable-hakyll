@@ -111,7 +111,7 @@ Taiwanese sausage over rice at Rose Tea Express is everything that was great abo
 original Rose Tea in one rice bowl. 
 
 Food trucks: 100 mile crepe for jian bing. The Boonseek for Korean Corn dogs (but their spicy
-fried chicken over rice is the actual best thing there), Sake Pase for incredible Haitian
+fried chicken over rice is the actual best thing there), Sak Pasé for incredible Haitian
 braised pork stew, the Steer and Wheel for burgers.
 
 Anything at Morcilla is good. But their menu changes too much to list any given thing here
