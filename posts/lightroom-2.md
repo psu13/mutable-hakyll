@@ -38,7 +38,7 @@ If you are not familiar with Lightroom, here is what it does. Lightroom does thr
 
 In the past I would find myself still using other tools for either stage 1 or 2 of this
 process. I’m not much of a cataloger. So LR does the job I need there, even if its not too
-good at it. However, I used to find that Photomechanic was stil faster at import and
+good at it. However, I used to find that Photomechanic was still faster at import and
 tagging, and that I needed Photoshop for complicated local adjustments.
 
 Well, not anymore. The import and tagging in Lightroom has improved, and performance is
