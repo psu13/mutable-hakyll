@@ -33,7 +33,7 @@ If you are not familiar with Lightroom, here is what it does. Lightroom does thr
    This works with either JPEG or RAW files, but you have more latitude with RAW files.
 
 3. Catalog. Lightroom keeps a catalog of picture data and metadata and has rudimentary
-   search capabilities. This, by the way, is by far the worst part
+   search and destroy\^H\^H\^H\^H\^H\^H\^H capabilities. This, by the way, is by far the worst part
    of the application.
 
 In the past I would find myself still using other tools for either stage 1 or 2 of this
