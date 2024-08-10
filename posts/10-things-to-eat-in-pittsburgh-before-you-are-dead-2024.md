@@ -95,7 +95,7 @@ it's a perfect thing to split with one or two other people and not get too full.
 
 Anything else on the menu at any of these places. 
 
-The Chonqing style "dry hot" whole chicken wings at Sichuan Spice in Shadyside are a
+The Chongqing style "dry hot" whole chicken wings at Sichuan Spice in Shadyside are a
 sensation. This is not on their online takeout menu, so maybe I hallucinated it. But if
 it's there get it.
 
