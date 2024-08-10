@@ -119,8 +119,13 @@ and expect it to still be there when you get there.
 
 Hot dogs at D's must be mentioned.
 
+The burger (and everything else) at Butterjoint must be mentioned. Even though Trevett
+stopped running the spot last year it has not missed a step. 
+
 Finally, new Hong Kong style dessert place Mango Mango is a must try. Not quite as good as
 the Mango cake. But almost.
 
 Even though we have lost some old friends over the last few years the restaurant scene in
-Pittsburgh has really started to come back with more variety and 
+Pittsburgh has really started to come back with more variety and personality than I could
+have imagined it having. The fact that the asian food is completely taking over Squirrel
+Hill to a previously unimaginable degree helps, of course.
