@@ -33,3 +33,8 @@ title="dave and andy's" alt="the wall at dave and andy's with the logo on it"></
 Then we got some <a
 href="https://www.pennsylvasia.com/2022/10/newish-food-truck-in-oakland-hundred.html">Chinese
 savory grilled crepes (jian bing)</a> for dessert.
+
+**Note**: About a month after I posted this Dave and Andy's closed for good. So I got three
+cones in a month instead of my usual one or two cones in a year. Now that both the O and
+Dave and Andy's are gone I will have nowhere to nostalgically relive the Oakland haunts of
+my college days. Ah well.
