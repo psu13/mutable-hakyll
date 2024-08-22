@@ -117,10 +117,10 @@ pictures from your back yard:
 
 > <a data-flickr-embed="true" href="https://www.flickr.com/photos/79904144@N00/8175763702/in/album-72157631169684214/" title="NGC891_2012_11_10_LRGB-pix-sat-sharpen-PS"><img src="https://live.staticflickr.com/8062/8175763702_c70e2464b1.jpg" width="500" height="375" alt="NGC891_2012_11_10_LRGB-pix-sat-sharpen-PS"/></a>
 
-Or incredible shots of Jupiter from the Phillipines (Credit: Chris Go):
+Or incredible shots of <a href="http://astro.christone.net/jupiter/index.htm">Jupiter from the Phillipines </a>(Credit: Chris Go):
 
-> <a href="http://astro.christone.net/jupiter/j20240117a_cgo.jpg">
-<img height=500 src="http://astro.christone.net/jupiter/j20240117a_cgo.jpg"></a>
+> <a href="http://astro.christone.net/jupiter/index.htm">
+<img height=400 src="images/go-jupiter.png"></a>
 
 But, having the phone do this for you and then posting the shiny purple results on social
 media without careful disclosure and people will suddenly start complaining about it.
