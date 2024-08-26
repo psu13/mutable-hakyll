@@ -27,7 +27,7 @@ I have mentioned this already. The best slow cooked meat I’ve ever had in Pitt
 
 Dinette changes its pizzas around a lot, but anytime there is one with lardons and eggs, you have to get it. In my view, best evidence yet that there is a god is the fact that the egg and the pizza crust both take the same amount of time to become perfectly cooked.
 
-<li>5. **Cortado or Hand Pour Coffee, 21st street coffee**
+<li> **Cortado or Hand Pour Coffee, 21st street coffee**
 
 The Cortado is the most perfectly balanced espresso drink that I’ve yet had. In addition, the hand drip coffee that 21st street has been doing is consistently better than any other brewed coffee anywhere. In fact it will make you question why you buy drip coffee anywhere else.
 

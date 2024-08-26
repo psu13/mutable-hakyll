@@ -17,7 +17,7 @@ First, get you to the farmer's market and collect the following items:
 
 1. Cilantro if you like it.
 
-1. Scallion. Or shallots. Or red onion. Whatever is your favorite.
+1. Scallion. Or shallots. Or red onion. Whatever is your favorite. Also some garlic if you want.
 
 1. 3 or 4 of your favorite peppers. Peppers are tricky to get these days because the
    peppers that used to be reliably hot (jalapeno, say) are no longer so. This year I have
