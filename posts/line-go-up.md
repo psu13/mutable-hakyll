@@ -35,10 +35,10 @@ addition the springy front takes the sting out of the shitty Pittsburgh washboar
 the bike much more comfortable than my previous full on carbon road bike and almost as
 comfy as the fatty tire machine. 
 
-Finally, the Di2 drivetrain move the chain around with barely any effort on my part at
+Finally, the Di2 drivetrain shifts the chain around with barely any effort on my part at
 all. It's like having a spooky ghost shifting the bike for you, at least when the
-batteries are topped up (ugh). My only complaints are that I've had the chain slip off the
-front a few times, and I have a constant low level anxiety about the batteries, or the
+batteries are topped up (ugh). My main complaint is that I've had the chain slip off the
+front a few times. But I also have a constant low level anxiety about the batteries, or the
 inscrutable embedded computer deciding to go out to lunch while I'm out and about. The
 fact that each of these things has happened once already in the first year or use does not
 help my mental state.
