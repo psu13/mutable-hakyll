@@ -39,7 +39,7 @@ Hand made noodles, awesome bechamel sauce, and the portion is enough to feed a s
 
 I’ll say it again: grilled sardines at Dish. The braised onions on the side make this dish. Their mango cake is also to die for.
 
-<li> **Grilled Cheese Sandiwch, Kelly’s Bar**
+<li> **Grilled Cheese Sandwich, Kelly’s Bar**
 
 The canonically perfect grilled cheese. Absolutely balanced. Perfectly prepared.
 
