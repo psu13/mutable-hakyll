@@ -17,12 +17,15 @@ and
 But this year's twist is that (2) did not happen. For the first time since I started using
 the service in 2012 I did very much above average on _both_ distance _and_ speed.
 
-I have three partial reasons why this might have happened this year. First, like in 2012 I
-bought a new fast bike. Really I got it at the very end of last year. I had been on the
-lookout for one of the new-fangled electronically shifting Shimano Di2 bikes for a while,
-but since 2020 they had been mostly out of stock, or way too expensive. But for 2024
-Specialized put out this thing, which is their semi-fancy _Roubaix_ carbon frame, with the
-springy headset and the new Shimano 105 Di2 for shifting:
+I have three partial reasons why this might have happened this year. First, I spent this
+year riding a new faster bike that I bought at the end of last year. The last time I
+bought a [new faster bike was in 2011](https://mutable-states.com/blue-streak.html), which
+accounted for all the speed in 2012. Interesting coincidence!
+
+Anyway, I had been on the lookout for one of the new-fangled electronically shifting
+Shimano Di2 bikes for a while, but since 2020 they had been mostly out of stock, or way
+too expensive. But for 2024 Specialized put out this thing, which is their semi-fancy
+_Roubaix_ carbon frame, with the springy headset and the new Shimano 105 Di2 for shifting:
 
 > <a href="../images/roubaix.jpg"><img src="../images/roubaix.jpg" width=400
 title="new bike" alt="new bike"></a>
