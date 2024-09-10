@@ -64,9 +64,17 @@ After spending the last few weeks listening mostly to Solti and Böhm, but also 
 
 - For those times when you just want a little fix, get a highlights disk. My buddy Pete likes <a href="http://www.amazon.com/Ring-Without-Words-Richard-Wagner/dp/B000003CUJ/">this one</a> because it gives you all the high points without needing to listen to all that crappy singing in German.
 
-- After working through the Solti again, I can see why some people find it annoying. It does seem to lurch from Big Moment to Big Moment at times, and it suffers from a couple of instances of unfortunate casting. Some of the sound effects and other processing are also a bit dated. However, in the largest moments of the piece it still does the best job of combining excellent recorded sound, great singing, and heart-felt (if overwrought) conducting. 
+- After working through the Solti again, I can see why some people find it annoying. It
+  does seem to lurch from Big Moment to Big Moment at times, and it suffers from a couple
+  of instances of unfortunate casting. Some of the sound effects and other processing are
+  also a bit dated. However, in the largest moments of the piece it still does the best
+  job of combining excellent recorded sound, great singing and orchestral performance, and
+  heart-felt conducting. 
 
-- I have not investigated the various live recordings in any depth except for the Böhm from 1966. I like the Böhm recording a lot. Especially for _Die Walküre_. It has a bit of extra tension from the live performance, and Böhm is less hyperactive as a conductor than Solti.
+- I have not investigated the various live recordings in any depth except for the Böhm
+  from 1966. I like the Böhm recording a lot. Especially for _Die Walküre_. It has a bit
+  of extra tension from the live performance, and Böhm is perhaps less episodic as a
+  conductor than Solti.
 
 - I've only listened to parts of Janowski and Karajan. What I've heard I have enjoyed, but I need to work through more of each before I have a more considered opinion. The Janowski is a smoother and less jagged performance in remarkably good studio sound. The Karajan is, for lack of a better term for it, Karjan. He gets a luscious sound from his orchestra, and his singers are sometimes stronger actors than Solti's. In any case, if Solti turns you off, you should be able to find happiness in any of these major alternatives.
 
