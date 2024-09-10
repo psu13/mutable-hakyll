@@ -76,6 +76,18 @@ After spending the last few weeks listening mostly to Solti and Böhm, but also 
   of extra tension from the live performance, and Böhm is perhaps less episodic as a
   conductor than Solti.
 
-- I've only listened to parts of Janowski and Karajan. What I've heard I have enjoyed, but I need to work through more of each before I have a more considered opinion. The Janowski is a smoother and less jagged performance in remarkably good studio sound. The Karajan is, for lack of a better term for it, Karjan. He gets a luscious sound from his orchestra, and his singers are sometimes stronger actors than Solti's. In any case, if Solti turns you off, you should be able to find happiness in any of these major alternatives.
+- I've only listened to parts of Janowski and Karajan. What I've heard I have enjoyed, but
+  I need to work through more of each before I have a more considered opinion. The
+  Janowski is a smoother and less jagged performance in remarkably good studio sound. The
+  Karajan is, for lack of a better term for it, Karajan. He gets a luscious sound from his
+  orchestra, and his singers are sometimes stronger actors than Solti's. In any case, if
+  Solti turns you off, you should be able to find happiness in any of these major
+  alternatives.
 
-I leave with one final thought. At the end of _Ring Resounding_ John Culshaw muses about what Wagner would have thought of his huge magnum opus being available in mass media. After my last month in a _Ring_ deep dive, I wonder if Culshaw could have possibly imagined how far this mass media would evolve in the 50 years after he finished that first recording. When his project finished up in 1965 it was the only way to hear a complete performance of the _Ring_ on recorded media. Now, in late 2014, you can sit at your laptop and flit between _dozens_ of them. And I didn't even talk about the _videos_.
+I leave with one final thought. At the end of _Ring Resounding_ John Culshaw muses about
+what Wagner would have thought of his huge magnum opus being available in mass media.
+After my last month in a _Ring_ deep dive, I wonder if Culshaw could have possibly
+imagined how far this mass media would evolve in the 50 years after he finished that first
+recording. When his project finished up in 1965 it was the only way to hear a complete
+performance of the _Ring_ on recorded media. Now, in late 2014, you can sit at your laptop
+and flit between _dozens_ of them. And I didn't even talk about the _videos_.
