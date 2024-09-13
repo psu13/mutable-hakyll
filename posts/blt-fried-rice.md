@@ -5,11 +5,13 @@ author: psu
 ---
 
 Tonight an end of summer farmer's market banger. This is also probably the best food idea
-to come to the house since the Peanut butter and chili crisp toast, or the ma-po tofu
-tater tots.
+to come to life in the house since the Peanut butter and chili crisp toast, or the ma-po tofu
+tater tots. 
 
-Karen gets the credit for figuring out the rice way to put the tomatoes in. Otherwise this
-was all my idea.
+Karen gets the credit for figuring out the right way to put the tomatoes in. Otherwise
+this was all my idea. Strictly speaking I made up a version of it [in another post in
+2019](https://mutable-states.com/fried-rice-updated.html), but we ended up with here was
+better than that.
 
 I give you: *BLT Fried Rice*.
 
