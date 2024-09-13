@@ -24,7 +24,7 @@ I give you: *BLT Fried Rice*.
 
 Mix mix mix some more.
 
-Put it in a bowl with a fried egg on top.
+Put it in a bowl with a fried egg on top. Kewpie Mayo on top is also great.
 
 > <a href="images/IMG_4403.jpg"><img src="images/IMG_4403.jpg" width=400
 title="BLT fried rice" alt="BLT fried rice"></a>
