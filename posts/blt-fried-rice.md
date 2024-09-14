@@ -5,7 +5,7 @@ author: psu
 ---
 
 Tonight an end of summer farmer's market banger. This is also probably the best food idea
-to come to life in the house since the Peanut butter and chili crisp toast, or the ma-po tofu
+to come to life in the house since the peanut butter and chili crisp toast, or the ma-po tofu
 tater tots. 
 
 Karen gets the credit for figuring out the right way to put the tomatoes in. Otherwise
