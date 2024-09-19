@@ -16,7 +16,7 @@ better than that.
 I give you: *BLT Fried Rice*.
 
 1. Brown off 3 or 4oz of diced bacon. Keep a bit of the fat.
-2. In the fat, scramble one egg around in the bottom of a wok for fried rice.
+2. In the fat, scramble one egg for fried rice in a 12-13 wok or similar frying pan.
 3. To the egg add 3 or 4 chopped scallion and about 1/3 or more of a head of iceberg
    lettuce roughly chopped/shredded.
 4. Add 2 cups of cooked rice, salt, and black pepper. Mix around until it's fried rice.
