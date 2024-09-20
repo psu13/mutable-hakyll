@@ -44,10 +44,10 @@ theater experience.
 
 Still, as good as the Keilberth is, there is still annoying stage noise, strange hissing,
 people coughing, and some inexplicably weird/amateurish sounding orchestral playing in the
-quiet parts (especially the brass). This is still no match for Solti and his giant band in
-Vienna. The sound on the Solti records was captured under basically perfect studio
-conditions and you can hear this in every second of the set. So you should still get it.
-Luckily this is easy because you just sign up for Apple Music or
+quiet parts (especially the brass). The _production_ is still no match for Solti and his
+giant band in Vienna. The sound on the Solti records was captured under basically perfect
+studio conditions and you can hear this in every second of the set. So you should still
+get it. Luckily this is easy because you just sign up for Apple Music or
 [Presto](https://www.prestomusic.com/streaming) or whatever and go to it. No real
 hardship.
 
