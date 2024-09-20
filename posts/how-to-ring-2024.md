@@ -76,7 +76,7 @@ worked my way through this cycle again (in addition to a few different performan
 _Parsifal_, and before that _Tristan_) I feel like of all of the great Western operatic
 masterpieces Wagner's works most lend themselves to taking an edible or other psychoactive
 substance and then heading to the theater high as a kite for a long four hour journey
-through crazytown. _Parsifal_, _Tristan_, _Seigfried_, and _Götterdämmerung_ seem to me to
+through crazytown. _Parsifal_, _Tristan_, _Siegfried_, and _Götterdämmerung_ seem to me to
 be especially amendable to this treatment, what with all the magic potions, psychological
 warfare, group hallucinations, talking animals and plants, and so on. Maybe opera
 companies should consider this for the next time they ramp up productions of these works.
