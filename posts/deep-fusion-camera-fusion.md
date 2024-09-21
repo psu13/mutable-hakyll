@@ -1,6 +1,6 @@
 ---
 title: Deep Fusion Camera Fusion
-date: 2024-09-25
+date: 2024-09-21
 author: psu
 ---
 
