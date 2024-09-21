@@ -59,4 +59,6 @@ bigger than with HEIC or JPEG.
 This is all I've been able to figure out in one morning of noodling with the camera. In
 our next episode we will discuss exactly what photo "styles" do.
 
+There is a whole other bank of settings for video, which I never use.
+
 Also I never use the front camera, so I have no idea.
