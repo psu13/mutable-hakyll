@@ -37,6 +37,9 @@ New iPhone Camera also says:
   this setting is "24MP", but that only holds for the 1x, 1.2x and 1.5x cameras, as
   established above.
 
+- Finally, all the special computational camera modes (night mode, macro, etc) all fall back to
+  12MP. At least that's the best guess we have as of this writing
+
 - Also I have a new second button on the side of the phone. The nice thing it does is
   instantly open the camera app. It can also be a shutter button. But if you are used to
   using the physical buttons on the other side of the phone for this it will feel odd to
