@@ -10,9 +10,9 @@ New iPhone Camera says: "Easiest to use camera you have, just open it up and hit
 
 New iPhone Camera also says:
 
-- I have three physical lenses: normal (1x), super wide (.5x), and medium telephoto (5x).
+- There are three physical lenses: normal (1x), super wide (.5x), and medium telephoto (5x).
 
-- Yet the default set of focal length buttons at the bottom of my user interface has 4
+- Yet the default set of focal length buttons at the bottom of the user interface has 4
   choices: super wide (.5x), normal (1x), short telephoto (2x) and medium telephoto (5x).
 
 - Also when you hit the 1x button it toggles between up to 3 synthesized lens focal lengths:
@@ -33,19 +33,19 @@ New iPhone Camera also says:
   12), but the files are 5-10x bigger.
 
 - With the RAW 12 setting all the resolutions are 12MP and all the files are 5-10x
-bigger than with HEIC or JPEG.
+  bigger than with HEIC or JPEG.
 
 - If you set 12MP mode in the camera app settings and are not using MAX mode then the
   default resolutions all go to 12MP instead of whatever they were before. The default for
   this setting is "24MP", but that only holds for the 1x, 1.2x and 1.5x cameras, as
   established above.
 
-- Finally, all the special computational camera modes (night mode, macro, etc) all fall back to
-  12MP. At least that's the best guess we have as of this writing. What this means is even
-  with all of the elaborate machinery above, most of your food pictures will still be
-  12MP. Which means most of your pictures will be 12MP.
+- Finally, all the special computational camera modes (night mode, macro, etc) all fall
+  back to 12MP. At least that's the best guess we have as of this writing. What this means
+  is even with all of the elaborate machinery above, most of your food pictures will still
+  be 12MP. Which means most of your pictures will be 12MP.
 
-- Also I have a new second button on the side of the phone. The nice thing it does is
+- Also there is a new second button on the side of the phone. The nice thing it does is
   instantly open the camera app. It can also be a shutter button. But if you are used to
   using the physical buttons on the other side of the phone for this it will feel odd to
   use the camera "upside down".
