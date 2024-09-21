@@ -13,7 +13,7 @@ New iPhone Camera also says:
 - I have three physical lenses: normal (1x), super wide (.5x), and medium telephoto (5x).
 
 - Yet the default set of focal length buttons at the bottom of my user interface has 4
-  choices: super side (.5x), normal (1x), short telephoto (2x) and medium telephoto (5x).
+  choices: super wide (.5x), normal (1x), short telephoto (2x) and medium telephoto (5x).
 
 - Also when you hit the 1x button it toggles between up to 3 synthesized lens focal lengths:
   24mm (1x), 28mm (1.2x) and 35mm (1.5x).
@@ -31,6 +31,9 @@ New iPhone Camera also says:
   
 - With the RAW MAX setting all the resolutions are the same as above (48, 48, 35, 24, 12,
   12), but the files are 5-10x bigger.
+
+- With the RAW 12 setting all the resolutions are 12MP and all the files are 5-10x
+bigger than with HEIC or JPEG.
 
 - If you set 12MP mode in the camera app settings and are not using MAX mode then the
   default resolutions all go to 12MP instead of whatever they were before. The default for
