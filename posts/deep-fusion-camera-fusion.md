@@ -38,7 +38,9 @@ New iPhone Camera also says:
   established above.
 
 - Finally, all the special computational camera modes (night mode, macro, etc) all fall back to
-  12MP. At least that's the best guess we have as of this writing
+  12MP. At least that's the best guess we have as of this writing. What this means is even
+  with all of the elaborate machinery above, most of your food pictures will still be
+  12MP. Which means most of your pictures will be 12MP.
 
 - Also I have a new second button on the side of the phone. The nice thing it does is
   instantly open the camera app. It can also be a shutter button. But if you are used to
@@ -51,5 +53,7 @@ New iPhone Camera also says:
   like it is letting you set aperture, but actually it's just setting the fake aperture
   that the fake shallow depth of field effect is pretending to create.
 
-This is al we'eve been able to figure out in one morning of noodling with the camera. In
+This is all I've been able to figure out in one morning of noodling with the camera. In
 our next episode we will discuss exactly what photo "styles" do.
+
+Also I never use the front camera, so I have no idea.
