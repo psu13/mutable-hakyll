@@ -37,12 +37,16 @@ New iPhone Camera also says:
   this setting is "24MP", but that only holds for the 1x, 1.2x and 1.5x cameras, as
   established above.
 
-- Also I have a new second button on the side of the phone that lets you set all kinds of
-  different things, all of which you can also set with the regular touch UI with more
-  speed and precision (in the opinion of the writer). The most confusing of these settings
-  is "depth" which looks like it is letting you set aperture, but actually it's just
-  setting the fake aperture that the fake shallow depth of field effect is pretending to
-  create.
+- Also I have a new second button on the side of the phone. The nice thing it does is
+  instantly open the camera app. It can also be a shutter button. But if you are used to
+  using the physical buttons on the other side of the phone for this it will feel odd to
+  use the camera "upside down".
+  
+  The other thing it does is let you noodle all kinds of different capture settings, all
+  of which you can also set with the regular touch UI with more speed and precision (in
+  the opinion of the writer). The most confusing of these settings is "depth" which looks
+  like it is letting you set aperture, but actually it's just setting the fake aperture
+  that the fake shallow depth of field effect is pretending to create.
 
-  This is al we'eve been able to figure out in one morning of noodling with the camera. In
-  our next episode we will discuss exactly what photo "styles" do.
+This is al we'eve been able to figure out in one morning of noodling with the camera. In
+our next episode we will discuss exactly what photo "styles" do.
