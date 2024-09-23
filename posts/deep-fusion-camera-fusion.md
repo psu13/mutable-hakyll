@@ -62,3 +62,9 @@ our next episode we will discuss exactly what photo "styles" do.
 There is a whole other bank of settings for video, which I never use.
 
 Also I never use the front camera, so I have no idea.
+
+*Postscript*: After shooting with the camera a while after posting this I ended up just
+always using whatever the mostly default settings are (12mp, 24mp, 12mp and HEIC not RAW).
+For me the various large size/high resolution files don't seem to be much of a win over
+the regular baked stuff. I've never had good luck with RAW on the phone even though it's
+what I use everywhere else. And paying 75MB per picture on a phone seems exorbitant.
