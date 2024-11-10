@@ -20,7 +20,7 @@ of the sauce leftover.
 The sauce is a great thing to use for various things when you remember you have it. You
 can put it on other meat and then on rice or tortillas. You can use it to make your own
 chilaquiles at home. It would be great on top of fried rice. You can put it in a bowl and
-eat it with a spoon. 
+eat it with a spoon.
 
 Pretty soon I realized that the _sauce_ we actually better than the rest of the chili.
 
