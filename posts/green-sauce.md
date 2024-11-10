@@ -14,7 +14,7 @@ https://www.seriouseats.com/easy-pressure-cooker-pork-chile-verde-recipe
 
 What we have found over time is that every time we make it we always have around twice as
 many tomatillos as the recipe calls for, but we toss them in anyway. Then what we end up
-with is a few servings of the pork with sauce and also a lot of the green sauce leftover.
+with is a few servings of the pork with sauce and also a lot of the green sauce left over.
 So we freeze this and try to remember to use it for other things.
 
 It turns out that the sauce is a great thing to put on almost anything. You can put it on
