@@ -31,7 +31,8 @@ things.
 This turns out to be the best thing ever. So for reference, here is what goes in:
 
 1. As many tomatillos has you have. One quart or two from the farmer's market is the
-   standard unit. Peel them and cut them in half.
+   standard unit. Peel them and cut them in half. This is two or three times what the
+   Kenji recipe calls for, give or take.
 1. One onion.
 1. A few big cloves of garlic.
 1. A tablespoon of whole cumin seeds, with a pinch of coriander seeds thrown in. If you
