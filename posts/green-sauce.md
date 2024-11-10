@@ -50,7 +50,8 @@ This turns out to be the best thing ever. So for reference, here is what goes in
 
 Put all this in the Instant pot and set it for high pressure for 30min.
 
-When the cooker is done fish all the meat out and blend everything else into sauce.
+When the cooker is done fish all the meat out and blend everything else with a hand
+blender until it's sauce.
 
 Adjust salt and pepper until it's right.
 
