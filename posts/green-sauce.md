@@ -38,7 +38,7 @@ This turns out to be the best thing ever. So for reference, here is what goes in
    want to be cool toast them and crush them in a mortar and pestle. If you are lazy like
    me just toss them in the pot.
 1. Whatever chilis you can find. I have trouble finding good hot ones that aren't too hot.
-   I think I'm going to start trying to use those thai chilis.
+   I think I'm going to start trying to use those little Thai chilis.
 1. If you like cilantro add lots of cilantro. Then add some more.
 1. Celery/celery leaves if you have good ones.
 1. Salt and pepper.
