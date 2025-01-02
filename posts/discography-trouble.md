@@ -65,7 +65,7 @@ The following excerpt from the Jos Willems discography comes from this [forum
 post](https://www.organissimo.org/forum/topic/79781-satch-plays-fats-alternates/), which
 you probably can't read without getting an account at that web site.
 
-So here is what it says (reformatted by psu):
+So here is what it says (reformatted a bit by me):
 
 From the Jos Willems discography:
 
