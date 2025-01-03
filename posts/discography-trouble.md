@@ -37,7 +37,7 @@ In the 1980s each of these was reissued on CD in a series that Columbia (was it 
 don't think so) put out early in the CD era with the aforementioned blue and purple
 covers. You can see them here:
 
-[https://www.discogs.com/sell/release/2786247](https://www.discogs.com/sell/release/2786247)
+[https://www.discogs.com/release/2786247](https://www.discogs.com/release/2786247)
 
 and
 
