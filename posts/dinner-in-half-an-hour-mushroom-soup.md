@@ -30,8 +30,9 @@ First, buy a two or three pound package of chicken wings. Then cut up 2 onions, 
 <p>After you have gathered all your stuff, heat up a big soup pot and put a couple of teaspoons of olive oil into it. Using enough oil is important because it will carry some of the flavor. Add the onion and stir it around a few times. Add salt and pepper. Then add the ginger and toss the whole thing around some more. Reduce the heat and cook the onions and ginger until the onions are soft. Do not get impatient, do this for at least ten minutes.</p>
 <p>When that&#8217;s all set, add the mushrooms. You might need some more oil at this point. Salt and pepper the whole mess and sauté the mushrooms for another five or ten minutes. When you are happy with how things are, add a cup or so of the mushroom water and let it come to a boil. Then add a total of two or three quarts of liquid (stock, water, or any combination you like) depending on how many solid ingredients you have.
  You want to use enough liquid to cover the solids, plus enough extra to make it "soupy" rather than more like stew.
- But you can figure out what you like.</p>
-<p>Add some salt and pepper to rebalance the seasoning. Then add a few tablespoons of white wine and a tablespoon or two of soy sauce. Stir, bring to a boil and then simmer twenty minutes to half an hour.</p>
+ But you can figure out what you like. </p>
+ <p>At this point add the cut up tofu if you are using it.</p>
+<p>Now season with some salt and pepper. Adjust until the salt and the umami are balanced. Then add a few tablespoons of white wine and a tablespoon or two of soy sauce (and maybe fish sauce if you are feeling crazy). Stir, bring to a boil and then simmer twenty minutes to half an hour. As the mushrooms cook they will add a richer base flavor to the soup. That's the magic. Check again for salt after it has cooked a while to make sure it's still right.</p>
 <p>When you are ready to serve it, add your favorite Chinese leafy green into the soup pot. Let those cook until they just get soft. Then serve the soup wth the greens on top:</p>
 <p align="center">
 <a href="http://www.flickr.com/photos/79904144@N00/4365969517/" title="P1000200 by psu13, on Flickr"><img src="http://farm3.static.flickr.com/2763/4365969517_0d0903a8ec.jpg" width="500" height="375" alt="P1000200" /></a>
