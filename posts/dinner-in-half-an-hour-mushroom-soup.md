@@ -6,7 +6,7 @@ author: psu
 
 <p>Today a soup that I discovered accidentally. It&#8217;s influenced by a lot of Chinese and Japanese style soups that I have consumed over the years, but I can&#8217;t claim that it actually has any real authentic connection to those cuisines. I threw this together one night in a miracle after a late day at work. So here we go.<br />
 <span id="more-2397"></span></p>
-<p>First, make chicken broth. Or buy it. I don&#8217;t care. It will be better if you make it, and it&#8217;s easy:</p>
+<p>First, make chicken broth. Or don't. The soup doesn't care. It will be better with chicken stock but it's not required. But if you want to make some it's easy:</p>
 <blockquote><p>
 First, buy a two or three pound package of chicken wings. Then cut up 2 onions, 2 or 3 carrots, and 2 or 3 stalks of celery. Put all this in a pot, cover with water, add salt, pepper, and bay leaves. Turn the heat on until you get a simmer. Now play Halo for 3 or 4 hours. If you are industrious, you can saute the vegetables before adding the wings and the water. You can also hack the wings in half. But these are both extra work and not really needed.
 </p></blockquote>
@@ -28,7 +28,9 @@ First, buy a two or three pound package of chicken wings. Then cut up 2 onions, 
 <p>If you are into that sort of thing cut up a cake or two of tofu too. It&#8217;s best to use fresh stuff (you can get fresh at Lotus in Pittsburgh on weekends, for example). Most of the packaged stuff is crap. Get the softest you can.</p>
 <p>The last thing you&#8217;ll need is a diced onion and about five or six large slices of ginger.</p>
 <p>After you have gathered all your stuff, heat up a big soup pot and put a couple of teaspoons of olive oil into it. Using enough oil is important because it will carry some of the flavor. Add the onion and stir it around a few times. Add salt and pepper. Then add the ginger and toss the whole thing around some more. Reduce the heat and cook the onions and ginger until the onions are soft. Do not get impatient, do this for at least ten minutes.</p>
-<p>When that&#8217;s all set, add the mushrooms. You might need some more oil at this point. Salt and pepper the whole mess and sauté the mushrooms for another five or ten minutes. When you are happy with how things are, add a cup or so of the mushroom water and let it come to a boil. Then add a total of three to four quarts of chicken stock. You want to use enough liquid to balance the solids. Also, if your stock is particularly rich, cutting it half and half with water is a good idea. So, I use maybe two quarts of stock and two quarts of water. But you can figure out what you like.</p>
+<p>When that&#8217;s all set, add the mushrooms. You might need some more oil at this point. Salt and pepper the whole mess and sauté the mushrooms for another five or ten minutes. When you are happy with how things are, add a cup or so of the mushroom water and let it come to a boil. Then add a total of two or three quarts of liquid (stock, water, or any combination you like) depending on how many solid ingredients you have.
+ You want to use enough liquid to cover the solids, plus enough extra to make it "soupy" rather than more like stew.
+ But you can figure out what you like.</p>
 <p>Add some salt and pepper to rebalance the seasoning. Then add a few tablespoons of white wine and a tablespoon or two of soy sauce. Stir, bring to a boil and then simmer twenty minutes to half an hour.</p>
 <p>When you are ready to serve it, add your favorite Chinese leafy green into the soup pot. Let those cook until they just get soft. Then serve the soup wth the greens on top:</p>
 <p align="center">
