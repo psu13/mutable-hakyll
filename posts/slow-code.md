@@ -55,8 +55,7 @@ train moving.
 You see this across the entire landscape of software products. It's a constant grind to
 make the product look "new". The resulting pressure to create new features
 and keep up with the evolution of your infrastructure leaves very little time for bug
-fixing, stability improvements and any kind of general contemplation and design
-refinements.
+fixing, stability improvements or any kind of general contemplation and refinement.
 
 So I'd like there to be a way to slow this down and give everyone time to take a breather
 and spend some time thinking and fixing things. This will improve the lives of programmers
