@@ -40,8 +40,8 @@ editions of the book. Just to give you idea of the level of _Ulysses_ nerds, I f
 least one 15 page paper in an _academic journal_ about this dot. That's almost as extreme
 as all those old computer science papers about [goto statements](the-ultimate-goto.html).
 
-For more background, here is an excerpt from the most recent encyclopedia of _Ulysses_
-annotations about this dot:
+For more background, here is an excerpt from [the most recent encyclopedia of _Ulysses_
+annotations](https://www.oxfordscholarlyeditions.com/display/10.1093/actrade/9780198864585.book.1/actrade-9780198864585-book-1) about this dot:
 
 > <img src="images/ulysses-dot.png" width="600" alt="text about the ithaca dot" title="text about the ithaca dot">
 
