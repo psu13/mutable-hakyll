@@ -6,8 +6,8 @@ author: psu
 
 This article contains "spoilers" for future _Ulysses_ text nerds. So beware.
 
-Late last year I finally finished "reading" (half reading, half listening) a giant book by
-Alex Ross from 2020 on the cultural influence of Richard Wagner from the 19th Century
+Late last year I finally finished "reading" (half reading, half listening) [a giant book by
+Alex Ross](https://www.therestisnoise.com/wagnerism/) from 2020 on the cultural influence of Richard Wagner from the 19th Century
 until now. Mostly what I got out of that book was a feeling of "Are the artist fans of
 Richard Wagner OK?" ... because boy they all seemed like neurotic oversexed sociopaths.
 
@@ -65,9 +65,9 @@ thoughts about it.
 
 First, even without all of the apparently infinite levels of meta-discourse about the
 book, the book itself is pretty cool. It has various overwrought and difficult passages,
-but I think that aspect (especially in the early chapters) is somewhat overrated. It's
-also an often hilarious book and it's worth reading at least the first half just for that.
-Then once you are there you might as well finish it.
+but I think that aspect of it is somewhat overrated, especially in the early chapters.
+It's also an often hilarious book and it's worth reading at least the first half just for
+the funny bits (and if you get through half you might as well finish it).
 
 I mean, even the first sentence is a low level chuckle:
 

@@ -117,7 +117,7 @@ braised pork stew, the Steer and Wheel for burgers.
 Anything at Morcilla is good. But their menu changes too much to list any given thing here
 and expect it to still be there when you get there.
 
-Hot dogs at D's must be mentioned.
+Hot dogs at D's must be mentioned. The hot dogs that the Shady Dog food cart must be mentioned.
 
 The burger (and everything else) at Butterjoint must be mentioned. Even though Trevett
 stopped running the spot last year it has not missed a step.
