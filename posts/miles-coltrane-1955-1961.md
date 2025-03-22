@@ -7,7 +7,7 @@ author: psu
 Miles Davis and John Coltrane played and recorded in the same group roughly between the
 years of 1955 and 1961. There were the legendary sessions for Prestige that resulted in
 the four "verbin'" albums (_Steamin'_, _Workin'_, _Relaxin'_, _Cookin'_) and the equally
-legedary period at Columbia that resulted in _Round About Midnight_, _Milestones_, _Kind
+legendary period at Columbia that resulted in _Round About Midnight_, _Milestones_, _Kind
 of Blue_, and _Someday my Prince Will Come_.
 
 Here is a maybe complete list of sessions that I grabbed off the Internet. I also threw in
@@ -76,7 +76,7 @@ The main reason is that the tracks are never presented in anything like the orig
 order. Instead all the alternates are back to back with the masters, but I never want to
 listen to the same piece three times before moving to the next one. Later boxed sets would
 move away from this strict chronological session ordering and sometimes provide an "album
-then alternates" kind of arragement that is a lot easier to deal with. But not here.
+then alternates" kind of arrangement that is a lot easier to deal with. But not here.
 
 Luckily these days we have the tools to collect together something like this for
 ourselves. Thanks to decades of different reissues, good discographical databases like the
