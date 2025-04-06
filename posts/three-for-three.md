@@ -28,7 +28,7 @@ I've seen
 1. Downloads with tracks completely mislabeled in some way.
 
 So over the last ten years I have found myself still buying the occasional collections of
-physical media. This is especially true if a used CD (or set of CDs) costs _much much_
+physical media. This is especially true if ax CD (or set of CDs) costs _much much_
 less than the comparable download, which happens a lot these days.
 
 The result of all of this was that my house started to fill with the discarded husks of
@@ -78,12 +78,12 @@ out. Back then it was thought of as a bit of pop sellout on behalf of the until-
 beloved punk band. But whatever, I always liked that _Love Shack_ song.
 
 So I got home and went over to the 5 crates where all the records are and scanned the
-spines. Sure enough, there we _Cosmic Thing_. A bit further down pile of records in "C"
-was also the familiar brown record cover of _Tracy Chapman_, which I must have also bought
-back in 1988/89 because the local radio station where I lived then played the hell out of
-that record. Two for two.
+spines. Sure enough, there was _Cosmic Thing_. A bit further down the pile of records in
+"C" was also the familiar brown record cover of _Tracy Chapman_, which I must have also
+bought back in 1988/89 because the local radio station where I lived then played the hell
+out of that record. Two for two.
 
-Anyway, to maximize my embarrassment I noticed _on the way_ to the records in the "C" pile
+Finally, to maximize my embarrassment I noticed _on the way_ to the records in the "C" pile
 that I also owned an album by Count Basie called _Sixteen Men Swinging_. This was odd for
 two reasons.
 
