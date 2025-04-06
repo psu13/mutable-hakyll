@@ -28,7 +28,7 @@ I've seen
 1. Downloads with tracks completely mislabeled in some way.
 
 So over the last ten years I have found myself still buying the occasional collections of
-physical media. This is especially true if ax CD (or set of CDs) costs _much much_
+physical media. This is especially true if a CD (or set of CDs) costs _much much_
 less than the comparable download, which happens a lot these days.
 
 The result of all of this was that my house started to fill with the discarded husks of
