@@ -4,7 +4,7 @@ date: 2025-04-06
 author: psu
 ---
 
-Around 15 years go I started on a never ending journey of trying to catalog, or at least
+Around 20 years go I started on a never ending journey of trying to catalog, or at least
 rationally store, the CDs that I have in my house. I concentrated on CDs because that's
 actually fairly tractable: you can rip them into iTunes/Apple Music and [then give them a
 unique serial number](./the-one-true-index.html). With LPs you can't really do this, so I didn't even bother trying.
