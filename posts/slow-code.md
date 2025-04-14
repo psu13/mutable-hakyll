@@ -39,7 +39,7 @@ often for the worst. Similarly, the realities of _making money_ from software, i
 ways, makes software worse. 
 
 What we have learned in the 50 or so years that large companies have driven industrial
-growth from software development is that no matter that they tell you at a large scale the
+growth from software development is that no matter what they tell you at a large scale the
 way you make money selling software is to ask people to _pay money_ for _new_ features.
 There has to be at least the appearance of constant forward evolution in order for a
 software product to continue to generate more revenue. Software that has reached a stable
