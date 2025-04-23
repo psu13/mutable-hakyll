@@ -55,7 +55,7 @@ that randomly combined live material from different sessions, or live material w
 alternate studio takes.
 
 Later reissues of _Round About Midnight_, _Milestones_, _Kind of Blue_ fixed most of the
-production issues (better sound, correct cover art, et) and added some of the unreleased
+production issues (better sound, correct cover art, etc) and added some of the unreleased
 tracks back, but again in fairly random and haphazard manner. This especially true in the
 case of the latest extra-deluxe "Legacy" reissues of _Round About Midnight_ and _Kind of
 Blue_ both of which just toss on an extra disk of material from completely unrelated
