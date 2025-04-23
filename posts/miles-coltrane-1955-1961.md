@@ -56,7 +56,7 @@ alternate studio takes.
 
 Later reissues of _Round About Midnight_, _Milestones_, _Kind of Blue_ fixed most of the
 production issues (better sound, correct cover art, etc) and added some of the unreleased
-tracks back, but again in fairly random and haphazard manner. This especially true in the
+tracks back, but again in a fairly random and haphazard manner. This especially true in the
 case of the latest extra-deluxe "Legacy" reissues of _Round About Midnight_ and _Kind of
 Blue_ both of which just toss on an extra disk of material from completely unrelated
 sessions for no reason at all except frustrate nerds like me who want things to make
