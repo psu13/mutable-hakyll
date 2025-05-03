@@ -102,6 +102,11 @@ The objects and arrows of a category satisfy the following conditions:
     intuitive terms, but domain and codomain connect the language to functions in other
     areas of mathematics.
 
+- For any two objects $A, B$ we denote the collection of all arrows from $A$ to $B$ as
+$\mathop{\mathrm{Arrows}}_{\mathbf{C}}(A,B)$, or just $\mathop{\mathrm{Arrows}}(A,B)$ if
+the context makes the category obvious. We also write $f: A \to B$ as a synonym for $f \in
+\mathop{\mathrm{Arrows}}(A,B)$.
+
 -   For each pair of arrows $f:A \longrightarrow B$ and $g : B \longrightarrow C$ we can form a
     new arrow $g \circ f:
     A \longrightarrow C$ called the *composition* of $f$ and $g$. This is also
@@ -131,25 +136,23 @@ tells you that each mapping $f: A \to B$ acts on things in $A$ and sends them to
 $B$. There is nothing said about the specific action of $f$ on any single element of $A$.
 Category theory only ponders aggregate questions.
 
-Given a category ${\mathbf C}$ and objects $A, B$ in ${\mathbf C}$ we write
-$\mathop{\mathrm{Arrows}}_{\mathbf C}(A,B)$ to mean the collection of all arrows
-from $A$ to $B$ in ${\mathbf C}$ if we are being maximally careful. In practice we will usually
-write $\mathop{\mathrm{Arrows}}(A,B)$ because the ${\mathbf C}$ subscript is tedious and
-it’s usually clear what category $A$ and $B$ came from. People also write
-$\mathop{\mathrm{Hom}}(A, B)$ or
-$\mathop{\mathrm{Hom}}_{\mathbf{C}}(A,B)$, or $\mathop{\mathrm{hom}}(A,
-B)$ or just $\mathbf{C}(A,B)$ to mean $\mathop{\mathrm{Arrows}}(A,B)$. Here
-"$\mathop{\mathrm{Hom}}$" stands for homomorphism, which is a standard word for
-mappings that preserve some kind of structure. Category theory, and the Yoneda lemma, it
-it turns out, is mostly about the arrows.
-
 I have broken with well established tradition in mathematical
 writing and mostly spelled out names for clarity rather than engaging
 in the strange and random abbreviations that I see in most category
 theory texts. The general fear of readable names in the mathematical
 literature is fascinating to me, having spent most of my life trying to
-think up readable names in program source code. Life is too short to
-deal with names like $\mathop{\mathrm{ob}}$, or $\mathbf{Htpy}$, or
+think up readable names in program source code. 
+
+Thus, I like things like my notation $\mathop{\mathrm{Arrows}}(A, B)$ for the collection
+of arrows between two objects because it is clear and to the point as opposed to the more
+standard $\mathop{\mathrm{Hom}}(A, B)$ or
+$\mathop{\mathrm{Hom}}_{\mathbf{C}}(A,B)$, or $\mathop{\mathrm{hom}}(A,
+B)$ or just $\mathbf{C}(A,B)$. Here
+"$\mathop{\mathrm{Hom}}$" stands for homomorphism, which is a standard word for
+mappings that preserve some kind of structure. But why bother with all that mental overhead.
+
+Similarly, life is too short to
+deal with names like $\mathop{\mathit{ob}}$, or $\mathbf{Htpy}$, or
 $\mathbf{Matr}$. Luckily, for this note the only specific category that
 we will run into is the straightforwardly named ${\mathbf {Sets}}$,
 where the objects are sets and the arrows are mappings between sets.
