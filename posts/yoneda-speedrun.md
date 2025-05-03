@@ -25,6 +25,10 @@ But, the pdf looks much better:
 wrote this down trying to figure out the language. So everything in this
 document is probably wrong.
 
+**Other Note**: This document was last updated on 2025-05-05 to track a change to the
+original where I tweaked some language in the definition of arrows.
+
+
 #### The Big Picture
 
 The Yoneda Lemma is a basic and beloved result in category theory. Even
@@ -132,9 +136,9 @@ mathematics where we are given a some collection of things and some structural r
 main example of a category that we will be concerned with is the category ${\mathbf
 {Sets}}$, where the objects are sets and the arrows are mappings between sets. In this
 context something interesting to think about is how the definition of a category only
-tells you that each mapping $f: A \to B$ acts on things in $A$ and sends them to things in
-$B$. There is nothing said about the specific action of $f$ on any single element of $A$.
-Category theory only ponders aggregate questions.
+tells you that each mapping $f: A \longrightarrow B$ acts on things in $A$ and sends them
+to things in $B$. There is nothing said about the specific action of $f$ on any single
+element of $A$. Category theory only ponders aggregate questions.
 
 I have broken with well established tradition in mathematical
 writing and mostly spelled out names for clarity rather than engaging
