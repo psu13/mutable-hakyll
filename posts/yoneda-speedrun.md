@@ -285,7 +285,7 @@ hand. The natural transformation takes the action of $F$ on $\mathbf{C}$
 and lines it up exactly with the action of $G$ on $\mathbf{C}$. No other
 assumptions or conditions are needed. In this sense they define a
 relationship between functors that is just sitting there in the world no
-matter what, and thus "natural". Another apt way of putting this is that
+matter what, and is thus "natural". Another apt way of putting this is that
 natural transformations give a canonical way of moving between the
 images of two functors 
 [[3](http://www.julia-goedecke.de/pdf/CategoryTheoryNotes.pdf)].
