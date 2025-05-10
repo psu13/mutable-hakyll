@@ -11,8 +11,8 @@ Another September has rolled around which means two things:
 
 and
 
-2. It's time to look back at my Strava and note how I did average on distance, but as usual got
-   slower year over year.
+2. It's time to look back at my Strava, and as usual note that I got slower year over
+   year.
 
 But this year's twist is that (2) did not happen. For the first time since I started using
 the service in 2012 I did very much above average on _both_ distance _and_ speed.
