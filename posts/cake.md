@@ -25,17 +25,17 @@ Which makes no sense whatsoever.
 However, next on the list is the fact that there are so few places in town that know how
 to make cake. Anyway here are a few places that _do_ know what they are doing.
 
-### DISH, Mango Cake
+#### DISH, Mango Cake
 
 I mean, c'mon. Just go.
 
-### Chicken Latino, Trés Leches Cake
+#### Chicken Latino, Trés Leches Cake
 
 The Trés Leches cake at Chicken Latino is a reason to stay alive. All this, and <a
 href="https://www.flickr.com/photos/79904144@N00/50071740991/in/photostream">Lomo Saltado</a>
 too.
 
-### Jean-Marc Chatellier's Bakery
+#### Jean-Marc Chatellier's Bakery
 
 In addition to the best plain and chocolate croissant in town (still!) Chatellier makes
 sheet cakes that he will sell you single pieces from. The main flavors are Lemon/Raspberry
@@ -54,33 +54,47 @@ Oh and here is the chocolate cake with a bite taken out of it.
 > <a href="../images/IMG_0631.jpg">
 <img src="../images/IMG_0631-small.jpg" width=200></a>
 
-### Butterjoint, Chocolate Truffle Cake
+#### Butterjoint, Chocolate Truffle Cake
 
 The thing here is the flourless chocolate truffle cake. Let it be known that I think
 flourless chocolate cake is _bullshit_. You can't make good cake without flour. But this
 is the best chocolate cake in the city. So there you go. No picture of this one.
 
-### Girasole, Lemon Cake
+#### Girasole, Lemon Cake
 
 Girasole makes this lemon cake with whipped cream icing that's really good.
 
-### Salem's
+#### Mango Mango, Crepe Cakes
+
+These are not really cake. But they are still better cake than most in town. Lots of
+cream. Nice soft pastry. The place has other things that are more cake-like.
+
+#### Madeleine, Regent Square
+
+The little bouchon are not really cake. But they _are_ better than cake. These folks also
+do some small pastry sized cakes that are really good.
+
+#### La Gourmandine, Brioche Bostok
+
+The Brioche Bostok here is more of a cakey bread than actual cake. But it's fantastic and
+you should get it. I have not tried any of their actual cake, but I should. And I would,
+except whenever I walk in the brioche and the chouquettes are sitting right there and what
+can I do?
+
+#### Salem's
 
 Salem's has a dessert cooler with a few different kinds of sheet cake in it. I can vouch
 for the strawberry and the chocolate. We also saw exactly the same chocolate cake at the
 last fish fry we went to this year at a church in Wexford. Maybe they got it from Salem's.
 Maybe both places are getting it from somewhere else. Who knows?
 
-### Moio's, Monroeville
-
-I haven't had a cake from here in more than ten years. But it used to be good.
-
-### Mango Mango, Crepe Cakes
-
-These are not really cake. But they are still better cake than most in town. Lots of
-cream. Nice soft pastry. The place has other things that are more cake-like.
-
-### Giant Eagle
+#### Giant Eagle
 
 Do not sleep on the sheet cake at Giant Eagle. It's better than 75% to 80% of the cake
 sold at any given bakery in town.
+
+#### Moio's, Monroeville
+
+I haven't had a cake from here in more than ten years. But it used to be good.
+
+OK that's it. 
