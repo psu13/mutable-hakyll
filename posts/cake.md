@@ -97,6 +97,12 @@ you should get it. I have not tried any of their actual cake, but I should. And 
 except whenever I walk in the brioche and the chouquettes are sitting right there and what
 can I do?
 
+#### Dianoia's, Rainbow Cookies
+
+These cookies are really a mini-layer cake. And I think they have done a cake version of
+this delightful confection in the past. So they get on the list. I'm sure their other
+cakes are great too. I just have not had them.
+
 #### Salem's
 
 Salem's has a dessert cooler with a few different kinds of sheet cake in it. I can vouch
