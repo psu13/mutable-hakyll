@@ -113,4 +113,9 @@ sold at any given bakery in town.
 
 I haven't had a cake from here in more than ten years. But it used to be good.
 
+#### Bad Cake That I Love Anyway
+
+That weird Chinese style sponge cake with a tiny bit of cream between the layers that all
+the Chinese grocery stores in town have. It's trash but I like it. So there.
+
 OK that's it. 
