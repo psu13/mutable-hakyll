@@ -23,7 +23,23 @@ sausage in Pittsburgh that is better than the Giant Eagle store brand Italian sa
 Which makes no sense whatsoever.
 
 However, next on the list is the fact that there are so few places in town that know how
-to make cake. Anyway here are a few places that _do_ know what they are doing.
+to make cake. Most of the cakes in town fail across at least one of the following
+dimensions of quality:
+
+1. Cake too dry. Good cake should have a nice moist feel to it. This is not a cracker
+   pastry or some shit. It's cake.
+
+1. Cake too heavy (or chewy). A slice of cake should not weigh a pound, or be eight inches high.
+
+1. Frosting is all sugar. The only proper icing for a cake is some kind of whipped cream
+   or fancy butter cream. Most icings that people call "butter cream" in Pittsburgh are
+   really just creamed sugar that will melt your teeth from two blocks away.
+
+1. All topping, no cake. This is more of a problem with cupcakes than cakes. But you do
+   see a lot of cakes in town that are also all decoration and frosting, with not enough
+   cake inside.
+
+Anyway, here are a few places that _do_ know what they are doing.
 
 #### DISH, Mango Cake
 
