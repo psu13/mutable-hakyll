@@ -16,7 +16,7 @@ probably end up throwing away all the CDs.
 Alas this has not come to pass. First, the streaming services are kind of a shitty way to
 collect music. Second, a surprising amount of stuff is not available for download, or for
 some reason the downloadable version of the music ends up being wrong in various ways.
-I've seen
+I've seen:
 
 1. Bad liner notes, if the liner notes exist at all.
 
