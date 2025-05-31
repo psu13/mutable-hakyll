@@ -5,7 +5,7 @@ author: psu
 ---
 
 In the past I have remarked, perhaps repeatedly, about how bad CDs are as a physical
-artifact of a particular musical recording. I will quote myself:
+artifact of a musical recording. I will quote myself:
 
 > CDs, as I have remarked before, are a terrible product for that. CDs carry music just
 fine, but everything else about them and their packaging is a soul-less black hole that is
