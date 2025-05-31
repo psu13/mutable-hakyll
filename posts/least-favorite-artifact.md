@@ -45,7 +45,7 @@ Here is my favorite record of all time happily tucked into one of these sleeves:
 > <a href="../images/IMG_9760_jpg.jpg">
 <img src="../images/IMG_9760_jpg-small.jpg" width=400></a>
 
-OK. With that out of the way here are all the ones that suck:
+OK. With that out of the way here are all the ones that suck.
 
 #### Jewel Boxes
 
