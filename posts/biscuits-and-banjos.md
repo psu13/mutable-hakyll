@@ -14,8 +14,8 @@ more live show in the year just before the pandemic. And I was just as amazed as
 
 Then this year it was announced that she had organized a festival in her native North
 Carolina called [Biscuits and Banjos](https://www.biscuitsandbanjos.com) which would be
-filled with her music, a reunion of the Chocolate Drops, and _biscuits_ as well. I was
-instantly all in.
+filled with music and food events that follow her interests, a reunion of the Chocolate
+Drops, and _biscuits_ as well. I was instantly all in.
 
 First, the [biscuits](https://www.flickr.com/photos/79904144@N00/54621951641/in/dateposted-public/) were great. You can find [the recipe
 here](https://www.bbc.com/travel/article/20250509-the-flawless-biscuit-that-took-years-to-master).
