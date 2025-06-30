@@ -29,7 +29,7 @@ make the show more about the student musicians that he was playing with than abo
 We saw Taj Mahal playing with a group younger musicians who were all a bit in awe, and yet
 also all holding their own.
 
-Finally, we saw a reunion of the _Chocolate Drops_ in all their forms and with all the
+Finally, we saw a reunion of the _Chocolate Drops_ in all their forms and with many of the
 other musicians that they directly inspired and influenced. It was an incredible and
 joyful night. Look at it:
 
