@@ -4,7 +4,7 @@ date: 2013-12-27
 author: psu
 ---
 
-In his new book, <a href="https://itun.es/us/I7YDH.l">How Music Works</a>, David Byrne has a lot to say on the effects of digital technologies on how music is created, recorded, distributed and sold. One of the keener insights he has is this one, about software that supports musical composition:
+In his new book, <a href="https://bookshop.org/p/books/how-music-works-david-byrne/10871809?ean=9780804188937&next=t">How Music Works</a>, David Byrne has a lot to say on the effects of digital technologies on how music is created, recorded, distributed and sold. One of the keener insights he has is this one, about software that supports musical composition:
 
 >Though software is promoted as being an unbiased tool that helps us do anything we want, all software has inherent biases that make working one way easier than another.
 
