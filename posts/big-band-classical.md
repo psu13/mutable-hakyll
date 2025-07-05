@@ -73,8 +73,10 @@ There are also a few great alternate choices that might catch your fancy:
   Krips](https://www.prestomusic.com/classical/products/7955027--mozart-symphonies) a lot.
   You can get all of his performances in one big download. Or you can get them in ones and
   twos on streaming. The link above is to the download.
-- Some people will tell you to get the Colin Davis records. Others will tell you the Colin
-  Davis records are awful. I have no strong opinion. But it's a thing to check.
+- Some people will tell you to get the [Colin Davis
+  records](https://streaming.prestomusic.com/album/7957163). Others will tell you the
+  Colin Davis records are awful. I am somewhere in the middle. I like others on this list
+  better.
 - I also tracked down a few CDs recorded by István Kertész. But they are pretty hard to
   find so I'm not going to take you down that hole. But you can get them on
   [Discogs](https://www.discogs.com/release/12264230-Mozart-Wiener-Philharmoniker-István-Kertész-Symphony-No-33-Symphony-No-39-Symphony-No-40)
@@ -115,8 +117,11 @@ Finally, there are all the other usual suspects and more:
 - [Szell](https://streaming.prestomusic.com/album/7996308)
 - [Klemperer](https://streaming.prestomusic.com/album/7965941)
 - [Bohm](https://streaming.prestomusic.com/album/8048854)
+- Bruno Walter did [88 and 100](https://streaming.prestomusic.com/album/8690147), and they
+  are nice.
 - Extra bonus: [Ernest Ansermet's Paris
   Symphonies](https://streaming.prestomusic.com/album/7923818)
+- Again a lot of people love Colin Davis, and a few don't.
 
 These will all have that deliciously warm and vibrant big band sound, but are never stodgy
 or tedious. At least not to me.
@@ -125,8 +130,10 @@ or tedious. At least not to me.
 
 My main references for this material are the American Record Guide overviews of the two
 composers from the early 2000s. Yes this publication is run by a bunch of old fashioned
-reactionary old men who spend most of their time screaming at clouds and the general
-downfall of man. But in this case they are right.
+reactionary old men who spend most of their time screaming at clouds and the declaring the
+general downfall of man. But in this case they are right. For some reason they also always
+have it in for Colin Davis. I don't know why.
 
 The extensive Dave Hurwitz youtube catalog also has a lot of opinions about this stuff
-that's mostly along the same lines.
+that's mostly along the same lines. He likes Colin Davis more than ARG. Especially in the
+Mozart.
