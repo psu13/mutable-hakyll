@@ -4,14 +4,13 @@ date: 2025-07-05
 author: psu
 ---
 
-Today I'm going to survey records that I've been listening to and enjoying. Links will be
-to the Presto streaming site when possible. From there you can find downloads and CDs when
-available. When Presto doesn't work I'll use Discogs as the reference to where to find CDs
-you can rip. 
-
+Today I'm going to survey records that I've been listening to and enjoying. 
 The concentration this time will be on the _symphonies_ from the "Classical" period of
 Classical music: [Mozart and Haydn](the-surprising-classical-groove.html). I've also been
 back in my [Mahler hole](./two-thirds.html) a bit, but we'll get to that later.
+
+Links are mostly to the Presto Music web site, which is the best current classical music
+merchant on the Interweb IMHO. Discogs and Apple Music are also mixed in as needed.
 
 The first thing to say about Mozart and Haydn is that (almost) everyone plays it wrong
 these days. Yes I'm just a guy on the Internet with no real musical training and no real
@@ -44,16 +43,16 @@ interest and curiosity. Of course I also like the big sound of the full orchestr
 the best and most stylish "historical" style performances just feel small at best and
 anemic at worst.
 
-Here are streaming links to all of the above, mostly just for the later symphonies.
+Here are download links to all of the above, mostly just for the later symphonies.
 
-- [Karl Bohm](https://streaming.prestomusic.com/album/7930687)
+- [Karl Bohm](https://www.prestomusic.com/classical/products/7930687--mozart-symphonies)
 - [George Szell
-  1](https://streaming.prestomusic.com/album/7946304)
+  1](https://www.prestomusic.com/classical/products/7946304--mozart-symphony-no-28-in-c-major-k200-etc)
   and [George Szell
-  2](https://streaming.prestomusic.com/album/8084204).
+  2](https://www.prestomusic.com/classical/products/8084204--mozart-symphonies-nos-35-40-41?utm_source=presto&utm_medium=app&link_token=754737bb-e560-4f05-9e7f-d2e854f5a677)
 - [Bruno
-  Walter](https://music.apple.com/us/album/mozart-the-last-six-symphonies-remastered/1482682795)
-- [Otto Klemperer](https://streaming.prestomusic.com/album/8026168)
+  Walter (Apple Music)](https://music.apple.com/us/album/mozart-the-last-six-symphonies-remastered/1482682795)
+- [Otto Klemperer](https://www.prestomusic.com/classical/products/8026168--mozart-symphonies-overtures-serenades)
 
 The Beecham performances are hard to track down. The ones you want are from a [set of LPs
 from the 1950s](https://www.discogs.com/release/5977853-Sir-Thomas-Beecham-Bart-Mozart-The-Royal-Philharmonic-Orchestra-The-Last-Six-Symphonies).
@@ -70,14 +69,14 @@ and
 
 There are also a few great alternate choices that might catch your fancy:
 
-- [This set](https://streaming.prestomusic.com/album/7927846) from Jane Glover and the
+- [This set](https://www.prestomusic.com/classical/products/7927846--mozart-the-great-symphonies) from Jane Glover and the
   London Mozart Players is great.
 - I like [Josef
   Krips](https://www.prestomusic.com/classical/products/7955027--mozart-symphonies) a lot.
   You can get all of his performances in one big download. Or you can get them in ones and
   twos on streaming. The link above is to the download.
 - Some people will tell you to get the [Colin Davis
-  records](https://streaming.prestomusic.com/album/7957163). Others will tell you the
+  records](https://www.prestomusic.com/classical/products/7957163--mozart-late-symphonies-nos-28-41). Others will tell you the
   Colin Davis records are awful. I am somewhere in the middle. I like others on this list
   better.
 - I also tracked down a few CDs recorded by István Kertész. But they are pretty hard to
@@ -95,35 +94,38 @@ of exceptions.
 The biggest twist, to me, is that the Haydn to get first is Bernstein. He recorded most of
 the late symphonies and every single one is a banger.
 
-- ["Paris" Symphonies (82-87)](https://streaming.prestomusic.com/album/8110931)
-- ["London" Symphonies (93-104)](https://streaming.prestomusic.com/album/8024228)
+- ["Paris" Symphonies (82-87)](https://www.prestomusic.com/classical/products/8110931--haydn-symphonies-nos-82-87-the-paris-symphonies)
+- ["London" Symphonies (93-104)](https://www.prestomusic.com/classical/products/8024228--leonard-bernstein-conducts-haydn-symphonies)
 
-You can also get [88](https://streaming.prestomusic.com/album/8389784) on Sony as a
-single, and a later recording of [88, 92,
-94](https://streaming.prestomusic.com/album/7995982) on DG. These recordings have such
-joy, energy, humor and spirit that they make you want to dance. They make you wonder if
-you could open a Haydn dance club with a light show. It's just great.
+You can also get
+[88](https://www.prestomusic.com/classical/products/8389784--haydn-symphonies-nos-88-102-remastered)
+on Sony as a single, and a later recording of [88, 92,
+94](https://www.prestomusic.com/classical/products/7995982--haydn-symphonies-nos-88-92-94)
+on DG. These recordings have such joy, energy, humor and spirit that they make you want to
+dance. They make you wonder if you could open a Haydn dance club with a light show. It's
+just great.
 
 The next set to pick up is Beecham. Like his Mozart his Haydn oozes style and grace.
 Unlike the Mozart the sound is a lot better. Very good late mono and good early stereo.
 And it's all in [this one convenient
-box](https://streaming.prestomusic.com/album/8032304).
+box](https://www.prestomusic.com/classical/products/8032304--haydn-the-london-symphonies-the-seasons).
 
 If you want to listen to _every_ symphony there are a few complete sets. The two best
-known are from [Antal Dorati](https://streaming.prestomusic.com/album/7978083) from the
-1970s and [Adam Fischer](https://streaming.prestomusic.com/album/7986883) from the 1980s
+known are from [Antal Dorati](https://www.prestomusic.com/classical/products/7978083--haydn-symphonies-nos-1-104) from the
+1970s and [Adam Fischer](https://www.prestomusic.com/classical/products/7986883--haydn-complete-symphonies-mp3-disc-edition) from the 1980s
 and 1990s. I have the Dorati and like what I have heard from it. But I've never played it
 end to end.
 
 Finally, there are all the other usual suspects and more:
 
-- [Szell](https://streaming.prestomusic.com/album/7996308)
-- [Klemperer](https://streaming.prestomusic.com/album/7965941)
-- [Bohm](https://streaming.prestomusic.com/album/8048854)
-- Bruno Walter did [88 and 100](https://streaming.prestomusic.com/album/8690147), and they
+- [Szell](https://www.prestomusic.com/classical/products/7996308--george-szell-conducts-haydn-symphonies)
+- [Klemperer](https://www.prestomusic.com/classical/products/7965941--haydn-symphonies)
+- Karl Bohm did 88 and 92, but it does not seem to be available in the U.S. Although you
+  can stream it on Presto if you have an account there.
+- Bruno Walter did [88 and 100](https://www.prestomusic.com/classical/products/8690147--haydn-symphonies-nos-88-100), and they
   are nice.
 - Extra bonus: [Ernest Ansermet's Paris
-  Symphonies](https://streaming.prestomusic.com/album/7923818)
+  Symphonies](https://www.prestomusic.com/classical/products/7923818--haydn-the-paris-symphonies-nos-82-83-84-85-86-87)
 - Again a lot of people love Colin Davis, and a few don't.
 
 These will all have that deliciously warm and vibrant big band sound, but are never stodgy
