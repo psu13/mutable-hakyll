@@ -10,22 +10,123 @@ listening to an enjoying. The concentration this time will be on the _symphonies
 Haydn](the-surprising-classical-groove.html). I've also been back in my [Mahler
 hole](./two-thirds.html) a bit, but we'll get to that later.
 
-The first thing to say about Mozart and Haydn is that everyone plays it wrong these days.
-Yes I'm just a guy with no real musical training and no real basis for holding this
-opinion against the collected wisdom of thousands of people who know more than me. But, I
-know what sounds good when I play it in my ear holes and many of the modern schemes for
-performing Mozart and Haydn (and even Beethoven and Brahms) don't interest me. They
-(mostly) just sound worse and less interesting.
+The first thing to say about Mozart and Haydn is that (almost) everyone plays it wrong
+these days. Yes I'm just a guy on the Internet with no real musical training and no real
+basis for holding this opinion against the collected wisdom of thousands of people who
+know more than me. But, I know what sounds good when I play it in my ear holes. I find the
+period style string sound to be unpleasant and the small chamber orchestras just make me
+crave the sound of the entire Pittsburgh Symphony filling Heinz hall with their wonderful
+string sound. Since this is never going to happen again, older recordings with big bands
+are the next best thing.
 
-As always, I have [ranted about this before](./nouvelle-old-music.html). But I thought I
-would repeat myself as a prelude for a piece that recommends nothing but "old fashioned"
-recordings of Mozart and Haydn with full orchestras and lots of vibrato.
+As always, I have [ranted about this before](./nouvelle-old-music.html). Also, in all
+honesty there are pretty good sets of these symphonies done by the period crowd. I
+hesitate to recommend anything just because it's not really my thing and I have not
+listened to what's available in any systematic or comprehensive way.
+
+Thus, this page will restrict itself to old fashioned anti-historical recordings of Mozart
+and Haydn with full orchestras and lots of vibrato on the strings.
 
 #### Mozart
 
 The big players here are Bruno Walter, Sir Thomas Beecham, Karl Bohm, George Szell and
-Otto Klemperer. The Beecham records are pre-stereo and a bit rough if you like the classic
-big 1960s/1970s stereo sound. In that case Szell, Bohm and Klemperer are the best bets.
-The Walter recordings are somewhere between. They range from OK mono to OK stereo.
+Otto Klemperer. The Beecham records are pre-stereo and a bit rough. If you like the classic
+big 1960s/1970s stereo sound the Szell, Bohm and Klemperer are the best bets.
+The Walter recordings are somewhere between, being mostly decent but not great early
+stereo.
 
+Generally what I like about these performances is their personality and style. Each
+conductor is pretty distinct and comparing the performances is a never ending source of
+interest and curiosity. Of course I also like the big sound of the full orchestra. Even
+the best and most stylish "historical" style performances just feel small at best and
+anemic at worst.
 
+Here are streaming links to all of the above, mostly just for the later symphonies.
+
+- [Karl Bohm](https://streaming.prestomusic.com/album/7930687)
+- [George Szell
+  1](https://streaming.prestomusic.com/album/7946304)
+  and [George Szell
+  2](https://streaming.prestomusic.com/album/8084204).
+- [Bruno
+  Walter](https://music.apple.com/us/album/mozart-the-last-six-symphonies-remastered/1482682795)
+- [Otto Klemperer](https://streaming.prestomusic.com/album/8026168)
+
+The Beecham performances are hard to track down. The ones you want are from a [set of LPs
+from the 1950s](https://www.discogs.com/release/5977853-Sir-Thomas-Beecham-Bart-Mozart-The-Royal-Philharmonic-Orchestra-The-Last-Six-Symphonies).
+Sadly these are not in the streaming services, but you can find them on CD. Sony put out
+two CDs that are
+[here](https://www.discogs.com/release/25328569-Sir-Thomas-BeechamRoyal-Philharmonic-Orchestra-Conducts-Mozart-Symphonies-Nos-36-Linz38-Prague-39)
+and
+[here](https://www.discogs.com/release/20695015-Sir-Thomas-Beecham-Conducts-Mozart-Symphony-No-35-Haffner-Symphony-No-40-Symphony-No-41-Jupiter). You can also get them from an outfit called
+Pristine Classical, but don't think too hard about the copyright implications. Their stuff
+is [here](https://www.pristineclassical.com/products/pasc409?_pos=4&_sid=bf30d9b91&_ss=r)
+and [here](https://www.pristineclassical.com/products/pasc413?_pos=3&_sid=bf30d9b91&_ss=r)
+and
+[here](https://www.pristineclassical.com/products/pasc415?_pos=1&_sid=bf30d9b91&_ss=r).
+
+There are also a few great alternate choices that might catch your fancy:
+
+- [This set](https://streaming.prestomusic.com/album/7927846) from Jane Glover and the
+  London Mozart Players is great.
+- I like [Josef
+  Krips](https://www.prestomusic.com/classical/products/7955027--mozart-symphonies) a lot.
+  You can get all of his performances in one big download. Or you can get them in ones and
+  twos on streaming. The link above is to the download.
+- Some people will tell you to get the Colin Davis records. Others will tell you the Colin
+  Davis records are awful. I have no strong opinion. But it's a thing to check.
+- I also tracked down a few CDs recorded by István Kertész. But they are pretty hard to
+  find so I'm not going to take you down that hole. But you can get them on
+  [Discogs](https://www.discogs.com/release/12264230-Mozart-Wiener-Philharmoniker-István-Kertész-Symphony-No-33-Symphony-No-39-Symphony-No-40)
+  if you get interested.
+
+OK now Haydn.
+
+#### Haydn
+
+The story with Haydn is very similar to Mozart. Mostly the same names even. With a couple
+of exceptions.
+
+The biggest twist, to me, is that the Haydn to get first is Bernstein. He recorded most of
+the late symphonies and every single one is a banger.
+
+- ["Paris" Symphonies (82-87)](https://streaming.prestomusic.com/album/8110931)
+- ["London" Symphonies (93-104)](https://streaming.prestomusic.com/album/8024228)
+
+You can also get [88](https://streaming.prestomusic.com/album/8389784) on Sony as a
+single, and a later recording of [88, 92,
+94](https://streaming.prestomusic.com/album/7995982) on DG. These recordings have such
+joy, energy, humor and spirit that they make you want to dance. They make you wonder if
+you could open a Haydn dance club with a light show. It's just great.
+
+The next set to pick up is Beecham. Like his Mozart his Haydn oozes style and grace.
+Unlike the Mozart the sound is a lot better. Very good late mono and good early stereo.
+And it's all in [this one convenient
+box](https://streaming.prestomusic.com/album/8032304).
+
+If you want to listen to _every_ symphony there are a few complete sets. The two best
+known are from [Antal Dorati](https://streaming.prestomusic.com/album/7978083) from the
+1970s and [Adam Fischer](https://streaming.prestomusic.com/album/7986883) from the 1980s
+and 1990s. I have the Dorati and like what I have heard from it. But I've never played it
+end to end.
+
+Finally, there are all the other usual suspects and more:
+
+- [Szell](https://streaming.prestomusic.com/album/7996308)
+- [Klemperer](https://streaming.prestomusic.com/album/7965941)
+- [Bohm](https://streaming.prestomusic.com/album/8048854)
+- Extra bonus: [Ernest Ansermet's Paris
+  Symphonies](https://streaming.prestomusic.com/album/7923818)
+
+These will all have that deliciously warm and vibrant big band sound, but are never stodgy
+or tedious. At least not to me.
+
+#### References
+
+My main references for this material are the American Record Guide overviews of the two
+composers from the early 2000s. Yes this publication is run by a bunch of old fashioned
+reactionary old men who spend most of their time screaming at clouds and the general
+downfall of man. But in this case they are right.
+
+The extensive Dave Hurwitz youtube catalog also has a lot of opinions about this stuff
+that's mostly along the same lines.
