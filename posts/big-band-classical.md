@@ -120,8 +120,8 @@ Finally, there are all the other usual suspects and more:
 
 - [Szell](https://www.prestomusic.com/classical/products/7996308--george-szell-conducts-haydn-symphonies)
 - [Klemperer](https://www.prestomusic.com/classical/products/7965941--haydn-symphonies)
-- Karl Bohm did 88 and 92, but it does not seem to be available in the U.S. Although you
-  can stream it on Presto if you have an account there.
+- Karl Bohm had a [set of 88 through 92](https://www.discogs.com/release/33432824-Haydn-Böhm-Wiener-Philharmoniker-Symphonien-Nr88-G-dur-Nr89-F-dur-Nr90-C-dur-Nr91-Es-dur-Nr92-G-dur), but it does not seem to be available in the
+  U.S. Although you can stream it on Presto if you have an account there. It's nice.
 - Bruno Walter did [88 and 100](https://www.prestomusic.com/classical/products/8690147--haydn-symphonies-nos-88-100), and they
   are nice.
 - Extra bonus: [Ernest Ansermet's Paris
