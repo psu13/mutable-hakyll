@@ -131,8 +131,7 @@ Finally, there are all the other usual suspects and more:
   92](https://www.discogs.com/release/33432824-Haydn-Böhm-Wiener-Philharmoniker-Symphonien-Nr88-G-dur-Nr89-F-dur-Nr90-C-dur-Nr91-Es-dur-Nr92-G-dur).
  You can stream it at [Apple
 Music](https://music.apple.com/us/album/haydn-symphonies-nos-88-92-sinfonia-concertante-h-i-105/1452207325)
-  and Presto, but no one seems to have it for download in the U.S. U.S. Although you can
-  stream it on Presto if you have an account there. It's nice.
+  and Presto, but no one seems to have it for download in the U.S.
 - Bruno Walter did [88 and 100](https://www.prestomusic.com/classical/products/8690147--haydn-symphonies-nos-88-100), and they
   are nice.
 - Extra bonus: [Ernest Ansermet's Paris
