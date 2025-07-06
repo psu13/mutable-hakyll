@@ -51,7 +51,10 @@ Here are download links to all of the above, mostly just for the later symphonie
   and [George Szell
   2](https://www.prestomusic.com/classical/products/8084204--mozart-symphonies-nos-35-40-41?utm_source=presto&utm_medium=app&link_token=754737bb-e560-4f05-9e7f-d2e854f5a677)
 - [Bruno
-  Walter](https://www.prestomusic.com/classical/products/9748910--bruno-walter-conducts-mozart-haydn-the-remastered-stereo-recordings)
+  Walter](https://www.prestomusic.com/classical/products/8690146--mozart-the-last-six-symphonies),
+  [or
+  this](https://www.prestomusic.com/classical/products/9748910--bruno-walter-conducts-mozart-haydn-the-remastered-stereo-recordings),
+  [or this](https://www.prestomusic.com/classical/products/9719838--bruno-walter-conducts-mozart-haydn)
 - [Otto Klemperer](https://www.prestomusic.com/classical/products/8026168--mozart-symphonies-overtures-serenades)
 
 The Beecham performances are hard to track down. The ones you want are from a [set of LPs
