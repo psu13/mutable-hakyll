@@ -57,7 +57,7 @@ Here are download links to all of the above, mostly just for the later symphonie
   [or this](https://www.prestomusic.com/classical/products/9719838--bruno-walter-conducts-mozart-haydn)
 - [Otto Klemperer](https://www.prestomusic.com/classical/products/8026168--mozart-symphonies-overtures-serenades)
 
-The Beecham performances are hard to track down. The ones you want are from a [set of LPs
+The Beecham performances are hard to track down. The ones I like are from a [set of LPs
 from the 1950s](https://www.discogs.com/release/5977853-Sir-Thomas-Beecham-Bart-Mozart-The-Royal-Philharmonic-Orchestra-The-Last-Six-Symphonies).
 Sadly these are not in the streaming services, but you can find them on CD. Sony put out
 two CDs that are
@@ -69,6 +69,10 @@ is [here](https://www.pristineclassical.com/products/pasc409?_pos=4&_sid=bf30d9b
 and [here](https://www.pristineclassical.com/products/pasc413?_pos=3&_sid=bf30d9b91&_ss=r)
 and
 [here](https://www.pristineclassical.com/products/pasc415?_pos=1&_sid=bf30d9b91&_ss=r).
+Beecham also [recorded these in the
+1930s](https://www.discogs.com/release/12854439-Mozart-London-Philharmonic-Orchestra-Sir-Thomas-Beecham-Symphonies)
+but those CDs are long out of print and the sound is even rougher. If you dig around you
+can probably find these in the streaming places.
 
 There are also a few great alternate choices that might catch your fancy:
 
