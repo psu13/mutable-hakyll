@@ -26,7 +26,8 @@ Viola Brasil, Tatjana Mead Chamis.
 
 #### 2025-07-07
 
-this complete set of Dvorak String Quartets at a ludicrously low price. Warm and lush performances by the Stamitz quartet.
+This complete set of Dvorak String Quartets at a ludicrously low price. Warm and lush
+performances by the Stamitz quartet.
 
 [https://www.prestomusic.com/classical/products/8363764--dvorak-complete-string-quartets](https://www.prestomusic.com/classical/products/8363764--dvorak-complete-string-quartets)
 
@@ -112,7 +113,7 @@ Renaissance by Beyonce.
 
 #### 2025-06-14
 
-the Shostakovich 10th Symphony. Neeme Jarvi and the Royal Scottish National Orchestra.
+Shostakovich 10th Symphony. Neeme Jarvi and the Royal Scottish National Orchestra.
 
 Rock and Roll.
 
@@ -242,7 +243,7 @@ Belladonna by Mary Halvorson. Her guitar sound is completely unique.
 
 #### 2025-05-10
 
-Bonus Ellington Indigos. By Duke Ellington.
+Ellington Indigos. By Duke Ellington.
 
 There are too many different versions of this record to count. The current "extended" version is strangely unavailable on disk.
 
