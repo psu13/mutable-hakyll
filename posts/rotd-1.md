@@ -285,7 +285,7 @@ OK. It's Sibelius week.
 
 The giant boxed set that is a summary of an even more giant set of everything Sibelius wrote.
 
-The Essential Sibelius, lots of Osmo VÃ¤nskÃ¤ with the Lahti Symphony Orchestra, but also Neme Jarvi and some misc. chamber music.
+The Essential Sibelius, lots of Osmo Vänskä with the Lahti Symphony Orchestra, but also Neme Jarvi and some misc. chamber music.
 
 [https://www.prestomusic.com/classical/products/7951535--the-essential-sibelius](https://www.prestomusic.com/classical/products/7951535--the-essential-sibelius)
 
