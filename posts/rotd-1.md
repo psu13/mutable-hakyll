@@ -423,7 +423,7 @@ The Symphony In E Minor Op. 32 (Gaelic) by Amy Beach
 
 Grazyna Bacewicz ... the third symphony in particular.
 
-https://www.prestomusic.com/classical/products/9539944--grazyna-bacewicz-orchestral-works-vol-1
+[https://www.prestomusic.com/classical/products/9539944--grazyna-bacewicz-orchestral-works-vol-1](https://www.prestomusic.com/classical/products/9539944--grazyna-bacewicz-orchestral-works-vol-1)
 
 #### 2025-03-23
 
@@ -825,7 +825,7 @@ Kenny Barron, The Source
 
 #### 2025-01-02
 
-Glazounov: From the Middle Ages, ScÃ¨nes de ballet. Lyadov : A Musical Snuffbox.
+Glazounov: From the Middle Ages, Scenes de ballet. Lyadov : A Musical Snuffbox.
 
 [https://music.apple.com/us/album/glazunov-from-the-middle-ages-sc%C3%A8nes-de-ballet/1761709852](https://music.apple.com/us/album/glazunov-from-the-middle-ages-sc%C3%A8nes-de-ballet/1761709852)
 
