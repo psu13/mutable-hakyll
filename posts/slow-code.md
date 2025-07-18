@@ -35,7 +35,7 @@ Replace _food_ with _code_ and _poof_ you have _slow code_.
 
 To me the remarkable thing is that the through line from _food_ to _code_ is pretty
 direct. Scaling food operations to be large scale profit centers distorts the product,
-often for the worst. Similarly, the realities of _making money_ from software, in many
+often making it worse. Similarly, the realities of _making money_ from software, in many
 ways, makes software worse. 
 
 What we have learned in the 50 or so years that large companies have driven industrial
