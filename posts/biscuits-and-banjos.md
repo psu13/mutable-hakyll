@@ -23,8 +23,9 @@ here](https://www.bbc.com/travel/article/20250509-the-flawless-biscuit-that-took
 Second, the music was also great. It had a greatness that only happens in live performance.
 
 We observed the bass player Christian McBride having more cool and poise in the tip of his
-little pinky finger than most musicians have in his entire body but also the generosity to
-make the show more about the student musicians that he was playing with than about himself.
+little pinky finger than most musicians have in their entire body. And he also has the
+generosity to make the show more about the student musicians that he was playing with than
+about himself.
 
 We saw Taj Mahal playing with a group younger musicians who were all a bit in awe, and yet
 also all holding their own.
