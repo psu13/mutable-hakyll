@@ -104,7 +104,9 @@ used to be this guy in the lobby of the garage who would spend 45 minutes saying
 your ticket and pay ahead of time" at the start of every event night. Recently they
 upgraded the machines in that garage and got rid of that guy in the lobby, but they still
 have to employ people to _help people exit_ the garage so that it does not take all night
-on on busy event days.
+on on busy event days. The QR code scanner on their exit robots is also a lot more clear
+than the one at the Carnegie lot. But I doubt this really helps if people are in big
+trouble (like they forgot to pre-pay).
 
 So the second mistake the Carnegie Museums have made is making this system completely
 unattended, because they wanted to stop paying the bored students to sit in the booth.
