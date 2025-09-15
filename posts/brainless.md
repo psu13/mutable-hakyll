@@ -33,7 +33,7 @@ Here's how the system is supposed to work.
 
 1. Instead handing $10 to the bored student, you get a ticket from the robot.
 
-1. In tiny little type the ticket there is some text declaring that you can pay your
+1. In tiny little type on the ticket there is some text declaring that you can pay your
    parking by following the QR code on the ticket. No app required!
 
 1. The QR code on the ticket takes you to a payment web site built in a late
