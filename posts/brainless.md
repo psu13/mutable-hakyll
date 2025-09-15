@@ -26,7 +26,7 @@ be to do revenue extraction from the parking operation. So they made two classic
 So yesterday after a sublime and inspiring concert of symphonic wonders presented by the
 CMU Philharmonic (side note: if you are after a low pressure and low cost way to begin to
 navigate classical concert going, these shows are the best thing in town) we spent almost
-a full half and hour trying to get out of the lot because the parking robot would not let
+a full half an hour trying to get out of the lot because the parking robot would not let
 people leave.
 
 Here's how the system is supposed to work.
@@ -104,7 +104,7 @@ used to be this guy in the lobby of the garage who would spend 45 minutes saying
 your ticket and pay ahead of time" at the start of every event night. Recently they
 upgraded the machines in that garage and got rid of that guy in the lobby, but they still
 have to employ people to _help people exit_ the garage so that it does not take all night
-on on busy event days. The QR code scanner on their exit robots is also a lot more clear
+on busy event days. The QR code scanner on their exit robots is also a lot more clear
 than the one at the Carnegie lot. But I doubt this really helps if people are in big
 trouble (like they forgot to pre-pay).
 
