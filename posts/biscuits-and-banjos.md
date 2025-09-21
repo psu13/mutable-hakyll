@@ -5,9 +5,9 @@ author: psu
 ---
 
 Someone at my work first turned me on to the _Carolina Chocolate Drops_, but I didn't
-quite lock in to the point of it all until we saw the group live at the 2008 Pittsburgh
-Arts Festival. Live on stage you suddenly realize what is going on, and how Rhiannon
-Giddens has _that voice_.
+quite lock in to the point of it all until we saw the group live at the Pittsburgh Arts
+Festival in maybe 2012. Live on stage you suddenly realize what is going on, and how
+Rhiannon Giddens has _that voice_.
 
 So over the years I have followed her and her music albums around and managed to see one
 more live show in the year just before the pandemic. And I was just as amazed as before.
