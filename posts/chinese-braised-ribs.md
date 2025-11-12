@@ -12,7 +12,11 @@ You will also need one bunch of scallions, cut up into large pieces, several sli
 
 Heat up a medium sized soup pot (4-6 quarts will do). When it’s hot, add oil and 3-4 tablespoons of sugar. Throw in the ribs and stir them around so they are coated with the sugar and starting to brown. Then toss in the vegetables and stir some more. Let the whole thing saute for a minute or two. Grind some pepper over everything. I have to resist the urge to reflexively add salt to the saute. But a little doesn’t hurt.
 
-Now combine about a cup of soy sauce and a cup of water. Pour this over the ribs. If there isn’t enough liquid to cover, add some more water. At this point you might have to add a bit more soy to balance things. You can also add red wine if you like that kind of thing. The soy to water ratio should be about 1-to-1, but it’s really more a matter of taste and discretion.
+Now combine 1/3 to 1/2 cup of soy sauce with a cup or two of water. Pour this over the
+ribs. If there isn’t enough liquid to cover, add some more water. At this point you might
+have to add a bit more soy to balance things. You can also add red wine if you like that
+kind of thing. Over time I've noticed that you don't need that much soy for this recipe to
+work. So try cutting back even more until it gets too bland then add more in.
 
 After adding the liquid, put 3-4 more tablespoons of sugar, scallions, ginger, and the
 star anise in the pot. Bring to a bubble, then turn the heat down and get things to a
