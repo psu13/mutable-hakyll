@@ -16,18 +16,39 @@ music came pouring out of the speakers. You know the one:
 
 > Dan dan dan daaaaan.
 
-I'm pretty sure it was this one:
+I'm pretty sure it was this one, with von Karajan conducting in 1962 or 1963:
 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/nLYHNLKp4RU?si=KtCBkZoJ3HtP1K1a&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Anyway he was right. The music grabbed me and made me pay attention.
 
-In my adult life I never saw any reason to have any boxes of Beethoven symphonies
-except that one cycle from the 1960s conducted by von Karajan. Toss in the 5th and the 7th
-by Kleiber, like everyone tells you to, and what else do you need? Nothing. I've also
-spent a lot of time bemoaning the preponderance of Beethoven in concert programs. Just
-once, so my standard rant goes, why not play something else?
+In my adult life I never saw any reason to have any boxes of Beethoven symphonies except
+that one cycle from the 1960s. Toss in the 5th and the 7th by Kleiber, like everyone tells
+you to, and what else do you need? Nothing. I've also spent a lot of time bemoaning the
+preponderance of Beethoven in concert programs. Just once, so my standard rant goes, why
+not play something else?
 
 Well, there are a lot of reasons, not the least of which is that as much as you'd like to
 hear something different once in a while, the man did write banger after banger.
+
+So late in life, meaning in the last few months, while getting ready to hear the Beethoven
+7 at local show I decided to finally peruse an "overview" of the available recordings.
+Happily such surveys are a staple of Classical Music magazines, web sites, and now youtube
+channels so there was plenty of material around to guide me. Here is the pile of boxes
+that I dug up including that most famous one from 1963.
+
+**Karajan 1962**
+
+**Karajan 1977 **
+
+**Bernstein on DG, 1977-1979**
+
+**Blomstedt 2017**
+
+**Blomstedt 1980**
+
+**Gunter Wand 1987**
+
+**Honeck, PSO**
+
 
