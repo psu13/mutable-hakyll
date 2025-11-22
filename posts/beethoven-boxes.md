@@ -1,6 +1,6 @@
 ---
 title: Briefly Binging Some Beethoven Boxed Sets
-date: 2025-11-17
+date: 2025-11-22
 author: psu
 ---
 
@@ -56,17 +56,41 @@ This combines the classic sound of the Vienna Philharmonic with personality of L
 Bernstein. For me this is especially easy to see in the "off" symphonies (i.e. the even
 numbered ones), especially 2 and 8.
 
-**Szell on Sony/Epic. 1950s-1960s**
+**Szell, Cleveland Orchestra on Sony/Epic. 1950s-1960s**
 
 George Szell was great at this stuff. See also his Haydn and Mozart. These recordings have
 been in print for 50 years for a reason.
 
-**Blomstedt 1980**
-
 **Gunter Wand 1987**
 
-**Blomstedt 2017**
+If you want fine performances in "modern" (i.e. digitally recorded) sound get this one.
+The American Record Guide overview complains that this set is "cold" but I'm not sure how
+they can listen to the 6th in this set and say that.
 
-**Honeck, PSO**
+**Blomstedt 1980, 2017**
 
+The 2017 box is another candidate for a great set of performances in good modern sound.
+The 1980 box is similarly good, in older sound, but is also cheaper if you are feeling
+strapped. I like both.
+
+**Honeck, Pittsburgh Symphony**
+
+Honeck and Pittsburgh have only recorded 3, 5, 6, 7 and 9 so far. For me 3, 5 and 7 are
+beyond reproach. I'm less sure about 6 and 9. I've always thought Honeck goes too fast in
+9. But, this is my home town band, so I am obliged to get all these records. It helps that
+they sound just enough like being in Heinz Hall to make me happy.
+
+**Extra Notes**
+
+Another older set that you should investigate is Toscanini from the 40s and 50s. It's hard
+to understate his influence on the modern style of Beethoven interpretation and
+performance. If I had spent even more time at this I might have also listed Bruno Walter
+and Karl Bohm. But I did not listen to those recordings enough.
+
+I have mostly ignored the "period" groups. Small band Mozart is bad enough. Small band
+Beethoven is just depressing.
+
+The Classics Today web site and youtube channel, and the old American Record Guide
+magazine both have good surveys of this material if you want to delve some more, or get
+more detail on the nature of the particular performances.
 
