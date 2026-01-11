@@ -16,7 +16,18 @@ Next they played the Overture to Ruslan and Ludmila by Mikhail Glinka. This is t
 
 Next was a solo piece featuring the long time principal oboe Cynthia Koledo DeAlmeida. She was the subject of <a href="http://pbs.twimg.com/media/CvOIFnzWcAA2PaV.jpg">my favorite photo</a> from the strike which showed her walking down Penn Ave with a sign that read "I'd rather be making oboe reeds" and appearing to give the side eye to the new CEO. There were two highlights to the performance of  "Gabriel's Oboe". The first was the small child who, unfortunately, had to be removed from the hall while clearly yelling "no good, no good" in Mandarin. From the lobby. The second was when, during a break in her part DeAlmeida looked back at the orchestra and just appeared to stand and listen for a few seconds, taking it all in like the rest of us. Maybe I'm reading too much into it, but she seemed as mesmerized as the audience.
 
-Finally, on any normal night the jaded and cynical concert goer might approach the two big pieces of the night, the Tchaikovsky Violin Concerto and the Dvorak 9th with a bit of cautious ennui. Both are pretty high up on the war horse scale (a <a href="http://www.post-gazette.com/music/2012/09/22/Concert-review-Dvorak-s-From-the-New-World-opens-a-new-PSO-season/stories/201209220151">2012 review of a PSO performance of the Dvorak</a> in the Post Gazette even said as much). However, as I have said, this was not any normal night. Former concert master Noah Bendix-Balgley back was in town to play the concerto, which added yet another layer of sympathetic audience energy to the performance. But I think even without this the performance was technically and musically superb. The conductor, orchestra, soloist and audience just seemed perfectly in sync for the whole piece. And for once the various audience members who needed to applaud between movements were fully justified in their actions.
+Finally, on any normal night the jaded and cynical concert goer might approach the two big
+pieces of the night, the Tchaikovsky Violin Concerto and the Dvorak 9th with a bit of
+cautious ennui. Both are pretty high up on the war horse scale (a <a
+href="http://www.post-gazette.com/music/2012/09/22/Concert-review-Dvorak-s-From-the-New-World-opens-a-new-PSO-season/stories/201209220151">2012
+review of a PSO performance of the Dvorak</a> in the Post Gazette even said as much).
+However, as I have said, this was not any normal night. Former concert master Noah
+Bendix-Balgley  was back in town to play the concerto, which added yet another layer of
+sympathetic audience energy to the performance. But I think even without this the
+performance was technically and musically superb. The conductor, orchestra, soloist and
+audience just seemed perfectly in sync for the whole piece. And for once the various
+audience members who needed to applaud between movements were fully justified in their
+actions.
 
 As good as the Tchaikovsky was, I was not prepared for the Dvorak even though I was *in the audience* for that 2012 performance which at the time I thought was the best I'd heard from the PSO in years. Well, they did it again, right down to the absolute emotional destruction of the solos (especially the english horn) in the Largo. For once the between movement clappers applauded for a slow movement, and I even tossed in a few. This was a triumphant return for the best band in the city. So much so that it replaces that concert in 2012 as the best performance I've heard in the city in the last few years. 
 
