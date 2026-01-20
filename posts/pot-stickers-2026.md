@@ -1,8 +1,11 @@
 ---
-title: The Illustrated Pot Sticker 2026
+title: Jiaozi Update (The Illustrated Pot Sticker 2026)
 date: 2026-01-20
 author: psu
 ---
+
+Yes I know jiaozi are not pot stickers, but I'm stuck with the title I picked ... too many
+years ago, so we're mixing the names here.
 
 We recently had the opportunity to make the famous dumplings (_jiaozi_) with my mom in the
 room and learned yet another small set of details to integrate into the recipe. So, with
