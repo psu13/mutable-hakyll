@@ -113,6 +113,11 @@ out and cut 1/2 inch long pieces off of it with a knife or dough blade until you
 The classic technique for doing this is to pull the pieces off the string with your hands.
 That's pretty fun but cutting the dough works just as well.
 
+Recent experimentation indicates that if you start with a piece of dough that weighs about
+14 or 15 grams you get a nice sized dumpling. 12 grams is a bit too small, 18-20 is a bit
+too big. We tend to make jiaozi that take two bites to eat. If you want to make single
+bite dumplings you want smaller pieces of dough.
+
 Now squish the dough nuggets into small rounds with the heel of your hand, so they look
 like this:
 
