@@ -4,6 +4,12 @@ date: 2009-06-09
 author: psu
 ---
 
+**Note**: I've updated this recipe a bit here: [https://mutable-states.com/jiaozi-update-2026.html](https://mutable-states.com/jiaozi-update-2026.html).
+
+So go [look](jiaozi-update-2026.md") at that.
+
+But for history I've left this text here as well.
+
 <p>We had folks over for one of our periodic Chinese dumpling parties. The food came out particularly well this time, and I managed to use my nifty Panasonic LX-3 to take pictures of some parts of the process. So here is an updated and hopefully slightly more useful version of the reference recipe.
 
 <p>It&#8217;s best to have a good system for this. So I&#8217;ve broken the recipe up into stages.</p>

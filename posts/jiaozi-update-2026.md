@@ -105,7 +105,11 @@ this, but a bit more broken down. I took this picture too soon.
 
 I usually use the smell and look of the meat mixture to figure out how to adjust the ingredients. After the initial pass I usually add a bit more soy and some more scallion.
 
-Now set this side and start to get the dough ready for filling.
+It's important to give the liquid some time to incorporate itself into the meat. You want
+to do enough stirring to make sure the mix is even, then let the meat sit and rest for
+some time. In the end you want the filling to be pretty solid, but also juicy.
+
+So set the mixture aside for a bit and start to get the dough ready for filling.
 
 #### Dough, Stage 2
 
