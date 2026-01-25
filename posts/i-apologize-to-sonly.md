@@ -104,7 +104,7 @@ been using) in 2015, which had always been good enough for most of what I do.
 Plus, the thing is barely bigger than a pair of Apple Airpods:
 
 > <a href="../images/IMG_9967.jpg">
-<img src="../images/IMG_9967-small.jpg" width=300></a>
+<img src="../images/IMG_9967-small.jpg" width=450></a>
 
 It's hard to argue with that.
 
