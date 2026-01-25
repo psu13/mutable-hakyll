@@ -12,7 +12,7 @@ Sony made mostly forgettable digital point and shoot cameras that some are irrat
 attached to because they used floppy disks for stoage. Imagine digital photos small enough
 to fit on a 3.5 inch floppy disk.
 
-Sony also made the now completely deservedly forgotten "memory stick" storage device when
+Sony also made the now completely and deservedly forgotten "memory stick" storage device when
 everyone else was playing in compact flash cards. This was also a reason to never use Sony
 cameras.
 
@@ -23,23 +23,28 @@ this move either.
 
 But then Sony finally got their big break. In the mid 2000s to the 2010s the camera people
 finally figured out that digital cameras don't need to have a flappy mirror inside them
-since you can use the _sensor_ to do all the camera things and also capture photos. Over
-the next ten or fifteen years Sony then iterated through literally multiple dozens of
-similarly named bodies until they figured out all the engineering necessary to replicate
-all of the important features of the Nikon and Canon behemoths.
+since you can use the _sensor_ to run the viewfinder and do all the camera things and also
+capture photos. Over the next ten or fifteen years Sony then iterated through literally
+multiple dozens of similarly named bodies until they figured out all the engineering
+necessary to replicate all of the important features of the Nikon and Canon behemoths.
 
 - Good autofocus with automatic tracking of things that move.
+- Good viewfinders.
 - High quality high resolution sensors (Sony actually made a lot of the sensors that the
   other camera companies used in their bodies anyway, so this was not a stretch).
 - Small size.
 - Lots of lenses.
-- Video
+- Video (note: I never use video).
 
 And so on.
 
-Being Sony they packaged these features in dozens of different ways, all sort of the same
-but slightly different. Here is a list of Sony model names from just _one_ of their
-sub-categories of cameras:
+These days all of the digital cameras we use are mirrorless. There are a few people
+holding out who insist that digital viewfinders are just unusable, but most of those
+people are also shooting film anyway, and can be ignored.
+
+Anyway, during this development period Sony prototyped and packaged these features in
+dozens of different camera models, all sort of the same name but slightly different. Here
+is a list of Sony model names from just _one_ of their sub-categories of cameras:
 
 - Sony A7
 - Sony A7 II
@@ -60,23 +65,23 @@ sub-categories of cameras:
 Since I could never make heads or tails of which Sony cameras did what things. I continued
 to ignore them.
 
-Then I couple of years ago I realized I was really tired of carrying my trusty but
-relatively large  Olympus cameras around and never using them because about 75% of the
-time the iPhone was a more effective tool to get the picture I wanted even if the final
-digital file was a bit marginal. What I found most annoying about the OMD bodies was that
-they were expensive and large, and to make up for it their basic functionality (focus,
-exposure, etc) had not improved since the mid 2010s. The focus performance was
-particularly useless. The only focus mode that really worked was single frame, center
-sensor only. So if the thing you were taking a picture of moved at the wrong time you were
-fucked.
+Then I couple of years ago I realized I was really tired of carrying my relatively beloved
+but also relatively large  Olympus (now OMD) cameras around and never using. Over time
+things evolved so that 75% of the time the iPhone was a more effective tool to get the
+picture I wanted even if the final digital file was a bit marginal. What I found most
+annoying about the OMD bodies was that they were expensive and large, and to make up for
+it their basic functionality (focus, exposure, etc) had not improved since the mid 2010s.
+The focus performance was particularly useless. The only focus mode that really worked was
+single frame, center sensor only. So if the thing you were taking a picture of moved at
+the wrong time you were fucked.
 
 My short time with the one Nikon mirrorless camera that I bought made me realize that the
 _right_ way to do this was to lock focus in _continuous_ mode and have the camera make
-sure it stuck. All of the modern Nikon, Canon and Sony cameras work this way. But not Olympus.
+sure it stuck. All of the modern Nikon, Canon and Sony cameras work this way. But not OMD.
 
 So I looked around for smaller fixed lens camera that had a focus system that worked like
-this. To my chagrin there is only one that is also available at a reasonable price, and it
-was made by Sony. It has the most Sony-style name: RX100 Mark VII.
+this. To my chagrin there was really only one that is also available at a reasonable
+price, and it was made by Sony. It has the most Sony-style name: RX100 Mark VII.
 
 I held my nose and bought it and took it with my on some trips instead of the Olympus
 cameras.
@@ -99,7 +104,7 @@ The two main limitations of the Sony vs. a "real" camera are:
 
 I have not found these two issues to really limit me in any material way. A tiny sensor
 camera in 2025 is about as good as a big sensor camera (or at least the 4/3rds that I had
-been using) in 2015, which had always been good enough for most of what I do.
+been using) in 2015, which had always been mostly good enough for most of what I do.
 
 Plus, the thing is barely bigger than a pair of Apple Airpods:
 
@@ -108,9 +113,10 @@ Plus, the thing is barely bigger than a pair of Apple Airpods:
 
 It's hard to argue with that.
 
-Now my photo trip outfit can be my phone in one pocket and this camera and the airpods in a
-the smallest of shoulder bags and this combination will as much or more than all the kits
-I have ever brought anywhere that did not include a 300mm or longer telephoto lens.
+Now my photo trip outfit can be my phone in one pocket and this camera and the airpods in
+the smallest of shoulder bags. This combination will do as much or more than all the kits
+I have ever brought anywhere that did not include a 300mm or longer telephoto lens. Which
+would be most of them.
 
 It took three trips with this camera, and pictures like this one:
 
@@ -118,7 +124,7 @@ It took three trips with this camera, and pictures like this one:
 <img src="../images/DSC03158-small.jpg" width=450></a>
 
 
-For me start to sell off most of my old Olympus and OMD stuff and forget about it forever.
+For me start to sell off most of my old Olympus/OMD stuff and forget about it forever.
 
 But, I _am_ an incurable camera dork. So I also went out and decoded enough of the rest of
 the Sony camera catalog to buy the one interchangeable lens mirrorless body to cover the
