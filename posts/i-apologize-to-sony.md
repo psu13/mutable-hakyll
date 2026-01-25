@@ -21,7 +21,7 @@ interchangeable lens digital SLR camera market. Minolta was a long time third pl
 wanabee player next to Canon and Nikon in big SLR cameras. So no one paid attention to
 this move either.
 
-But then Sony finally got their big break. In the mid 2000s to the 2010s the camera people
+But then Sony finally got their big break. Around the start of the 2010s the camera people
 finally figured out that digital cameras don't need to have a flappy mirror inside them
 since you can use the _sensor_ to run the viewfinder and do all the camera things and also
 capture photos. Over the next ten or fifteen years Sony then iterated through literally
