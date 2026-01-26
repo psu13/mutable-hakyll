@@ -8,7 +8,7 @@ I am apparently in a relatively small minority of humans who use a camera beside
 for taking pictures. I do this a lot less than I used to, because the phones have gotten
 really good. But I still do it.
 
-Most of my time with non-phone digital cameras has been spent using either Nikon DSLRs,
+Most of my time with non-phone digital cameras has been spent using Nikon DSLRs,
 which were mostly great, but always too big. I have also used the Olympus (now "OM Digital
 Solutions", but I'll still use the old brand name) mirrorless cameras, which were great
 once you went through the pain of setting up the four modes you want to use them in, and
@@ -34,10 +34,10 @@ The tracking AF is what sold me. I don't actually shoot a lot of moving things, 
 convenience of being able to put the focus box on a thing, hit the focus button and then
 recompose however I want while the camera just stays locked on to the focus spot was just
 great. In most situations this gets you results that are identical to what you used to get
-by locking focus and recomposing. But if the thing in the box moved around at all, the
-camera would generally hold on to focus like magic. I loved this every time I used it.
+by locking focus and recomposing. But if the thing in the box moves around at all, the
+camera will generally hold on to focus like magic. This is great.
 
-So I spent a few months happily taking the Nikon and the kit lens (an emminently practical
+So I spent a few months happily taking the Nikon and the kit lens (an eminently practical
 24-70mm F4 zoom lens) around and plugging away with the focus box. Then I put the camera
 in a box and barely used it.
 
