@@ -60,8 +60,8 @@ enters the lens to where it hits the capture plane (the sensor, say). Shorter fo
 lengths have wider fields of view. Longer ones have small fields of view.
 
 The Nikon Z6II has a sensor in it that is the same size as a piece of 35mm film from the
-old days, so we can use the standard focal length terminology from those days. So the
-range of focal lengths for the three zooms listed above would be
+old days, so we can use the standard 35mm camera focal length terminology from those days.
+So the range of focal lengths for the three zooms listed above would be
 
 - Very wide to wide: 14-16mm to 24-35mm
 - Wide to midrange telephoto: 24-70mm. Or if you are being adventurous 24-120mm.
