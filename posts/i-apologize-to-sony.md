@@ -76,8 +76,9 @@ single frame, center sensor only. So if the thing you were taking a picture of m
 the wrong time you were fucked.
 
 My short time with the one Nikon mirrorless camera that I bought made me realize that the
-_right_ way to do this was to lock focus in _continuous_ mode and have the camera make
-sure it stuck. All of the modern Nikon, Canon and Sony cameras work this way. But not OMD.
+_right_ way to do this is to lock focus in _continuous_ mode and have the camera make sure
+it sticks where you told it to even if that thing moves. All of the modern Nikon, Canon
+and Sony cameras work this way. But not OMD.
 
 So I looked around for smaller fixed lens camera that had a focus system that worked like
 this. To my chagrin there was really only one that is also available at a reasonable
