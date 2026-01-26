@@ -118,7 +118,8 @@ the smallest of shoulder bags. This combination will do as much or more than all
 I have ever brought anywhere that did not include a 300mm or longer telephoto lens. Which
 would be most of them.
 
-I have taken three or four with this camera, and taken a lot of pictures like this one:
+I have taken three or four trips with this camera, and taken a lot of pictures like this
+one:
 
 > <a href="../images/DSC03158.jpg">
 <img src="../images/DSC03158-small.jpg" width=450></a>
