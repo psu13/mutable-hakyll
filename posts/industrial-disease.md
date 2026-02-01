@@ -4,7 +4,7 @@ date: 2006-10-13
 author: psu
 ---
 
-The other night, we visited one of our favorite local places, the _Grand Canal Cafe__. For
+The other night, we visited one of our favorite local places, the _Grand Canal Cafe_. For
 years, they’ve done straightfoward Italian food with a particular emphasis on pastas. Karen had
 a craving for their speciality: a ground veal and spinach cannelloni with a tomato and bechamel
 sauce.
@@ -38,7 +38,7 @@ and the huge retail outlets (Costco). This, more than anything, is the American 
 nothing that is specialized enough to avoid being turned into a supersized Costco Commodity if
 there is enough money to be made.
 
-But, as we learned in _Fast Food Nation__, this kind of distribution is the ideal way for the
+But, as we learned in _Fast Food Nation_, this kind of distribution is the ideal way for the
 bugs to get us. The fact that the organic food industry has fallen to into the same traps as
 the fast food industry must be a crushing blow to all of those self-important boomer granola
 munchers at the Whole Foods.
