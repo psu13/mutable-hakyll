@@ -29,7 +29,7 @@ Business. Horizon and Organic Valley are everywhere. Dannon owns Stonyfield Farm
 of organic spinach are everywhere except when they are pulled off the shelf for making people
 sick. Five years ago, in Pittsburgh, dozens of people got sick after eating contaminated
 vegetables at Chi-Chi’s. Today, it’s organic spinach. Organic food poisoning isn’t any better
-than the kind with pesticides
+than the kind with pesticides.
 
 The lesson is, if there is money to be made as a niche luxury, there is even more money to be
 made by centralizing distribution, increasing volume, and generally pushing the product into
