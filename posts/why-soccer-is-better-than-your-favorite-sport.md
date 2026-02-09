@@ -107,7 +107,7 @@ reasons:
   championship fights for the top tier.
 
 This year we didn't find out which teams got dropped from the Premier League until the
-nearly the very end of the very last day of the season. As a neutral fan can't beat this
+nearly the very end of the very last day of the season. As a neutral you fan can't beat this
 for entertainment. As an actual fan it must be the absolute worst.
 
 #### Drama
