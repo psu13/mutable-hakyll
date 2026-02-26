@@ -89,9 +89,7 @@ Back in the 90s there was a great show on the MTV spinoff network VH1 called "Po
 Video". What the show did was play music videos, but overlay them with pithy little bits
 of meta-commentary.
 
-Here is a modest example
-
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/QemfPpzCGWY?si=j0nLV6WQjrGfa_z-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Here is a [modest example](https://www.youtube.com/watch?v=QemfPpzCGWY).
 
 What makes these videos work is that the content in the "bloops" is the perfect mix of
 behind the scenes factoids, explanations of the music or production itself and perfectly
@@ -106,10 +104,15 @@ Popup videos solve both of these problems at once since they play _along with th
 performance_. I think to make it work we have to be just as mindful as the VH1 producers
 about the right kind of content to put into the popup messages.
 
-1. Comments that just tell you what you are listening to are pointless.
-2. Dry musical analysis about key changes and whatnot also don't add much.
+1. Comments that just tell you what you are hearing anyway are pointless. Notes that
+   explain the context of what you are hearing are more useful.
+2. Dry musical analysis about key changes and whatnot are also no fun. On the other hand
+   explaining where the sounds are coming from and how the instruments make them might be
+   useful.
 3. The notes need to be short and to the point so they don't interfere with your
    concentration when listening to the piece.
+4. Finally, the notes could tell the audience what piece the damn soloist is playing for
+   their encore. I _hate_ not being able to figure this out.
 
 Apple Music Classical actually has a "Guided Listening" feature that is sort of close to
 this idea. But I think their commentary falls too much into the first bucket above. For
@@ -117,9 +120,9 @@ example, the very first bubble in the guide for the Mahler 2 reads something lik
 Mahler 2 opens with a violent figure in the basses and violas", or something. Which is
 exactly what you are hearing when the text comes up. That's no fun.
 
-I'm imagining in my head the Beethoven 5 playing, and a little bubble popping up with
-"Main theme!"... then when the sonata form repeats the main theme the bubble would say
-"Exposition repeat!" and so forth. In between these form markers would be interesting
+I'm imagining in my head the Beethoven 5 (say) playing, and a little bubble popping up
+with "Main theme!"... then when the sonata form repeats the main theme the bubble would
+say "Exposition repeat!" and so forth. In between these form markers would be interesting
 tidbits about Beethoven's favorite hangouts, or fashion choices. Well, maybe not.
 
 For the Bruckner these little bubbles could have explained the ghostly double harmonics
