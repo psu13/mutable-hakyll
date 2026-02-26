@@ -115,10 +115,10 @@ about the right kind of content to put into the popup messages.
    their encore. I _hate_ not being able to figure this out.
 
 Apple Music Classical actually has a "Guided Listening" feature that is sort of close to
-this idea. But I think their commentary falls too much into the first bucket above. For
-example, the very first bubble in the guide for the Mahler 2 reads something like "the
-Mahler 2 opens with a violent figure in the basses and violas", or something. Which is
-exactly what you are hearing when the text comes up. That's no fun.
+this idea. But I think their commentary falls too much into the "here is what they just
+played" bucket above. For example, the very first bubble in the guide for the Mahler 2
+reads something like "the Mahler 2 opens with a violent figure in the basses and violas",
+or something. Which is exactly what you are hearing when the text comes up. That's no fun.
 
 I'm imagining in my head the Beethoven 5 (say) playing, and a little bubble popping up
 with "Main theme!"... then when the sonata form repeats the main theme the bubble would
