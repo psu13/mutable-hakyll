@@ -123,9 +123,14 @@ exactly what you are hearing when the text comes up. That's no fun.
 I'm imagining in my head the Beethoven 5 (say) playing, and a little bubble popping up
 with "Main theme!"... then when the sonata form repeats the main theme the bubble would
 say "Exposition repeat!" and so forth. In between these form markers would be interesting
-tidbits about Beethoven's favorite hangouts, or fashion choices. Well, maybe not.
+tidbits about Beethoven's favorite hangouts, or fashion choices. Well, maybe not. But,
+remember Peter Schickele's [brilliant play-by-play
+commentary](https://www.youtube.com/watch?v=f0vHpeUO5mw) over the Beethoven 5? It can be
+done!
 
 For the Bruckner these little bubbles could have explained the ghostly double harmonics
 that the violins pulled off at the start of the second movement. Or the fuguey bits near
 the end of the finale. You now have _eighty five minutes_ to explain eighty five minutes
 of music. Let's get to it.
+
+Oh, and yes, I would keep the "bloop!" noises. What the hell.
