@@ -35,25 +35,26 @@ soft that you can barely hear them over the hum of the AC. The peak moment in th
 Adagio in this piece in particular is a top "beat drop" in classical music, complete with
 giant cymbal crashes.
 
-Both shows lived up to my very high expectations. Best music shows of the year so far. 170
-minutes of Bruckner bliss. Sunday was probably slightly better then Friday. It felt
-tighter and more assured. Family Circle is the best musical sound that you can experience
-in Pittsburgh, especially when the PSO is going full blast through a huge piece. You
-should do it some time.
+Both of the Bruckner 8 shows gave me everything I would have wanted from this piece. Best
+music shows of the year so far. 170 minutes of Bruckner bliss. Sunday was probably
+slightly better then Friday. It felt tighter and more assured, and Family Circle is the best
+musical sound that you can experience in Pittsburgh, especially when the PSO is going full
+blast through a huge piece. You should do it some time.
 
 In the second show I sat next to an enterprising CMU music student who had _also_ bought
 tickets to two shows. He thought he was the only one insane enough to do this. The kids
 are alright.
 
-Meanwhile, over that the Post Gazette (RIP) the current music writer Jeremy Reynolds
-wondered a bit out loud how to make sense of playing a piece like this in our current time
-and place. After all, much of the audience (including, perhaps, Jeremy) will have a hard
-time sitting through, much less actually appreciating. I think he would prefer to hear the
-more compact and efficient (my words) Brahms style work, rather than Bruckner's
-overwrought nonsense. I think this is a fair take. But it would also be sad if we lost
-live performances of the bigger pieces. The reason is that as I have said in the past,
-recordings give you the 25% of the piece that sits on the surface of the sound. You never
-_really_ hear a piece unless it's performed live though. So I hope people keep doing it.
+Meanwhile, over at the Post Gazette (RIP) the current music writer Jeremy Reynolds
+wondered about how to make sense of playing a piece like this in our current time and
+place. After all, much of the audience (including, perhaps, Jeremy) will have a hard time
+sitting through the piece, much less actually enjoying or appreciating it. I think he
+would prefer to hear the more compact and efficient (my words) Brahms style work, rather
+than Bruckner's overwrought nonsense. I think this is a fair take. But it would also be
+sad if we lost live performances of these bigger pieces. The reason is that as I have said
+in the past, recordings give you the the small percentage of the piece that sits on the
+surface of the sound. You don't _really_ get nearly the full experience of a piece unless
+it's performed live in front of your face. So I hope people keep doing it.
 
 Jeremy also brought up the idea of the dreaded "talk to the audience about the show before
 the show" idea, so that people might have a map of what is about to happen to them as they
@@ -69,12 +70,12 @@ of the piece before you are in the dark with just your thoughts and the band. Fo
 like the Bruckner this is _an absolute must_.  Listen in short segments at first, and then
 whole movements, and then finally a couple of complete end to end run throughs. You can do
 this in a week instead of (or in addition to) scrolling short videos on social media. Then
-on concert you'll now what's coming, and what favorite moments to anticipate and look
+on concert day you'll know what's coming, and what favorite moments to anticipate and look
 forward to. This is great fun.
 
-While I'm sure there are musical savants who can plop themselves down in front of an 80
-minute piece cold and just love it—for the regular human I'm not really sure there is any
-other way to approach this problem than to do this work. Certainly a ten minute talk
+While there might exist people who can sit down in front of an 80 minute piece cold and
+just love it immediately—for the regular human I'm not really sure there is any other way
+to approach this problem than to do this "training" work. Certainly a ten minute talk
 before show is not going to fill in these gaps. If nothing else playing the piece ahead of
 time will tell you whether you, like Jeremy, would rather listen to Brahms and Dvorak and
 thus save your money. This is fine. Not everything is for everyone. I happen to love both,
@@ -88,5 +89,40 @@ Back in the 90s there was a great show on the MTV spinoff network VH1 called "Po
 Video". What the show did was play music videos, but overlay them with pithy little bits
 of meta-commentary.
 
-Here is a modest example ...example...
+Here is a modest example
 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/QemfPpzCGWY?si=j0nLV6WQjrGfa_z-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+What makes these videos work is that the content in the "bloops" is the perfect mix of
+behind the scenes factoids, explanations of the music or production itself and perfectly
+timed in-jokes.
+
+Why, I ask you, can't we have Popup-videos for Classical Music? The problem with
+pre-concert lectures and program notes is that they can never provide enough material to
+give you something to hold on to for the entire performance. And, it's always hard to
+synchronize the material in the notes to what is happening on stage later.
+
+Popup videos solve both of these problems at once since they play _along with the
+performance_. I think to make it work we have to be just as mindful as the VH1 producers
+about the right kind of content to put into the popup messages.
+
+1. Comments that just tell you what you are listening to are pointless.
+2. Dry musical analysis about key changes and whatnot also don't add much.
+3. The notes need to be short and to the point so they don't interfere with your
+   concentration when listening to the piece.
+
+Apple Music Classical actually has a "Guided Listening" feature that is sort of close to
+this idea. But I think their commentary falls too much into the first bucket above. For
+example, the very first bubble in the guide for the Mahler 2 reads something like "the
+Mahler 2 opens with a violent figure in the basses and violas", or something. Which is
+exactly what you are hearing when the text comes up. That's no fun.
+
+I'm imagining in my head the Beethoven 5 playing, and a little bubble popping up with
+"Main theme!"... then when the sonata form repeats the main theme the bubble would say
+"Exposition repeat!" and so forth. In between these form markers would be interesting
+tidbits about Beethoven's favorite hangouts, or fashion choices. Well, maybe not.
+
+For the Bruckner these little bubbles could have explained the ghostly double harmonics
+that the violins pulled off at the start of the second movement. Or the fuguey bits near
+the end of the finale. You now have _eighty five minutes_ to explain eighty five minutes
+of music. Let's get to it.
