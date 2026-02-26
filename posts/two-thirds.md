@@ -16,7 +16,7 @@ aside from the fact that they both wrote ludicrously verbose and expansive music
 composers could not be more different in style and temperament.
 
 Anyway, with this knowledge in hand, and with my [ear
-pods](https://mutable-states.com/sept-shorts.html) in my ear holes for long morning walks,
+pods](./sept-shorts.html) in my ear holes for long morning walks,
 I decided to spend my winter working my way through all the Bruckner symphonies so I'd
 have all the context that I needed to really absorb what the PSO was going to show me.
 
