@@ -1,6 +1,6 @@
 ---
 title: Bruckner 170
-date: 2026-02-25
+date: 2026-02-26
 author: psu
 ---
 
@@ -11,7 +11,9 @@ the Beethoven 9 instead.
 This year they made it up to me by again putting the Bruckner into the season as both a
 live performance and a recording session. As soon as I found out I bought both my normal
 subscription ticket _and_ a second ticket for the Sunday show to sit up in Family Circle
-and get the whole thing again from a much better vantage point with much better sound.
+and get the whole thing again from a much better vantage point with much better sound. I
+somehow missed the Bruckner 7 shows from a few years ago. I was not going to make that
+mistake again.
 
 The Bruckner and Mahler symphonies are the "apex predators", if you will, of the late
 romantic symphony orchestra repertoire. They are long, huge, extended, long, epic, and
@@ -32,8 +34,8 @@ But what I do in the all of the big Bruckner pieces is to just sit there and rev
 glory of flow and buildup to the giant brass chorales, marveling at how the orchestra just
 sounds great whether they are playing slow or fast(er), so loud that the walls shake or so
 soft that you can barely hear them over the hum of the AC. The peak moment in the famous
-Adagio in this piece in particular is a top "beat drop" in classical music, complete with
-giant cymbal crashes.
+Adagio in particular is a top "beat drop" in classical music, complete with giant cymbal
+crashes.
 
 Both of the Bruckner 8 shows that I saw gave me everything I would have wanted from this
 piece. Best music shows of the year so far. 170 minutes of Bruckner bliss. Sunday was
@@ -47,10 +49,10 @@ In the second show I sat next to an enterprising CMU music student who had _also
 tickets to two shows. He thought he was the only one insane enough to do this. The kids
 are alright.
 
-Meanwhile, over at the Post Gazette (RIP) the current music writer Jeremy Reynolds
-wondered about how to make sense of playing a piece like this in our current time and
-place. After all, much of the audience (including, perhaps, Jeremy) will have a hard time
-sitting through the piece, much less actually enjoying or appreciating it. I think he
+Meanwhile, over at the Post Gazette (RIP) the classical current music writer Jeremy
+Reynolds wondered about how to make sense of playing a piece like this in our current time
+and place. After all, much of the audience (including, perhaps, Jeremy) will have a hard
+time sitting through the piece, much less actually enjoying or appreciating it. I think he
 would prefer to hear the more compact and efficient (my words) Brahms style work, rather
 than Bruckner's overwrought nonsense. I think this is a fair take. But it would also be
 sad if we lost live performances of these bigger pieces. The reason is that as I have said
@@ -58,12 +60,13 @@ in the past, recordings give you the the small percentage of the piece that sits
 surface of the sound. You don't _really_ get nearly the full experience of a piece unless
 it's performed live in front of your face. So I hope people keep doing it.
 
-Jeremy also brought up the idea of the dreaded "talk to the audience about the show before
-the show" idea, so that people might have a map of what is about to happen to them as they
-sat down at the start of the 85 minute marathon. I am long on record as hating this idea.
-I don't think a ten minute talk before the concert is going to be enough to guide the
-Bruckner novice to the end of the 80 minute tunnel. The only way to do this is to practice
-and train, if you will.
+Jeremy also brought up the dreaded "talk to the audience about the show before the show"
+idea, so that people might have a map of what is about to happen to them as they sat down
+at the start of the 85 minute marathon. I am long on record as hating these talks. I don't
+think a ten minute talk before the concert is going to be enough to guide the Bruckner
+novice to the end of the 80 minute tunnel. And such things just annoy the more experienced
+audience. In my humble opinion the only way to make sense of a piece like this is to
+practice and "train", if you will.
 
 Luckily these days this is really easy. Fire up Spotify, Apple Music, Presto, or Youtube
 and there will be _dozens_ of available recordings of this piece for you to study. The
@@ -132,8 +135,9 @@ done!
 
 For the Bruckner these little bubbles could have explained the ghostly double harmonics
 that the violins pulled off at the start of the second movement. Or the fuguey bits near
-the end of the finale. You now have _eighty five minutes_ to explain eighty five minutes
-of music. Let's get to it.
+the end of the finale. Or how there are 2.5 to 3 different versions of the piece, because
+this somehow always happens with Bruckner. You now have _eighty five minutes_ to explain
+eighty five minutes of music. Let's get to it.
 
 Oh, and yes, I would keep the "bloop!" noises. What the hell.
 
