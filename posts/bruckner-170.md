@@ -4,9 +4,9 @@ date: 2026-02-25
 author: psu
 ---
 
-A couple of years ago the PSO [promised me that they would
-play](./two-thirds.html) the Bruckner Symphony Number 8 in
-concert, and then ended up changing their minds and playing the Beethoven 9 instead.
+A couple of years ago the PSO [promised me that they would play](./two-thirds.html) the
+Bruckner Symphony Number 8 in concert, and then ended up changing their minds and playing
+the Beethoven 9 instead.
 
 This year they made it up to me by again putting the Bruckner into the season as both a
 live performance and a recording session. As soon as I found out I bought both my normal
@@ -35,11 +35,13 @@ soft that you can barely hear them over the hum of the AC. The peak moment in th
 Adagio in this piece in particular is a top "beat drop" in classical music, complete with
 giant cymbal crashes.
 
-Both of the Bruckner 8 shows gave me everything I would have wanted from this piece. Best
-music shows of the year so far. 170 minutes of Bruckner bliss. Sunday was probably
-slightly better then Friday. It felt tighter and more assured, and Family Circle is the best
-musical sound that you can experience in Pittsburgh, especially when the PSO is going full
-blast through a huge piece. You should do it some time.
+Both of the Bruckner 8 shows that I saw gave me everything I would have wanted from this
+piece. Best music shows of the year so far. 170 minutes of Bruckner bliss. Sunday was
+probably slightly better then Friday. It felt tighter and more assured, and Family Circle
+is the best musical sound that you can experience in Pittsburgh, especially when the PSO
+is going full blast through a huge piece. You should do it some time. In fact, you should
+do it in a couple of weeks when they play the Mahler 2, another member of the "one piece
+takes 80 to 90 minutes or more" club.
 
 In the second show I sat next to an enterprising CMU music student who had _also_ bought
 tickets to two shows. He thought he was the only one insane enough to do this. The kids
@@ -134,3 +136,10 @@ the end of the finale. You now have _eighty five minutes_ to explain eighty five
 of music. Let's get to it.
 
 Oh, and yes, I would keep the "bloop!" noises. What the hell.
+
+*Final Note*
+
+You can use the next two weeks to practice the methods that I have laid out here because
+on the weekend of March 13-15 the PSO will be playing the Mahler 2 which also runs around
+80 to 90min (or more even). This piece has a Choral part too! Hope to see you at Heinz
+Hall for two days that weekend too.
