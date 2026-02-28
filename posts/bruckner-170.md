@@ -20,7 +20,7 @@ romantic symphony orchestra repertoire. They are long, huge, extended, long, epi
 long works. People just don't write this sort of thing anymore, a fact emphasized by the
 companion piece in the concert. Samy Moussa's Adgilis Deda: Hymn for orchestra, which he
 wrote for the PSO in 2024, is an _excellent_ piece and fits very well with Bruckner's
-style, actually. But it's entire length is not even quite as long as the shortest movement
+style, actually. But its entire length is not even quite as long as the shortest movement
 in the 8th symphony.
 
 The Bruckner 8 runs about 85 minutes in four movements (about 18, 15, 27, and 25 minutes,
