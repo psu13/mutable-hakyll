@@ -126,7 +126,7 @@ one:
 <img src="../images/DSC03158-small.jpg" width=450></a>
 
 
-After the second or third trip I started to off most of my Olympus/OMD stuff and
+After the second or third trip I started to sell off most of my Olympus/OMD stuff and
 forget about it forever.
 
 But, I _am_ an incurable camera dork. So I also went out and decoded enough of the rest of
