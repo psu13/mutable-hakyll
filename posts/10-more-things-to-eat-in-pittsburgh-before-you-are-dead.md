@@ -30,9 +30,9 @@ Rather than fill some space with the standard patter, I'll just get to the point
 
 	Gaucho is in the strip and what they do is grill beef. Yes they have pork and chicken on the menu, but with all due respect what you want there is the beef. In particular, you want the $50 plate that has about 1/4 pound of every kind of steak that they do on it. One and a quarter pounds of perfectly seasoned and perfectly medium rare beef. Perfect.
 
-6. **Kouign Amann: Chatelier's Bakery**
+6. **Kouign Amann: Chatellier's Bakery**
 
-	This pastry is Chatelier's answer to the Cronut. I have not had a cronut, but I have my doubts that it would be better than this. Imagine croissant dough rolled out and then dunked into a *glaze* made out of *more butter and sugar* and then baked. Actually, you can't imagine what this tastes like. Don't even try. Go to the store.
+	This pastry is Chatellier's answer to the Cronut. I have not had a cronut, but I have my doubts that it would be better than this. Imagine croissant dough rolled out and then dunked into a *glaze* made out of *more butter and sugar* and then baked. Actually, you can't imagine what this tastes like. Don't even try. Go to the store.
 
 7. **Goat Curry: Grit and Grace**
 
