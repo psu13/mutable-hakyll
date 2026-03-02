@@ -82,7 +82,7 @@ For the record here are some other portable foods that are not sandwiches, but w
 
 3. Chinese steamed buns.
 
-4. In Japan you can walk into any Seven-Eleven store and go over to the prepared food cooler and buy some Inari (the sushi rice stuffed into sweet tofu skin wrappers) that is as good or better than any version of the dish you can purchase in North America. Then you come back home and are *enraged* every time someone serves you shitty Inari.
+4. In Japan you can walk into any Seven-Eleven store and go over to the prepared food cooler and buy some inari (sushi rice stuffed into sweet tofu skin wrappers) that is as good or better than any version of the dish you can purchase in North America. Then you come back home and are *enraged* every time someone serves you shitty inari.
 
 5. The hamburgers at ButterJoint in Pittsburgh. A bit too expensive, but oh well.
 
