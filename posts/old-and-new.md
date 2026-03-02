@@ -64,7 +64,7 @@ everything: _If it works well for me, it should generalize and work well for you
 But, this is in fact never true. Or rather it's only true if you decide that you can
 ignore the details of each unique situation when you go in and start bashing your solution
 hammer. In software this is the one thing you cannot do, because the whole world is in the
-details. As we all know from reading our Fred Brooks, the complexity of software is
+details. As we all know from reading our Fred Brooks, the complicated details of software are
 _essential_, not incidental. You can't just abstract them away without losing the ability
 to solve part of the problem.
 
