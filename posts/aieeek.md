@@ -80,3 +80,21 @@ Of course, as we all know, the computer industry is full of pretty huge dipshits
 somehow running things. But I would still be willing to bet anyone almost any number of
 cases of beer, against cases of CDs of classical music, that the bots will not actually be
 doing a _good_ job of replacing humans at anything any time soon.
+
+I think the three things that I actually want to talk about at some level of detail and
+hopefully with some level of coherence are these three kind of independent but also kind
+of related issues:
+
+1. There _is_ something going on here that is deeper and more spooky than what has come
+   before. But no one really knows what it is.
+
+2. However, for some reason no one talks about these systems in a way that seems to be to be very
+   ... well ... intelligent. People who love the bots say a ton of dumb shit, but people
+   who (like me) hate the bots also say a lot of really dumb shit. I will try to not say
+   too much dumb shit, but some will leak out I'm sure.
+
+3. Finally, this "vibe coding" craze is stupid, and destructive, and actively harmful to
+   the industry. As an extension of this, the idea of using these machines as "creative"
+   tools is as insulting to actual acts of creativity as it is idiotic.
+
+
