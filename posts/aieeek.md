@@ -212,7 +212,9 @@ Now, unquestionably the fact that the models can read and understand the questio
 also generate answers that make sense is a pretty large leap forward. But let's not kid
 ourselves about what the tests themselves mean. If the computers get really good at those
 then we have to change the tests to be things that actually reflect real ability. Probably
-with pens on paper, and no Internet. The horror.
+with pens on paper, and no Internet. The horror. I'll have more thoughts about this later,
+because the existence of machines that write human language better than most humans does
+bring up difficulties. But first I want to talk about machines writing computer programs.
 
 ### Part 3: Ignore The Vibes
 
