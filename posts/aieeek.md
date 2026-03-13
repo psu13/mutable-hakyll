@@ -151,7 +151,12 @@ comically wrong.
 There are any number of easy examples. For some reason simple arithmetic is beyond reach.
 But using the programming assistants I've also gotten a lot of really confident answers
 that appear to be pretty good, but when unpacked are actually completely wrong. Claude is
-pretty good at writing LaTeX though. No surprise.
+pretty good at writing LaTeX though. No surprise. 
+
+What is more spooky is that claude code is also better than the average engineer at
+writing English descriptions about what complicated pieces of code do. These pieces of
+text are never 100% right, but most engineer writing is not either. And the claude stuff
+is more readable.
 
 So anyway. These things _are_ spooky good at _something_. But it's not really clear what.
 And different systems are good at different things.
@@ -161,6 +166,32 @@ different behaviors into the singularly useless umbrella term "AI". Now instead 
 "googling" things we just "ask AI". Which somehow seems to have made the world worse.
 
 ### Part 2: They are Both Stupid, Mostly
+
+Whatever it is that the bots actually do, humans who talk about appear to mostly say
+stupid things.
+
+There are two positions on this spectrum and hardly any discussion in the middle of the
+two extremes.
+
+1. Actual "AI" has arrived. If you do certain things having to do with either code or
+   language generation professionally will soon be replaced with a machine. This is
+   especially true if you mostly work with machines and not other people.
+
+or
+
+2. These LLM (and related) systems are just a probabilistic smoke screen and do nothing
+   new compared to the standard computer models for these things that we have seen before.
+   Plus they are wrong all the time and no one should ever use them for anything.
+
+I will admit to being sympathetic to position (2). But it's probably not true. These
+things unquestionably understand and generate text at a higher level than previous
+systems. And they seem spooky good at doing certain kinds of translation from one language
+system (e.g. English) to another (e.g. scripting languages for webs sites, or whatever).
+
+On the other hand I hae no sympathy whatsoever for position (1). I think we can discuss my
+position in the spectrum using one particular class of canned examples that keep coming up
+in the discourse: LLMs are good at taking tests and doing homework.
+
 
 ### Part 3: Ignore The Vibes
 
