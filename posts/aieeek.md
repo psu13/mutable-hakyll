@@ -112,9 +112,9 @@ related issues:
    too much dumb shit, but some will leak out I'm sure.
 
 3. Finally, all of this "vibe coding" (or "vibe writing", for that matter) is stupid, and
-   destructive, and actively harmful to the industry. As an extension of this, the idea of
-   using these machines as "creative" tools is as insulting to actual acts of creativity
-   as it is idiotic.
+   destructive, and actively harmful. As an extension of this, the idea of using these
+   machines as "creative" tools is as insulting to actual acts of creativity as it is
+   idiotic.
 
 Points 2 and 3 above reflect the fact that while I'm trying to give the advocates of these
 systems a fair chance, the truth is I hate them and I think they should shut up. So there
