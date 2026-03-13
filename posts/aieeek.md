@@ -186,12 +186,33 @@ or
 I will admit to being sympathetic to position (2). But it's probably not true. These
 things unquestionably understand and generate text at a higher level than previous
 systems. And they seem spooky good at doing certain kinds of translation from one language
-system (e.g. English) to another (e.g. scripting languages for webs sites, or whatever).
+system (e.g. English) to another (e.g. scripting languages for webs sites, or whatever). I
+understand the hard liners who want nothing in the computer systems that they use to have
+been generated from these models. There are reasons I would feel similarly. But it's a
+bit unhinged to deny the things that these models are in fact good at. But of course most
+of the anti-LLM discourse insists on taking only the maximal position against, because
+that's the easiest thing to scream into the Internet. Sigh.
 
-On the other hand I hae no sympathy whatsoever for position (1). I think we can discuss my
-position in the spectrum using one particular class of canned examples that keep coming up
-in the discourse: LLMs are good at taking tests and doing homework.
+On the other hand I find position (1) completely and utterly unhinged. First I will invoke
+Amdahl's law and say that even if the machine were _perfectly right_ and 100x as fast as
+the human at all the computery things in the human's job, it probably _still_ would not be
+a reasonable replacement because even the most computery job is actually mostly about
+interacting with humans in some kind of real time and space. And there is no evidence that
+the bots can do the social part of the job yet. I know the nerds don't think this really
+exists, but the nerds are wrong.
 
+There are so many other fronts along which to have this argument that I don't even really
+know where to start. But let's start with this: "but the models are so good at taking
+tests that we give college students", etc.
+
+My feeling about this is that the standardized tests in fact have never been a good
+measure of competence or ability. They've mostly been a lazy and easy to grade measure.
+
+Now, unquestionably the fact that the models can read and understand the questions and
+also generate answers that make sense is a pretty large leap forward. But let's not kid
+ourselves about what the tests themselves mean. If the computers get really good at those
+then we have to change the tests to be things that actually reflect real ability. Probably
+with pens on paper, and no Internet. The horror.
 
 ### Part 3: Ignore The Vibes
 
