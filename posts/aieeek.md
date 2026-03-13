@@ -1,6 +1,6 @@
 ---
 title: AIeeek!
-date: 2026-03-12
+date: 2026-03-15
 author: psu
 ---
 
@@ -57,15 +57,18 @@ because everyone has to have a job to be a valid member of society after all.
 In addition there has been a giant gold rush to incorporate features based on these
 engines into traditional "productivity" software (e.g. Office type things) because that's
 the software most used to perform the tedious drudge work that we make mid-level humans do
-to get paid mid level money in our corporate hellscapes. So far it does not appear that
+to get paid mid-level money in our corporate hellscapes. So far it does not appear that
 anyone has figured out how to make any of these models _actually_ do anything interesting
-in those software platforms.
+or useful in those software platforms. 
 
 One note that we should get out of the way early is to point out that to build these
-models all of the giant LLM building companies have basically _stolen_ content in order to
-then enable their platforms to then simulate the act of creating similar content in a
-similar style later. We have not as yet had a larger ethical or legal discussion about how
-people should be compensated for this. Which is too bad.
+models the model building companies have mostly _stolen_ content to use as training data
+in order to then enable their platforms to simulate the act of creating similar content in
+a similar style later. We have not as yet had a larger ethical or legal discussion about
+how people should be compensated for this. Which is puzzling and sad. As always in modern
+power dynamics if you just do the thing that's wrong fast enough, it is soon too late to
+be punished for having acted badly (I have been reading _The Power Broker_, where this
+idea comes up a lot).
 
 Another side note to get out of the way is to point out that I think most of the talk
 about these bots taking over entire human jobs in the _short_ term is mostly nonsense. By
