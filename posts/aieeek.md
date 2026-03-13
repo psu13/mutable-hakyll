@@ -44,7 +44,8 @@ Anyway, the important thing here is that _those people_ can work on this stuff a
 sometimes do cool things with it. _I_ don't have to think about it, and when something
 works well enough to be great, _poof_ it's an algorithm now.
 
-Of course, now things are different because the fucking LLMs invaded.
+Of course, now things are different because the fucking LLMs ("Large Language Models")
+invaded.
 
 For the past five or six years giant machine learning models that combine training sets as
 large as the Internet (they just spider everything, or at least all of reddit and stack
@@ -122,7 +123,42 @@ you go. OK let's get into it.
 
 ### Part 1: Ghost in the Machine
 
+No matter what your thoughts are on the larger questions that swirl around these new LLM
+systems if you actually use one, or watch one being used you do have to admit that they
+are really good at not acting like a computer.
 
+On the input side they seem do much better at processing text queries that would cause most systems
+before to either give up or perform really badly due to ambiguity and/or a lack of context
+clues. Usually when using computers you have to be very specific about what you want, and
+the results that are generated from the queries are kind of predictable and mechanistic.
+You can almost see the finite state machine sitting in the back generating the canned
+text.
+
+LLMs are not like this. While you will still get better results with more specific and
+directed queries, the machines seem to be able to pick up on a lot of context and other
+environmental data "from the world" in a way that computers did not used to do.
+
+I think this is what makes people conclude that this, indeed, is the path to "general
+intelligence", whatever that means.
+
+But, not so fast.
+
+While the machines sort of _act_ smart and can generate text that _sounds_ smart a lot of
+this hides the fact that when asked actual specific questions about things the answers
+that you get, or at least that _I_ get are almost always not really right, and sometimes
+comically wrong.
+
+There are any number of easy examples. For some reason simple arithmetic is beyond reach.
+But using the programming assistants I've also gotten a lot of really confident answers
+that appear to be pretty good, but when unpacked are actually completely wrong. Claude is
+pretty good at writing LaTeX though. No surprise.
+
+So anyway. These things _are_ spooky good at _something_. But it's not really clear what.
+And different systems are good at different things.
+
+What's too bad is that the popular discourse about these systems lumps all of this
+different behaviors into the singularly useless umbrella term "AI". Now instead of
+"googling" things we just "ask AI". Which somehow seems to have made the world worse.
 
 ### Part 2: They are Both Stupid, Mostly
 
