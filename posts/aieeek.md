@@ -1,5 +1,5 @@
 ---
-title: AIeeek!
+title: aieeek!
 date: 2026-03-14
 author: psu
 ---
@@ -156,7 +156,7 @@ comically wrong.
 There are any number of easy examples. For some reason simple arithmetic is beyond reach.
 But using the programming assistants I've also gotten a lot of really confident answers
 that appear to be pretty good, but when unpacked are actually completely wrong. Claude is
-pretty good at writing LaTeX though. No surprise. 
+pretty good at writing $\LaTeX$ though. No surprise. 
 
 What is more spooky is that claude code is also better than the average engineer at
 writing English descriptions about what complicated pieces of code do. These pieces of
@@ -407,7 +407,7 @@ My more angry self also has to be realistic about what the current LLMs _are_ go
 (besides generating text that sounds great, but is actually a lie, which they do a
 _lot_... wait ... stay on target). Again, given careful specifications and used with
 careful oversight I've seen these systems do a lot of mundane code writing and code
-analysis that you would not have though possible for an automated system. It's pretty
+analysis that you would not have thought possible for an automated system. It's pretty
 spooky to ask claude a question and watch the system search through the code base to learn
 the answer in exactly the way you would have if you were "learning" the answer again from
 scratch, which everyone who writes code for large systems does a lot.
@@ -477,4 +477,4 @@ very carefully and under heavy amounts of human supervision). But my observation
 current evidence is that this will not be the case and we are in for some epic amounts of
 stupid.
 
-Good luck with that.
+But I guess what else is new, anyway?
