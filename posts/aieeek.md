@@ -86,11 +86,11 @@ Another side note to get out of the way is to point out that I think most of the
 about these bots taking over entire human jobs in the _short_ term is mostly nonsense. By
 short term here I mean a time period as long as it was supposed to take for self-driving
 cars to completely take over the world, which you might remember was supposed to be five
-or ten years. Right now just the fact that these models spend most of their time outright
-lying to you when you ask them questions, and no one seems to have improved that situation
-in the last five years means to me that you'd have to be a pretty big dipshit to actually
-use these machines to do real human jobs any time soon. On the other hand, I'm just a guy
-who has been ignoring "AI" for 40 years. So what do I know?
+or ten years starting around 15 years ago. Right now just the fact that these models spend
+a lot of their time outright lying to you when you ask them questions, and no one seems to
+have improved that situation in the last five years means to me that you'd have to be a
+pretty big dipshit to actually use these machines to do real human jobs any time soon. On
+the other hand, I'm just a guy who has been ignoring "AI" for 40 years. So what do I know?
 
 Of course, as we all know, the computer industry is full of pretty huge dipshits who are
 somehow running things. But I would still be willing to bet anyone almost any number of
@@ -218,7 +218,114 @@ bring up difficulties. But first I want to talk about machines writing computer 
 
 ### Part 3: Ignore The Vibes
 
+"Vibe Coding", of course, is the other current craze related to the LLMs. Here we have
+people just typing "natural language" at the robots and having them poop out software on
+the other side of the token generating neural network. Breathless Internet testimonials
+proclaim that programmers are an order of magnitude more "productive" working this way.
+Which mostly means (apparently) that they can generate a lot of code that (I guess) builds
+a user interface that can run a few vaguely specified features very quickly. Apparently
+what this means to them is that they don't need to hire whole teams of programmers to try
+and get to the same place. What it means to me is that they can write a huge number of
+future bugs really fast.
 
+I think all you have to do to realize that this is bullshit is to just concentrate on the
+name. Here we have an entire population of "engineers" proudly proclaiming that they can
+produce applications "just on vibes" without actually needing any skill or knowledge
+whatsoever. This alone should let you know that these people don't know what they are
+talking about.
 
+Anyone who actually does know what they are talking about knows the most important fact
+about writing code in large scale production software environments:
 
+- The _code_ is the easiest part of the project. And also the more code you write the more
+  bugs you have.
 
+The _hard_ part is not _generating the code_. The hard part is writing the code _you
+actually wanted_ and having it do _what you actually wanted it to do_.
+
+It is in fact that case that if you work carefully with the "prompts" and know how the
+larger LLM programming models (like claude code) work, they _can_ do some spooky and kind
+of amazing things, as noted in the previous section. But the interesting thing about this
+is what what you need to do to make this happen is to produce something we have never in
+the entire history of software engineering been able to get programmers to produce,
+because they always said it was too hard: a fairly detailed human language specification
+document about what you want the system to do.
+
+Oh the bitter irony. It turns out that [documentation is no longer an
+anti-pattern](https://x.com/allenholub/status/1269331595292364800?s=21).
+
+Vibe coding is just the latest in a long line of industry cargo cults whose main goal has
+always been to make the pipeline from idiotic management ideas to horrific
+implementations of said ideas as short and shallow as possible. You know the other ones:
+
+- Extreme programming.
+- Agile.
+- Mob programming.
+- TDD.
+- Literate Programming.
+- OOP/OOD
+
+and on and on.
+
+The goal here has always been to be able to get rid of the pesky part of the software
+process where you actually have to think about what you want the thing to do and
+communicate that to other humans so they understand it in the same way that you do so that
+you and your team of humans can tell the stupid machine what to do.
+
+Now, they say, instead all you have to do is type words at the stupid machine and the
+stupid machine will do all the "hard" work for you.
+
+But, joke is on you. It turns out the hard work was all that human language the whole
+time. So we quickly progress from "vibes" to "prompt engineering" to "agentic framework
+languages" and now you are back in exactly the same spot you were before, except instead
+of writing a fairly precise and specific language and having it be translated in a limited
+but specific way to something the machine understands you are writing vague and almost
+meaningless words that even other humans might not interpret the right way and putting
+that slop into a probabilistic code generator that never actually even generates the same
+answer twice.
+
+Good job.
+
+To pile stupidity on stupidity, the geniuses working on vibes alone have also concluded
+that they can use the machines to do all of the low level relatively mechanical ass-work
+that we used to make "junior" engineers do until they had learned their way around the
+system to be able to work on their own. So now "senior" engineers talk to the idiot bots
+instead of teaching less experienced folks how to become more experienced folks. And then
+they die or quit and then what do you do?
+
+Good job.
+
+[This recent breathless profile in the
+NYT](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_article_code=1.TFA.ywyu.eqcsLPv-87le&smid=url-share)
+(also [here](https://archive.ph/S2nMA))
+pretty much encapsulates every single piece of incorrect thinking that you could possibly
+come up with about this into one easy package. So really I didn't need to do any of this
+work at all. I could have just had ChatGPT transcribe the stupid article for me.
+
+And here is the money quote:
+
+>With A.I., though, programmers ascend to an even higher level of abstraction. They describe, in regular language, what the program should do, and the agents translate that idea — that human intent — into code. Writing software no longer means mentally juggling the nuances of a language like Python, say, or JavaScript or Rust. Coding no longer involves messing up an algorithm and then trying to figure out where your error lies. That part, too, has been abstracted away.
+
+Basically, "you don't need all those pesky nerds who you do not understand". You can just
+abstract them away. Fuck you.
+
+As you noticed, the one thing that piece is missing is the anger. My anger is about the
+fact that even after 50 years of development people (both normals _and_ the nerds) seem to
+have so little clue about what the nature of the problems we try to solve with computers
+_actually_ is. What it _actually_ is is combining the _technical_ understanding of how the
+dumb machines and their equally dumb software stacks work with the _social_ understanding
+of what the people who want to use the dumb machines to do something smart actually want
+the machine to do. You cannot write and deploy software [without this understanding in
+your brain](./brainless.html) and expect it to work well for anyone. But the constant
+idiotic drum beat of our cursed industry is to tell people exactly the opposite story.
+Before they said "just point and click". Now they say "just type words at this bot" and
+the machine will ["Do What I Mean"](https://en.wikipedia.org/wiki/DWIM) and the right
+thing will happen without you needing to know _anything_ about how it works.
+
+Over and over and over again in my programming life I have learned hard lessons about how
+this is simply not the case. And over and over and over again the industry tries yet again
+to make the untrue be true. It's just not going to happen.
+
+But they will keep trying and this, my friends, is recipe for destruction.
+
+### Part 4: Where We Go From Here
