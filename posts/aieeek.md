@@ -441,9 +441,9 @@ My attitude is simple: just don't. That is, don't use the machine to generate mo
 you put out into the world as your own. There are ways to use it as a tool but your things
 should be your own.
 
-I will quote myself about photography:
+I will quote myself about [photography](./the-digital-archive-of-everything.md):
 
-> Now, imagine that the machine is making these choices for you. Why would you
+> Now, imagine that the machine is making these \[photo selection\] choices for you. Why would you
 want that? I think that the key thing that makes important memories important
 is that _I_ picked them to be important. I want to sift through my life on my
 own. I want to look at it all and pick out what <em>I</em> think is interesting <em>by
