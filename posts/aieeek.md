@@ -443,14 +443,13 @@ should be your own.
 
 I will quote myself about [photography](./the-digital-archive-of-everything.md):
 
-> Now, imagine that the machine is making these \[photo selection\] choices for you. Why would you
-want that? I think that the key thing that makes important memories important
-is that _I_ picked them to be important. I want to sift through my life on my
-own. I want to look at it all and pick out what <em>I</em> think is interesting <em>by
-myself</em> and then synthesize it into some story that I can go share with the
-world. Outsourcing this to a machine is tantamount to calling down the robot
-holocaust and replacing all the people on earth with little a collection of
-machine learning robots. No thanks.
+> Now, imagine that the machine is making these \[photo selection\] choices for you. Why
+would you want that? I think that the key thing that makes important memories important is
+that _I_ picked them to be important. I want to sift through my life on my own. I want to
+look at it all and pick out what <em>I</em> think is interesting <em>by myself</em> and
+then synthesize it into some story that I can go share with the world. Outsourcing this to
+a machine is tantamount to calling down the robot holocaust and replacing all the people
+on earth with little a collection of machine learning robots. No thanks.
 
 I think this applies universally.
 
