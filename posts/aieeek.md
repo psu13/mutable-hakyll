@@ -112,7 +112,7 @@ related issues:
    who (like me) hate the bots also say a lot of really dumb shit. I will try to not say
    too much dumb shit, but some will leak out I'm sure.
 
-3. Finally, all of this "vibe coding" (or "vibe writing", for that matter) is stupid, and
+3. Finally, all of this "vibe coding" (and "vibe writing", for that matter) is stupid, and
    destructive, and actively harmful. As an extension of this, the idea of using these
    machines as "creative" tools is as insulting to actual acts of creativity as it is
    idiotic.
@@ -308,14 +308,15 @@ And here is the money quote:
 Basically, "you don't need all those pesky nerds who you do not understand". You can just
 abstract them away. Fuck you.
 
-As you noticed, the one thing that piece is missing is the anger. My anger is about the
-fact that even after more than 50 years of history people in this god forsaken industry
-(both normals _and_ the nerds) seem to have so little clue about what the nature of the
-problems we try to solve with computers _actually_ is. What it _actually_ is: 
+This nonsense has always made me mad. It's been making me mad for more than 40 years now.
+My anger is about the fact that even after all these decades of history people in this god
+forsaken industry (both normals _and_ the nerds) seem to have so little clue about what
+the nature of the problems we try to solve with computers _actually_ is. What it
+_actually_ is: 
 
-> Combining the _technical_ understanding of how the dumb machines and their equally dumb software
-stacks work with the _social_ understanding of what the people who want to use the dumb
-machines to do something smart actually want the machine to do. 
+> Combining the _technical_ understanding of how the dumb machines and their equally dumb
+software stacks work with the _social_ understanding of what the people who want to use
+the dumb machines to do something smart actually want the machine to do. 
 
 You cannot write and deploy software [without this understanding in your
 brain](./brainless.html) and expect it to work well for anyone. But the constant idiotic
@@ -326,9 +327,143 @@ happen without you needing to know _anything_ about how it works.
 
 Over and over and over again in my programming life we have learned hard lessons about how
 this is simply not the case. And over and over and over again the industry tries yet again
-to make the untrue be true.
+to make the untrue be true. 40 years ago [Fred Brooks told
+you](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)) it would never be
+true:
 
-But they will keep trying and this, my friends, is recipe for destruction.
+> The complexity of software is an essential property, not an accidental one. Hence, descriptions of a software entity that abstract away its complexity often abstract away its essence. For three centuries, mathematics and the physical sciences made great strides by constructing simplified models of complex phenomena, deriving properties from the models, and verifying those properties by experiment. This paradigm worked because the complexities ignored in the models were not the essential properties of the phenomena. It does not work when the complexities are the essence. 
+
+But the idiots will keep trying to cheat this fact over and over again. This, my friends, is
+recipe for destruction.
 
 ### Part 4: We've Been Here Before
 
+We have, of course, seen this whole movie before. The history of the computing (and
+non-computing for that matter) is filled with the disruptions that happen when we figure
+out how to mechanize something that had previously escaped mechanization. This is
+especially true in computing. Every time we figure out how to make computers do something
+that we used to think took a highly trained set of skills to do we land in a discussion
+like the one we are having now about the LLMs. 
+
+In computing it has happened with both deep conceptual advances and what these days seems
+relatively mundane:
+
+- Assembly language programming vs. compilers (Compilers let you vibe code assembly
+  language!).
+
+- Manual memory management vs. garbage collection.
+
+- Going back even further, basic arithmetic vs. calculators. 
+
+- Doing symbolic algebra and calculus by hand vs. the various symbolic computing systems
+  that now do most of it automatically.
+
+In each of these cases the _real_ answer was that what we _thought_ was some highly
+skilled thing was actually something fairly mundane that you could make almost completely
+mechanical.
+
+Examine through this lens, LLMs are just the latest instance of computers apparently
+learning how to do something that we thought only humans could be good at: reading and
+generating language, be it human language or computer languages. There is, justifiably in
+my opinion, more angst about this because the facile manipulation of language is a thing
+that is deeply associated with what we call "education", "training", and "intelligence".
+One of the smartest people I knew in graduate school spoke with a very country drawl
+accent which, if you were not careful, might make you think less of his abilities. This is
+unfair but also something that we are taught at a deep level in society. It's a thing you
+have to work hard to unlearn.
+
+So now we have built computer systems that at least seem to be able to:
+
+- Understand what you say to them in human language.
+- "Talk" back to you in well formed human language that is actually more well formed and
+  polished than many (most?) humans can generate without a great deal of effort.
+
+and
+
+- Translate your human language into code in computer languages that at least on the
+  surface and (right now) for relatively simple tasks do the things that you asked the
+  computer to do.
+
+So the first question is: which bits of these things were mechanical all along?
+
+And the second question is: how do we change how we think about these kinds of tasks to
+account for this?
+
+From my more angry thoughts in the previous section you know where I stand on this. I
+think most of the tests and proxies that we have used to stand in for "skill" and
+"training" for these tasks were actually bullshit. You need to do that stuff differently
+and in ways that account for the parts of the problem that are actually hard. Code
+generation is not the actually the hard part. We've had automatic code generation for
+decades (see: compilers).
+
+My more angry self also has to be realistic about what the current LLMs _are_ good at
+(besides generating text that sounds great, but is actually a lie, which they do a
+_lot_... wait ... stay on target). Again, given careful specifications and used with
+careful oversight I've seen these systems do a lot of mundane code writing and code
+analysis that you would not have though possible for an automated system. It's pretty
+spooky to ask claude a question and watch the system search through the code base to learn
+the answer in exactly the way you would have if you were "learning" the answer again from
+scratch, which everyone who writes code for large systems does a lot.
+
+After observing this, and not evaluating the results too critically it's easy to see why
+people stood up to proclaim the silver bullet had arrived. But it's really not the case.
+The analysis looks good, and sounds good, but is often wrong and has a lot of the same
+kind of of limitations that all _static_ analysis for code will have. I have not
+experimented with letting claude learn things by _running_ the code in the debugger. That
+might be scary too.
+
+We run into a lot of these same issues when using LLMs to write the kind of mechanical
+text that corporations appear to need their employees to generate, even though no one
+wants to do it and 90% of it is meaningless boilerplate. The models seem to be _very_ good
+at this but again this is only when not examined deeply and critically.
+
+_Do not_ have the bots actually write text that you put your name to. At best they are a
+tool for generating a not even first draft that you edit to _turn it into_ a first draft,
+which you then edit to turn it into something good.
+
+As for evaluating humans in these tasks, the challenge is to actually do the hard work to
+figure out what really matters instead of doing what we have done up until now, which is
+to do the lazy thing that is easy to grade. Standardized tests, short essays, whiteboard
+programming problems and even most of the traditional job interview process are mostly
+things that the bots will be able to figure out how to game. The things that are actually
+important are very difficult to test and evaluate in ways that you can call "objective"
+and not problematic in a lot of ways. Oh well. This is the world that we (well, not me, I
+was never interested, remember?) have built. Good luck living in it.
+
+### Part 5: Epilogue
+
+The final part of this semi-tirade is to expand on the thought I've touched a few times
+here but not addressed directly: using LLM systems for "creative" work. Like actual
+writing, or photography, or music, or illustration or creative computer programming,
+whatever that might be (that is the subject for another article).
+
+My attitude is simple: just don't.
+
+I will quote myself about photography:
+
+> Now, imagine that the machine is making these choices for you. Why would you
+want that? I think that the key thing that makes important memories important
+is that _I_ picked them to be important. I want to sift through my life on my
+own. I want to look at it all and pick out what <em>I</em> think is interesting <em>by
+myself</em> and then synthesize it into some story that I can go share with the
+world. Outsourcing this to a machine is tantamount to calling down the robot
+holocaust and replacing all the people on earth with little a collection of
+machine learning robots. No thanks.
+
+I think this applies universally.
+
+Thinking that these systems are appropriate for being the _main_ producer of actually
+creative work is, as I said before, insulting and idiotic. It is also mostly suffering
+from the fallacy that the final artifact is what matters instead of the final artifact's
+relationship to the _people_ who made it and the _people_ who will use, read, listen,
+watch, and otherwise absorb it into their human selves. The only creative works that are
+_actually_ valuable are the things that have these connections as their both their origin
+and their destination. Everything else is just bullshit.
+
+Admittedly a lot of people have to spend a lot of time and a lot of energy doing things
+that at a surface level seem similar to these singular acts of creation (see all of the
+corporate hellscape stuff I mentioned above). This is a sad gray area that I don't really
+have an answer for. People will use the LLMs to do these things. All we can do is hope
+that they use them correctly (e.g. under heavy amounts of human supervision). But my
+observation of the current evidence is that this will not be the case and we are in for
+some epic amounts of stupid.
