@@ -1,6 +1,6 @@
 ---
 title: AIeeek!
-date: 2026-03-15
+date: 2026-03-14
 author: psu
 ---
 
@@ -82,7 +82,12 @@ idea comes up a lot). To me this complete lack of concern for the ethics of usin
 people's work for your own ends taints these engines in a pretty deep way. I am apparently
 in a small minority though.
 
-Another side note to get out of the way is to point out that I think most of the talk
+Another side note to get out of the way early is my apoplectic and borderline irrational
+hatred for the use of the completely useless and generic moniker, \"\"\"AI\"\"\" to
+describe these systems. This serves no one well. You have to call them what they so people
+know what the fuck you are talking about. Do better.
+
+A final side note to get out of the way is to point out that I think most of the talk
 about these bots taking over entire human jobs in the _short_ term is mostly nonsense. By
 short term here I mean a time period as long as it was supposed to take for self-driving
 cars to completely take over the world, which you might remember was supposed to be five
@@ -92,7 +97,7 @@ have improved that situation in the last five years means to me that you'd have 
 pretty big dipshit to actually use these machines to do real human jobs any time soon. On
 the other hand, I'm just a guy who has been ignoring "AI" for 40 years. So what do I know?
 
-Of course, as we all know, the computer industry is full of pretty huge dipshits who are
+Of course, as we all know, the computer industry is full of huge dipshits who are
 somehow running things. But I would still be willing to bet anyone almost any number of
 cases of beer, against cases of CDs of classical music, that the bots will not actually be
 doing a _good_ job of replacing humans at anything any time soon.
@@ -127,12 +132,12 @@ No matter what your thoughts are on the larger questions that swirl around these
 systems if you actually use one, or watch one being used you do have to admit that they
 are really good at not acting like a computer.
 
-On the input side they seem do much better at processing text queries that would cause most systems
-before to either give up or perform really badly due to ambiguity and/or a lack of context
-clues. Usually when using computers you have to be very specific about what you want, and
-the results that are generated from the queries are kind of predictable and mechanistic.
-You can almost see the finite state machine sitting in the back generating the canned
-text.
+On the input side they seem do much better at processing text queries that would cause
+most systems before to either give up or perform really badly due to ambiguity and/or a
+lack of context clues. Usually when using computers you have to be very specific about
+what you want, and the results that are generated from the queries are kind of predictable
+and mechanistic. You can almost see the finite state machine sitting in the back
+generating the canned text.
 
 LLMs are not like this. While you will still get better results with more specific and
 directed queries, the machines seem to be able to pick up on a lot of context and other
@@ -167,8 +172,8 @@ different behaviors into the singularly useless umbrella term "AI". Now instead 
 
 ### Part 2: They are Both Stupid, Mostly
 
-Whatever it is that the bots actually do, humans who talk about appear to mostly say
-stupid things.
+Whatever it is that the bots actually do, the humans who talk about them appear to mostly
+say stupid things.
 
 There are two positions on this spectrum and hardly any discussion in the middle of the
 two extremes.
@@ -212,9 +217,11 @@ Now, unquestionably the fact that the models can read and understand the questio
 also generate answers that make sense is a pretty large leap forward. But let's not kid
 ourselves about what the tests themselves mean. If the computers get really good at those
 then we have to change the tests to be things that actually reflect real ability. Probably
-with pens on paper, and no Internet. The horror. I'll have more thoughts about this later,
-because the existence of machines that write human language better than most humans does
-bring up difficulties. But first I want to talk about machines writing computer programs.
+with pens on paper, and no Internet. The horror.
+
+I'll have more thoughts about this later, because the existence of machines that write
+human language better than most humans does bring up difficulties. But first I want to
+talk about machines writing computer programs.
 
 ### Part 3: Ignore The Vibes
 
@@ -266,7 +273,7 @@ implementations of said ideas as short and shallow as possible. You know the oth
 
 and on and on.
 
-The goal here has always been to be able to get rid of the pesky part of the software
+The goal here has always been to be able to get rid of the annoying part of the software
 process where you actually have to think about what you want the thing to do and
 communicate that to other humans so they understand it in the same way that you do so that
 you and your team of humans can tell the stupid machine what to do.
@@ -278,10 +285,10 @@ But, joke is on you. It turns out the hard work was all that human language the 
 time. So we quickly progress from "vibes" to "prompt engineering" to "agentic framework
 languages" and now you are back in exactly the same spot you were before, except instead
 of writing a fairly precise and specific language and having it be translated in a limited
-but specific way to something the machine understands you are writing vague and almost
-meaningless words that even other humans might not interpret the right way and putting
-that slop into a probabilistic code generator that never actually even generates the same
-answer twice.
+but specific and predictable way to something the machine understands you are writing
+vague and almost meaningless words that even other humans might not interpret the right
+way and putting that slop into a probabilistic code generator that might never actually
+even generates the same answer twice.
 
 Good job.
 
@@ -299,7 +306,7 @@ NYT](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-clau
 (also [here](https://archive.ph/S2nMA))
 pretty much encapsulates every single piece of incorrect thinking that you could possibly
 come up with about this into one easy package. So really I didn't need to do any of this
-work at all. I could have just had ChatGPT transcribe the stupid article for me.
+work at all. I could have just had ChatGPT transcribe that stupid article for me.
 
 And here is the money quote:
 
@@ -308,11 +315,11 @@ And here is the money quote:
 Basically, "you don't need all those pesky nerds who you do not understand". You can just
 abstract them away. Fuck you.
 
-This nonsense has always made me mad. It's been making me mad for more than 40 years now.
-My anger is about the fact that even after all these decades of history people in this god
-forsaken industry (both normals _and_ the nerds) seem to have so little clue about what
-the nature of the problems we try to solve with computers _actually_ is. What it
-_actually_ is: 
+This kind of nonsense has always made me mad. It's been making me mad for more than 40
+years. My anger is about the fact that even after all these decades of history people in
+this god forsaken industry (both normals _and_ the nerds) seem to have so little clue
+about what the nature of the problems we try to solve with computers _actually_ is. What
+it _actually_ is: 
 
 > Combining the _technical_ understanding of how the dumb machines and their equally dumb
 software stacks work with the _social_ understanding of what the people who want to use
@@ -325,9 +332,9 @@ said "just point and click". Now they say "just type words at this bot" and the 
 will ["Do What I Mean"](https://en.wikipedia.org/wiki/DWIM) and the right thing will
 happen without you needing to know _anything_ about how it works.
 
-Over and over and over again in my programming life we have learned hard lessons about how
-this is simply not the case. And over and over and over again the industry tries yet again
-to make the untrue be true. 40 years ago [Fred Brooks told
+Over and over and over again during my programming lifetime we have learned hard lessons
+about how this is simply not the case. And over and over and over again the industry tries
+yet again to make the untrue be true. 40 years ago [Fred Brooks told
 you](https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf)) it would never be
 true:
 
@@ -362,15 +369,15 @@ In each of these cases the _real_ answer was that what we _thought_ was some hig
 skilled thing was actually something fairly mundane that you could make almost completely
 mechanical.
 
-Examine through this lens, LLMs are just the latest instance of computers apparently
+Examined through this lens, LLMs are just the latest instance of computers apparently
 learning how to do something that we thought only humans could be good at: reading and
 generating language, be it human language or computer languages. There is, justifiably in
 my opinion, more angst about this because the facile manipulation of language is a thing
-that is deeply associated with what we call "education", "training", and "intelligence".
-One of the smartest people I knew in graduate school spoke with a very country drawl
-accent which, if you were not careful, might make you think less of his abilities. This is
-unfair but also something that we are taught at a deep level in society. It's a thing you
-have to work hard to unlearn.
+that is deeply associated with what we call "education", "skill", "training", and
+"intelligence". One of the smartest people I knew in graduate school spoke with a very
+country drawl accent which, if you were not careful, might make you think less of his
+abilities. This is unfair but also something that we are taught to do at a deep level in
+society. It's a thing you have to work hard to unlearn.
 
 So now we have built computer systems that at least seem to be able to:
 
@@ -433,7 +440,7 @@ was never interested, remember?) have built. Good luck living in it.
 ### Part 5: Epilogue
 
 The final part of this semi-tirade is to expand on the thought I've touched a few times
-here but not addressed directly: using LLM systems for "creative" work. Like actual
+here but not addressed directly: using LLM systems for "creative" work. That is actual
 writing, or photography, or music, or illustration or creative computer programming,
 whatever that might be (that is the subject for another article).
 
@@ -461,9 +468,13 @@ _actually_ valuable are the things that have these connections as their both the
 and their destination. Everything else is just bullshit.
 
 Admittedly a lot of people have to spend a lot of time and a lot of energy doing things
-that at a surface level seem similar to these singular acts of creation (see all of the
-corporate hellscape stuff I mentioned above). This is a sad gray area that I don't really
-have an answer for. People will use the LLMs to do these things. All we can do is hope
-that they use them correctly (e.g. under heavy amounts of human supervision). But my
-observation of the current evidence is that this will not be the case and we are in for
-some epic amounts of stupid.
+that at a surface level seem similar to these more singular acts of creation but which are
+actually not at the same level (see all of the corporate hellscape stuff I mentioned
+above). This is a sad gray area that I don't really have an answer for. These things have
+to be done (they have value, just not _creative_ value, whatever that is), and people will
+use the LLMs to do these things. All we can do is hope that they use them correctly (e.g.
+very carefully and under heavy amounts of human supervision). But my observation of the
+current evidence is that this will not be the case and we are in for some epic amounts of
+stupid.
+
+Good luck with that.
