@@ -261,8 +261,7 @@ implementations of said ideas as short and shallow as possible. You know the oth
 - Extreme programming.
 - Agile.
 - Mob programming.
-- TDD.
-- Literate Programming.
+- Web 1.0, then 2.0, then 3.0, then whatever.0
 - OOP/OOD
 
 and on and on.
@@ -310,22 +309,26 @@ Basically, "you don't need all those pesky nerds who you do not understand". You
 abstract them away. Fuck you.
 
 As you noticed, the one thing that piece is missing is the anger. My anger is about the
-fact that even after 50 years of development people (both normals _and_ the nerds) seem to
-have so little clue about what the nature of the problems we try to solve with computers
-_actually_ is. What it _actually_ is is combining the _technical_ understanding of how the
-dumb machines and their equally dumb software stacks work with the _social_ understanding
-of what the people who want to use the dumb machines to do something smart actually want
-the machine to do. You cannot write and deploy software [without this understanding in
-your brain](./brainless.html) and expect it to work well for anyone. But the constant
-idiotic drum beat of our cursed industry is to tell people exactly the opposite story.
-Before they said "just point and click". Now they say "just type words at this bot" and
-the machine will ["Do What I Mean"](https://en.wikipedia.org/wiki/DWIM) and the right
-thing will happen without you needing to know _anything_ about how it works.
+fact that even after more than 50 years of history people in this god forsaken industry
+(both normals _and_ the nerds) seem to have so little clue about what the nature of the
+problems we try to solve with computers _actually_ is. What it _actually_ is: 
 
-Over and over and over again in my programming life I have learned hard lessons about how
+> Combining the _technical_ understanding of how the dumb machines and their equally dumb software
+stacks work with the _social_ understanding of what the people who want to use the dumb
+machines to do something smart actually want the machine to do. 
+
+You cannot write and deploy software [without this understanding in your
+brain](./brainless.html) and expect it to work well for anyone. But the constant idiotic
+drum beat of our cursed industry is to tell people exactly the opposite story. Before they
+said "just point and click". Now they say "just type words at this bot" and the machine
+will ["Do What I Mean"](https://en.wikipedia.org/wiki/DWIM) and the right thing will
+happen without you needing to know _anything_ about how it works.
+
+Over and over and over again in my programming life we have learned hard lessons about how
 this is simply not the case. And over and over and over again the industry tries yet again
-to make the untrue be true. It's just not going to happen.
+to make the untrue be true.
 
 But they will keep trying and this, my friends, is recipe for destruction.
 
-### Part 4: Where We Go From Here
+### Part 4: We've Been Here Before
+
