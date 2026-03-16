@@ -10,3 +10,7 @@ User-agent: GPTBot
 Disallow: /
 User-agent: Google-Extended
 Disallow: /
+User-agent: ChatGPT-User/1.0
+Disallow: /
+User-agen: OAI-SearchBot/1.0
+Disallow: /
