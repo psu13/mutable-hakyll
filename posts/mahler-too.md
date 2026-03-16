@@ -45,12 +45,12 @@ rachamim”](https://en.wikipedia.org/wiki/El_Malei_Rachamim), from the Jewish m
 service for the dead. You can't hear that, in that context, without feeling a whole body
 chill.
 
-The Mahler was great on the floor on Friday. It was super up in Family circle on Sunday.
-From above you can both hear _and_ see all the big moments, every solo, every intricate
-multi-layered texture, every drop to almost but not quite complete silence, and every time
-that brass section really lets it rip (both on stage _and_ off stage!). They should take
-this record they are making and cut it up into a demo reel for orchestral dynamics just so
-people can know what they are missing out on.
+The Mahler was great on the floor on Friday. It was even better up in Family circle on
+Sunday. From above you can both hear _and_ see all the big moments, every solo, every
+intricate multi-layered texture, every drop to almost but not quite complete silence, and
+every time that brass section really lets it rip (both on stage _and_ off stage!). They
+should take this record they are making and cut it up into a demo reel for orchestral
+dynamics just so people can know what they are missing out on.
 
 Sadly, some of these glories were interrupted by:
 
