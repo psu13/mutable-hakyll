@@ -18,7 +18,7 @@ mistake again.
 The Bruckner and Mahler symphonies are the "apex predators", if you will, of the late
 romantic symphony orchestra repertoire. They are long, huge, extended, long, epic, and
 long works. People just don't write this sort of thing anymore, a fact emphasized by the
-companion piece in the concert. Samy Moussa's Adgilis Deda: Hymn for orchestra, which he
+companion piece in the concert. Samy Moussa's _Adgilis Deda: Hymn for orchestra_, which he
 wrote for the PSO in 2024, is an _excellent_ piece and fits very well with Bruckner's
 style, actually. But its entire length is not even quite as long as the shortest movement
 in the 8th symphony.
