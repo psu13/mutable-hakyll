@@ -19,14 +19,14 @@ devastating meditation on tragedy, violence, pain and sadness. It also served as
 thematic prelude to the Mahler which after all is a musical treatise on life, death, the
 afterlife, and the forever glory of God and all that.
 
-The Mahler starts with an extended funeral march in a gigantic extended
+The Mahler starts with an extended funeral march in a deformed and extended sort of
 [sonata](https://en.wikipedia.org/wiki/Sonata_form) form. Like Bruckner there are a wide
 range of orchestral textures and colors, and some of those giant brass chorales. But the
-music is nothing like Bruckner at all. Bruckner plays like a somewhat static ediface that
-you just stand and admire. Mahler is more like a movie with its own internal narrative.
-Nothing ever stays still, instead it's more like you hurdle from moment to moment, full of
-uncertainly and neurosis. To me it's really a work about the 20th century, even though it
-was written at the very end of the 19th.
+music is nothing like Bruckner at all. Bruckner plays like a somewhat static edifice that
+you just stand and admire. Mahler is more like a moving picture. Nothing ever stays still,
+instead it's more like you hurdle from moment to moment, full of uncertainty, terror and
+neurosis. To me it's really a work about the 20th century, even though it was written at
+the very end of the 19th.
 
 The 90 or so minutes of the piece are made up of that huge first movement, then two
 shorter things, then a fourth and fifth movement that take 40 minutes to get you to the
