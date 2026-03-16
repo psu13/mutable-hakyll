@@ -12,7 +12,7 @@ another to be able to sit up in Family Circle to hear the whole thing again.
 Worth it.
 
 As with the Bruckner shows the Mahler opened with a relatively short piece: Boris
-Pigovat's _Yizkor_, which the PSO commissioned in 2023. The piece was written to
+Pigovat's [_Yizkor_](https://pigovat.com/wordpress/category/yizkor/), which the PSO commissioned in 2023. The piece was written to
 commemorate the five year anniversary of the 2018 mass shooting at the Tree of Life
 synagogue in Pittsburgh where 11 people were killed. The piece is an intense and
 devastating meditation on tragedy, violence, pain and sadness. It also served as a fitting
@@ -46,9 +46,11 @@ service for the dead. You can't hear that, in that context, without feeling a wh
 chill.
 
 The sound was great on the floor on Friday. It was incredible up in Family circle on
-Sunday. I loved every big moment, every solo, ever drop to almost but not quite complete
-silence. They should take this record they are recording and cut it up into a demo reel
-for orchestral dynamics just so people can know what they are missing out on.
+Sunday. I loved every big moment, every solo, every intricate multi-layered texture, every
+drop to almost but not quite complete silence, every time that brass section really lets
+it rip (both on stage _and_ off stage!). They should take this record they are making
+and cut it up into a demo reel for orchestral dynamics just so people can know what they
+are missing out on.
 
 Sadly, some of these glories were interrupted by:
 
