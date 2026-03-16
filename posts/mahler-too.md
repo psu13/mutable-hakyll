@@ -42,8 +42,8 @@ As you can imagine, this all sounded great. Of course the Mahler sounded great. 
 _Yizkor_ sounded great too. Maybe even greater. The piece begins and ends with the entire
 viola section playing a long tune. At the end this tune comes from the prayer [“El male
 rachamim”](https://en.wikipedia.org/wiki/El_Malei_Rachamim), from the Jewish memorial
-service for the dead. You can't hear that, in that context, without feeling a whole body
-chill.
+service for the dead. You can't hear that music, in that context, without feeling a whole
+body chill.
 
 The Mahler was great on the floor on Friday. It was even better up in Family circle on
 Sunday. From above you can both hear _and_ see all the big moments, every solo, every
