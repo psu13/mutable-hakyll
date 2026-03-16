@@ -36,7 +36,7 @@ huge eruption from the same choir leading into the final minutes where the whole
 going all out, complete with giant metal bells, two brass sections, double percussion and
 an organ.
 
-Mahler is the most heavy metal rock and roll in the symphonic repertoire. [^1]
+Mahler is the most heavy metal rock and roll music in the symphonic repertoire. [^1]
 
 As you can imagine, this all sounded great. Of course the Mahler sounded great. But
 _Yizkor_ sounded great too. Maybe even greater. The piece begins and ends with the entire
@@ -45,12 +45,12 @@ rachamim”](https://en.wikipedia.org/wiki/El_Malei_Rachamim), from the Jewish m
 service for the dead. You can't hear that, in that context, without feeling a whole body
 chill.
 
-The sound was great on the floor on Friday. It was incredible up in Family circle on
-Sunday. I loved every big moment, every solo, every intricate multi-layered texture, every
-drop to almost but not quite complete silence, every time that brass section really lets
-it rip (both on stage _and_ off stage!). They should take this record they are making
-and cut it up into a demo reel for orchestral dynamics just so people can know what they
-are missing out on.
+The Mahler was great on the floor on Friday. It was super up in Family circle on Sunday.
+From above you can both hear _and_ see all the big moments, every solo, every intricate
+multi-layered texture, every drop to almost but not quite complete silence, and every time
+that brass section really lets it rip (both on stage _and_ off stage!). They should take
+this record they are making and cut it up into a demo reel for orchestral dynamics just so
+people can know what they are missing out on.
 
 Sadly, some of these glories were interrupted by:
 
