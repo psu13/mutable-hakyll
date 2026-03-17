@@ -70,7 +70,7 @@ state of our world where grown-ass adults can't even sit still in an orchestra c
 90 minutes without their phone going off. Very sad. Truly a sign of our collective
 societal downfall.
 
-But, maybe if indeed our great society dies we'll be lucky enough to live in Mahler's
+But, maybe if our great society indeed dies out we'll be lucky enough to live in Mahler's
 world, and the power of God will resurrect us so we can sit in some concert of the future
 where we can get all the way from the start of this piece to the end of it without hearing
 someone's iPhone receive a text message.
