@@ -25,8 +25,10 @@ rachamim”](https://en.wikipedia.org/wiki/El_Malei_Rachamim), from the Jewish m
 service for the dead. You can't hear that music, in that context, without feeling a whole
 body chill.
 
-_Yizkor_ also served as a fitting thematic prelude to the Mahler which after all is a
-musical treatise on life, death, the afterlife, and the forever glory of God and all that.
+_Yizkor_ was good enough to almost overshadow the enormous piece that was going to follow
+it. Very well done. It also served as a fitting thematic prelude to the Mahler which after all
+is a musical treatise on life, death, the afterlife, and the forever glory of God and all
+that.
 
 The Mahler starts with an extended funeral march in a deformed sort of
 [sonata](https://en.wikipedia.org/wiki/Sonata_form) form. Like Bruckner there are a wide
@@ -46,14 +48,14 @@ going all out, complete with giant metal bells, two brass sections, double percu
 an organ. Mahler is the most heavy metal rock and roll music in the symphonic repertoire.[^1]
 
 All of this sounded great on Friday from the floor. It was even better up in Family circle
-on Sunday. From above you can both hear _and_ see all the big moments, every solo, every
-intricate multi-layered texture, every drop to almost but not quite complete silence, and
-every time that brass section really lets it rip (both on stage _and_ off stage!). They
-should take this record they are making and cut it up into a demo reel for orchestral
-dynamics just so people can know what they are missing out on. After hearing the thing
-live and really concentrating on it I can see why people get obsessed with this piece.
-There is so much always going on, you just want to sit through it all again to try and
-pick up more. [^2]
+on Sunday. From above you can both _see_ and hear the music move around the orchestra:
+every solo, every intricate multi-layered texture, every drop to almost but not quite
+complete silence, and every time that brass section really lets it rip (both on stage
+_and_ off stage!). They should take this record they are making and cut it up into a demo
+reel for orchestral dynamics just so people can know what they are missing out on. After
+hearing the thing live and really concentrating on it I can see why people get obsessed
+with this piece. There is so much always going on, you just want to sit through it all
+again to try and pick up more. [^2]
 
 Sadly, some of these glories were interrupted by:
 
