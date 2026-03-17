@@ -43,19 +43,21 @@ The rest of the 90 minutes of the piece are made up of two shorter movements tha
 lighter in texture, then a fourth and fifth movement that take 40 minutes to get you to
 the end where you are face to face with the glory of the universe. The vocal stuff is in
 the fourth and fifth movements and we go from solo bits to a choir you can barely hear to
-a huge eruption from the same choir leading into the final minutes where the whole band is
-going all out, complete with giant metal bells, two brass sections, double percussion and
-an organ. Mahler is the most heavy metal rock and roll music in the symphonic repertoire.[^1]
+a huge eruption from that same choir (shout out [Mendelssohn Choir of
+Pittsurgh](https://www.themendelssohn.org)) leading into the final minutes where the whole
+band is going all out, complete with giant metal bells, two brass sections, double
+percussion and an organ. Mahler is the most heavy metal rock and roll music in the
+symphonic repertoire.[^1]
 
 All of this sounded great on Friday from the floor. It was even better up in Family circle
-on Sunday. From above you can both _see_ and hear the music move around the orchestra:
-every solo, every intricate multi-layered texture, every drop to almost but not quite
-complete silence, and every time that brass section really lets it rip (both on stage
-_and_ off stage!). They should take this record they are making and cut it up into a demo
-reel for orchestral dynamics just so people can know what they are missing out on. After
-hearing the thing live and really concentrating on it I can see why people get obsessed
-with this piece. There is so much always going on, you just want to sit through it all
-again to try and pick up more. [^2]
+on Sunday. From above you can both _see_ and hear the music move around the orchestra and
+chorus: every solo, every intricate multi-layered texture, every drop to almost but not
+quite complete silence, and every time that brass section really lets it rip (both on
+stage _and_ off stage!). They should take this record they are making and cut it up into a
+demo reel for orchestral dynamics just so people can know what they are missing out on.
+After hearing the thing live and really concentrating on it I can see why people get
+obsessed with this piece. There is so much always going on, you just want to sit through
+it all again to try and pick up more. [^2]
 
 Sadly, some of these glories were interrupted by:
 
