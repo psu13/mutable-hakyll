@@ -43,7 +43,7 @@ the end where you are face to face with the glory of the universe. The vocal stu
 the fourth and fifth movements and we go from solo bits to a choir you can barely hear to
 a huge eruption from the same choir leading into the final minutes where the whole band is
 going all out, complete with giant metal bells, two brass sections, double percussion and
-an organ. Mahler is the most heavy metal rock and roll music in the symphonic repertoire. [^1]
+an organ. Mahler is the most heavy metal rock and roll music in the symphonic repertoire.[^1]
 
 All of this sounded great on Friday from the floor. It was even better up in Family circle
 on Sunday. From above you can both hear _and_ see all the big moments, every solo, every
@@ -65,9 +65,10 @@ Sadly, some of these glories were interrupted by:
 These shows were very very full, maybe the most full I've seen Heinz Hall for a non-movie
 show in the last few years. So this nonsense was inevitable I guess. 
 
-However, I feel it my duty as an old man to complain about the general state of our world
-where grown-ass adults can't even sit still in an orchestra concert for 90 minutes without
-their phone going off. Very sad. Truly a sign of our collective societal downfall.
+However, I feel it my duty as an older man yelling at clouds to complain about the general
+state of our world where grown-ass adults can't even sit still in an orchestra concert for
+90 minutes without their phone going off. Very sad. Truly a sign of our collective
+societal downfall.
 
 But, maybe if indeed our great society dies we'll be lucky enough to live in Mahler's
 world, and the power of God will resurrect us so we can sit in some concert of the future
