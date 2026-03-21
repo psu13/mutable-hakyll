@@ -10,7 +10,7 @@ put my bias front and center: I've never been interested in this stuff. I've had
 interest in this since I started learning how to program computers in the early 1980s. Of
 all the different areas of academic Computer Science research this is by far my least
 favorite. With all due respect to the people who love to do this kind of work I think the
-area has mostly been driven by sloppy, often (mostly?) shallow fad following (especially
+area has been driven by sloppy, often shallow fad following (especially
 in the commercial sector). Futhermore, it holds almost zero interest for me from a
 technical or _philosophical_ point of view. To me "AI" is always the shit you do before
 you know how to solve a problem for real, and then once you figure it out it all becomes
@@ -65,7 +65,7 @@ anyone has figured out how to make any of these models _actually_ do anything in
 or useful in those software platforms. 
 
 One note that we should get out of the way early is to point out that to build these
-models the model building companies have mostly _stolen_ content to use as training data
+models the model building companies have _stolen_ data to use as training data
 in order to then enable their platforms to simulate the act of creating similar content in
 a similar style later. We have not as yet had a larger ethical or legal discussion about
 how people should be compensated for this. Which is puzzling and sad. As always in modern
@@ -81,7 +81,7 @@ describe these systems. This serves no one well. You have to call them what they
 know what the fuck you are talking about. Do better.
 
 A final side note to get out of the way is to point out that I think most of the talk
-about these bots taking over entire human jobs in the _short_ term is mostly nonsense. By
+about these bots taking over entire human jobs in the _short_ term is nonsense. By
 short term here I mean a time period as long as it was supposed to take for self-driving
 cars to completely take over the world, which you might remember was supposed to be five
 or ten years starting around 15 years ago. Right now just the fact that these models spend
