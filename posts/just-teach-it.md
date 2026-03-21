@@ -94,7 +94,15 @@ In other words, to understand computer systems as an exercise in formal logic, y
 
 The rest of the Mother Jones piece meanders around in a weird narrative that combines bad cooking analogies with even worse analogies to the traditional kind of literacy. They also toss in ad hominem attacks on the AP CS curriculum (probably justified), Java (maybe justified), and the institutional racism and sexism inherent in the current educational system (also probably justified). I found the juxtaposition of critiquing technical education with angry hippy politics to be a bit strange. But that's a subject for a different rant.
 
-The constant allusions to cooking and restaurants did make me wonder if these people might want to rework professional culinary training in the same way that they propose to rework how we teach people computer programming. I've heard that cooking school is really hard work and very frustrating. Maybe we should be teaching "culinary thinking" instead of the harder things like knife technique and how to survive on a sauté line. You could just imagine what a nice restaurant might be like, but not actually have to engage in any of the messy business of running one. What you would get if you did this with a bunch of people who think they understand how restaurant cooking works, but have no real experience with it. They would be useless.
+The constant allusions to cooking and restaurants did make me wonder if these people might
+want to rework professional culinary training in the same way that they propose to rework
+how we teach people computer programming. I've heard that cooking school is really hard
+work and very frustrating. Maybe we should be teaching "culinary thinking" instead of the
+harder things like knife technique and how to survive on a sauté line. You might
+imagine what a nice restaurant might be like, but not actually have to engage in any of
+the messy business of running one. What would you get if people trained this way then
+tried to open their own place? They would think they understand how restaurant cooking
+works, but have no real experience with it. They would be useless.
 
 Can you imagine applying this idea to other fields? What if sports teams did this kind of soft training instead of actually practicing mechanics and strategy? What if, because practicing an instrument is so much work we instead taught "musical thinking" and expected to get better musicians this way. That would be ludicrous.
 
