@@ -77,7 +77,7 @@ in a small minority though.
 
 Another side note to get out of the way early is my apoplectic and borderline irrational
 hatred for the use of the completely useless and generic moniker, \"\"\"AI\"\"\" to
-describe these systems. This serves no one well. You have to call them what they so people
+describe these systems. This serves no one well. You have to call them what they are so people
 know what the fuck you are talking about. Do better.
 
 A final side note to get out of the way is to point out that I think most of the talk
@@ -143,7 +143,7 @@ But, not so fast.
 
 While the machines sort of _act_ smart and can generate text that _sounds_ smart a lot of
 this hides the fact that when asked actual specific questions about things the answers
-that you get, or at least that _I_ get are almost always not really right, and sometimes
+that you get, or at least that _I_ get, are almost always not really right, and sometimes
 comically wrong.
 
 There are any number of easy examples. For some reason simple arithmetic is beyond reach.
@@ -151,7 +151,7 @@ But using the programming assistants I've also gotten a lot of really confident 
 that appear to be pretty good, but when unpacked are actually completely wrong. Claude is
 pretty good at writing $\LaTeX$ though. No surprise. 
 
-What is more spooky is that claude code is also better than the average engineer at
+What is more spooky is that (say) claude code is also better than the average engineer at
 writing English descriptions about what complicated pieces of code do. These pieces of
 text are never 100% right, but most engineer writing is not either. And the claude stuff
 is more readable.
@@ -159,7 +159,7 @@ is more readable.
 So anyway. These things _are_ spooky good at _something_. But it's not really clear what.
 And different systems are good at different things.
 
-What's too bad is that the popular discourse about these systems lumps all of this
+What's too bad is that the popular discourse about these systems lumps all of these
 different behaviors into the singularly useless umbrella term "AI". Now instead of
 "googling" things we just "ask AI". Which somehow seems to have made the world worse.
 
@@ -244,11 +244,11 @@ The _hard_ part is not _generating the code_. The hard part is writing the code 
 actually wanted_ and having it do _what you actually wanted it to do_.
 
 It is in fact that case that if you work carefully with the "prompts" and know how the
-larger LLM programming models (like claude code) work, they _can_ do some spooky and kind
+larger LLM programming models (like claude code) work, they _can_ do some kind
 of amazing things, as noted in the previous section. But the interesting thing about this
-is what what you need to do to make this happen is to produce something we have never in
+is what you need to do to make this happen is to produce something we have never in
 the entire history of software engineering been able to get programmers to produce,
-because they always said it was too hard: a fairly detailed human language specification
+because they always said it was too hard: a fairly detailed human language
 document about what you want the system to do.
 
 Oh the bitter irony. It turns out that [documentation is no longer an
@@ -268,7 +268,7 @@ and on and on.
 
 The goal here has always been to be able to get rid of the annoying part of the software
 process where you actually have to think about what you want the thing to do and
-communicate that to other humans so they understand it in the same way that you do so that
+communicate that thing to other humans so they understand it in the same way that you do so that
 you and your team of humans can tell the stupid machine what to do.
 
 Now, they say, instead all you have to do is type words at the stupid machine and the
