@@ -80,15 +80,15 @@ hatred for the use of the completely useless and generic moniker, \"\"\"AI\"\"\"
 describe these systems. This serves no one well. You have to call them what they are so people
 know what the fuck you are talking about. Do better.
 
-A final side note to get out of the way is to point out that I think most of the talk
-about these bots taking over entire human jobs in the _short_ term is nonsense. By
-short term here I mean a time period as long as it was supposed to take for self-driving
-cars to completely take over the world, which you might remember was supposed to be five
-or ten years starting around 15 years ago. Right now just the fact that these models spend
-a lot of their time outright lying to you when you ask them questions, and no one seems to
-have improved that situation in the last five years means to me that you'd have to be a
-pretty big dipshit to actually use these machines to do real human jobs any time soon. On
-the other hand, I'm just a guy who has been ignoring "AI" for 40 years. So what do I know?
+A final side note to get out of the way is to point out that I think the talk about these
+bots taking over entire human jobs in the _short_ term is nonsense. By short term here I
+mean a time period as long as it was supposed to take for self-driving cars to completely
+take over the world, which you might remember was supposed to be five or ten years
+starting around 15 years ago. Right now just the fact that these models spend a lot of
+their time outright lying to you when you ask them questions, and no one seems to have
+improved that situation in the last five years means to me that you'd have to be a pretty
+big dipshit to actually use these machines to do real human jobs any time soon. On the
+other hand, I'm just a guy who has been ignoring "AI" for 40 years. So what do I know?
 
 Of course, as we all know, the computer industry is full of huge dipshits who are
 somehow running things. But I would still be willing to bet anyone almost any number of
@@ -165,15 +165,15 @@ different behaviors into the singularly useless umbrella term "AI". Now instead 
 
 ### Part 2: They are Both Stupid, Mostly
 
-Whatever it is that the bots actually do, the humans who talk about them appear to mostly
-say stupid things.
+Whatever it is that the bots actually do, the humans who talk about them appear to
+say mostly stupid things.
 
 There are two positions on this spectrum and hardly any discussion in the middle of the
 two extremes.
 
 1. Actual "AI" has arrived. If you do certain things having to do with either code or
    language generation professionally you will soon be replaced with a machine. This is
-   especially true if you mostly work with machines and not other people.
+   especially true if you work with machines more than other people.
 
 or
 
@@ -194,7 +194,7 @@ that's the easiest thing to scream into the Internet. Sigh.
 On the other hand I find position (1) completely and utterly unhinged. First I will invoke
 Amdahl's law and say that even if the machine were _perfectly right_ and 100x as fast as
 the human at all the computery things in the human's job, it probably _still_ would not be
-a reasonable replacement because even the most computery job is actually mostly about
+a reasonable replacement because even the most computery job is actually primarily about
 interacting with humans in some kind of real time and space. And there is no evidence that
 the bots can do the social part of the job yet. I know the nerds don't think this really
 exists, but the nerds are wrong.
@@ -204,7 +204,7 @@ know where to start. But let's start with this: "but the models are so good at t
 tests that we give college students", etc.
 
 My feeling about this is that the standardized tests in fact have never been a good
-measure of competence or ability. They've mostly been a lazy and easy to grade measure.
+measure of competence or ability. They've been a lazy and easy to grade measure.
 
 Now, unquestionably the fact that the models can read and understand the questions and
 also generate answers that make sense is a pretty large leap forward. But let's not kid
