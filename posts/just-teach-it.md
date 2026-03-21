@@ -98,8 +98,8 @@ The constant allusions to cooking and restaurants did make me wonder if these pe
 want to rework professional culinary training in the same way that they propose to rework
 how we teach people computer programming. I've heard that cooking school is really hard
 work and very frustrating. Maybe we should be teaching "culinary thinking" instead of the
-harder things like knife technique and how to survive on a sauté line. You might
-imagine what a nice restaurant might be like, but not actually have to engage in any of
+harder things like knife technique and how to survive on a sauté line. Maybe you would sit
+around imagining how a nice restaurant would work, but not actually engage in any of
 the messy business of running one. What would you get if people trained this way then
 tried to open their own place? They would think they understand how restaurant cooking
 works, but have no real experience with it. They would be useless.
