@@ -65,15 +65,15 @@ anyone has figured out how to make any of these models _actually_ do anything in
 or useful in those software platforms. 
 
 One note that we should get out of the way early is to point out that to build these
-models the model building companies have _stolen_ data to use as training data
-in order to then enable their platforms to simulate the act of creating similar content in
-a similar style later. We have not as yet had a larger ethical or legal discussion about
-how people should be compensated for this. Which is puzzling and sad. As always in modern
-power dynamics if you just do the thing that's wrong fast enough, it is soon too late to
-be punished for having acted badly (I have been reading _The Power Broker_, where this
-idea comes up a lot). To me this complete lack of concern for the ethics of using other
-people's work for your own ends taints these engines in a pretty deep way. I am apparently
-in a small minority though.
+models the model building companies have _stolen_ the work of actual people to use as
+training data in order to then enable their platforms to simulate the act of creating
+similar content in a similar style later. We have not as yet had a larger ethical or legal
+discussion about how people should be compensated for this. Which is puzzling and sad. As
+always in modern power dynamics if you just do the thing that's wrong fast enough, it is
+soon too late to be punished for having acted badly (I have been reading _The Power
+Broker_, where this idea comes up a lot). To me this complete lack of concern for the
+ethics of using other people's work for your own ends taints these engines in a pretty
+deep way. I am apparently in a small minority though.
 
 Another side note to get out of the way early is my apoplectic and borderline irrational
 hatred for the use of the completely useless and generic moniker, \"\"\"AI\"\"\" to
