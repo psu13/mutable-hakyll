@@ -102,8 +102,8 @@ The three things that I actually want to talk about today in more detail and hop
 with some level of coherence are the following kind of independent but also kind of
 related issues:
 
-1. There _is_ something going on here that is deeper and more spooky than what has come
-   before. But no one really knows what it is.
+1. There _is_ something going on here that is deeper and a bit more mysterious than what
+   has come before. But no one really knows what it is.
 
 2. However, for some reason no one talks about these systems in a way that seems to be to be very
    ... well ... intelligent. People who love the bots say a ton of dumb shit, but people
@@ -151,12 +151,12 @@ But using the programming assistants I've also gotten a lot of really confident 
 that appear to be pretty good, but when unpacked are actually completely wrong. Claude is
 pretty good at writing $\LaTeX$ though. No surprise. 
 
-What is more spooky is that (say) claude code is also better than the average engineer at
+What is more annoying is that (say) claude code is also better than the average engineer at
 writing English descriptions about what complicated pieces of code do. These pieces of
 text are never 100% right, but most engineer writing is not either. And the claude stuff
 is more readable.
 
-So anyway. These things _are_ spooky good at _something_. But it's not really clear what.
+So anyway. These things _are_ good at _something_. But it's not really clear what.
 And different systems are good at different things.
 
 What's too bad is that the popular discourse about these systems lumps all of these
