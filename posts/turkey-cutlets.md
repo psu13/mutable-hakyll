@@ -31,13 +31,21 @@ But all that aside this is good. So collect these things:
 7. White wine, capers, butter, garlic if you want.
 
 Put the flour on one plate and the bread-crumbs on another plate with the egg mixture in
-the middle. Take each piece of turkey and go flour, egg, bread- crumbs to bread it. Put
-them on a third plate.
+the middle. What you are going to do is first dredge the cutlet in the flour so it's
+coated. Then run it through the egg mixture. The egg will stick to the flour. Then roll it
+around in the bread crumbs... and you get a nice evenly coated piece of meat.
 
-Heat a frying pan (carbon or stainless steel is the best for this) pan and put in
-tablespoon of oil in it. Drop in one or two of the breaded turkey pieces and fry for 3 or
-4 minutes per side or until they are done. They should get nice and brown on each side.
-Put the cooked turkey on a sheet pan in a warm oven.
+Here is the scheme:
+
+Heat a frying pan (carbon or stainless steel is the best for this) and put in a tablespoon
+or so of oil. 
+
+Take a piece of turkey and go flour, egg, breadcrumbs to bread it. Put
+it in the pan. If your pan can fit two pieces of turkey do this two at a time. Make sure
+you have room to work though.
+
+Cook the turkey for 3 or 4 minutes per side or until they are done. They should get nice
+and brown on each side. Put the cooked turkey on a sheet pan in a warm oven.
 
 Repeat, adding a bit of new oil for each batch, until you are out of cutlets.
 
