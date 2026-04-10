@@ -5,12 +5,13 @@ author: psu
 ---
 
 This is a recipe I meant to bring over from the old site but I forgot to do it until now.
+I copied it over and improved it a bit...and so gave it a new date of now instead of 2005.
 
-Here’s a simple recipe for turkey. I think it’s good because I made it once for a friend
-who doesn’t like turkey, and he ate a pound of it. To this day his wife makes the recipe
-with chicken and calls it “Pete Su” chicken. I think I got the original version out of one
-of the Frugal Gourmet cookbooks, which now have their own sort of fraught history. I've
-noodled with it a bit over the years. But the basic scheme is the same.
+The recipe is for turkey. I think it’s good because I made it once for a friend who
+doesn’t like turkey, and he ate a pound of it. For years after his wife at the time made
+the recipe with chicken and called it “Pete Su” chicken. I think I got the original version
+out of one of the Frugal Gourmet cookbooks, which now have their own sort of fraught
+history. I've noodled with it a bit over the years. But the basic scheme is the same.
 
 But all that aside this is good. So collect these things:
 
