@@ -49,7 +49,8 @@ Serve the turkey with the sauce on top. Goes well with sauteed spinach or other 
 the bread, rice or pasta of your choice.
 
 You can use this basic breading/frying scheme for all kinds of things. I do it with fish
-filets a lot and we call the result "chicken fish".
+filets a lot and we call the result "chicken fish". Surely thin pieces of chicken or pork
+would be great too.
 
-I bet firm tofu would work too, if you are into that kind of thing.
+I bet firm tofu would also work, if you are into that kind of thing.
 
