@@ -43,7 +43,7 @@ or so of oil.
 
 Take a piece of turkey and go flour, egg, breadcrumbs to bread it. Put
 it in the pan. If your pan can fit two pieces of turkey do this two at a time. Make sure
-you have room to work though.
+there is enough room in the pan to move the food around though.
 
 Cook the turkey for 3 or 4 minutes per side or until they are done. They should get nice
 and brown on each side. Put the cooked turkey on a sheet pan in a warm oven.
