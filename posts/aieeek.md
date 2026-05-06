@@ -323,7 +323,7 @@ brain](./brainless.html) and expect it to work well for anyone. But the constant
 drum beat of our cursed industry is to tell people exactly the opposite story. Before they
 said "just point and click". Now they say "just type words at this bot" and the machine
 will ["Do What I Mean"](https://en.wikipedia.org/wiki/DWIM) and the right thing will
-happen without you needing to know _anything_ about how it works.
+happen without you needing to _know anything_ about how it works.
 
 Over and over and over again during my programming lifetime we have learned hard lessons
 about how this is simply not the case. And over and over and over again the industry tries
