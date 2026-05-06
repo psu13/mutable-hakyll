@@ -64,8 +64,8 @@ So, having spent the last month or three working through the book I have two sho
 thoughts about it.
 
 First, even without all of the apparently infinite levels of meta-discourse about the
-book, the book itself is pretty cool. It has various overwrought and difficult passages,
-but I think that aspect of it is somewhat overrated, especially in the early chapters.
+text, the book itself is pretty cool. It has various overwrought and difficult passages,
+but I think that aspect of it is somewhat over-emphasized, especially in the early chapters.
 It's also an often hilarious book and it's worth reading at least the first half just for
 the funny bits (and if you get through half you might as well finish it).
 
