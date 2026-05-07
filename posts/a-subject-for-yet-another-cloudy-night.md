@@ -115,8 +115,7 @@ In my telescope, I find that F3.5 is nice because everything is a bit brighter, 
 
 I will note here that my measurements of the MFR-5 do not match what appears on the various Mallincam web sites, in the Internet forums and in the camera's documentation. I have no insight into why what I found was different, but my numbers are consistent and I'm fairly confident that they are right.
 
-<h4>
-Summary</h4>
+<h4>Summary</h4>
 
 1. Focal length determines field of view and therefore image scale in the camera. For the Mallincam, shorter focal lengths tend to give you a better image scale.
 
