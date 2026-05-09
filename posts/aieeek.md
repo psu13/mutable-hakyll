@@ -5,7 +5,7 @@ author: psu
 ---
 
 This post is going to be filled with a lot of grumpy words about "AI", a word I will only
-ever write in single (or double, or triple) scare quotes. Before we start through I should
+ever write in single (or double, or triple) scare quotes. Before we start though I should
 put my bias front and center: I've never been interested in this stuff. I've had no
 interest in this since I started learning how to program computers in the early 1980s. Of
 all the different areas of academic Computer Science research this is by far my least
