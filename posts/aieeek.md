@@ -122,11 +122,11 @@ you go. OK let's get into it.
 ### Part 1: Ghost in the Machine
 
 No matter what your thoughts are on the larger questions that swirl around these new LLM
-systems if you actually use one, or watch one being used you do have to admit that they
+systems, if you actually use one, or watch one being used, you do have to admit that they
 are really good at not acting like a computer.
 
 On the input side they seem do much better at processing text queries that would cause
-most systems before to either give up or perform really badly due to ambiguity and/or a
+most previous systems to either give up or perform really badly due to ambiguity and/or a
 lack of context clues. Usually when using computers you have to be very specific about
 what you want, and the results that are generated from the queries are kind of predictable
 and mechanistic. You can almost see the finite state machine sitting in the back
@@ -141,8 +141,8 @@ intelligence", whatever that means.
 
 But, not so fast.
 
-While the machines sort of _act_ smart and can generate text that _sounds_ smart a lot of
-this hides the fact that when asked actual specific questions about things the answers
+While the machines sort of _act_ smart, and can generate text that _sounds_ smart, a lot of
+this hides the fact that when asked actual specific questions about specific things the answers
 that you get, or at least that _I_ get, are almost always not really right, and sometimes
 comically wrong.
 
@@ -278,7 +278,7 @@ But, joke is on you. It turns out the hard work was all that human language the 
 time. So we quickly progress from "vibes" to "prompt engineering" to "agentic framework
 languages" and now you are back in exactly the same spot you were before, except instead
 of writing a fairly precise and specific language and having it be translated in a limited
-but specific and predictable way to something the machine understands you are writing
+but specific and predictable way to something the machine understands, now you are writing
 vague and almost meaningless words that even other humans might not interpret the right
 way and putting that slop into a probabilistic code generator that might never actually
 even generates the same answer twice.
