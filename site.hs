@@ -101,7 +101,7 @@ myFeedConfiguration = FeedConfiguration
     , feedRoot        = "https://mutable-states.com"
     }
 
-copyright = "2025"
+copyright = "2026"
 
 -- default post context for things here. this is mostly just to hold
 -- the default ending copyright date above for convenience in the templates.
